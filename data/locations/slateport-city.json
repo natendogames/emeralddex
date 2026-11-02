@@ -110,37 +110,37 @@
   {
    "id": "item-pok-mon-fan-club-red-scarf",
    "name": "Red Scarf",
-   "from": "Gift",
+   "from": "Fan Club chairman (lead Pokémon with high Cool)",
    "where": "Pokémon Fan Club"
   },
   {
    "id": "item-pok-mon-fan-club-blue-scarf",
    "name": "Blue Scarf",
-   "from": "Gift",
+   "from": "Fan Club chairman (lead Pokémon with high Beauty)",
    "where": "Pokémon Fan Club"
   },
   {
    "id": "item-pok-mon-fan-club-pink-scarf",
    "name": "Pink Scarf",
-   "from": "Gift",
+   "from": "Fan Club chairman (lead Pokémon with high Cute)",
    "where": "Pokémon Fan Club"
   },
   {
    "id": "item-pok-mon-fan-club-green-scarf",
    "name": "Green Scarf",
-   "from": "Gift",
+   "from": "Fan Club chairman (lead Pokémon with high Smart)",
    "where": "Pokémon Fan Club"
   },
   {
    "id": "item-pok-mon-fan-club-yellow-scarf",
    "name": "Yellow Scarf",
-   "from": "Gift",
+   "from": "Fan Club chairman (lead Pokémon with high Tough)",
    "where": "Pokémon Fan Club"
   },
   {
    "id": "item-pok-mon-fan-club-soothe-bell",
    "name": "Soothe Bell",
-   "from": "Gift",
+   "from": "Woman (if your lead Pokémon is very friendly)",
    "where": "Pokémon Fan Club"
   }
  ],

@@ -55,7 +55,7 @@ This scores candidate teams against every trainer up to the Champion using the B
 
 ## Tests
 
-These are the same three suites as the FireRed/LeafGreen app, and GitHub Actions runs them on every push and pull request:
+These are the same suites as the FireRed/LeafGreen app, and GitHub Actions runs them on every push and pull request:
 - `node tests/audit_battles.js` checks every trainer's catch suggestions against a brute-force search. It also checks the HM and post-game gating, and that nothing counts as caught before you have Poké Balls.
 - `node tests/team_plan.js` checks the Team plan.
 - `node tests/features.js` checks:
@@ -65,5 +65,8 @@ These are the same three suites as the FireRed/LeafGreen app, and GitHub Actions
   - Emerald save import
   - search
   - calculators
+- `node tests/walkthrough.js` checks that every place has walkthrough steps, that every `{gift:}`, `{trainer:}`, `{loc:}`, `{mon:}` and `{item:}` link in a step points at real data on that page, and that pages render cleanly.
+
+Walkthrough steps live in `data/walkthrough.json`. Places listed in its `_checked` map were checked against the decomp's event scripts; the rest show a Draft tag.
 
 Progress keys are `dex:<number>` for Pokémon and `<location-id>:item:<id>` or `<location-id>:gift:<id>` for checklists, so keep ids stable.

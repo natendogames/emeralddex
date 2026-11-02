@@ -105,6 +105,12 @@
    "name": "TM44",
    "from": "Fat Man",
    "where": "House 2"
+  },
+  {
+   "id": "item-contest-lobby-pok-block-case",
+   "name": "Pokéblock Case",
+   "from": "Contest receptionist",
+   "where": "Contest Lobby"
   }
  ],
  "trainers": [

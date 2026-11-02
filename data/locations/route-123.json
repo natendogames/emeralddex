@@ -187,31 +187,31 @@
   {
    "id": "item-berry-master-s-house-spelon-berry",
    "name": "Spelon Berry",
-   "from": "Gift",
+   "from": "Berry Master's wife (tell her \"GREAT BATTLE\")",
    "where": "Berry Master's House"
   },
   {
    "id": "item-berry-master-s-house-pamtre-berry",
    "name": "Pamtre Berry",
-   "from": "Gift",
+   "from": "Berry Master's wife (tell her \"CHALLENGE CONTEST\")",
    "where": "Berry Master's House"
   },
   {
    "id": "item-berry-master-s-house-watmel-berry",
    "name": "Watmel Berry",
-   "from": "Gift",
+   "from": "Berry Master's wife (tell her \"OVERWHELMING LATIAS\")",
    "where": "Berry Master's House"
   },
   {
    "id": "item-berry-master-s-house-durin-berry",
    "name": "Durin Berry",
-   "from": "Gift",
+   "from": "Berry Master's wife (tell her \"COOL LATIOS\")",
    "where": "Berry Master's House"
   },
   {
    "id": "item-berry-master-s-house-belue-berry",
    "name": "Belue Berry",
-   "from": "Gift",
+   "from": "Berry Master's wife (tell her \"SUPER HUSTLE\")",
    "where": "Berry Master's House"
   }
  ],

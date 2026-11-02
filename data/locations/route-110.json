@@ -283,48 +283,6 @@
    "name": "PP Max",
    "from": "Completed Puzzle 7",
    "where": "Trick House End"
-  },
-  {
-   "id": "item-trick-house-entrance-rare-candy",
-   "name": "Rare Candy",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-timer-ball",
-   "name": "Timer Ball",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-hard-stone",
-   "name": "Hard Stone",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-smoke-ball",
-   "name": "Smoke Ball",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-tm12",
-   "name": "TM12",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-magnet",
-   "name": "Magnet",
-   "from": "Gift",
-   "where": "Trick House Entrance"
-  },
-  {
-   "id": "item-trick-house-entrance-pp-max",
-   "name": "PP Max",
-   "from": "Gift",
-   "where": "Trick House Entrance"
   }
  ],
  "trainers": [
