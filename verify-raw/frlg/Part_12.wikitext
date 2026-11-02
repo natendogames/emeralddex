@@ -1,0 +1,386 @@
+{{WalkthroughNotice|FRLG}}
+==Fuchsia City==
+[[File:Kanto Route 19 FRLG.png|thumb|100px|right|Route 19]]
+===Prepare to Set Sail===
+Traveling through the southern islands will require the use of {{m|Surf}} and {{m|Strength}}, so plan accordingly. Be sure to bring along plenty of Poké Balls, too. Not only are there several new {{t|Water}} Pokémon to catch, but there is also rumored to be a [[Legendary Pokémon]] nesting somewhere along the way.
+
+{| class="expandable" align="center" style="background: #DA5DA8; {{roundy}}; border: 5px solid #E693C5;"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|road|no}}
+{{Catch/div|water|Surfing}}
+{{Catch/entryfl|054|Psyduck|yes|no|Surf|20-40|100%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Surf|20-40|100%|type1=Water|type2=Psychic}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|118|Goldeen|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|119|Seaking|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=Water|type2=Psychic}}
+{{Catch/footer|road}}
+|}
+
+
+==Route 19==
+{{rt|19|Kanto}} runs south from the [[Fuchsia City]] beach to {{rt|20|Kanto}}. It is a popular spot for swimming and sunbathing.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Richard|120|2|072|Tentacool|M|30|None|090|Shellder|M|30|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Reece|116|3|118|Goldeen|M|29|None|116|Horsea|M|29|None|120|Staryu||29|None}}
+{{catch/div|ocean|Requires Surf}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Tony|120|2|116|Horsea|M|30|None|116|Horsea|M|30|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|David|116|3|118|Goldeen|M|29|None|090|Shellder|M|29|None|119|Seaking|M|29|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Douglas|108|4|116|Horsea|M|27|None|072|Tentacool|M|27|None|072|Tentacool|M|27|None|118|Goldeen|M|27|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Matthew|120|2|060|Poliwag|M|30|None|061|Poliwhirl|M|30|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Sis and Bro.png|Sis and Bro|Lia & Luc|240|2|118|Goldeen|M|30|None|119|Seaking|M|30|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Axle|108|5|072|Tentacool|M|27|None|072|Tentacool|M|27|None|120|Staryu||27|None|116|Horsea|M|27|None|073|Tentacruel|M|27|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Alice|120|2|118|Goldeen|F|30|None|119|Seaking|F|30|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Anya|108|5|060|Poliwag|F|27|None|118|Goldeen|F|27|None|119|Seaking|F|27|None|118|Goldeen|F|27|None|060|Poliwag|F|27|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Connie|116|3|120|Staryu||29|None|120|Staryu||29|None|120|Staryu||29|None}}
+{{trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|ocean}}
+|}
+
+{{-}}
+==Route 20 (East)==
+[[File:Kanto Route 20 FRLG.png|thumb|450px|Route 20]]
+
+The waves of {{rt|20|Kanto}} are a popular spot for swimming. The path is separated in the middle by the [[Seafoam Islands]]. The waters lead westward to [[Cinnabar Island]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|ocean}}
+{{catch/div|ocean|East of Seafoam Islands}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Barry|124|2|090|Shellder|M|31|None|091|Cloyster|M|31|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Darrin|112|4|116|Horsea|M|28|None|116|Horsea|M|28|None|116|Horsea|M|28|None|117|Seadra|M|28|None|38=VS}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Shirley|120|3|117|Seadra|F|30|None|116|Horsea|F|30|None|117|Seadra|F|30|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Tiffany|140|1|119|Seaking|F|35|None}}
+{{trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|ocean}}
+{{Itemlist|Stardust|On the larger, unoccupied islet near [[Cinnabar Island]]  ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{itlistfoot|ocean}}
+|}
+
+[[File:Seafoam Islands 1F FRLG.png|thumb|1F]]
+[[File:Seafoam Islands B1F FRLG.png|thumb|B1F]]
+[[File:Seafoam Islands B2F FRLG.png|thumb|B2F]]
+[[File:Seafoam Islands B3F FRLG.png|thumb|B3F]]
+[[File:Seafoam Islands B4F FRLG.png|thumb|B4F]]
+===Seafoam Islands===
+The [[Seafoam Islands]] are a pair of islands that are shaped the same, as if they were twins. A shocking cold fills the caverns inside. Several large boulders and fast-moving currents hinder travel at first.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! 1F
+|- 
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|26-27, 29, 31, 33 |55%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|26-27, 29, 31, 33|55%|type1=Water|type2=Psychic}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|22, 24, 26|34%|type1=Poison|type2=Flying}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|26, 28, 30|11%|type1=Poison|type2=Flying}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! B1F
+|- 
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|29, 31|40%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|29, 31|40%|type1=Water|type2=Psychic}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|22, 24, 26|34%|type1=Poison|type2=Flying}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|26, 28, 30|11%|type1=Poison|type2=Flying}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|28|10%|type1=Water}}
+{{catch/entryfl|055|Golduck|yes|no|Cave|33, 35|5%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Cave|33, 35|5%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! B2F
+|- 
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|30, 32|40%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|30, 32|40%|type1=Water|type2=Psychic}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|30, 32|20%|type1=Water}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|22, 24|20%|type1=Poison|type2=Flying}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|26, 28, 30|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|055|Golduck|yes|no|Cave|32, 34|10%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Cave|32, 34|10%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! B3F
+|- 
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|30, 32|40%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|30, 32|20%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|30, 32|20%|type1=Water|type2=Psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Cave|32, 34|15%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Cave|32, 34|15%|type1=Water|type2=Psychic}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|24|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|26, 28, 30|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|087|Dewgong|yes|yes|Cave|32, 34|5%|type1=Water|type2=Ice}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|086|Seel|yes|yes|Surf|25-35|60%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Surf|25-30|30%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Surf|25-30|30%|type1=Water}}
+{{catch/entryfl|087|Dewgong|yes|yes|Surf|35-40|5%|type1=Water|type2=Ice}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|30-40|4%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|30-40|4%|type1=Water|type2=Psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|35-40|1%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|35-40|1%|type1=Water|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-30|80%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-30|80%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-35|16%|type1=Water|type2=Flying}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|15-25|4%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-25|4%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! B4F
+|- 
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|30, 32, 34|50%|type1=Water}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|26, 28, 30|15%|type1=Poison|type2=Flying}}
+{{catch/entryfl|055|Golduck|yes|no|Cave|32, 34|15%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Cave|32, 34|15%|type1=Water|type2=Psychic}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|32|10%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|32|10%|type1=Water|type2=Psychic}}
+{{catch/entryfl|087|Dewgong|yes|yes|Cave|34, 36|10%|type1=Water|type2=Ice}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|086|Seel|yes|yes|Surf|25-35|60%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Surf|25-30|30%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Surf|25-30|30%|type1=Water}}
+{{catch/entryfl|087|Dewgong|yes|yes|Surf|35-40|5%|type1=Water|type2=Ice}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|30-40|4%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|30-40|4%|type1=Water|type2=Psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|35-40|1%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|35-40|1%|type1=Water|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-30|80%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-30|80%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-35|16%|type1=Water|type2=Flying}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|15-25|4%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-25|4%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|ice}}
+{{catch/div|ice|1F}}
+{{itemlist|Ice Heal|Southwest corner of the rocky ridge|FR=yes|LG=yes}}
+{{catch/div|ice|B1F}}
+{{itemlist|Revive|On the larger, central ridge|FR=yes|LG=yes}}
+{{itemlist|Water Stone|South-central area; accessed via B2F|FR=yes|LG=yes}}
+{{catch/div|ice|B2F}}
+{{itemlist|Big Pearl|South of the larger ridge|FR=yes|LG=yes}}
+{{catch/div|ice|B3F}}
+{{itemlist|Nugget|Western ridge, on a rock in the southwest corner ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|ice|B4F}}
+{{itemlist|Water Stone|On a rock near the western ladder ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Ultra Ball|South side, east of the sign|FR=yes|LG=yes}}
+{{itlistfoot|ice}}
+|}
+
+
+====1F====
+Head northeast and use {{m|Strength}} to move the boulder to the hole in the floor so that it falls to the floor below. Climb up onto the rocky ridge, then pick up the [[Ice Heal]] to the west and walk past the first ladder. Push the second boulder down the hole in the northeast area, then backtrack and climb down the first ladder.
+
+====B1F====
+Go northeast onto the rocky ridge to get a [[Revive]], then climb down the ladder.
+
+====B2F====
+Head south from the ridge to get a [[Big Pearl]]. Climb the ladder to the east back to B1F.
+
+====B1F (South)====
+Pick up the [[Water Stone]], then backtrack to the middle of B1F.
+
+====B1F====
+Go northeast along the central ridge and push the boulder down the next break in the floor. Backtrack to the west and climb down the northwest ladder.
+
+====B2F====
+Walk eastward to find the same boulder and drop it down to the next floor. Once it falls through, return to the first floor and jump down through the hole in the northeast area.
+
+====B1F (Northeast)====
+Drop the boulder through the hole and jump down after it.
+
+====B2F (Northeast)====
+Push the boulder through the next hole and continue after it.
+
+====B3F====
+Moving these two boulders has caused them to fall into the seawater flowing through here, blocking the swift ocean currents and allowing you to {{m|Surf}} to new places. Climb onto the rocky ridge to the west and head to the southwest to reach a group of boulders. In the alcove, push the boulder on the right to the north wall. Move the boulder on the left one step southward, then one step westward. Next, push the boulder sitting to the south of the ladder all the way to the west. Move the boulder on the right so it is one step north of the eastern gap in the floor, and drop it down. Push the boulder on the left to the western hole and jump down behind it.
+
+====B4F====
+With the second set of boulders blocking the currents, you may now reach the small northwest island. Be sure to save your progress before approaching the legendary bird Pokémon, as there is only one chance to catch it.
+
+=====VS Articuno=====
+{{p|Articuno}} is likely the first of the [[Legendary birds]] that you will encounter. Use {{t|Fire}}-, {{t|Electric}}-, and {{type|Rock}} attacks to weaken it quickly, then follow up with {{t|Grass}} or {{t|Bug}} moves to chip away at its health. Legendary Pokémon will not let themselves be captured easily, so it will be useful to cause status ailments like {{status|Sleep}} or {{status|Paralysis}} to increase the odds.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=144
+|pokemon=Articuno
+|type1=Ice
+|type2=Flying
+|ability=Pressure
+|level=50
+|move1=Mist|move1type=Ice
+|move2=Agility|move2type=Psychic
+|move3=Mind Reader|move3type=Normal
+|move4=Ice Beam|move4type=Ice
+}}
+
+
+When the battle is over, swim to the rocky ridge. Pick up the [[Ultra Ball]] to the south, then climb up the nearest ladder.
+
+====B3F====
+Walk up onto the rocky ridge and go east. Surf to the eastern shore and climb the ladder in the southeast. This takes you through a series of ladders back up to ground level. Take the exit in the southeast part of 1F to re-emerge on {{rt|20|Kanto}} through the western island.
+
+==Route 20 (West)==
+{{rt|20|Kanto}}'s western half connects to [[Cinnabar Island]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|ocean}}
+{{catch/div|ocean|West of Seafoam Islands}}
+{{trainerentry|Spr FRLG Picnicker.png|Picnicker|Irene|600|3|072|Tentacool|F|30|None|116|Horsea|F|30|None|086|Seel|F|30|None}}
+{{Trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Roger|720|3|022|Fearow|M|30|None|022|Fearow|M|30|None|017|Pidgeotto|M|30|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Nora|120|3|090|Shellder|F|30|None|090|Shellder|F|30|None|091|Cloyster|F|30|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Dean|140|1|120|Staryu||35|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Picnicker.png|Picnicker|Missy|620|2|118|Goldeen|F|31|None|119|Seaking|F|31|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Melissa|124|2|060|Poliwag|F|31|None|119|Seaking|F|31|None}}
+{{trainerfooter|ocean}}
+|}
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=11
+|prevname=Saffron City, Silph Co., Fighting Dojo, Saffron Gym
+|nextsection=13
+|nextname=Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|12]]

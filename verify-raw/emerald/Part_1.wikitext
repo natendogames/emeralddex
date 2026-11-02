@@ -1,0 +1,364 @@
+==Introduction==
+After the title screen, the resident researcher of the [[Hoenn]] region, [[Professor Birch]], appears and introduces new Trainers to the Pokémon world. The professor continues, asking the player to select both a gender and a name, which can be up to seven characters long. With that done, Birch sends the player off to begin their journey! 
+
+==Home==
+The game begins [[Inside of Truck|in the back of a moving truck]], as your family has just moved here from the far-off [[Johto]] region. Hop out of the truck to meet {{ho|Mom}} and step inside your new home. Head upstairs to check out your room and set the clock. Return to the first floor and Mom excitedly calls you over to the TV; the current program just aired a segment about the [[Petalburg Gym]], where your dad is the new [[Gym Leader]]. She then suggests visiting his friend, your new neighbor, Professor Birch. Welcome to Littleroot Town!
+
+==Littleroot Town==
+[[File:Littleroot Town E.png|thumb|Littleroot Town]]
+
+{{to|Littleroot}} is a quaint little town nestled on the lush southern edge of the [[Hoenn]] mainland. There are only three buildings here; your home, [[Professor Birch]]'s home, and the professor's Pokémon Laboratory, where he conducts research on Pokémon distribution, in the south.
+
+{| class="expandable" style="margin: auto; background: #E7C373; {{roundy}}; border: 5px solid #F8E078;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|Potion|Retrievable from the PC in the player's room|E=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Professor Birch's House===
+Having just moved to a new town, why not meet your new neighbors? Visit the house next door to meet the professor's wife, then head upstairs to meet his child. The room is empty at first, but inspect the item on the floor and {{ga|May}}/{{ga|Brendan}} enters. Your new friend introduces herself/himself but suddenly leaves, remembering that Birch asked for help in catching a Pokémon. 
+{{-}}
+==Route 101==
+[[File:Hoenn Route 101 E.png|thumb|left|Route 101]]
+[[File:Emerald first partners.png|thumb|240px|Choose wisely!]]
+
+{{rt|101|Hoenn}} is a short path that connects [[Littleroot Town]] to [[Oldale Town]] in the north. The route features several patches of [[tall grass]], a favorite hiding place of wild Pokémon. 
+
+===Save the Professor!===
+When you first reach the area, you find [[Professor Birch]] being chased around by a wild {{p|Zigzagoon}}! His Bag has fallen out of his reach, and he pleads with you for help. Choose one of the three Pokémon from the Poké Balls inside the professor's Bag, and use it to scare off his attacker. 
+
+{{catch/header|land|no}}
+{{catch/div|land|{{tt|Attacking Birch|Cannot be caught, due to having no Poké Balls}}}}
+{{catch/entry3|263|Zigzagoon|no|no|yes|Special|2|One|type1=Normal}}
+{{catch/footer|land}}
+
+
+{| style="margin: auto; background: #{{hoenn color dark}}; text-align: center; font-size: 85%; {{roundy}}; border: 5px solid #{{hoenn color}};"
+|-
+! colspan="2" style="width: 80px; background: #{{hoenn color light}}; {{roundytl|5px}};" | [[File:252Treecko.png|100px]]<br>'''{{pcolor|Treecko|{{hoenn color dark}}}}'''<br>
+! colspan="2" style="width: 80px; background: #{{hoenn color light}};" | [[File:255Torchic.png|100px]]<br>'''{{pcolor|Torchic|{{hoenn color dark}}}}'''<br>
+! colspan="2" style="width: 80px; background: #{{hoenn color light}}; {{roundytr|5px}};" | [[File:258Mudkip.png|100px]]<br>'''{{pcolor|Mudkip|{{hoenn color dark}}}}'''
+|-
+| colspan="2" style="background: #{{grass color}};" | {{color2|FFF|Grass (type)|Grass}}
+| colspan="2" style="background: #{{fire color}};" | {{color2|FFF|Fire (type)|Fire}}
+| colspan="2" style="background: #{{water color}};" | {{color2|FFF|Water (type)|Water}}
+|- style="background: #{{hoenn color light}};"
+| {{MSP/3|253|Grovyle}}
+| {{pcolor|Grovyle|{{hoenn color dark}}}}
+| {{MSP/3|256|Combusken}}
+| {{pcolor|Combusken|{{hoenn color dark}}}}
+| {{MSP/3|259|Marshtomp}}
+| {{pcolor|Marshtomp|{{hoenn color dark}}}}
+|-
+| colspan="2" style="background: #{{grass color}};" | {{color2|FFF|Grass (type)|Grass}}
+| style="background: #{{fire color}};" | {{color2|FFF|Fire (type)|Fire}}
+| style="background: #{{fighting color}};" | {{color2|FFF|Fighting (type)|Fighting}}
+| style="background: #{{water color}};" | {{color2|FFF|Water (type)|Water}}
+| style="background: #{{ground color}};" | {{color2|FFF|Ground (type)|Ground}}
+|- style="background: #{{hoenn color light}};"
+| {{MSP/3|254|Sceptile}}
+| {{pcolor|Sceptile|{{hoenn color dark}}}}
+| {{MSP/3|257|Blaziken}}
+| {{pcolor|Blaziken|{{hoenn color dark}}}}
+| {{MSP/3|260|Swampert}}
+| {{pcolor|Swampert|{{hoenn color dark}}}}
+|-
+| colspan="2" style="background: #{{grass color}}; {{roundybl|5px}};" | {{color2|FFF|Grass (type)|Grass}}
+| style="background: #{{fire color}};" | {{color2|FFFFFF|Fire (type)|Fire}}
+| style="background: #{{fighting color}};" | {{color2|FFF|Fighting (type)|Fighting}}
+| style="background: #{{water color}};" | {{color2|FFF|Water (type)|Water}}
+| style="background: #{{ground color}}; {{roundybr|5px}};" | {{color2|FFF|Ground (type)|Ground}}
+|}
+
+
+* The {{type|Grass}} {{p|Treecko}} has the most weaknesses of the trio, with five: {{t|Fire}}-, {{t|Bug}}-, {{t|Poison}}-, {{t|Flying}}-, and {{type|Ice}} attacks. It and its Evolutions excel in {{stat|Special Attack}} and {{stat|Speed}}. Its Grass moves are strong against {{t|Water}}-, {{t|Rock}}-, and {{type|Ground}} Pokémon, though they have relatively low base powers. 
+
+* The {{type|Fire}} {{p|Torchic}} is great when battling {{t|Grass}}-, {{t|Bug}}-, {{t|Ice}}-, and {{type|Steel}} Pokémon, but is vulnerable to {{t|Water}}- and {{type|Ground}} moves. It and its evolved forms focus on {{stat|Attack}} and {{stat|Special Attack}}. As it grows, it gains a secondary {{type|Fighting}} type, making it better against {{t|Normal}}, Rock, and {{t|Dark}}-types.
+
+* The {{type|Water}} {{p|Mudkip}} has an advantage when facing {{t|Fire}}-, {{t|Rock}}-, and {{type|Ground}} Pokémon, but may struggle against {{t|Grass}} and {{t|Electric}} attacks. It and its Evolutions specialize in {{stat|Attack}}. As it grows, it gains a secondary Ground type, which protects it from Electric attacks and also gives an advantage over Poison and Steel-types. Grass attacks, its one remaining weakness, is uncommon in Emerald. Mudkip is notably able to learn {{m|Surf}} when other Pokémon are still relying on much weaker attacks.
+
+==Littleroot Town==
+===Birch's Lab===
+After scaring off the wild Pokémon, Birch invites you back to the Lab. As thanks for rescuing him, he happily lets you keep the young Pokémon. He then encourages you to visit May/Brendan on {{rt|103|Hoenn}} for tips on how to be a Pokémon Trainer. When your Pokémon needs a rest, head back home and visit with Mom to have her restore it to full health. 
+
+==Route 101==
+Route 103, need to take Route 101 to Oldale Town. With ledges blocking the way, you must go through the [[tall grass]] to keep moving north. Pokémon can be battled, but not captured, seeing as you don't have any [[Poké Ball]]s yet. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entry3|261|Poochyena|no|no|yes|Grass|2-3|45%|type1=Dark}}
+{{catch/entry3|265|Wurmple|no|no|yes|Grass|2-3|45%|type1=Bug}}
+{{catch/entry3|263|Zigzagoon|no|no|yes|Grass|2-3|10%|type1=Normal}}
+{{catch/footer|land}}
+|}
+
+==Oldale Town==
+[[File:Oldale Town E.png|thumb|Oldale Town]]
+
+[[Oldale Town]] is the first settlement in the region to feature a [[Pokémon Center]] and a [[Poké Mart]]. Pokémon Centers are essentially hospitals where creatures can be restored to perfect health. The PC on the counter is always available for Trainers to organize their Pokémon. Poké Marts offer a wide range of items for sale, from Potions to Poké Balls. {{rt|102|Hoenn}} leads off to the west, while {{rt|103|Hoenn}} runs northward. 
+
+{| class="expandable" style="margin: auto; background: #BD9D7B; {{roundy}}; border: 5px solid #CEB27B;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|Potion|From the Poké Mart worker near the exit to Route 101|E=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Free Potions!===
+Speak to the woman near the southeast house. She works at the local Poké Mart, and shows you the way to the shop. Once there, she gives you a free [[Potion]] as part of a promotion her shop is running.
+
+===The Sketch Artist===
+The western exit is currently blocked off by a man who believes that he may have found some extremely rare Pokémon tracks. No one is allowed past until he has made a sketch of his discovery.
+{{-}}
+==Route 103==
+[[File:Hoenn Route 103 E.png|thumb|300px|Route 103]]
+
+{{rt|103|Hoenn}} serves as a shortcut between [[Oldale Town]] and {{rt|110|Hoenn}}. Seawater divides the route, restricting travel to the western side for now. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entry3|261|Poochyena|no|no|yes|Grass|2-4|60%|type1=Dark}}
+{{catch/entry3|263|Zigzagoon|no|no|yes|Grass|3-4|20%|type1=Normal}}
+{{catch/entry3|278|Wingull|no|no|yes|Grass|2-4|20%|type1=Water|type2=Flying}}
+{{catch/footer|land}}
+|}
+
+
+===Rival Battle 1===
+Cross through the tall grass to meet up with {{ga|May|your}} {{ga|Brendan|rival}}, who challenges you to a friendly battle after spotting your new Pokémon. The opposing Pokémon will always have a type advantage against your own. Remember to use Potions if the battle isn't going your way!
+
+{{Party/2
+| caption = {{PlayerChoice|0252|Treecko}}
+| walkthrough = yes
+| background = {{Hoenn color}}
+| border = {{Hoenn color dark}}
+| headcolor = {{Hoenn color light}}
+| or = yes
+| location = Hoenn Route 103
+| locationname = Route 103
+| game = E
+| prize = {{PDollar}}300
+| pokemon = 1
+| t-background = {{ruby color light}}
+| t-border = {{ruby color dark}}
+| sprite = Spr E Brendan.png
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| t-background2 = {{sapphire color light}}
+| t-border2 = {{sapphire color dark}}
+| sprite2 = Spr E May.png
+| class2 = {{PK}}{{MN}} Trainer
+| classlink2 = Pokémon Trainer
+| name2 = {{color2|000|May (game)|May}}
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0255
+| pokemon = Torchic
+| gender = male
+| level = 5
+| type1 = Fire
+| ability = Blaze
+| move1 = Scratch | move1type = Normal
+| move2 = Growl | move2type = Normal
+}}
+{{Party/end}}
+
+{{Party/2
+| caption = {{PlayerChoice|0255|Torchic}}
+| walkthrough = yes
+| background = {{Hoenn color}}
+| border = {{Hoenn color dark}}
+| headcolor = {{Hoenn color light}}
+| or = yes
+| location = Hoenn Route 103
+| locationname = Route 103
+| game = E
+| prize = {{PDollar}}300
+| pokemon = 1
+| t-background = {{ruby color light}}
+| t-border = {{ruby color dark}}
+| sprite = Spr E Brendan.png
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| t-background2 = {{sapphire color light}}
+| t-border2 = {{sapphire color dark}}
+| sprite2 = Spr E May.png
+| class2 = {{PK}}{{MN}} Trainer
+| classlink2 = Pokémon Trainer
+| name2 = {{color2|000|May (game)|May}}
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0258
+| pokemon = Mudkip
+| gender = male
+| level = 5
+| type1 = Water
+| ability = Torrent
+| move1 = Tackle | move1type = Normal
+| move2 = Growl | move2type = Normal
+}}
+{{Party/end}}
+
+{{Party/2
+| caption = {{PlayerChoice|0258|Mudkip}}
+| walkthrough = yes
+| background = {{Hoenn color}}
+| border = {{Hoenn color dark}}
+| headcolor = {{Hoenn color light}}
+| or = yes
+| location = Hoenn Route 103
+| locationname = Route 103
+| game = E
+| prize = {{PDollar}}300
+| pokemon = 1
+| t-background = {{ruby color light}}
+| t-border = {{ruby color dark}}
+| sprite = Spr E Brendan.png
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| t-background2 = {{sapphire color light}}
+| t-border2 = {{sapphire color dark}}
+| sprite2 = Spr E May.png
+| class2 = {{PK}}{{MN}} Trainer
+| classlink2 = Pokémon Trainer
+| name2 = {{color2|000|May (game)|May}}
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0252
+| pokemon = Treecko
+| gender = male
+| level = 5
+| type1 = Grass
+| ability = Overgrow
+| move1 = Pound | move1type = Normal
+| move2 = Leer | move2type = Normal
+}}
+{{Party/end}}
+
+
+After the battle, May/Brendan heads back south to Birch's Lab.
+
+==Littleroot Town==
+{| class="expandable" style="margin: auto; background: #E7C373; {{roundy}}; border: 5px solid #F8E078;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|None|From Professor Birch, after defeating May/Brendan on {{rt|103|Hoenn}}|E=yes|display=[[Pokédex]]}}
+{{itemlist|Poké Ball|From May/Brendan, after obtaining the Pokédex|E=yes|display={{i|Poké Ball}} ×5}}
+{{itemlist|Running Shoes|From Mom, after obtaining the Pokédex|E=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Birch's Lab===
+After the battle, follow May/Brendan back to Professor Birch's Lab. Inside, the professor gives you a handy gadget: the Pokédex! This high-tech encyclopedia instantly records information on any Pokémon you see or catch. In addition, his child gives you five {{i|Poké Ball}}s to start you off on your journey. Now that you have received some Poké Balls, they can be purchased at all Poké Marts in the region. Buying ten Poké Balls at once, at any location, also earns you a bonus [[Premier Ball]]. 
+
+===Meet up with Mom===
+As you go to leave Littleroot, you see Mom standing outside. She is proud that you have your own Pokémon. In preparation for your adventure, she gives you a pair of [[Running Shoes]]. By holding down the B Button, these shoes allow you to run twice as fast as the normal walking speed.
+
+==Route 102==
+[[File:Hoenn Route 102 E.png|thumb|300px|Route 102]]
+
+{{rt|102|Hoenn}} connects [[Oldale Town]] and [[Petalburg City]]. The patches of tall grass are home to several new wild Pokémon species. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Calvin|80|1|261|Poochyena|♂|5||38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Rick|64|2|265|Wurmple|♂|4||265|Wurmple|♂|4|}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Allen|48|2|263|Zigzagoon|♂|4||276|Taillow|♂|3|}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Lass.png|Lass|Tiana|64|2|263|Zigzagoon|♀|4||285|Shroomish|♀|4|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Calvin{{tt|*|First rematch}}|432|1|262|Mightyena|♂|27||38=Nav}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Calvin{{tt|*|Second rematch}}|480|2|277|Swellow|♂|28||262|Mightyena|♂|30||38=Nav}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Calvin{{tt|*|Third and fourth rematch onwards}}|{{tt|528|Third rematch}}/{{tt|576|Fourth rematch onwards}}|3|277|Swellow|♂|{{tt|31|Third rematch}}/{{tt|34|Fourth rematch onwards}}||264|Linoone|♂|{{tt|29|Third rematch}}/{{tt|32|Fourth rematch onwards}}||262|Mightyena|♂|{{tt|33|Third rematch}}/{{tt|36|Fourth rematch onwards}}||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{Catch/entry3|261|Poochyena|no|no|yes|Grass|3-4|30%|type1=Dark}}
+{{Catch/entry3|265|Wurmple|no|no|yes|Grass|3-4|30%|type1=Bug}}
+{{Catch/entry3|270|Lotad|no|no|yes|Grass|3-4|20%|type1=Water|type2=Grass}}
+{{Catch/entry3|263|Zigzagoon|no|no|yes|Grass|3-4|15%|type1=Normal}}
+{{Catch/entry3|280|Ralts|no|no|yes|Grass|4|4%|type1=Psychic}}
+{{Catch/entry3|273|Seedot|no|no|yes|Grass|3|1%|type1=Grass}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Oran Berry|From the soft soil patch|E=yes|display=[[Oran Berry]] ×2}}
+{{itemlist|Pecha Berry|From the soft soil patch|E=yes|display=[[Pecha Berry]] ×2}}
+{{itemlist|Potion|Southwest part of the route|E=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Soft Soil===
+There is a patch of [[soft soil]] on the route's north side. On your first visit, two {{DL|Berry|Generation III|Berry}} trees can be found growing here. Collect the fruit and the trees disappear, allowing you to plant another Berry to continue the cycle. The amount of time needed for the new tree to fully mature and produce fruit varies based on the kind of Berry. After obtaining a [[watering can]], you may water the young plants at certain times to increase the Berry yield. Berries can have several useful effects, from curing status conditions to restoring health. They can even be turned into [[Pokéblock|candy]]! 
+
+==Petalburg City (first visit)==
+[[File:Petalburg City E.png|thumb|Petalburg City]]
+
+Situated between {{rt|102|Hoenn}} to the east and {{rt|104|Hoenn}} to the west, [[Petalburg City]] is the first location you reach to feature a [[Pokémon Gym]]. 
+
+===Meet up with Dad===
+When you visit the [[Petalburg Gym]], you find your father, [[Norman]], standing in the lobby. He is surprised that you've made it this far from home but is excited that you are becoming a Pokémon Trainer like him. A sickly boy named [[Wally]] soon enters, and explains that he will be staying with relatives in nearby [[Verdanturf Town]] in the hopes that the clean air will do him good. He is afraid of becoming lonely there and asks for help in catching a Pokémon to take along. Norman asks that you go with him and loans him his {{p|Zigzagoon}} and a {{i|Poké Ball}}. Wally leads you back to {{rt|102|Hoenn}}, where he successfully catches a {{p|Ralts}}.
+
+Back at the Gym, Wally can't thank you enough for helping him catch his very own Pokémon. Your father then gives you some advice: to become a strong Trainer, challenge Gym Leader [[Roxanne]] in [[Rustboro City]] before moving on to the other Gym Leaders. Though Norman is also a Gym Leader, he will not accept your challenge until you have earned four [[Badge]]s.
+
+===The Man in Sunglasses===
+As you reach the city's western limit, you are stopped by a man in sunglasses. Judging by the way you are dressed, he assumes that you're a Pokémon Trainer. However, he reconsiders after seeing your not-so-dirty clothes, determining you to be either a rookie Trainer or just an ordinary kid. He informs you that he is roaming the land in search of powerful Trainers, and apologizes for taking your time before leaving for {{rt|104|Hoenn}}.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prev=no
+|nextsection=2
+|nextname=Route 104 (south), Petalburg Woods, Route 104 (north), Rustboro City, Route 116, Rusturf Tunnel
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|01]]

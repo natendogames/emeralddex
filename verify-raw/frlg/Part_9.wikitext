@@ -1,0 +1,968 @@
+{{WalkthroughNotice|FRLG}}
+==Celadon City==
+[[File:Celadon City FRLG.png|thumb|350px|Celadon City]]
+
+[[Celadon City]] is located between {{rt|7|Kanto}} to the east and {{rt|16|Kanto}} to the west. The [[Celadon Department Store]] in the northwest offers all kinds of items for sale. The [[Celadon Condominiums|Celadon Mansion]] is a hotel, with a group known as [[Game Freak]] as its current occupants. Visitors can try their luck at the [[Celadon Game Corner|Game Corner]] in the heart of the city and redeem their winnings at the Prize Corner next door. The [[Celadon Gym]] stands on a hill in the southwest part of town.
+
+{| class="expandable" align="center" style="background: #C0E7C2; {{roundy}}; border: 5px solid #D5EFD6;"
+|- align="center"
+! Trainers
+|- 
+| 
+{{Trainerheader|land}}
+{{catch/div|land|Game Corner}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||640|2|020|Raticate|♂|20|None|041|Zubat|♂|20|None}}
+{{Trainerfooter|land|1}}
+|}
+{| class="expandable" align="center" style="background: #C0E7C2; {{roundy}}; border: 5px solid #D5EFD6;"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|road|no}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/div|building|Gift Pokémon}}
+{{catch/entryfl|133|Eevee|yes|yes|Gift|25|{{tt|One|Roof}}}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" align="center" style="background: #C0E7C2; {{roundy}}; border: 5px solid #D5EFD6;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Ether|Northwest corner of the city|FR=yes|LG=yes}}
+{{Itemlist|TM Psychic|Department Store; from a girl on the roof, after giving her a Fresh Water|FR=yes|LG=yes|display={{TM|16|Light Screen}}}}
+{{Itemlist|TM Normal|Department Store; from a girl on the roof, after giving her a Soda Pop|FR=yes|LG=yes|display={{TM|20|Safeguard}}}}
+{{Itemlist|TM Psychic|Department Store; from a girl on the roof, after giving her a Lemonade|FR=yes|LG=yes|display={{TM|33|Reflect}}}}
+{{Itemlist|Coin Case|South side, from a man in the restaurant|FR=yes|LG=yes}}
+{{Itemlist|PP Up|East side, northeast of the {{m|Cut|small tree}} ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Tea III|Celadon Mansion; from an old woman|FR=yes|LG=yes|display=[[Tea]]}}
+{{Itemlist|TM Grass|From Erika, after defeating her|FR=yes|LG=yes|display={{TM|19|Giga Drain}}}}
+{{itlistfoot|land}}
+|}
+
+
+===Celadon Mansion===
+The tall building in the north part of town is [[Celadon Condominiums|Celadon Mansion]].
+
+====1F====
+Speak to the elderly woman on the first floor to receive a cup of [[Tea]], a healthier alternative to the usual [[drink]]s. It's not meant for Pokémon consumption, however, so hold onto it for now.
+
+====3F====
+On the third floor, [[Game Freak]]'s game designer promises a [[Diploma|reward]] for showing him your completed [[Pokédex]].
+
+====The Amazing Eevee====
+To further this goal of completing the Pokédex, leave an empty slot in your party and follow the path behind the Pokémon Center to find a break in the trees. Enter the mansion through the back door and climb to the top floor to obtain an {{p|Eevee}}. This Pokémon's unique genetic makeup allows it to evolve into one of several different forms. Exposure to a [[Water Stone]], [[Thunder Stone|ThunderStone]], or [[Fire Stone]] will cause it to evolve into {{p|Vaporeon}}, {{p|Jolteon}}, or {{p|Flareon}}, respectively. Any one will make a useful addition to your team, as they can cover your [[first partner Pokémon|first Pokémon]]'s weakness. These [[Evolution stone|stones]] can only be purchased in the nearby Department Store.
+
+===Celadon Department Store===
+The [[Celadon Department Store]] is the largest shop in [[Kanto]]. Nearly any item a Trainer could want can be found here.
+
+====2F====
+The Trainer's Market is found on the second floor. Everyday items like [[Great Ball]]s and [[Super Potion]]s are offered here.
+
+{| align="center" style="background: #88A; border: 3px solid #{{locationcolor/dark|building}}; {{roundy|15px}};" cellspacing="1" cellpadding="1" 
+|- valign="top"
+|
+{{shop|Upper cashier}}
+{{shoprow|{{shopitem|TM05|1000|PD||TM Normal|Roar}}|{{shopitem|TM15|7500|PD||TM Normal|Hyper Beam}}}}
+{{shoprow|{{shopitem|TM28|2000|PD||TM Ground|Dig}}|{{shopitem|TM31|3000|PD||TM Fighting|Brick Break}}}}
+{{shoprow|{{shopitem|TM43|3000|PD||TM Normal|Secret Power}}|{{shopitem|TM45|3000|PD||TM Normal|Attract}}}}
+{{shopfooter}}
+|
+{{shop|Lower cashier}}
+{{shoprow|{{shopitem|Great Ball|600}}|{{shopitem|Super Potion|700}}}}
+{{shoprow|{{shopitem|Revive|1500}}|{{shopitem|Antidote|100}}}}
+{{shoprow|{{shopitem|Paralyze Heal|200|display=Paralyze Heal}}|{{shopitem|Awakening|250}}}}
+{{shoprow|{{shopitem|Burn Heal|250}}|{{shopitem|Ice Heal|250}}}}
+{{shoprow|{{shopitem|Super Repel|500}}}}
+{{shopfooter}}
+|}
+
+
+====3F====
+The third floor holds the TV Game Shop, with various video games on display. There are no items for sale, but the clerk behind the counter is a [[Move Tutor]] who offers to teach {{m|Counter}} to a compatible Pokémon. This move retaliates from any physical hit with double the damage taken.
+
+====4F====
+Wise Man Gifts is located on the fourth floor. The [[Evolution stone|stones]] that cause certain Pokémon to evolve can be purchased here. Be sure to pick up a [[Poké Doll]] or two, as they are useful for running from wild Pokémon.
+
+{| align="center"
+|
+{{shop|}}
+{{shoprow|{{shopitem|Poké Doll|1000}}|{{shopitem|Retro Mail|50}}}}
+{{shoprow|{{shopitem|Fire Stone|2100}}|{{shopitem|Thunder Stone|2100|display=Thunderstone}}}}
+{{shoprow|{{shopitem|Water Stone|2100}}|{{shopitem|Leaf Stone|2100}}}}
+{{shopfooter}}
+|}
+
+
+====5F====
+The Drugstore can be found on the fifth floor. [[Battle item]]s and [[vitamin]]s are offered here.
+
+{| align="center" style="background: #88A; border: 3px solid #{{locationcolor/dark|building}}; {{roundy|15px}};" cellspacing="1" cellpadding="1" 
+|- valign="top"
+|
+{{shop|Upper cashier}}
+{{shoprow|{{shopitem|HP Up|9800}}|{{shopitem|Protein|9800}}}}
+{{shoprow|{{shopitem|Iron|9800}}|{{shopitem|Calcium|9800}}}}
+{{shoprow|{{shopitem|Zinc|9800}}|{{shopitem|Carbos|9800}}}}
+{{shopfooter}}
+|
+{{shop|Lower cashier}}
+{{shoprow|{{shopitem|X Attack|500}}|{{shopitem|X Defense|display=X Defend|550}}}}
+{{shoprow|{{shopitem|X Speed|350}}|{{shopitem|X Sp. Atk|350|display=X Special}}}}
+{{shoprow|{{shopitem|X Accuracy|950}}|{{shopitem|Guard Spec.|700}}}}
+{{shoprow|{{shopitem|Dire Hit|650}}}}
+{{shopfooter}}
+|}
+
+
+====Rooftop Square====
+The Rooftop Square houses a picnic area and several [[vending machine]]s. Each machine offers [[Fresh Water]], [[Soda Pop]], and [[Lemonade]]. If you purchase one of each [[drink]] for the little girl nearby, she rewards you with {{TM|16|Light Screen}}, {{TM|20|Safeguard}}, and {{TM|33|Reflect}}, respectively.
+
+{| align="center"
+|
+{{shop|[[Vending Machine]]}}
+{{shoprow|{{shopitem|Fresh Water|200}}|{{shopitem|Soda Pop|300}}}}
+{{shoprow|{{shopitem|Lemonade|350}}|}}
+{{shopfooter}}
+|}
+
+===Celadon Gym===
+[[File:Celadon Gym FRLG.png|thumb|Celadon Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|CELADON CITY POKéMON GYM<br>LEADER: ERIKA}}
+{{sign|FRLG|The Nature Loving Princess!}}
+{{sign|FRLG|footer}}
+
+The [[Celadon Gym]] specializes in {{type|Grass}} Pokémon. This type is generally vulnerable against {{t|Fire}}-, {{t|Ice}}-, {{t|Flying}}-, {{t|Poison}}-, and {{type|Bug}} attacks. Most Pokémon inside are also part-Poison, which leaves them exposed to {{t|Psychic}} moves, as well. {{t|Water}}, {{t|Rock}}, and {{t|Ground}} Pokémon are best kept on the sidelines. Grass Pokémon tend to harass their target with status ailments, so it is a good idea to bring healing items like [[Antidote]], [[Paralyze Heal|Parlyz Heal]], and [[Awakening]]. Once the first few Gym Trainers have been defeated, have a Pokémon use {{m|Cut}} on one of the small trees to reach the clearing with the Gym Leader.
+
+{{WalkthroughGym
+| background = {{grass color}}
+| headcolor = {{grass color light}}
+| name = Celadon Gym
+| badge = Rainbow Badge
+| image = Rainbow Badge.png
+| trainers =
+{{Trainerheader|Grass}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Tamia|1728|2|069|Bellsprout|♀|24|None|069|Bellsprout|♀|24|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Kay|368|2|069|Bellsprout|♀|23|None|070|Weepinbell|♀|23|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Bridget|1512|4|043|Oddish|♀|21|None|043|Oddish|♀|21|None|069|Bellsprout|♀|21|None|069|Bellsprout|♀|21|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Tina|480|2|001|Bulbasaur|♂|24|None|002|Ivysaur|♂|24|None}}
+{{catch/div|Grass|Requires Cut}}
+{{Trainerentry|Spr FRLG Cooltrainer F.png|Cooltrainer|Mary|792<br><small>Requires {{m|Cut}}</small>|5|069|Bellsprout|♀|22|None|043|Oddish|♀|22|None|070|Weepinbell|♀|22|None|044|Gloom|♀|22|None|002|Ivysaur|♂|22|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Lisa|368<br><small>Requires {{m|Cut}}</small>|2|043|Oddish|♀|23|None|044|Gloom|♀|23|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Lori|1728<br><small>Requires {{m|Cut}}</small>|1|102|Exeggcute|♀|24|None}}
+{{Trainerfooter|Grass|I}}
+| party = 
+{{Party
+| background = {{grass color}}
+| border = {{grass color dark}}
+| headcolor = {{grass color light}}
+| middle = yes
+| sprite = Spr FRLG Erika.png
+| prize = {{pdollar}}2,900
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Erika}}
+| game = FRLG
+| location = Celadon Gym
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0071
+| pokemon = Victreebel
+| level = 29
+| gender = female
+| type1 = Grass
+| type2 = Poison
+| ability = Chlorophyll
+| move1 = Stun Spore | move1type = Grass
+| move2 = Acid | move2type = Poison
+| move3 = PoisonPowder | move3type = Poison
+| move4 = Giga Drain | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 114
+| pokemon = Tangela
+| level = 24
+| gender = female
+| type1 = Grass
+| ability = Chlorophyll
+| move1 = PoisonPowder | move1type = Poison
+| move2 = Constrict | move2type = Normal
+| move3 = Ingrain | move3type = Grass
+| move4 = Giga Drain | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 045
+| pokemon = Vileplume
+| level = 29
+| gender = female
+| type1 = Grass
+| type2 = Poison
+| ability = Chlorophyll
+| move1 = Sleep Powder | move1type = Grass
+| move2 = Acid | move2type = Poison
+| move3 = Stun Spore | move3type = Grass
+| move4 = Giga Drain | move4type = Grass
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Erika]] awards you the {{badge|Rainbow}}, which ensures obedience from all Pokémon up to level 50 and enables the use of {{m|Strength}} in the field. She also gives you {{TM|19|Giga Drain}} as a prize.
+
+===Fickle Fortune===
+Stop by the restaurant on the city's south side and talk to the man near the back wall. A string of bad luck at the slot machines has cost him all of his money, so he has no more use for his [[Coin Case]] and gives it to you.
+
+===Shady Dealings===
+Several [[Team Rocket]] Grunts can be seen loitering around the city. Next door to the restaurant, there are workers organizing the transport of 2,000 Pokémon every month to the Game Corner to be used as prizes. Numbers like that mean money, and are sure to draw Team Rocket's attention. Whatever the group may be involved in, as one of the workers points out, it surely has nothing to do with a hidden switch in the Game Corner.
+
+===Game Corner===
+[[File:Celadon Game Corner Inside FRLG.png|thumb|Game Corner]]
+[[File:Rocket Game Corner hidden coins FRLG.png|thumb|Location of hidden coins]]
+
+The prizes offered next door are expensive, so it will require a large number of coins to receive all of them. Coins may be purchased at the counter in sets of 50 for {{pdollar}}1,000 and sets of 500 for {{pdollar}}10,000. Others can be obtained by speaking with other patrons, and even more can be found dropped on the ground.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|Coin Case|From the {{tc|Fisherman}}|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|From the {{tc|Gentleman}}|FR=yes|LG=yes|display=20 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|From the {{tc|Scientist}}|FR=yes|LG=yes|display=20 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Three squares south and two squares east of the old man ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|One square west of the old man ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Two squares to the west of the Pokémon Printer ''(hidden)''|FR=yes|LG=yes|display=100 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Two squares north and two squares east of the {{tc|Scientist}} ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Two squares north and four squares east of the {{tc|Scientist}} ''(hidden)''|FR=yes|LG=yes|display=40 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Four squares north of the {{tc|Scientist}} ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Three squares north and three squares west of the {{tc|Scientist}} ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|One square east and three squares north of the woman in the center aisle ''(hidden)''|FR=yes|LG=yes|display=20 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|Two squares south and one square west of the [[Gym guide]] ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|One square east and three squares south of the woman in the west aisle ''(hidden)''|FR=yes|LG=yes|display=20 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|One square west and one square south of the {{tc|Fisherman}}  ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{Itemlist|Coin Case|One square east and two squares north of the man in the west aisle ''(hidden)''|FR=yes|LG=yes|display=10 {{OBP|Coin|Game Corner}}s}}
+{{itlistfoot|building}}
+|}
+
+
+====A Secret Switch?====
+Nothing seems out of the ordinary at first, but there is something off about the {{tc|Team Rocket Grunt|man in black}} who is fixated on a poster on the back wall. When you try to speak to him, he picks a fight with you. Defeat his two Pokémon and he retreats, leaving the poster unguarded. Inspect it to find a secret switch hidden underneath; press this switch and a hidden door opens to the right, revealing a secret stairway leading underground.
+
+===Prize Corner===
+{| align="center" style="background: #88A; border: 3px solid #{{locationcolor/dark|building}}; {{roundy|15px}};" cellspacing="1" cellpadding="1" 
+|- valign="top"
+|
+{{shop|Left Window}}
+{{shoprow|{{shopitem|Smoke Ball|800|C}}|{{shopitem|Miracle&nbsp;Seed|1000|C}}}}
+{{shoprow|{{shopitem|Charcoal|1000|C}}|{{shopitem|Mystic&nbsp;Water|1000|C}}}}
+{{shoprow|{{shopitem|Yellow Flute|1600|C}}}}
+{{shopfooter}}
+|
+{{shop|Middle Window<sup>{{color|{{firered color dark}}|FR}}</sup>}}
+{{shoprow|{{shopmon|Abra|063|180|lv=9}}|{{shopmon|Clefairy|035|500|lv=8}}}}
+{{shoprow|{{shopmon|Dratini|147|2800|lv=18}}|{{shopmon|Scyther|123|5500|lv=25}}}}
+{{shoprow|{{shopmon|Porygon|137|9999|lv=26}}}}
+{{shopfooter}}
+{{shop|Middle Window<sup>{{color|{{leafgreen color dark}}|LG}}</sup>}}
+{{shoprow|{{shopmon|Abra|063|120|lv=7}}|{{shopmon|Clefairy|035|750|lv=12}}}}
+{{shoprow|{{shopmon|Pinsir|127|2500|lv=18}}|{{shopmon|Dratini|147|4600|lv=24}}}}
+{{shoprow|{{shopmon|Porygon|137|6500|lv=18}}}}
+{{shopfooter}}
+|
+{{shop|Right Window}}
+{{shoprow|{{shopitem|TM13|4000|C||TM Ice|Ice Beam}}|{{shopitem|TM23|3500|C||TM Steel|Iron Tail}}}}
+{{shoprow|{{shopitem|TM24|4000|C||TM Electric|Thunderbolt}}|{{shopitem|TM30|4500|C||TM Ghost|Shadow Ball}}}}
+{{shoprow|{{shopitem|TM35|4000|C||TM Fire|Flamethrower}}}}
+{{shopfooter}}
+|}
+
+
+===Rocket Hideout===
+[[File:Rocket Hideout B1F FRLG.png|thumb|Rocket Hideout, B1F]]
+[[File:Rocket Hideout B2F FRLG.png|thumb|Rocket Hideout, B2F]]
+[[File:Rocket Hideout B3F FRLG.png|thumb|Rocket Hideout, B3F]]
+[[File:Rocket Hideout B4F FRLG.png|thumb|Rocket Hideout, B4F]]
+
+The [[Team Rocket Hideout|Rocket Hideout]] is a secret underground complex used by the group as their base of operations. Rumors point to a [[Silph Scope|certain item]] being located somewhere in {{ci|Celadon}} that can identify the ghosts of [[Pokémon Tower]]. It would not be surprising for [[Team Rocket]] to have acquired an item as valuable as this, so be sure to take it back if you can find it!
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B1F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||672|2|096|Drowzee|♂|21||066|Machop|♂|21||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||672|2|020|Raticate|♂|21||020|Raticate|♂|21||}}
+{{catch/div|building|South, via stairs from B2F}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||608|4|019|Rattata|♂|19||020|Raticate|♂|19||020|Raticate|♂|19||019|Rattata|♂|19||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||640|3|088|Grimer|♂|20||109|Koffing|♂|20||109|Koffing|♂|20||}}
+{{catch/div|building|Southeast, requires Lift Key}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||704|2|088|Grimer|♂|22||109|Koffing|♂|22||}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B2F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||544|5|041|Zubat|♂|17||109|Koffing|♂|17||088|Grimer|♂|17||041|Zubat|♂|17||020|Raticate|♂|17||}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B3F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||672|2|066|Machop|♂|21||066|Machop|♂|21||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||640|3|019|Rattata|♂|20||020|Raticate|♂|20||096|Drowzee|♂|20||}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B4F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||672|2|109|Koffing|♂|21||041|Zubat|♂|21||}}
+{{catch/div|building|Southeast, requires Lift Key}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||736|3|027|Sandshrew|♂|23||023|Ekans|♂|23||028|Sandslash|♂|23||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||736|3|023|Ekans|♂|23||027|Sandshrew|♂|23||024|Arbok|♂|23||}}
+{{trainerfooter|building|I}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|- 
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B1F
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|PP Up|North; in the southeastern-most planter ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Escape Rope|North; in the western room|FR=yes|LG=yes}}
+{{Itemlist|Hyper Potion|East; in the room reached via B2F|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B2F
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|X Speed|Spinner maze, northeast corner|FR=yes|LG=yes}}
+{{Itemlist|Moon Stone|Spinner maze, near the west wall|FR=yes|LG=yes}}
+{{Itemlist|TM Dark|Spinner maze, near the middle|FR=yes|LG=yes|display={{TM|12|Taunt}}}}
+{{Itemlist|Super Potion|Spinner maze, southwest area|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B3F
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|TM Normal|East-central room|FR=yes|LG=yes|display={{TM|21|Frustration}}}}
+{{Itemlist|Nugget|One step south of the northwest corner of the floor ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|Spinner maze, east side|FR=yes|LG=yes}}
+{{Itemlist|Black Glasses|Southeast corner, south of the stairway to B4F|FR=yes|LG=yes|display=[[Black Glasses|BlackGlasses]]}}
+{{itlistfoot|building}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! B4F
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|Max Ether|Northwest; on a table in the west-central room|FR=yes|LG=yes}}
+{{Itemlist|TM Dark|Northwest; in the northwest room|FR=yes|LG=yes|display={{TM|49|Snatch}}}}
+{{Itemlist|Lift Key III|Northwest; dropped by the Rocket Grunt, after defeating him and speaking to him|FR=yes|LG=yes|display=[[Lift Key]]}}
+{{Itemlist|Calcium|Southeast; on a table to the west of the elevator|FR=yes|LG=yes}}
+{{Itemlist|Net Ball|Southeast; between the potted plants southwest of Giovanni ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Nest Ball|Southeast; between the potted plants southeast of Giovanni ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Silph Scope III|Southeast; dropped by Giovanni after his defeat and disappearance|FR=yes|LG=yes|display=[[Silph Scope]]}}
+{{itlistfoot|building}}
+|}
+|}
+
+
+====B1F (North)====
+Visit the western room to get an [[Escape Rope]], then take the stairs down to B2F.
+
+====B2F====
+Go west to fight the next Team Rocket Grunt. Further west is a maze of [[spinner tile]]s meant to thwart any intruders; step on one of these arrow tiles to be sent spinning until you reach a stopper tile.
+
+Enter the maze and follow the spinner tiles to the stopper tile in the northwest. Backtrack carefully to reach an [[X Speed]] in the northeast corner. Collect the [[Moon Stone]], {{TM|12|Taunt}}, and [[Super Potion]] on the way southward. Step on the southernmost spinner tile to reach the maze exit and climb the stairs to the east.
+
+====B1F (West)====
+Battle the two Rocket Grunts here and pick up the [[Hyper Potion]].
+
+====B2F====
+Backtrack through the east side of the maze and head down the stairs to the northeast.
+
+====B3F====
+Go south past the lone Rocket Grunt to reach {{TM|21|Frustration}}, then head west to enter the second maze of spinner tiles. Collect the [[Rare Candy]] on the way southward, then battle another Rocket Grunt. Pick up the [[Black Glasses|BlackGlasses]] and go downstairs.
+
+====B4F (Northwest)====
+On this first visit to B4F, it is only possible to reach the two rooms on the west side. Pick up the [[Max Ether]] on a table to the south, then visit the northwest room. Pick up {{TM|49|Snatch}} and battle the nearby Rocket Grunt. Talk to him afterward and he drops the [[Lift Key]], which operates the elevator in the southeast part of the complex.
+
+Climb back up to B2F and make your way through the larger maze again to reach the elevator. Take it down to B4F.
+
+====B4F (Southeast)====
+Exit the elevator and go west to reach a [[Calcium]]. Defeat the last two Rocket Grunts and the electronic door that they are guarding opens. Step inside to confront the Rocket boss.
+
+=====VS Giovanni=====
+Both [[Giovanni]]'s {{p|Onix}} and {{p|Rhyhorn}} take massive damage from {{t|Grass}} and {{t|Water}} attacks. His {{p|Kangaskhan}} takes serious damage only from {{t|Fighting}} moves. Avoid using attacking moves if Onix uses {{m|Rage}}, as this boosts its {{stat|Attack}} every time it takes damage.
+
+{{Party
+| walkthrough = yes
+| background = 666
+| border = CC0000
+| headcolor = CCC
+| sprite = Spr FRLG Giovanni.png
+| prize = {{PDollar}}2,900
+| class = Boss
+| classlink = Giovanni
+| name = {{color2|000|Giovanni}}
+| game = FRLG
+| location = Team Rocket Hideout
+| locationname = Rocket Hideout
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 095
+| pokemon = Onix
+| type1 = Rock
+| type2 = Ground
+| level = 25
+| gender = male
+| ability = Rock Head
+| move1 = Rock Throw | move1type = Rock
+| move2 = Bind | move2type = Normal
+| move3 = Rage | move3type = Normal
+| move4 = Harden | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 111
+| pokemon = Rhyhorn
+| type1 = Ground
+| type2 = Rock
+| level = 24
+| gender = male
+| ability = Rock Head
+| move1 = Stomp | move1type = Normal
+| move2 = Fury Attack | move2type = Normal
+| move3 = Scary Face | move3type = Normal
+| move4 = Tail Whip | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 115
+| pokemon = Kangaskhan
+| type1 = Normal
+| level = 29
+| gender = female
+| ability = Early Bird
+| move1 = Fake Out | move1type=Normal
+| move2 = Mega Punch | move2type=Normal
+| move3=Bite | move3type = Dark
+| move4 = Tail Whip | move4type = Normal
+}}
+{{Party/end}}
+
+
+[[Giovanni]] cannot believe that he lost, but acknowledges that you raise your Pokémon with great care. He says that a child like you could never understand his goals, then he and most of the other Rockets disappear. Be sure to pick up the [[Silph Scope]] that he leaves behind. Ride the elevator to B1F and battle one last Rocket Grunt on the way out.
+
+===The Key to the City===
+With the cup of [[Tea]] from [[Celadon Condominiums|Celadon Mansion]], you can pass through [[Saffron City]] on the way back to [[Pokémon Tower]]. Enter Saffron's west gate and the guard sees that you have a beverage. If you give it to him, he shares it with the other three guards which now allows you to reach the city from any direction. Travel eastward through the city to return to {{rt|8|Kanto}} and [[Lavender Town]].
+
+==Lavender Town==
+===Pokémon Tower===
+[[File:Pokémon Tower 2F FRLG.png|thumb|Pokémon Tower, 2F]]
+[[File:Pokémon Tower 3F FRLG.png|thumb|Pokémon Tower, 3F]]
+[[File:Pokémon Tower 4F FRLG.png|thumb|Pokémon Tower, 4F]]
+[[File:Pokémon Tower 5F FRLG.png|thumb|Pokémon Tower, 5F]]
+[[File:Pokémon Tower 6F FRLG.png|thumb|Pokémon Tower, 6F]]
+[[File:Pokémon Tower 7F FRLG.png|thumb|Pokémon Tower, 7F]]
+
+The {{t|Ghost}} Pokémon of [[Pokémon Tower]] are immune to {{t|Normal}}- and {{type|Fighting}} attacks, but are vulnerable to {{type|Dark}} attacks. The spirits can be relentless, so it may be useful to bring a supply of Repels and Poké Dolls along to avoid them as much as possible. There are still many possessed Channelers here as well, so be sure to bring some Super Potions along.
+
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! 3F
+|- 
+| 
+{{trainerheader|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Hope|736|1|092|Gastly|♀|23|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Patricia|704|1|092|Gastly|♀|22|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Carly|768|1|092|Gastly|♀|24|None}}
+{{trainerfooter|ghost|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! 4F
+|- 
+| 
+{{trainerheader|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Laurel|736|2|092|Gastly|♀|23|None|092|Gastly|♀|23|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Jody|704|1|092|Gastly|♀|22|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Paula|768|1|092|Gastly|♀|24|None}}
+{{trainerfooter|ghost|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! 5F
+|- 
+| 
+{{trainerheader|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Ruth|704|1|092|Gastly|♀|22|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Tammy|736|1|093|Haunter|♀|23|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Karina|768|1|092|Gastly|♀|24|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Janae|704|1|092|Gastly|♀|22|None}}
+{{trainerfooter|ghost|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! 6F
+|- 
+| 
+{{trainerheader|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Angelica|704|3|092|Gastly|♀|22|None|092|Gastly|♀|22|None|092|Gastly|♀|22|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Jennifer|768|1|092|Gastly|♀|24|None}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Emilia|768|1|092|Gastly|♀|24|None}}
+{{trainerfooter|ghost|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! 7F
+|- 
+| 
+{{trainerheader|ghost}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||800|3|041|Zubat|♂|25||041|Zubat|♂|25||042|Golbat|♂|25||}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||832|2|109|Koffing|♂|26||096|Drowzee|♂|26|None|}}
+{{trainerdiv|ghost}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||736|4|041|Zubat|♂|23||019|Rattata|♂|23|None|020|Raticate|♂|23||041|Zubat|♂|23||}}
+{{trainerfooter|ghost|I}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{catch/header|ghost|no}}
+{{Catch/div|ghost|3F}}
+{{catch/entryfl|092|Gastly|yes|yes|3F|13-19|90%|type1=ghost|type2=poison}}
+{{catch/entryfl|104|Cubone|yes|yes|3F|15, 17|9%|type1=ground}}
+{{catch/entryfl|093|Haunter|yes|yes|3F|20|1%|type1=ghost|type2=poison}}
+{{Catch/div|ghost|4F-5F}}
+{{catch/entryfl|092|Gastly|yes|yes|4F-5F|13-19|86%|type1=ghost|type2=poison}}
+{{catch/entryfl|104|Cubone|yes|yes|4F-5F|15, 17|9%|type1=ground}}
+{{catch/entryfl|093|Haunter|yes|yes|4F-5F|20|5%|type1=ghost|type2=poison}}
+{{Catch/div|ghost|6F}}
+{{catch/entryfl|092|Gastly|yes|yes|6F|14-19|85%|type1=ghost|type2=poison}}
+{{catch/entryfl|104|Cubone|yes|yes|6F|17, 19|9%|type1=ground}}
+{{catch/entryfl|093|Haunter|yes|yes|6F|21, 23|6%|type1=ghost|type2=poison}}
+{{Catch/div|ghost|7F}}
+{{catch/entryfl|092|Gastly|yes|yes|7F|15-19|75%|type1=ghost|type2=poison}}
+{{catch/entryfl|093|Haunter|yes|yes|7F|23, 25|15%|type1=ghost|type2=poison}}
+{{catch/entryfl|104|Cubone|yes|yes|7F|17, 19|10%|type1=ground}}
+{{catch/footer|ghost}}
+|}
+{| class="expandable" align="center" style="background: #{{ghost color}}; {{roundy}}; border: 5px solid #{{ghost color light}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|ghost}}
+{{catch/div|ghost|3F}}
+{{Itemlist|Escape Rope|Near the north wall|FR=yes|LG=yes}}
+{{catch/div|ghost|4F}}
+{{Itemlist|Elixir|West of the stairway from 3F|FR=yes|LG=yes}}
+{{Itemlist|Awakening|In the center of the room|FR=yes|LG=yes}}
+{{Itemlist|Great Ball|Near the south wall|FR=yes|LG=yes}}
+{{catch/div|ghost|5F}}
+{{Itemlist|Big Mushroom|One step north, four steps west of Channeler Ruth ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Cleanse Tag|Middle of the healing area|FR=yes|LG=yes}}
+{{Itemlist|Nugget|Near the south wall|FR=yes|LG=yes}}
+{{catch/div|ghost|6F}}
+{{Itemlist|X Accuracy|Southwest of the stairway from 5F|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|West-central part of the room|FR=yes|LG=yes}}
+{{catch/div|ghost|7F}}
+{{Itemlist|Soothe Bell|On the spot where Mr. Fuji was standing use the Item Finder. ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|ghost}}
+|}
+
+
+====2F====
+=====Rival Battle 5=====
+By this point, {{ga|Blue}} has assembled a team that includes {{t|Grass}}, {{t|Fire}}, and {{t|Water}} Pokémon to cover his weaknesses. His [[first partner Pokémon|first Pokémon]] takes the place of either {{p|Exeggcute}}, {{p|Growlithe}}, or {{p|Gyarados}}, whichever matches its type. His {{p|Pidgeotto}} can still harass Grass- and {{type|Bug}} Pokémon with {{m|Gust}}, and strike first with {{m|Quick Attack}}. Exeggcute can induce {{status|Sleep}} with {{m|Hypnosis}}, so use [[Awakening]]s as necessary. Growlithe's {{m|Ember}} can deal a decent amount of damage and may cause a {{status|Burn}}. As Blue's only fully-evolved Pokémon, his Gyarados has the biggest offensive presence so be sure to take it down quickly. {{p|Kadabra}} takes super effective damage  from Bug-, {{t|Ghost}}-, and {{type|Dark}} moves, but physical moves will wear it down as well. Blue's first Pokémon has grown to level 25 and learned some new moves, but it should not be too much to handle. Use super effective moves to send your rival packing and continue up the tower.
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}900
+| class = Rival
+| name = Blue
+| location = Pokémon Tower
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 25
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Gust | move1type = Flying
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Quick Attack | move3type = Normal
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 23
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Hypnosis | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Leech Seed | move3type = Grass
+| move4 = Confusion | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 22
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Thrash | move1type = Normal
+| move2 = Bite | move2type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 20
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Kinesis | move2type = Psychic
+| move3 = Confusion | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0005
+| pokemon = Charmeleon
+| gender = male
+| level = 25
+| type1 = Fire
+| ability = Blaze
+| move1 = Growl | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Metal Claw | move3type = Steel
+| move4 = SmokeScreen | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0004|Charmander}}
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}900
+| class = Rival
+| name = Blue
+| location = Pokémon Tower
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 25
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Gust | move1type = Flying
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Quick Attack | move3type = Normal
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 23
+| type1 = Fire
+| ability = Intimidate
+| move1 = Roar | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Leer | move3type = Normal
+| move4 = Odor Sleuth | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 22
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Hypnosis | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Leech Seed | move3type = Grass
+| move4 = Confusion | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 20
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Kinesis | move2type = Psychic
+| move3 = Confusion | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0008
+| pokemon = Wartortle
+| gender = male
+| level = 25
+| type1 = Water
+| ability = Torrent
+| move1 = Withdraw | move1type = Water
+| move2 = Water Gun | move2type = Water
+| move3 = Bite | move3type = Dark
+| move4 = Rapid Spin | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0007|Squirtle}}
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}900
+| class = Rival
+| name = Blue
+| location = Pokémon Tower
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 25
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Gust | move1type = Flying
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Quick Attack | move3type = Normal
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 23
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Thrash | move1type = Normal
+| move2 = Bite | move2type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 22
+| type1 = Fire
+| ability = Intimidate
+| move1 = Roar | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Leer | move3type = Normal
+| move4 = Odor Sleuth | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 20
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Kinesis | move2type = Psychic
+| move3 = Confusion | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0002
+| pokemon = Ivysaur
+| gender = male
+| level = 25
+| type1 = Grass
+| type2 = Poison
+| ability = Overgrow
+| move1 = Vine Whip | move1type = Grass
+| move2 = PoisonPowder | move2type = Poison
+| move3 = Sleep Powder | move3type = Grass
+| move4 = Razor Leaf | move4type = Grass
+}}
+{{Party/end}}
+
+
+====3F====
+Grab the [[Escape Rope]] by the north wall and climb the stairs to 4F.
+
+====4F====
+Pick up the [[Elixir]] and [[Awakening]] in the center of the room, and the [[Great Ball]] near the south wall. Climb the western stairs.
+
+====5F====
+A Channeler in the middle of the fifth floor has not been possessed and maintains a healing area with her white magic. When a Trainer enters this protected zone, all of their Pokémon will be fully healed. A [[Cleanse Tag]] can be found here, as well; when held by the lead Pokémon, it decreases the chance of encountering wild Pokémon by 33%. Battle another Channeler or two and grab the [[Nugget]] before taking the eastern stairs.
+
+====6F====
+Collect the [[X Accuracy]] to the south, then northward past three more Channelers. Grab the [[Rare Candy]] in your path and proceed to the south stairway. As you approach, the {{OBP|Marowak|ghost|ghost}} attacks and the [[Silph Scope]] activates, revealing a level 30 {{p|Marowak}}. Unfortunately, this spirit cannot be caught and must be defeated.
+
+{{Pokémon
+| walkthrough = yes
+| middle = yes
+| gen = 3
+| ndex = 0105
+| pokemon = Marowak
+| type1 = Ground
+| level = 30
+| gender = female
+| ability = Rock Head
+| ability2 = Lightningrod
+| move1 = Headbutt | move1type = Normal
+| move2 = Leer | move2type = Normal
+| move3 = Focus Energy | move3type = Normal
+| move4 = Bonemerang | move4type = Ground
+}}
+
+
+When the battle is over, the mother Marowak's spirit is calmed. Finally able to rest, she departs to the afterlife.
+
+Climb the final stairway to the seventh floor.
+
+====7F====
+Defeat the three Rocket Grunts and speak to [[Mr. Fuji]]. He thanks you for calming Marowak's spirit and asks that you accompany him to his home, the Volunteer Pokémon House, at the foot of the tower.
+
+===Mr. Fuji's house===
+Speak to [[Mr. Fuji]] to receive the [[Poké Flute]] as thanks. This instrument awakens any {{status|Sleep|sleeping}} Pokémon who may hear its music. With this, you can finally wake the two {{p|Snorlax}} who have been blocking the way to southern [[Kanto]].
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=8
+|prevname=Rock Tunnel, Route 10 (South), Lavender Town, Route 8, Route 7
+|nextsection=10
+|nextname=Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone, Route 15, Route 14, Route 13, Route 12
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|09]]

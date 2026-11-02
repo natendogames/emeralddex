@@ -1,0 +1,976 @@
+{{WalkthroughNotice|FRLG}}
+==Five Island==
+[[File:Chrono Island.png|thumb|Five Island]]
+[[File:Five Isle Meadow.png|thumb|Five Isle Meadow]]
+[[File:Rocket Warehouse Map.png|thumb|Rocket Warehouse]]
+[[File:Memorial Pillar.png|thumb|Memorial Pillar]]
+
+[[Five Island]] covers another large area of the ocean. The main island includes the town of [[Five Island (town)|Five Island]] and [[Five Isle Meadow]] to the east, where the [[Rocket Warehouse]] is located. The southeast islands make up [[Memorial Pillar]]. [[Water Labyrinth]], [[Resort Gorgeous]], and [[Lost Cave]] can be found to the north.
+
+===Five Isle Meadow===
+[[Five Isle Meadow]] is a short path just outside the town of [[Five Island (town)|Five Island]]. The [[Rocket Warehouse]] stands in the middle of the area. Examine the door to enter the two passwords and gain entry.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1536|3|019|Rattata|♂|48|None|088|Grimer|♂|48|None|089|Muk|♂|48|None|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Team Rocket Grunt F.png|Team Rocket Grunt||1536|3|023|Ekans|♂|48|None|044|Gloom|♂|48|None|044|Gloom|♂|48|None|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1568|2|109|Koffing|♂|49|None|110|Weezing|♂|49|None|}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entryfl|161|Sentret|yes|yes|Grass|10, 15|30%|type1=Normal}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|44|20%|type1=Normal|type2=Flying}}
+{{catch/entryfl|017|Pidgeotto|yes|yes|Grass|48, 50|15%|type1=Normal|type2=Flying}}
+{{catch/entryfl|187|Hoppip|yes|yes|Grass|10, 15|15%|type1=Grass|type2=Flying}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|41|10%|type1=Normal}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|47, 50|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|41|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|41|5%|type1=Water|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|65%|type1=Water|type2=Poison}}
+{{catch/entryfl|187|Hoppip|yes|yes|Surf|5-15|30%|type1=Grass|type2=Flying}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Max Potion|North of the warehouse, in a small clearing (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{itemlist|PP Up|Southwest of the warehouse (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+====Rocket Warehouse====
+The [[Rocket Warehouse]] is [[Team Rocket]]'s base of operations in the [[Sevii Islands]]. Like the [[Team Rocket Hideout|Rocket Hideout]] in [[Celadon City]], the building uses a maze of [[spinner tile]]s to thwart any intruders.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt F.png|Team Rocket Grunt||1568|2|228|Houndour|♂|49|None|228|Houndour|♂|49|None|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1536|3|066|Machop|♂|48|None|066|Machop|♂|48|None|067|Machoke|♂|48|None|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1568|2|097|Hypno|♂|49|None|097|Hypno|♂|49|None|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|building}}
+{{itemlist|Up-Grade|Northwest room|FR=yes|LG=yes}}
+{{itemlist|Pearl|West-central edge of the maze|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itemlist|Net Ball|In a lone box just west of the maze's center ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Big Pearl|South-central edge of the maze|FR=yes|LG=yes}}
+{{itemlist|TM Poison|North-central room, on the table|FR=yes|LG=yes|display={{TM|36|Sludge Bomb}}}}
+{{itemlist|Sapphire|Northeast room; from [[Gideon]], after defeating him|FR=yes|LG=yes|display={{i|Sapphire}}}}
+{{itemlist|Nest Ball|Northeast room, on the box ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+
+
+=====Spinner maze=====
+Enter the maze of [[spinner tile]]s to reach the stopper tile in the southwest corner. Walk carefully northeastward and step on the spinner with the east-facing arrow; this leads to a stopper tile in the north-central part of the maze. Go east and step on the row of spinners leading south to reach another stopper tile in the southwest corner. Follow the path to reach a {{i|Pearl}} near the west wall. Take the north-facing row of spinners to the northwest room; pick up the [[Up-Grade]] and battle the female Rocket Grunt. On the east side of the northwest room, step on the western spinner tile to stop near the maze entrance in the southeast. From here, you can detour southward to reach a [[Big Pearl]], or continue northward to battle the next Rocket Grunt. Take the spinner tile two steps to the west of him to reach the middle of the maze. Go northwest to the lone cardboard box, then walk northeastward to the north-central room. Pick up {{TM|36|Sludge Bomb}} from the table, then head south. Battle the third Rocket Grunt to the south to exit the maze.
+
+=====Southeast room=====
+Next, battle the female Rocket Admin near the front entrance.
+
+{{Party
+| walkthrough = yes
+| background = 666666
+| border = CC0000
+| headcolor = CCCCCC
+| sprite = Spr FRLG Team Rocket Grunt F.png
+| prize = {{PDollar}}1728
+| class = Team Rocket
+| classlink = Executive (Trainer class)
+| name = {{color2|000|Ariana|Admin}}
+| location = Rocket Warehouse
+| game = FRLG
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0089
+| pokemon = Muk
+| gender = male
+| level = 52
+| type1 = Poison
+| ability = Stench
+| move1 = Rock Tomb | move1type = Rock
+| move2 = Minimize | move2type = Normal
+| move3 = Sludge Bomb | move3type = Poison
+| move4 = Screech | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0024
+| pokemon = Arbok
+| gender = male
+| level = 53
+| type1 = Poison
+| ability = Intimidate
+| move1 = Sludge Bomb | move1type = Poison
+| move2 = Earthquake | move2type = Ground
+| move3 = Iron Tail | move3type = Steel
+| move4 = Bite | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0045
+| pokemon = Vileplume
+| gender = male
+| level = 54
+| type1 = Grass
+| type2 = Poison
+| ability = Chlorophyll
+| move1 = Stun Spore | move1type = Grass
+| move2 = Giga Drain | move2type = Grass
+| move3 = Sludge Bomb | move3type = Poison
+| move4 = Sleep Powder | move4type = Grass
+}}
+{{Party/end}}
+
+
+She had always followed [[Giovanni]]'s orders, not caring if they were right or wrong, but has a change of heart after losing to you. She uses the machine next to her to reverse the two eastern spinner tiles. This creates a shortcut to bypass the maze, giving you a chance to visit the Pokémon Center before taking on the last few battles.
+
+=====East-central room=====
+The final Rocket Admin accuses you of spreading lies about [[Team Rocket]] disbanding to create confusion in their ranks. He aims to put a stop to this.
+
+{{Party
+| walkthrough = yes
+| background = 666666
+| border = CC0000
+| headcolor = CCCCCC
+| sprite = Spr FRLG Team Rocket Grunt M.png
+| prize = {{PDollar}}1760
+| class = Team Rocket
+| classlink = Executive (Trainer class)
+| name = {{color2|000|Archer|Admin}}
+| location = Rocket Warehouse
+| game = FRLG
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0042
+| pokemon = Golbat
+| gender = male
+| level = 53
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Sludge Bomb | move2type = Poison
+| move3 = Confuse Ray | move3type = Ghost
+| move4 = Air Cutter | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0110
+| pokemon = Weezing
+| gender = male
+| level = 54
+| type1 = Poison
+| ability = Levitate
+| move1 = Thunderbolt | move1type = Electric
+| move2 = Shadow Ball | move2type = Ghost
+| move3 = Explosion | move3type = Normal
+| move4 = Sludge Bomb | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0229
+| pokemon = Houndoom
+| gender = male
+| level = 55
+| type1 = Dark
+| type2 = Fire
+| ability = Early Bird
+| move1 = Flamethrower | move1type = Fire
+| move2 = Crunch | move2type = Dark
+| move3 = Shadow Ball | move3type = Ghost
+| move4 = Iron Tail | move4type = Steel
+}}
+{{Party/end}}
+
+
+After his defeat, he notices the {{badge|Earth}} that you won from [[Giovanni]]. Realizing that Giovanni has gone underground and [[Team Rocket]] in [[Kanto]] is finished, he admits defeat for their branch in the [[Sevii Islands]], as well. He states his intention for the group to abandon the warehouse, but vows to find Giovanni and resurrect Team Rocket before he and the others flee the building.
+
+=====Northeast room=====
+[[Gideon|The Scientist]] who stole the {{i|Sapphire}} can be found in the northeast room. He was nearly able to sell the gemstone to [[Team Rocket]] for a high price, but the deal fell apart when you defeated the group. He is out for revenge and draws you into battle.
+
+{{Party
+| walkthrough = yes
+| background = 666666
+| border = CC0000
+| headcolor = {{battle items color light}}
+| sprite = Spr FRLG Scientist.png
+| prize = {{PDollar}}2208
+| class = Scientist
+| name = {{color2|000|Gideon}}
+| location = Rocket Warehouse
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0100
+| pokemon = Voltorb
+| gender = none
+| level = 46
+| type1 = Electric
+| ability = Static
+| move1 = Swift | move1type = Normal
+| move2 = Screech | move2type = Normal
+| move3 = Spark | move3type = Electric
+| move4 = SonicBoom | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0101
+| pokemon = Electrode
+| gender = none
+| level = 46
+| type1 = Electric
+| ability = Static
+| move1 = Spark | move1type = Electric
+| move2 = SonicBoom | move2type = Normal
+| move3 = Screech | move3type = Normal
+| move4 = Charge | move4type = Electric
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0081
+| pokemon = Magnemite
+| gender = none
+| level = 46
+| type1 = Electric
+| type2 = Steel
+| ability = Sturdy
+| move1 = Screech | move1type = Normal
+| move2 = Swift | move2type = Normal
+| move3 = Spark | move3type = Electric
+| move4 = Thunder Wave | move4type = Electric
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0082
+| pokemon = Magneton
+| gender = none
+| level = 46
+| type1 = Electric
+| type2 = Steel
+| ability = Sturdy
+| move1 = Tri Attack | move1type = Normal
+| move2 = Spark | move2type = Electric
+| move3 = Thunder Wave | move3type = Electric
+| move4 = SonicBoom | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0137
+| pokemon = Porygon
+| gender = none
+| level = 46
+| type1 = Normal
+| ability = Trace
+| move1 = Tri Attack | move1type = Normal
+| move2 = Conversion | move2type = Normal
+| move3 = Recover | move3type = Normal
+| move4 = Psybeam | move4type = Psychic
+}}
+{{Party/end}}
+
+
+Gideon is not interested in the {{i|Sapphire}} if he cannot sell it, and finally gives up the gemstone. Deliver this to [[Celio]] on [[One Island]] and his work on the Network Machine will be complete. This enables Trainers to trade with others in the distant [[Hoenn]] and [[Orre]] regions.
+
+===Memorial Pillar===
+[[Memorial Pillar]] is an area of ocean to the southeast of [[Five Isle Meadow]] that includes [[Five Island]]'s two southernmost islets.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Milo|1176|2|016|Pidgey|♂|47||017|Pidgeotto|♂|49||38=VS. Seeker}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Chaz|1176|2|021|Spearow|♂|47||022|Fearow|♂|49||38=VS. Seeker}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Harold|1176|2|163|Hoothoot|♂|47||164|Noctowl|♂|49||38=VS. Seeker}}
+{{Trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entryfl|187|Hoppip|yes|yes|Grass|6, 8, 10, 12, 14, 16|100%|type1=Grass|type2=Flying}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|65%|type1=Water|type2=Poison}}
+{{catch/entryfl|187|Hoppip|yes|yes|Surf|5-15|30%|type1=Grass|type2=Flying}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Razz Berry III|Northern island; east-southeast of Bird Keeper Milo ''(hidden)''|FR=yes|LG=yes|display=[[Razz Berry]]}}
+{{itemlist|Sitrus Berry|Northern island; southeast of Bird Keeper Chaz ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Bluk Berry|Northern island; south of Bird Keeper Chaz ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|TM Normal|Southern island; from Tectonix's grieving Trainer, after leaving a [[Lemonade]] at the memorial|FR=yes|LG=yes|display={{TM|42|Facade}}}}
+{{itemlist|Metal Coat|Southern island; grassy area southwest of the memorial|FR=yes|LG=yes}}
+{{itemlist|Big Pearl|Southern island; on the southwest beach ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+====A Tribute for Tectonix====
+The southern island serves as a gravesite for an {{p|Onix}}, [[Nickname|nicknamed]] Tectonix by its loving Trainer. The memorial itself is a large rock pillar shaped like an Onix's tail. Its Trainer can be found here, spending time with his dearly departed Pokémon and cleaning the memorial. If you examine the pillar and leave a can of Tectonix's favorite drink, [[Lemonade]], the man thanks you for your kindness with {{TM|42|Facade}}.
+
+{{m|Fly}} back to the town of [[Five Island (town)|Five Island]] and be sure to make room in your party before heading north.
+
+===Water Labyrinth===
+The [[Water Labyrinth]] is a small patch of ocean that leads north from the town of [[Five Island (town)|Five Island]]. Much of the area is composed of a maze of rocks jutting up out of the water.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Pokémon Breeder.png|Pokémon Breeder|Alize|1344|3|025|Pikachu|♂|48|None|035|Clefairy|♀|48|None|183|Marill|♂|48|None||38=VS. Seeker}}
+{{trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|65%|type1=Water|type2=Poison}}
+{{catch/entryfl|187|Hoppip|yes|yes|Surf|5-15|30%|type1=Grass|type2=Flying}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/div|ocean|Gift Pokémon}}
+{{catch/entryfl|175|Togepi|yes|yes|Egg|5|One}}
+{{catch/footer|ocean}}
+|}
+
+
+====A Joyful Gift====
+The tiny islet has only Pokémon Breeder Alize and an elderly Gentleman. Speak to him to receive a [[Pokémon Egg]], if the lead Pokémon in your party has maximum [[friendship]]. The Egg will eventually hatch into a {{p|Togepi}}.
+
+===Resort Gorgeous===
+[[Resort Gorgeous]] is a small patch of ocean that holds several smaller islands at the northernmost extent of [[Five Island]]. The area is named for the resort on the middle island. [[Lost Cave]] is located to the east.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Painter.png|Painter|Rayna|800|1|235|Smeargle|♂|50|None||38=vs}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Lady.png|Lady|Jacki|10000|2|187|Hoppip|♂|48|Stardust|188|Skiploom|♂|50|Stardust}}
+{{trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Painter.png|Painter|Celina|800|1|235|Smeargle|♂|50|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Lady.png|Lady|Gillian|9800|3|179|Mareep|♂|47|Stardust|179|Mareep|♂|48|Stardust|180|Flaaffy|♂|49|Nugget}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Youngster.png|Youngster|Destin|768|2|020|Raticate|♂|48|None|017|Pidgeotto|♂|48|None|38=vs}}
+{{trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Painter.png|Painter|Daisy|800|1|235|Smeargle|♂|50|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Toby|192|3|061|Poliwhirl|♂|48|None|072|Tentacool|♂|48|None|073|Tentacruel|♂|48|None}}
+{{trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|65%|type1=Water|type2=Poison}}
+{{catch/entryfl|187|Hoppip|yes|yes|Surf|5-15|30%|type1=Grass|type2=Flying}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Nest Ball|Western island, west of the rock  ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itemlist|Stardust|
+* Center island, northwest area ''(hidden [[Recurring item|recurring item]]; group B)''
+* Center island, southwest area ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display=[[Stardust]] ×2}}
+{{itemlist|Star Piece|South of Selphy's house ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itlistfoot|ocean}}
+|}
+
+
+====Resort Gorgeous====
+The resort itself belongs to a wealthy Pokémon Trainer named [[Selphy]]. However, there does not appear to be anyone home at the moment.
+
+====Lost Cave====
+[[Lost Cave]] is a tiny island cave always covered in fog from the ocean. Because these conditions obscure the cave's {{DL|Lost Cave|layout}}, visitors are easily disoriented and often find themselves back at the entrance.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|cave}}
+{{trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Lawson|2352|3|095|Onix|♂|47||075|Graveler|♂|48||105|Marowak|♂|49|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr FRLG Psychic F.png|Psychic|Laura|980|3|177|Natu|♀|48||177|Natu|♀|48||178|Xatu|♀|49|}}
+{{trainerfooter|cave|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entryfl|093|Haunter|yes|yes|Cave|44, 46, 48, 50, 52|30%|type1=Ghost|type2=Poison}}
+{{catch/entryfl|092|Gastly|yes|yes|Cave|38, 40|25%|type1=Ghost|type2=Poison}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|37|20%|type1=Poison|type2=Flying}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|41, 43|20%|type1=Poison|type2=Flying}}
+{{catch/entryfl|198|Murkrow|yes|no|Cave|22|5%|type1=Dark|type2=Flying}}
+{{catch/entryfl|200|Misdreavus|no|yes|Cave|22|5%|type1=Ghost}}
+{{catch/div|cave|Item room}}
+{{catch/entryfl|093|Haunter|yes|yes|Cave|44, 46, 48, 50, 52|30%|type1=Ghost|type2=Poison}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|37|20%|type1=Poison|type2=Flying}}
+{{catch/entryfl|092|Gastly|yes|yes|Cave|40|20%|type1=Ghost|type2=Poison}}
+{{catch/entryfl|198|Murkrow|yes|no|Cave|15, 20, 22|20%|type1=Dark|type2=Flying}}
+{{catch/entryfl|200|Misdreavus|no|yes|Cave|15, 20, 22|20%|type1=Ghost}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|41|10%|type1=Poison|type2=Flying}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|Starting from the room with Ruin Maniac Lawson}}
+{{itemlist|Lax Incense|East, south|FR=yes|LG=yes}}
+{{itemlist|Sea Incense|East, north, south, north|FR=yes|LG=yes}}
+{{itemlist|Max Revive|East, north, south, south, east, east|FR=yes|LG=yes}}
+{{itemlist|Rare Candy|East, north, south, south, east, west, south, west|FR=yes|LG=yes}}
+{{catch/div|cave|Later visit}}
+{{itemlist|Silk Scarf|East, north, south, south, east, west, south, east, north<br>(Chamber where Selphy is found)|FR=yes|LG=yes}}
+{{itlistfoot|cave}}
+|}
+
+
+=====1F=====
+To explore the cave, visitors must take note of the quantity of rocks found in each chamber. This number indicates the path forward by comparing it to the position on a clock. Traveling in the opposite direction will lead to a dead-end room with an item. To begin, climb down the ladder from the entrance to reach the lower floor.
+
+=====B1F=====
+Battle Ruin Maniac Lawson in the first chamber. There are three rocks here, so go through the cave opening to the east. The second chamber has twelve rocks; the south exit leads to a [[Lax Incense]] while the north exit leads to the next chamber. Six rocks in the third chamber means that you must turn around and take the south exit that you just passed through. There are six rocks in the fourth chamber as well; the north exit leads to a [[Sea Incense]] while the south exit leads to the next chamber. Go east in the fifth chamber. The sixth chamber has nine rocks; the east exit leads to a [[Max Revive]] while the west exit lets you continue on. Go south in the seventh chamber. In the eighth chamber, the west exit leads to a [[Rare Candy]] while the east exit leads forward. Twelve rocks in the ninth chamber points to the north exit.
+
+Lady [[Selphy]] can be found in the final chamber. She is surprised by your presence, and draws you into battle.
+
+{{Party
+| walkthrough = yes
+| background = {{normal color}}
+| border = {{normal color dark}}
+| headcolor = {{normal color light}}
+| sprite = Spr FRLG Lady.png
+| prize = {{PDollar}}9800
+| class = Lady
+| name = {{color2|000|Selphy}}
+| location = Lost Cave
+| game = FRLG
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0053
+| pokemon = Persian
+| gender = male
+| level = 49
+| type1 = Normal
+| ability = Limber
+| held = Nugget
+| move1 = Taunt | move1type = Dark
+| move2 = Bite | move2type = Dark
+| move3 = Torment | move3type = Dark
+| move4 = Pay Day | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0053
+| pokemon = Persian
+| gender = male
+| level = 49
+| type1 = Normal
+| ability = Limber
+| held = Nugget
+| move1 = Taunt | move1type = Dark
+| move2 = Scratch | move2type = Normal
+| move3 = Torment | move3type = Dark
+| move4 = Pay Day | move4type = Normal
+}}
+{{Party/end}}
+
+
+Selphy is bored and fatigued from getting lost in the cave, and asks that you help her to her home. She automatically travels with you to the front door of her resort, where she dismisses you. 
+
+====Resort Gorgeous====
+Now that she is back home, [[Selphy]] will occasionally want to see a certain species of Pokémon. If you present the correct Pokémon to her, she will have her butler, Sebastian, give you a random item as a reward. She will grow bored if you take too long (more than 250 steps taken), and wish to see a different Pokémon instead. The requested Pokémon may be any species that you have encountered.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Luxury Ball|Reward from Selphy (''70% chance'')|FR=yes|LG=yes}}
+{{itemlist|Nugget|Reward from Selphy (''5% chance'')|FR=yes|LG=yes}}
+{{itemlist|Pearl|Reward from Selphy (''5% chance'')|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itemlist|Big Pearl|Reward from Selphy (''5% chance'')|FR=yes|LG=yes}}
+{{itemlist|Stardust|Reward from Selphy (''5% chance'')|FR=yes|LG=yes}}
+{{itemlist|Star Piece|Reward from Selphy (''5% chance'')|FR=yes|LG=yes}}
+{{itemlist|Rare Candy|Reward from Selphy (''5% chance'')|FR=yes|LG=yes}}
+{{itlistfoot|ocean}}
+|}
+
+
+==Seven Island==
+[[File:Quest Island.png|thumb|Seven Island]]
+[[File:Trainer Tower Entrance.png|thumb|Trainer Tower, 1F]]
+[[File:Canyon Entrance FRLG.png|thumb|Canyon Entrance]]
+[[File:Sevault Canyon FRLG.png|thumb|Sevault Canyon]]
+
+[[Seven Island]] is the southernmost of the [[Sevii Islands]] and the farthest from mainland [[Kanto]]. Its remote location has left the island virtually untouched, making it difficult to hike across. The town of [[Seven Island (town)|Seven Island]] lies across a bridge from the main island, with a [[battle facility]] known as [[Trainer Tower]] farther to the north. South of town, the [[Canyon Entrance]] and [[Sevault Canyon]] open up to the sea, where the [[Tanoby Ruins]] are located.
+
+===Seven Island (Town)===
+The town of [[Seven Island (town)|Seven Island]] holds little more than a Pokémon Center and Poké Mart. On the main bridge, an Ace Trainer offers to teach the move {{m|Swords Dance}} to a compatible Pokémon.
+
+===Trainer Tower===
+[[Trainer Tower]] stretches from the north side of [[Seven Island (town)|town]] to the the northernmost island, where the [[battle facility]] that gave the area its name stands tall.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr FRLG Psychic F.png|Psychic|Rodette|1000|3|177|Natu|♀|48||096|Drowzee|♀|48||097|Hypno|♀|50||38=Vs. Seeker}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Psychic M.png|Psychic|Dario|1040|1|203|Girafarig|♂|52||38=Vs. Seeker}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|no|Surf|5-40|95%|type1=water|type2=poison}}
+{{catch/entryfl|072|Tentacool|no|yes|Surf|5-35|90%|type1=water|type2=poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=water|type2=poison}}
+{{catch/entryfl|226|Mantine|no|yes|Surf|35-40|5%|type1=water|type2=flying}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Nanab Berry III|Southeast of Psychic Rodette, just north of town ''(hidden)''|FR=yes|LG=yes|display=[[Nanab Berry]]}}
+{{itemlist|Pearl|On the beach, three steps west of the sign ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itemlist|Big Pearl|On the beach, north of the sign ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+====Trainer Tower====
+Trainer Tower sets a goal for challengers of battling through eight floors of opponents to reach the rooftop as quickly as possible. There are four different types of battle in which challengers may participate: {{DL|Trainer Tower|Single Mode}}, {{DL|Trainer Tower|Double Mode}}, {{DL|Trainer Tower|Knockout Mode}}, and {{DL|Trainer Tower|Mixed Mode}}. The first time the player beats each mode earns them a rare item, which can only be obtained once. Unlike most battle facilities, a challenger's Pokémon are not healed between battles, though recovery items like [[Revive]]s and [[Potion]]s may be used. If necessary, challengers can return to the entrance to heal their party at the Pokémon Center, though this will waste more time in comparison to using items. Battles do not award [[experience]] or money, and the levels of the opposing Trainers' Pokémon match that of the player's highest-leveled party Pokémon.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|building}}
+{{itemlist|Up-Grade|Reward for clearing Single Mode|FR=yes|LG=yes}}
+{{itemlist|Dragon Scale|Reward for clearing Double Mode|FR=yes|LG=yes}}
+{{itemlist|Metal Coat|Reward for clearing Knockout Mode|FR=yes|LG=yes}}
+{{itemlist|King's Rock|Reward for clearing Mixed Mode|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+
+
+===Canyon Entrance===
+The [[Canyon Entrance]] is a small stretch of land that leads southward from the town of [[Seven Island (town)|Seven Island]] to [[Sevault Canyon]]. The hilly landscape gives Trainers an idea of the harsh terrain up ahead.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr FRLG Aroma Lady.png|Aroma Lady|Miah|1400|2|182|Bellossom|♀|50|None|182|Bellossom|♀|50|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Juggler.png|Juggler|Mason|1880|4|100|Voltorb||47|None|100|Voltorb||47|None|204|Pineco|♂|47|None|204|Pineco|♂|47|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Pokémon Ranger M.png|Pokémon Ranger|Nicolas|1836|2|070|Weepinbell|♂|51|None|071|Victreebel|♂|51|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Pokémon Ranger F.png|Pokémon Ranger|Madeline|1836|2|044|Gloom|♀|51|None|045|Vileplume|♀|51|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Young Couple.png|Young Couple|Eve & Jon|2800|2|055|Golduck|♂|50|None|054|Psyduck|♂|50|None}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entryfl|161|Sentret|yes|yes|Grass|10, 15|30%|type1=Normal}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|44|20%|type1=Normal|type2=Flying}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|48, 50|15%|type1=Normal|type2=Flying}}
+{{catch/entryfl|231|Phanpy|yes|yes|Grass|10, 15|15%|type1=Ground}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|41|10%|type1=Normal}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|47, 50|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|41|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|41|5%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Rawst Berry|Southwest corner, northeast of Young Couple Eve & Jon ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Sevault Canyon===
+[[Sevault Canyon]] is a long, narrow valley leading southward to the ocean. The canyon seems to serve as a training ground for elite Trainers, while being guarded by equally skilled Pokémon Rangers. A small cave known as [[Tanoby Key]] is located on the valley's north side. The [[Tanoby Ruins]] lie to the south.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|mountain}}
+{{trainerentry|Spr FRLG Cool Couple.png|Cool Couple|Lex & Nya|2496|2|128|Tauros|♂|52||241|Miltank|♀|52||38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Tamer.png|Tamer|Evan|1960|3|028|Sandslash|♂|48||108|Lickitung|♂|48||217|Ursaring|♂|49|None|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Pokémon Ranger M.png|Pokémon Ranger|Jackson|1764|3|114|Tangela|♂|49||102|Exeggcute|♂|49||103|Exeggutor|♂|49||38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Pokémon Ranger F.png|Pokémon Ranger|Katelyn|1872|1|113|Chansey|♀|52||38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Crush Girl.png|Crush Girl|Cyndy|1152|3|057|Primeape|♂|48|Black Belt|237|Hitmontop|♂|48|Black Belt|067|Machoke|♂|48|Black Belt|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Leroy|1800|5|112|Rhydon|♂|47||080|Slowbro|♂|48||067|Machoke|♂|48||115|Kangaskhan|♀|47||217|Ursaring|♂|50||38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr FRLG Cooltrainer F.png|Cooltrainer|Michelle|1800|5|053|Persian|♀|47||087|Dewgong|♀|47||038|Ninetales|♀|48||078|Rapidash|♀|48||203|Girafarig|♀|50||38=Vs. Seeker}}
+{{trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entryfl|074|Geodude|yes|yes|Grass|46|20%|type1=Rock|type2=Ground}}
+{{Catch/entryfl|231|Phanpy|yes|yes|Grass|15|20%|type1=Ground}}
+{{Catch/entryfl|022|Fearow|no|yes|Grass|50|15%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|022|Fearow|yes|no|Grass|50|10%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|052|Meowth|yes|yes|Grass|43|10%|type1=Normal}}
+{{Catch/entryfl|104|Cubone|yes|yes|Grass|46|10%|type1=Ground}}
+{{Catch/entryfl|105|Marowak|yes|yes|Grass|52|10%|type1=Ground}}
+{{Catch/entryfl|053|Persian|yes|yes|Grass|49, 52|5%|type1=Normal}}
+{{Catch/entryfl|095|Onix|yes|yes|Grass|54|5%|type1=Rock|type2=Ground}}
+{{Catch/entryfl|227|Skarmory|yes|no|Grass|30|5%|type1=Steel|type2=Flying}}
+{{Catch/entryfl|246|Larvitar|yes|yes|Grass|15, 20|5%|type1=Rock|type2=Ground}}
+{{Catch/div|mountain|Rock Smash}}
+{{Catch/entryfl|074|Geodude|yes|yes|Rock Smash|25-40|65%|type1=Rock|type2=Ground}}
+{{Catch/entryfl|075|Graveler|yes|yes|Rock Smash|30-50|35%|type1=Rock|type2=Ground}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|mountain}}
+{{itemlist|Nugget|Southeast of the [[Tanoby Key]] entrance|FR=yes|LG=yes}}
+{{itemlist|Max Elixir|Tall grass patch halfway through the area, southwest corner|FR=yes|LG=yes}}
+{{itemlist|King's Rock|East-central area, behind the three large rocks (requires {{m|Strength}}, {{m|Rock Smash}})|FR=yes|LG=yes}}
+{{itemlist|Lucky Punch|In the lone house, on the table|FR=yes|LG=yes}}
+{{itemlist|Cheri Berry|Five steps south of the lone house ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+
+====Tanoby Key====
+[[File:Tanoby Key FRLG.png|thumb|Tanoby Key]]
+
+The [[Tanoby Key]] is a small cave in the northwest part of the canyon. The chamber houses seven pits in the earth, along with several boulders.
+
+{| style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 2px solid #{{locationcolor/dark|mountain}};"
+|-
+! colspan="2" style="background: #{{locationcolor/light|mountain}}; {{roundytop|5px}}; padding 5px;" | Trainer Tips!
+|-
+| style="background: #FFF; padding: 5px;" | 1.
+| style="background: #FFF; padding: 5px;" | Use {{m|Strength}} to move the north-central boulder (↑4) northward to the first pit.
+|-
+| style="background: #FFF; padding: 5px;" | 2.
+| style="background: #FFF; padding: 5px;" | Move the northwest boulder (→1, ↑2, ←3) to the northwest pit, and the northeast boulder (←1, ↑2, →3) to the northeast pit.
+|-
+| style="background: #FFF; padding: 5px;" | 3.
+| style="background: #FFF; padding: 5px;" | Move the southwest boulder (←1, ↑2) to the southwest pit, and the southeast boulder (→1, ↑2) to the southeast pit.
+|-
+| style="background: #FFF; {{roundybl|5px}}; padding: 5px;" | 4.
+| style="background: #FFF; {{roundybr|5px}}; padding: 5px;" | Move the remaining southwest boulder (↑3, ←1) to the west-central pit, and the remaining southeast boulder (↑3, →1) to the east-central pit.
+|}
+
+
+Once each pit is occupied by a boulder, the earth shakes as a mysterious rumble echoes somewhere far away.
+
+====The Chansey Dance====
+The lone building in [[Sevault Canyon]] belongs to a man and his {{p|Chansey}}. Speak to him to learn that the man loves to dance, and even offers you a chance to join in. If you accept his offer, dancing the Chansey Dance heals all of your Pokémon to full health. Lucky!
+
+===Tanoby Ruins===
+The [[Tanoby Ruins]] consist of a group of seven islets scattered near the southern edge of [[Seven Island]]. Each of these small islands holds one of the [[Tanoby Chambers]]. According to a Ruin Maniac, these ruins have been around for more than 1,500 years.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|ocean}}
+{{Trainerdiv|ocean|Requires Surf}}
+{{Trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Brandon|2400|1|095|Onix|♂|50|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Gentleman.png|Gentleman|Clifford|3528|2|105|Marowak|♂|49|None|055|Golduck|♂|49|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Painter.png|Painter|Edna|800|1|235|Smeargle|♂|50|None}} 
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Benjamin|2304|3|074|Geodude|♂|48|None|075|Graveler|♂|48|None|075|Graveler|♂|48|None}}
+{{Trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|ruins|no}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|no|Surf|5-40|95%|type1=water|type2=poison}}
+{{catch/entryfl|072|Tentacool|no|yes|Surf|5-35|90%|type1=water|type2=poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=water|type2=poison}}
+{{catch/entryfl|226|Mantine|no|yes|Surf|35-40|5%|type1=water|type2=flying}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|ruins}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Heart Scale|
+* West of Sevault Canyon; on the northwesternmost islet ''(hidden [[Recurring item|recurring item]]; group C)'' (requires {{m|Surf}})
+* West of Sevault Canyon; on the middle islet ''(hidden [[Recurring item|recurring item]]; group C)'' (requires {{m|Surf}})
+* East of Sevault Canyon; on the middle islet ''(hidden [[Recurring item|recurring item]]; group C)'' (requires {{m|Surf}})
+* East of Sevault Canyon; on the eastern most islet ''(hidden [[Recurring item|recurring item]]; group C)'' (requires {{m|Surf}})|FR=yes|LG=yes|display=[[Heart Scale]] ×4}}
+{{itlistfoot|ocean}}
+|}
+
+
+====Tanoby Chambers====
+The [[Tanoby Chambers]] are seven ruined structures from a bygone era. The intention behind their creation has long been lost to history. They may have some connection to the earth as all are named after plants; from east to west: Monean, Liptoo, Weepth, Dilford, Scufib, Rixy, and Viapois. Clearing the earthen puzzle in [[Tanoby Key]] reveals their true purpose, serving as a home to the {{p|Unown}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ruins}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ruins}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|ruins|no}}
+{{catch/div|ruins|Monean Chamber}}
+{{catch/entryfl|201|Unown|yes|yes|Cave|25|99%|type1=psychic}}
+{{catch/entryfl|201QU|Unown|yes|yes|Cave|25|1%|type1=psychic}}
+{{catch/div|ruins|Liptoo Chamber}}
+{{catch/entryfl|201C|Unown|yes|yes|Cave|25|50%|type1=psychic}}
+{{catch/entryfl|201D|Unown|yes|yes|Cave|25|30%|type1=psychic}}
+{{catch/entryfl|201H|Unown|yes|yes|Cave|25|14%|type1=psychic}}
+{{catch/entryfl|201U|Unown|yes|yes|Cave|25|5%|type1=psychic}}
+{{catch/entryfl|201O|Unown|yes|yes|Cave|25|1%|type1=psychic}}
+{{catch/div|ruins|Weepth Chamber}}
+{{catch/entryfl|201N|Unown|yes|yes|Cave|25|60%|type1=psychic}}
+{{catch/entryfl|201S|Unown|yes|yes|Cave|25|30%|type1=psychic}}
+{{catch/entryfl|201I|Unown|yes|yes|Cave|25|8%|type1=psychic}}
+{{catch/entryfl|201E|Unown|yes|yes|Cave|25|2%|type1=psychic}}
+{{catch/div|ruins|Dilford Chamber}}
+{{catch/entryfl|201P|Unown|yes|yes|Cave|25|40%|type1=psychic}}
+{{catch/entryfl|201J|Unown|yes|yes|Cave|25|20%|type1=psychic}}
+{{catch/entryfl|201L|Unown|yes|yes|Cave|25|20%|type1=psychic}}
+{{catch/entryfl|201R|Unown|yes|yes|Cave|25|14%|type1=psychic}}
+{{catch/entryfl|201Q|Unown|yes|yes|Cave|25|6%|type1=psychic}}
+{{catch/div|ruins|Scufib Chamber}}
+{{catch/entryfl|201Y|Unown|yes|yes|Cave|25|40%|type1=psychic}}
+{{catch/entryfl|201G|Unown|yes|yes|Cave|25|25%|type1=psychic}}
+{{catch/entryfl|201T|Unown|yes|yes|Cave|25|20%|type1=psychic}}
+{{catch/entryfl|201F|Unown|yes|yes|Cave|25|13%|type1=psychic}}
+{{catch/entryfl|201K|Unown|yes|yes|Cave|25|2%|type1=psychic}}
+{{catch/div|ruins|Rixy Chamber}}
+{{catch/entryfl|201V|Unown|yes|yes|Cave|25|50%|type1=psychic}}
+{{catch/entryfl|201W|Unown|yes|yes|Cave|25|30%|type1=psychic}}
+{{catch/entryfl|201X|Unown|yes|yes|Cave|25|10%|type1=psychic}}
+{{catch/entryfl|201M|Unown|yes|yes|Cave|25|8%|type1=psychic}}
+{{catch/entryfl|201B|Unown|yes|yes|Cave|25|2%|type1=psychic}}
+{{catch/div|ruins|Viapois Chamber}}
+{{catch/entryfl|201Z|Unown|yes|yes|Cave|25|99%|type1=psychic}}
+{{catch/entryfl|201EX|Unown|yes|yes|Cave|25|1%|type1=psychic}}
+{{catch/footer|ruins}}
+|}
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=18
+|prevname=Four Island, Six Island
+|nextsection=20
+|nextname=Cerulean Cave, The Pokémon League: Round 2
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|19]]

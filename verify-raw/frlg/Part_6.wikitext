@@ -1,0 +1,558 @@
+{{WalkthroughNotice|FRLG}}
+==Route 6==
+[[File:Kanto Route 6 FRLG.png|thumb|130px|Route 6]]
+
+{{rt|6|Kanto}} consists of a road running south from [[Saffron City]] and passing the southern end of the [[Underground Path (Kanto Routes 5-6)|Underground Path]] on its way to [[Vermilion City]]. 
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Keigo|192|3|013|Weedle|♂|16|None|010|Caterpie|♂|16|None|013|Weedle|♂|16|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Ricky|400|1|007|Squirtle|♂|20|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Nancy|320|2|019|Rattata|♀|16|None|025|Pikachu|♀|16|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Elijah|240|1|012|Butterfree|♂|20|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Isabelle|320|3|016|Pidgey|♀|16|None|016|Pidgey|♀|16|None|016|Pidgey|♀|16|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Jeff|320|2|021|Spearow|♂|16|None|020|Raticate|♂|16|None|38=Vs. Seeker}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|13, 15-16|40%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|052|Meowth|yes|yes|Grass|10, 12, 14, 16|35%|type1=Normal}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|13, 15-16|25%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|13, 15-16|25%|type1=Grass|type2=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Rare Candy|Northeast hill, two steps north of the gap between ledges ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Sitrus Berry|On the northwest hill ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+{{-}}
+==Vermilion City==
+[[File:Vermilion City FRLG.png|thumb|Vermilion City]]
+
+[[Vermilion City]] is a popular port city located between {{rt|6|Kanto}} and {{rt|11|Kanto}}. Vermilion Harbor sees many ships coming and going, including the [[S.S. Anne]], which has recently arrived for its yearly visit on its voyage around the world.
+
+{| class="expandable" align="center" style="background: #F99349; {{roundy}}; border: 5px solid #FBB786;"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|sand|no}}
+{{Catch/div|sand|Gift Pokémon}}
+{{Catch/entryfl|083|Farfetch'd|yes|yes|Trade|tradenum=021|tradename=Spearow|The same as the traded Pokémon|One|type1=Normal|type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" align="center" style="background: #F99349; {{roundy}}; border: 5px solid #FBB786;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|sand}}
+{{itemlist|Max Ether|Four steps south and one step west of the Pokémon Center entrance ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Vs. Seeker|Pokémon Center; from the female Ace Trainer at the counter|FR=yes|LG=yes}}
+{{itemlist|Old Rod III|Northwest house, from the first Fishing Guru|FR=yes|LG=yes|display=[[Old Rod]]}}
+{{itemlist|Bike Voucher|West-central building, from the Pokémon Fan Club Chairman|FR=yes|LG=yes}}
+{{itemlist|Stick|Held by Ch'Ding, a {{p|Farfetch'd}} received through a trade|FR=yes|LG=yes}}
+{{catch/div|sand|After clearing the S.S. Anne}}
+{{itemlist|TM Electric|From Lt. Surge, after defeating him (requires {{m|Cut}})|FR=yes|LG=yes|display={{TM|34|Shock Wave}}}}
+{{itlistfoot|sand}}
+|}
+
+
+===Pokémon Center===
+Visit the Pokémon Center and speak to the female Ace Trainer near the counter to receive the [[Vs. Seeker]]. This device draws the attention of any nearby Trainers that you previously defeated who would like a rematch. The battery is drained after each use and must be recharged, reaching full capacity after 100 steps have been taken. The device cannot be used in buildings or caves.
+
+===Fishing Guru 1===
+Visit the house in the northwest part of town to meet a Fisherman known as the [[Fishing Brothers|Fishing Guru]]. Convince him that you love fishing as much as he does, and he rewards you with an [[Old Rod]]. This particular model is not the most impressive fishing rod, but it is useful for reeling in {{p|Magikarp}}.
+
+===Time for a Trade===
+Stop by the house in the middle of the city and speak to the girl inside. She is hoping to [[trade]] for a {{p|Spearow}}, and is willing to part with her {{p|Farfetch'd}} for one. Spearow are found nearly everywhere, but Farfetch'd is one of a kind. The Pokémon arrives holding a [[Leek|Stick]], which boosts its [[critical hit]] ratio.
+
+===Pokémon Fan Club===
+The building to the north of the [[Vermilion Gym]] is home to the [[Pokémon Fan Club]]. Speak to the Chairman and listen to his rambling thoughts to receive a [[Bike Voucher]] in appreciation. With this ticket, you can return to the Bike Shop in [[Cerulean City]] at any time and exchange it for a [[Bicycle]]. Riding a bike allows you to travel twice as fast as walking speed.
+
+==Vermilion Harbor==
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|water|no}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/footer|water}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|sand}}
+{{itemlist|Lava Cookie|Far southeast of the {{DL|S.S. Anne|Rumors|truck}}, in the southeast corner; only accessible while the S.S. Anne is moored  ''(hidden)'' (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itlistfoot|sand}}
+|}
+
+
+===S.S. Anne===
+[[File:SS Anne 1F FRLG.png|thumb|S.S. Anne, 1F]]
+[[File:SS Anne Basement Rooms FRLG.png|thumb|S.S. Anne, B1F]]
+[[File:SS Anne 2F FRLG.png|thumb|S.S. Anne, 2F]]
+[[File:SS Anne 3F FRLG.png|thumb|S.S. Anne, 3F]]
+
+The [[S.S. Anne]] is a popular luxury cruise ship that sails all around the world and visits [[Vermilion City]] once a year. This will not be a relaxing time, however, as there are many Trainers on board.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! 1F
+|- 
+| 
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Gentleman.png|Gentleman|Thomas|1296|2|058|Growlithe|♂|18|None|058|Growlithe|♂|18|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Gentleman.png|Gentleman|Arthur|1368|2|032|Nidoran♂||19|None|029|Nidoran♀||19|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Ann|288|2|016|Pidgey|♀|18|None|029|Nidoran♀||18|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Tyler|336|1|032|Nidoran♂||21|None}}
+{{Trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! B1F
+|- 
+| 
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Barny|612|3|072|Tentacool|♂|17|None|120|Staryu||17|None|090|Shellder|♂|17|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Phillip|640|1|066|Machop|♂|20|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Huey|576|2|072|Tentacool|♂|18|None|120|Staryu||18|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Dylan|544|3|116|Horsea|♂|17|None|116|Horsea|♂|17|None|116|Horsea|♂|17|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Duncan|544|3|116|Horsea|♂|17|None|090|Shellder|♂|17|None|072|Tentacool|♂|17|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Leonard|672|1|090|Shellder|♂|21|None}}
+{{Trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Deck
+|- 
+| 
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Trevor|544|2|066|Machop|♂|17|None|072|Tentacool|♂|17|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Edmond|576|2|066|Machop|♂|18|None|090|Shellder|♂|18|None}}
+{{Trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! 2F
+|- 
+|
+{{trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Dale|612|3|118|Goldeen|♂|17|None|118|Goldeen|♂|17|None|072|Tentacool|♂|17|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Gentleman.png|Gentleman|Brooks|1656|1|025|Pikachu|♂|23|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Dawn|288|2|019|Rattata|♀|18|None|025|Pikachu|♀|18|None}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Gentleman.png|Gentleman|Lamar|1224|2|058|Growlithe|♂|17|None|077|Ponyta|♂|17|None}}
+{{Trainerfooter|ocean}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|ocean}}
+{{catch/div|ocean|1F}}
+{{Itemlist|TM Fighting|Second cabin from the left|FR=yes|LG=yes|display={{TM|31|Brick Break}}}}
+{{Itemlist|Great Ball|Kitchen; in the lower left corner|FR=yes|LG=yes}}
+{{itemlist|Pecha Berry|Kitchen; in the nearest trash can to the doorway ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Cheri Berry|Kitchen; in the middle trash can ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Chesto Berry|Kitchen; in the farthest trash can from the doorway ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|ocean|2F}}
+{{Itemlist|Stardust|Second cabin from the left|FR=yes|LG=yes}}
+{{Itemlist|X Attack|Fourth cabin from the left|FR=yes|LG=yes}}
+{{Itemlist|HM Normal|Captain's quarters; from the Captain, after helping him calm his nerves|FR=yes|LG=yes|display={{HM|01|Cut}}}}
+{{catch/div|ocean|B1F}}
+{{itemlist|Hyper Potion|In the hallway; in the trash can near the stairs to 1F ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Super Potion|In the right-most cabin|FR=yes|LG=yes}}
+{{Itemlist|Ether|In the middle cabin|FR=yes|LG=yes}}
+{{Itemlist|TM Psychic|Second cabin from the left|FR=yes|LG=yes|display={{TM|44|Rest}}}}
+{{Itlistfoot|ocean}}
+|}
+
+
+====1F====
+Turn to the right and take the stairs down to the lower floor.
+
+====B1F====
+This part of the ship is a dead-end hallway with five cabins. Inspect the trash can by the stairs for a [[Hyper Potion]]. Visit the right-most room for a [[Super Potion]] and the middle room for an [[Ether]]. Pick up {{TM|44|Rest}} in the fourth room from the stairs, then head back up to the main floor.
+
+====1F====
+Follow the hallway around to the front of the ship and visit the second cabin from the left. After battling Youngster Tyler, grab {{TM|31|Brick Break}} in the southeast corner. Turn the corner and continue on to reach the kitchen. Grab the [[Great Ball]] in the southwest corner and inspect the three trash cans for any forgotten items. Leave the kitchen and climb the nearest stairs to reach the upper floor.
+
+====2F====
+The nearest doorway leads to the deck of the ship, where two Sailors are looking to battle. Step inside the second cabin from the left to battle Fisherman Dale, Gentleman Brooks, and get a [[Stardust]]. Visit the fourth room to battle either Lass Dawn or Gentleman Lamar to pick up an [[X Attack]]. When you approach the captain's quarters at the back of the ship, {{ga|Blue}} is just leaving.
+
+=====Rival Battle 4=====
+He again leads with his {{p|Pidgeotto}}, so use {{t|Electric}} and {{t|Rock}} moves for best results. His {{p|Rattata}} has evolved into {{p|Raticate}}, with an increased {{stat|Attack}} stat that allows it to deal even greater damage with {{m|Hyper Fang}}. Blue's {{p|Abra}} has evolved as well, though its low {{stat|Defense}} still leaves it exposed to physical moves. His [[first partner Pokémon|first Pokémon]] has grown into its second stage as well. It is best to avoid pitting your own against it and use a Pokémon with a type advantage instead.
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}720
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = S.S. Anne
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 19
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0020
+| pokemon = Raticate
+| gender = male
+| level = 16
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+| move4 = Hyper Fang | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 18
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Confusion | move2type = Psychic
+| move3 = Disable | move3type = Normal
+| move4 = Kinesis | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0005
+| pokemon = Charmeleon
+| level = 20
+| gender = male
+| type1 = Fire
+| ability = Blaze
+| move1 = Scratch | move1type = Normal
+| move2 = Growl | move2type = Normal
+| move3 = Ember | move3type = Fire
+| move4 = Metal Claw | move4type = Steel
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0004|Charmander}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}720
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = S.S. Anne
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 19
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0020
+| pokemon = Raticate
+| gender = male
+| level = 16
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+| move4 = Hyper Fang | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 18
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Confusion | move2type = Psychic
+| move3 = Disable | move3type = Normal
+| move4 = Kinesis | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0008
+| pokemon = Wartortle
+| level = 20
+| gender = male
+| type1 = Water
+| ability = Torrent
+| move1 = Bite | move1type = Dark
+| move2 = Bubble | move2type = Water
+| move3 = Withdraw | move3type = Water
+| move4 = Water Gun |move4type = Water
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0007|Squirtle}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}720
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = S.S. Anne
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 19
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0020
+| pokemon = Raticate
+| gender = male
+| level = 16
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+| move4 = Hyper Fang | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 18
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+| move2 = Confusion | move2type = Psychic
+| move3 = Disable | move3type = Normal
+| move4 = Kinesis | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0002
+| pokemon = Ivysaur
+| level  = 20
+| gender = male
+| type1 = Grass 
+| type2 = Poison
+| ability = Overgrow
+| move1 = Sleep Powder | move1type = Grass
+| move2 = PoisonPowder | move2type = Poison
+| move3 = Vine Whip | move3type = Grass
+| move4 = Leech Seed | move4type = Grass
+}}
+{{Party/end}}
+
+
+Despite his loss, he taunts you again as usual before walking away. Enter the captain's quarters to find him hunched over a trash can; it seems like he got seasick. Speak to him to help him out with a quick backrub and he will be feeling good as new. He gives you {{HM|01|Cut}} to show his appreciation. This field move lets you chop down certain inconveniently-placed trees to reach new areas.
+
+Be sure to collect all of the items on board before leaving, as the ship sets sail when you do. Use [[HM01]] to teach {{m|Cut}} to a compatible Pokémon, then set out for the Vermilion Gym.
+
+==Vermilion City==
+===Vermilion Gym===
+[[File:Vermilion Gym FRLG.png|thumb|Vermilion Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|VERMILION CITY POKéMON GYM<br>LEADER: LT. SURGE}}
+{{sign|FRLG|The Lightning American!}}
+{{sign|FRLG|footer}}
+
+The [[Vermilion Gym]] specializes in {{type|Electric}} Pokémon. Electric-type moves are super effective against {{t|Flying}}- and {{type|Water}} Pokémon, while Electric-type Pokémon are weak to {{type|Ground}} moves.
+
+The Gym Leader can be found in the back room, beyond a set of electronic doors. Reaching him requires challengers to {{DL|Vermilion Gym|Generations III and IV|flip two switches}} hidden randomly among the many trash cans. Once the first switch has been found, the second will be in an adjacent can. If the wrong can is inspected and there is no switch inside, the puzzle resets.
+
+[[Lt. Surge]] leads with his {{p|Voltorb}}. Its {{stat|Attack}} stat may be low, but {{m|Screech}} lowers the target's {{stat|Defense}} so that it can deal an increased amount of damage. His {{p|Pikachu}} can {{status|Paralysis|paralyze}} the target with {{m|Thunder Wave}}, so be sure to bring a [[Paralyze Heal|Parlyz Heal]] or two. {{p|Raichu}}'s high {{stat|Special Attack}} lets it deal a good bit of damage with {{m|Shock Wave}}. Use Ground moves like {{m|Dig}} for best results.
+
+{{WalkthroughGym
+| background = {{electric color}}
+| headcolor = {{electric color light}}
+| name = Vermilion Gym
+| badge = Thunder Badge
+| image = Thunder Badge.png
+| trainers = 
+{{Trainerheader|Electric}}
+{{Trainerentry|Spr FRLG Sailor.png|Sailor|Dwayne|672|2|025|Pikachu|♂|21|None|025|Pikachu|♂|21|None}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr FRLG Engineer.png|Engineer|Baily|1008|2|100|Voltorb||21|None|081|Magnemite||21|None}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr FRLG Gentleman.png|Gentleman|Tucker|1656|1|025|Pikachu|♂|23|None}}
+{{Trainerfooter|Electric|I}}
+| party = 
+{{Party
+| background = {{electric color}}
+| border = {{electric color dark}}
+| headcolor = {{electric color light}}
+| middle = yes
+| sprite = Spr FRLG Lt Surge.png
+| prize = {{PDollar}}2,400
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Lt. Surge}}
+| game = FRLG
+| location = Vermilion Gym
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0100
+| pokemon = Voltorb
+| type1 = Electric
+| level = 21
+| ability = Soundproof
+| move1 = Shock Wave | move1type = Electric
+| move2 = Tackle | move2type = Normal
+| move3 = Screech | move3type = Normal
+| move4 = SonicBoom | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0025
+| pokemon = Pikachu
+| type1 = Electric
+| level = 18
+| gender = male
+| ability = Static
+| move1 = Shock Wave | move1type = Electric
+| move2 = Thunder Wave | move2type = Electric
+| move3 = Quick Attack | move3type = Normal
+| move4 = Double Team | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0026
+| pokemon = Raichu
+| type1 = Electric
+| level = 24
+| gender = male
+| ability = Static
+| move1 = Shock Wave | move1type = Electric
+| move2 = Thunder Wave | move2type = Electric
+| move3 = Quick Attack | move3type = Normal
+| move4 = Double Team | move4type = Normal
+}}
+{{Party/end}}
+}}
+
+After the battle, [[Lt. Surge]] awards you the {{badge|Thunder}}, which gives your Pokémon a slight {{stat|Speed}} boost during battle and enables the use of {{m|Fly}} in the field. He also gives you {{TM|34|Shock Wave}} as a prize.
+
+The next destination is {{rt|11|Kanto}} to the east.
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=5
+|prevname=Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+|nextsection=7
+|nextname=Route 11, Route 2, Pewter City, Cerulean City, Route 9, Route 10
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|06]]

@@ -1,0 +1,311 @@
+{{WalkthroughNotice|FRLG}}
+==Route 10==
+===Rock Tunnel===
+[[File:Rock Tunnel 1F FRLG.png|thumb|Rock Tunnel, 1F]]
+[[File:Rock Tunnel B1F FRLG.png|thumb|Rock Tunnel, B1F]]
+
+As it has been left in its natural state and undeveloped, [[Rock Tunnel]] is pitch-black inside. Though not required, it is useful to bring a Pokémon that can use {{m|Flash}} to illuminate the winding tunnels. There are many Trainers within the cave, whether for the fun of exploring, training, or simply having gotten lost in the darkness.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|- 
+| 
+{{Trainerheader|cave}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Ashton|1104|2|104|Cubone|♂|23|None|079|Slowpoke|♂|23|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Lenny|684|4|074|Geodude|♂|19|None|066|Machop|♂|19|None|074|Geodude|♂|19|None|074|Geodude|♂|19|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Oliver|720|3|095|Onix|♂|20|None|095|Onix|♂|20|None|074|Geodude|♂|20|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Lucas|756|2|074|Geodude|♂|21|None|075|Graveler|♂|21|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Leah|440|2|069|Bellsprout|♀|22|None|035|Clefairy|♀|22|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Ariana|380|4|016|Pidgey|♀|19|None|019|Rattata|♀|19|None|019|Rattata|♀|19|None|069|Bellsprout|♀|19|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Dana|400|3|052|Meowth|♀|20|None|043|Oddish|♀|20|None|016|Pidgey|♀|20|None}}
+{{Trainerfooter|cave|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F
+|- 
+| 
+{{Trainerheader|cave}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Winston|1200|1|079|Slowpoke|♂|25|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Martha|440|2|043|Oddish|♀|22|None|001|Bulbasaur|♂|22|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Steve|1056|2|004|Charmander|♂|22|None|104|Cubone|♂|22|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Allen|900|1|074|Geodude|♂|25|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Eric|720|2|066|Machop|♂|20|None|095|Onix|♂|20|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Sofia|420|3|039|Jigglypuff|♀|21|None|016|Pidgey|♀|21|None|052|Meowth|♀|21|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Dudley|756|3|074|Geodude|♂|21|None|074|Geodude|♂|21|None|075|Graveler|♂|21|None}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Cooper|960|3|079|Slowpoke|♂|20|None|079|Slowpoke|♂|20|None|079|Slowpoke|♂|20|None}}
+{{Trainerfooter|cave|FRLG}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|- 
+|
+{{catch/header|cave|no}}
+{{catch/entryfl|074|Geodude|yes|yes|Cave|15-17|35%|type1=Rock|type2=Ground}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|15-16|30%|type1=Poison|type2=Flying}}
+{{catch/entryfl|056|Mankey|yes|yes|Cave|16-17|15%|type1=Fighting}}
+{{catch/entryfl|066|Machop|yes|yes|Cave|16-17|15%|type1=Fighting}}
+{{catch/entryfl|095|Onix|yes|yes|Cave|13, 15|5%|type1=Rock|type2=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F
+|- 
+|
+{{catch/header|cave|no}}
+{{catch/entryfl|074|Geodude|yes|yes|Cave|15-17|35%|type1=Rock|type2=Ground}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|15-16|30%|type1=Poison|type2=Flying}}
+{{catch/entryfl|056|Mankey|yes|yes|Cave|16-17|15%|type1=Fighting}}
+{{catch/entryfl|066|Machop|yes|yes|Cave|17|10%|type1=Fighting}}
+{{catch/entryfl|095|Onix|yes|yes|Cave|13, 15, 17|10%|type1=Rock|type2=Ground}}
+{{catch/footer|cave}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|cave}}
+{{catch/div|cave|1F}}
+{{itemlist|Repel|Northeast; east of the cave entrance|FR=yes|LG=yes}}
+{{itemlist|Escape Rope|West; near the middle of 1F|FR=yes|LG=yes}}
+{{itemlist|Pearl|South; west of Picnicker Leah and Picnicker Ariana|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{catch/div|cave|B1F}}
+{{itemlist|Revive|Southeast; in the southwest corner of B1F|FR=yes|LG=yes}}
+{{itemlist|Max Ether|Northwest; north of Picnicker Sofia|FR=yes|LG=yes}}
+{{itlistfoot|cave}}
+|}
+
+
+====1F (Northeast)====
+Go east to grab a [[Repel]]. Defeat PokéManiac Ashton, then climb down the ladder in the northeast corner to reach B1F.
+
+====B1F (Southeast)====
+Go southwest to battle PokéManiac Winston, and pick up a [[Revive]] in a dead-end path farther west. Follow the tunnel northeastward to battle the next four Trainers. In the northeast corner, take the ladder back up to 1F.
+
+====1F (West)====
+Head southeast past Hiker Lenny and Hiker Oliver. Grab the [[Escape Rope]] to the east and battle Hiker Lucas before climbing the nearby ladder.
+
+====B1F (Northwest)====
+Go southwest to battle Picnicker Sofia, then head south to meet another [[Move Tutor]]; this Youngster offers to teach the move {{m|Rock Slide}}. Turn around and go north from Sofia to reach a [[Max Ether]]. Continue west to battle Hiker Dudley and PokéManiac Cooper, then climb the final ladder in the northwest.
+
+====1F (South)====
+Go south to battle Picnicker Leah and Picnicker Ariana. Collect the {{i|Pearl}} to the northwest, and continue westward to battle Picnicker Dana. The exit is located to the southwest.
+
+{{-}}
+
+==Route 10 (South)==
+The southern part of {{rt|10|Kanto}} is shorter than the northern one. Several more Trainers can be found here, but if your Pokémon are injured the eastern path can be taken to avoid them.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Carol|420|2|016|Pidgey|♀|21|None|017|Pidgeotto|♀|21|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Clark|756|2|074|Geodude|♂|21|None|095|Onix|♂|21|None}} 
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Trent|684|2|095|Onix|♂|19|None|075|Graveler|♂|19|None|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Herman|960|2|104|Cubone|♂|20|None|079|Slowpoke|♂|20|None|38=Vs. Seeker}}
+{{trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|mountain}}
+{{itemlist|Nanab Berry|East of the Rock Tunnel exit ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+
+==Lavender Town==
+[[File:Lavender Town FRLG.png|thumb|Lavender Town]]
+
+[[Lavender Town]] is a quiet, somber town where people come to visit their departed Pokémon. The area is known for ghost sightings in [[Pokémon Tower]]. The Volunteer Pokémon House and the [[Name Rater]]'s home are also located here. In addition, the local Poké Mart offers new items like [[Revive]]s and [[Great Ball]]s.
+
+{| class="expandable" align="center" style="background: #C0B7D5; {{roundy}}; border: 5px solid #D5CFE3;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|ghost}}
+{{catch/div|ghost|Later visit}}
+{{itemlist|Poké Flute III|Pokémon House; from [[Mr. Fuji]], after rescuing him in Pokémon Tower|FR=yes|LG=yes|display=[[Poké Flute]]}}
+{{itlistfoot|ghost}}
+|}
+
+
+===Name Rater===
+One of the houses on the south side of town belongs to the [[Name Rater]]. This man judges a Trainer's nickname for their Pokémon, and offers the chance to change it.  His service is free, so nicknames may be changed repeatedly.
+
+===Lavender Volunteer Pokémon House===
+The Lavender Volunteer Pokémon House is located in the center of town. Founded by [[Mr. Fuji]], the organization was established to care for orphaned and abandoned Pokémon. Many members of the group live here in their safe house while looking after these Pokémon. According to one youngster, it is odd that Mr. Fuji is not here at the moment, and wonders aloud where he may have gone.
+
+===Pokémon Tower===
+As the place where departed Pokémon are laid to rest, [[Pokémon Tower]] has a strong connection to the spirit world and most of the wild Pokémon inside belong to the {{t|Ghost}} type. The paranormal activity increases beyond the second floor, where ghosts and possessed Channelers are a common sight. However, without a [[Silph Scope|certain item]], it is impossible to reach the tower's highest floor.
+
+====Rival Battle 5====
+{{ga|Blue}} can be found on the second floor. It is possible to battle him right now, or delay the fight until you are ready to clear the tower.
+
+====Restless Spirits====
+Most {{OBP|ghost|Pokémon Tower}}s inside the tower are truly mischievous Pokémon in disguise that can be battled or captured after obtaining a [[Silph Scope|certain item]].  {{p|Gastly}} and {{p|Haunter}} are two of only three known {{type|Ghost}} Pokémon, so it is worthwhile to track them down. The one true ghost here blocks access to the top floor, but as there is nothing that can be done but run from it, it is best to leave it for later. Rumor says there is some kind of prototype in [[Celadon City]] to the west that can reveal what is hidden.
+
+==Route 8==
+[[File:Kanto Route 8 FRLG.png|thumb|400px|Route 8]]
+
+{{rt|8|Kanto}} connects [[Lavender Town]] to the east and [[Saffron City]] to the west. The eastern end of the second Underground Path can be found here.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Julia|352|2|035|Clefairy|♀|22|None|035|Clefairy|♀|22|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Rich|1728|2|058|Growlithe|♂|24|None|037|Vulpix|♀|24|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Super Nerd.png|Super Nerd|Glenn|528|3|088|Grimer|♂|22|None|089|Muk|♂|22|None|088|Grimer|♂|22|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Twins.png|Twins|Eli & Anne|528|2|035|Clefairy|♀|22|None|039|Jigglypuff|♀|22|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Paige|368|2|029|Nidoran♀|None|23|None|030|Nidorina|♀|23|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Super Nerd.png|Super Nerd|Leslie|624|1|109|Koffing|♂|26|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Andrea|384|3|052|Meowth|♀|24|None|052|Meowth|♀|24|None|052|Meowth|♀|24|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Megan|304|5|016|Pidgey|♀|19|None|019|Rattata|♀|19|None|032|Nidoran♂|None|19|None|052|Meowth|♀|19|None|025|Pikachu|♀|19|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Jaren|480|2|088|Grimer|♂|24|None|088|Grimer|♂|24|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Ricardo|460|3|109|Koffing|♂|22|None|109|Koffing|♂|22|None|088|Grimer|♂|23|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Stan|1584|3|060|Poliwag|♂|22|None|060|Poliwag|♂|22|None|061|Poliwhirl|♂|22|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Super Nerd.png|Super Nerd|Aidan|480|4|100|Voltorb|None|20|None|100|Voltorb|None|20|None|081|Magnemite|None|20|None|109|Koffing|♂|20|None}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|18, 20|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|052|Meowth|yes|yes|Grass|18, 20|30%|type1=Normal}}
+{{Catch/entryfl|023|Ekans|yes|no|Grass|17, 19|20%|type1=Poison}}
+{{Catch/entryfl|027|Sandshrew|no|yes|Grass|17, 19|20%|type1=Ground}}
+{{Catch/entryfl|037|Vulpix|no|yes|Grass|15-18|20%|type1=Fire}}
+{{Catch/entryfl|058|Growlithe|yes|no|Grass|15-18|20%|type1=Fire}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Leppa Berry|Tall grass patch, southeast area ''(hidden)'' (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{itemlist|Lum Berry|Tall grass patch, northwest area ''(hidden)'' (requires Cut)|FR=yes|LG=yes}}
+{{itemlist|Rawst Berry|Tall grass patch, northeast area ''(hidden)'' (requires Cut)|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Underground Path===
+It is still not possible to reach [[Saffron City]], as all the gatekeepers are too distracted wishing they had something to drink. Enter the second [[Underground Path (Kanto Routes 7-8)|Underground Path]] instead and follow the tunnel westward to {{rt|7|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|Ice Heal|Four steps east, two steps south of the second lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Antidote|Four steps east, four steps south of the third lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Ether|Three steps west, one step south of the third lamp from the east ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{Itemlist|Burn Heal|Three steps west, two steps south of the fourth lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Awakening|Two steps west, three steps south of the fifth lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Paralyze Heal|Four steps east, three steps south of the seventh lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{Itemlist|Potion|Four steps west, three steps down of the seventh lamp from the east ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+
+
+==Route 7==
+[[File:Kanto Route 7 FRLG.png|thumb|Route 7]]
+
+{{rt|7|Kanto}} is a short path that links [[Saffron City]] to the east and [[Celadon City]] to the west. The western end of the second [[Underground Path (Kanto Routes 7-8)|Underground Path]] emerges here.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|052|Meowth|yes|yes|Grass|17-20|40%|type1=Normal}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|19, 22|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|19, 22|20%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|19, 22|20%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|037|Vulpix|no|yes|Grass|18, 20|10%|type1=Fire}}
+{{Catch/entryfl|058|Growlithe|yes|no|Grass|18, 20|10%|type1=Fire}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Wepear Berry|Southeast corner of the route ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=7
+|prevname=Route 11, Diglett's Cave, Pewter Museum, Route 9, Route 10
+|nextsection=9
+|nextname=Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|08]]

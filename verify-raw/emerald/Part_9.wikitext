@@ -1,0 +1,321 @@
+==Abandoned Ship (optional)==
+[[File:Abandoned Ship exterior RSE.png|thumb|Abandoned Ship, exterior]]
+[[File:Abandoned Ship 1F and rooms RSE.png|thumb|left|Abandoned Ship, 1F]]
+[[File:Abandoned Ship B1F and rooms RSE.png|thumb|left|Abandoned Ship, B1F]]
+Located on {{rt|108|Hoenn}}, the [[Abandoned Ship]] is all that remains from when the S.S. Cactus ran aground. The old vessel has many rusted holes, broken doors, and furniture scattered around. Once slated for demolition, the half-sunken vessel now exists as a refuge for water-dwelling Pokémon. Navigating the structure requires the use of {{m|Dive|a certain field move}} in addition to {{m|Surf}}, so some parts will be inaccessible for now. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{catch/div|ocean|1F (east)}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Thalia|2000<br/><small>Potential [[Double Battle]] with Demetrius</small>|2|320|Wailmer|♀|25||116|Horsea|♀|25||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Demetrius|400<br/><small>Potential [[Double Battle]] with Thalia</small>|2|263|Zigzagoon|♂|25||309|Electrike|♂|25|}}
+{{catch/div|ocean|B1F}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Duncan|800|2|363|Spheal|♂|25||067|Machoke|♂|25|}}
+{{catch/div|ocean|1F (west)}}
+{{trainerentry|Spr RS Tuber M.png|Tuber|Charlie|104|1|183|Marill|♂|26|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Garrison|1560<br/><small>Potential [[Double Battle]] with Jani</small>|1|028|Sandslash|♂|26|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Tuber F.png|Tuber|Jani|104<br/><small>Potential [[Double Battle]] with Garrison</small>|1|183|Marill|♀|26|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Young Couple.png|Young Couple|Kira & Dan|1600|2|313|Volbeat|♂|25||314|Illumise|♀|25||38=Nav}}
+{{catch/div|ocean|Rematch}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Thalia{{tt|*|First rematch}}|2720|2|320|Wailmer|♀|34||116|Horsea|♀|34||38=Nav}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Thalia{{tt|*|Second and third rematch}}|{{tt|2880|Second rematch}}/{{tt|3040|Third rematch}}|3|370|Luvdisc|♀|{{tt|36|Second rematch}}/{{tt|38|Third rematch}}||320|Wailmer|♀|{{tt|36|Second rematch}}/{{tt|38|Third rematch}}||117|Seadra|♀|{{tt|36|Second rematch}}/{{tt|38|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Thalia{{tt|*|Fourth rematch onwards}}|3200|3|370|Luvdisc|♀|40||321|Wailord|♀|40||230|Kingdra|♀|40||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Young Couple.png|Young Couple|Kira & Dan|{{tt|1920|First rematch}}/{{tt|2112|Second rematch}}/{{tt|2304|Third rematch}}/{{tt|2496|Fourth rematch onwards}}|2|313|Volbeat|♂|{{tt|30|First rematch}}/{{tt|33|Second rematch}}/{{tt|36|Third rematch}}/{{tt|39|Fourth rematch onwards}}||314|Illumise|♀|{{tt|30|First rematch}}/{{tt|33|Second rematch}}/{{tt|36|Third rematch}}/{{tt|39|Fourth rematch onwards}}||38=Nav}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|99%|type1=Water|type2=Poison}}
+{{Catch/entry3|073|Tentacruel|no|no|yes|Surf|30-35|1%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{catch/div|ocean|1F}}
+{{itemlist|Harbor Mail|East side, northwest room|E=yes}}
+{{itemlist|Revive|West side, north room|E=yes}}
+{{catch/div|ocean|B1F}}
+{{itemlist|Dive Ball|In the cabin with the broken door|E=yes}}
+{{itemlist|Escape Rope|Southwest cabin|E=yes}}
+{{itemlist|TM Ice|Northeast room (requires {{ho|Storage Key}})|E=yes|display={{TM|13|Ice Beam}}}}
+{{catch/div|ocean|2F}}
+{{itemlist|Storage Key III|Captain's office|E=yes|display={{ho|Storage Key}}}}
+{{itlistfoot|ocean}}
+|}
+
+===1F (east)===
+Three of the four cabins here are connected. Visit the isolated northwest cabin for a [[Harbor Mail]] and head downstairs.
+
+===B1F===
+Fight Sailor Duncan and collect a [[Dive Ball]] from the north-central cabin. Visit the southwest cabin for an [[Escape Rope]] and climb the stairs in the northwest corner.
+
+===1F (west)===
+Pass through the north cabin to get a [[Revive]], then go through the south door to reach the outside of the ship. Climb the stairway there to reach the Captain's office.
+
+===Captain's Office===
+The Scientist inside is investigating the ship on [[Captain Stern]]'s behalf. Stern asked him to find a Scanner, but he hasn't had much success. Pick up the nearby {{ho|Storage Key}} and return to the basement floor.
+
+===B1F===
+Inspect the locked door to the northeast cabin to insert the Storage Key. The key becomes stuck in the lock, but the door opens. Inside, you find {{TM|13|Ice Beam}}. After that, head for the south-central cabin. Seawater has flooded into the room, so you can come back and {{m|Dive|go underwater}} later in the game.
+
+==Trick House - Puzzle 4 (optional)==
+In [[Trick House]] now you can complete the puzzle 4. First, make sure you have a Pokémon that knows {{m|Strength}}.
+
+==Mauville City (optional)==
+When you return to {{ci|Mauville}}, you find [[Wattson]] standing near the Pokémon Center. He asks for a favor, and explains that the city has an underground sector known as [[New Mauville]]. There's a generator inside that hasn't been functioning properly, and he needs you to go and turn it off before the situation gets out of control. He gives you the {{ho|Basement Key}} and directs you to the facility's entrance on {{rt|110|Hoenn}}. {{m|Surf}} eastward under the north end of [[Seaside Cycling Road]] to reach the facility.
+{| class="expandable" style="margin: auto; background: #DC8FEA; {{roundy}}; border: 5px solid #E0B0FF;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|Basement Key III|From Wattson, after agreeing to help shut down New Mauville's generator|E=yes|display={{ho|Basement Key}}}}
+{{itemlist|TM Electric|From Wattson, after shutting down New Mauville's generator|E=yes|display={{TM|24|Thunderbolt}}}}
+{{itlistfoot|road}}
+|}
+
+==New Mauville (optional)==
+[[File:New Mauville entrance E.png|thumb|left|New Mauville, Entrance]]
+[[File:New Mauville RSE.png|thumb|New Mauville, B1F]]
+[[New Mauville]] was intended to be an underground city extending dozens of floors below the surface. However, the project died in development when it was discovered to be a habitat for wild Pokémon.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|building|no}}
+{{Catch/div|building|Entrance}}
+{{Catch/entry3|081|Magnemite|no|no|yes|Entrance|22-26|50%|type1=Electric|type2=Steel}}
+{{Catch/entry3|100|Voltorb|no|no|yes|Entrance|22-26|50%|type1=Electric}}
+{{Catch/div|building|Basement}}
+{{Catch/entry3|081|Magnemite|no|no|yes|Basement|22-26|49%|type1=Electric|type2=Steel}}
+{{Catch/entry3|100|Voltorb|no|no|yes|Basement|22-26|49%|type1=Electric}}
+{{Catch/entry3|082|Magneton|no|no|yes|Basement|26|1%|type1=Electric|type2=Steel}}
+{{Catch/entry3|101|Electrode|no|no|yes|Basement|26|1%|type1=Electric}}
+{{Catch/div|building|Special}}
+{{Catch/entry3|100|Voltorb|no|no|yes|Fake|25|Three|type1=Electric}}
+{{Catch/footer|building}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|building}}
+{{itemlist|Escape Rope|Near the center of the floor, on a blue switch|E=yes}}
+{{itemlist|Ultra Ball|East-southeast room, north of the entrance|E=yes}}
+{{itemlist|Paralyze Heal|Northwest part of the floor, on a green switch|E=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{itemlist|Full Heal|North-central room, on a green switch|E=yes}}
+{{itemlist|Thunder Stone|East of the generator in the northeast room|E=yes|display=[[Thunder Stone|Thunderstone]]}}
+{{catch/div|building|Fake Items}}
+{{itemlist|None|
+* Near the center of the floor, on a green switch
+* Northwest part of the floor, on a blue switch
+* North-central room, on a blue switch|E=yes|display={{p|Voltorb}} ×3|sprite=100MS}}
+{{itlistfoot|building}}
+|}
+
+===Entrance===
+Use the Basement Key to unlock the door, and step inside to reach the southeast room.
+
+===B1F===
+The lower floor uses a series of colored buttons as a security measure; when stepped on, all similarly-colored doors open while all others close. Step on the blue button in the entrance room and go west. Press the green button in the next room and continue on. Pass by the third button and head north to reach an [[Escape Rope]]; collect the item, go to the right to reach an [[Ultra Ball]], back and press the blue button beneath it. Go northwest to find a room with two items, a [[Paralyze Heal|Parlyz Heal]] to the left and a {{p|Voltorb}} to the right. Follow the hallway eastward to the north-central room and another pair of items, a Voltorb to the left and a [[Full Heal]] to the right; collect the item and step on the green button beneath it. The generator is located in the northeast room; press the red button to shut it down and collect the [[Thunder Stone|ThunderStone]] before leaving the area walking or using an Escape Rope.
+
+===Done===
+With your task complete, return to [[Wattson]] outside the Pokémon Center. Inform him that everything is all right in New Mauville, and the grateful Gym Leader rewards you with {{TM|24|Thunderbolt}}.
+
+==Route 118==
+[[File:Hoenn Route 118 E.png|thumb|350px|Route 118]]
+
+You can now fully explore the route by using {{m|Surf}}. The seaside {{rt|118|Hoenn}} links the west and east sides of the region together. Several new species of Pokémon can be found here, including {{p|Manectric}}, which might be of great value in the upcoming Gym.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Eastern side}}
+{{trainerentry|Spr RS Interviewer.png|Interviewer|[[Gabby and Ty|Gabby & Ty]]|2592|2|081|Magnemite||27||294|Loudred|♂|27|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Barny|1000|2|072|Tentacool|♂|25||318|Carvanha|♂|25|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Chester|800|2|276|Taillow|♂|25||277|Swellow|♂|25|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Perry|832|1|278|Wingull|♂|26|}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|263|Zigzagoon|no|no|yes|Grass|24, 26|30%|type1=Normal}}
+{{Catch/entry3|309|Electrike|no|no|yes|Grass|24, 26|30%|type1=Electric}}
+{{Catch/entry3|278|Wingull|no|no|yes|Grass|25-27|19%|type1=Water|type2=Flying}}
+{{Catch/entry3|264|Linoone|no|no|yes|Grass|26|10%|type1=Normal}}
+{{Catch/entry3|310|Manectric|no|no|yes|Grass|26|10%|type1=Electric}}
+{{Catch/entry3|352|Kecleon|no|no|yes|Grass|25|1%|type1=Normal}}
+{{catch/div|water|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|318|Carvanha|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Dark}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|East side}}
+{{itemlist|Good Rod III|From the Fisherman on the north end of the beach|E=yes|display=[[Good Rod]]}}
+{{itemlist|Iron|On the beach, on a rock to the northwest of Fisherman Barny (hidden)|E=yes}}
+{{itemlist|Sitrus Berry|From the soft soil patch, west of the exit to Route 119|E=yes|display=[[Sitrus Berry]] ×4}}
+{{itemlist|Hyper Potion|East of Bird Keeper Perry|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Get Good with a Good Rod===
+The Fisherman on the river's eastern bank believes that Good Rods are really good. Agree with his statement to receive your very own [[Good Rod]], a mid-level fishing rod that can catch even more kinds of Pokémon than the [[Old Rod]].
+
+===Gabby and Ty===
+After your first interview on the south side of {{rt|111|Hoenn}}, [[Gabby and Ty|the intrepid news team]] can be found searching for their next story on the eastern bank of {{rt|118|Hoenn}}'s river. Accept their challenge to another [[Double Battle]] and be sure to give them a great interview when the dust settles!
+
+===Meet up with Steven===
+As you leave the beach, you are noticed by {{Steven}}. He hasn't seen you since your first meeting in [[Granite Cave]], and is pleased to see how much you have grown as a Trainer. He wonders if you will raise Pokémon of all types, or only a certain one. 
+
+==Route 123 (optional)==
+Before heading north to Route 119, let's head east to {{rt|123|Hoenn}} for a quick stop. The [[Berry Master]]'s house, and his extensive backyard garden, can be found on the route's west side.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Accessed via Route 118, Route 122}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Davis|432<br><small>Potential [[Double Battle]] with Jazmyn</small>|1|127|Pinsir|♂|27|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Jazmyn|540<br><small>Potential [[Double Battle]] with Davis</small>|1|359|Absol|♀|27|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Violet|1040|2|315|Roselia|♀|26||044|Gloom|♀|26|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Twins.png|Twins|Miu & Yuki|624|2|267|Beautifly|♂|26|None|269|Dustox|♂|26|}}
+{{trainerfooter|land|3}}
+|}
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|Accessible from Routes 118 or 122}}
+{{itemlist|Ultra Ball|South of the Berry Master's house|E=yes}}
+{{itemlist|Revive|North of the Berry Master's garden (hidden)|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Berry Master's House===
+The [[Berry Master]]'s house, and {{DL|Hoenn Route 123|Berry Master's garden|the Berry garden he tends}}, are located near the route's west end.
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Grepa Berry|In the soft soil bed in the Berry Master's garden|E=yes|display=[[Grepa Berry]] ×8}}
+{{itemlist|Pomeg Berry|In the soft soil bed in the Berry Master's garden|E=yes|display=[[Pomeg Berry]] ×8}}
+{{itemlist|Qualot Berry|In the soft soil bed in the Berry Master's garden|E=yes|display=[[Qualot Berry]] ×8}}
+{{itlistfoot|land}}
+|}
+
+====Berry Master====
+Talk to Berry Master to receive two Berries from a group of ten every day, chosen randomly (the berries can be two identical or different).
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 3px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="5" style="background: #{{berries color light}}; {{roundytop|5px}};" | Berry
+|- style="background: #FFF;"
+| {{bag|Pomeg Berry}} || [[Pomeg Berry]] || {{bag|Kelpsy Berry}} || [[Kelpsy Berry]]
+|- style="background: #FFF;"
+| {{bag|Qualot Berry}} || [[Qualot Berry]] || {{bag|Hondew Berry}} || [[Hondew Berry]]
+|- style="background: #FFF;"
+| {{bag|Grepa Berry}} || [[Grepa Berry]] || {{bag|Tamato Berry}} || [[Tamato Berry]]
+|- style="background: #FFF;"
+| {{bag|Cornn Berry}} || [[Cornn Berry]] || {{bag|Magost Berry}} || [[Magost Berry]]
+|- style="background: #FFF;"
+| {{bag|Rabuta Berry}} || [[Rabuta Berry]] || {{bag|Nomel Berry}} || [[Nomel Berry]]
+|}
+
+====Berry Master's Wife====
+The {{DL|Hoenn Route 123|Berry Master's wife}} will give out a Berry each day as well, but the type depends on whether or not you tell her a special phrase. Most answers will result in a common type of Berry, while certain answers will earn a rarer variety. After hearing all five phrases, she will hand out one common Berry from a group of ten every day. At this moment, you can only get the rare [[Spelon Berry]].
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 2px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! style="background: #{{berries color light}}; {{roundytl|5px}};" | Phrase
+! colspan="2" style="background: #{{berries color light}}; {{roundytr|5px}};" | Berry Received
+|- style="background: #FFF;"
+| GREAT BATTLE|| {{bag|Spelon Berry}} || [[Spelon Berry]]
+|-
+| colspan="3" style="background: #{{berries color light}}; {{roundybottom|5px}};" |
+|}
+
+If you do not qualify for a special Berry:
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 3px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="5" style="background: #{{berries color light}}; {{roundytop|5px}};" | Berry
+|- style="background: #FFF;"
+| {{bag|Cheri Berry}} || [[Cheri Berry]] || {{bag|Chesto Berry}} || [[Chesto Berry]]
+|- style="background: #FFF;"
+| {{bag|Pecha Berry}} || [[Pecha Berry]] || {{bag|Rawst Berry}} || [[Rawst Berry]]
+|- style="background: #FFF;"
+| {{bag|Aspear Berry}} || [[Aspear Berry]] || {{bag|Leppa Berry}} || [[Leppa Berry]]
+|- style="background: #FFF;"
+| {{bag|Oran Berry}} || [[Oran Berry]] || {{bag|Persim Berry}} || [[Persim Berry]]
+|- style="background: #FFF;"
+| {{bag|Lum Berry}} || [[Lum Berry]] || {{bag|Sitrus Berry}} || [[Sitrus Berry]]
+|}
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=8
+|prevname=Route 111 (desert), Mirage Tower, Petalburg City, Route 115, Route 105, Route 107, Route 108
+|nextsection=10
+|nextname=Route 119, Weather Institute, Fortree City, Route 120
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|09]]

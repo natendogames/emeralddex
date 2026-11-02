@@ -1,0 +1,592 @@
+==Route 111 (south)==
+[[File:Hoenn Route 111 E.png|thumb|Route 111]]
+
+Leading north from [[Mauville City]], the lengthy {{rt|111|Hoenn}} is a unique path split into three parts by the large desert in its center. A powerful sandstorm rages on, forcing travelers to detour around it on their way past. A house belonging to the [[Winstrate family]] stands at the water's edge.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Southern end}}
+{{trainerentry|Spr RS Camper.png|Camper|Tyron|304<br><small>Potential [[Double Battle]] with Celina</small>|1|027|Sandshrew|♂|19|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Celina|720<br><small>Potential [[Double Battle]] with Tyron</small>|1|315|Roselia|♀|18|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Bianca|288<br><small>Potential [[Double Battle]] with Hayden</small>|1|285|Shroomish|♀|18|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Hayden|576<br><small>Potential [[Double Battle]] with Bianca</small>|1|322|Numel|♂|18|}}
+{{catch/div|rock|Requires Rock Smash}}
+{{trainerentry|Spr RS Interviewer.png|Interviewer|[[Gabby and Ty]]|1632|2|081|Magnemite||17||293|Whismur|♂|17|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Irene|272|2|285|Shroomish|♀|17||183|Marill|♀|17|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Camper.png|Camper|Travis|288|1|027|Sandshrew|♂|18|}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/div|rock|Rock Smash}}
+{{Catch/entry3|074|Geodude|no|no|yes|Rock Smash|5-20|100%|type1=Rock|type2=Ground}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Elixir|Southeast of the Winstrate home|E=yes}}
+{{itemlist|Macho Brace|Reward for defeating the [[Winstrate family]]|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Winstrate House===
+The upstanding [[Winstrate family]] loves challenging visitors to battle. Speak to the man at the front door, and he asks if you would like to take his family on in four back-to-back battles, with no break to heal your team. Defeat each one in turn, and afterward, enter the house and talk to Victoria to receive a [[Macho Brace]] as a reward.
+
+{{Party
+| walkthrough = yes
+| background = {{normal color}}
+| border = {{normal color dark}}
+| headcolor = {{normal color light}}
+| sprite = Spr RS Pokéfan M.png
+| prize = {{Pdollar}}640
+| class = Winstrate
+| classlink = Winstrate family
+| name = Victor
+| location = Hoenn Route 111
+| locationname = Route 111
+| game = RSE
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0276
+| pokemon = Taillow
+| gender = male
+| level = 16
+| type1 = Normal
+| type2 = Flying
+| ability = Guts
+| held = Oran Berry
+| move1 = Growl | move1type = Normal
+| move2 = Focus Energy | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0263
+| pokemon = Zigzagoon
+| gender = male
+| level = 16
+| type1 = Normal
+| ability = Pickup
+| held = Oran Berry
+| move1 = Growl | move1type = Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Headbutt | move3type = Normal
+| move4 = Sand-Attack | move4type = Ground
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| background = {{grass color}}
+| border = {{grass color dark}}
+| headcolor = {{grass color light}}
+| sprite = Spr RS Pokéfan F.png
+| prize = {{Pdollar}}680
+| class = Winstrate
+| classlink = Winstrate family
+| name = Victoria
+| location = Hoenn Route 111
+| locationname = Route 111
+| game = E
+| pokemon = 1
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0315
+| pokemon = Roselia
+| gender = female
+| level = 17
+| type1 = Grass
+| type2 = Poison
+| ability = Natural Cure
+| held = Oran Berry
+| move1 = Growth | move1type = Normal
+| move2 = Poison Sting | move2type = Poison
+| move3 = Stun Spore | move3type = Grass
+| move4 = Mega Drain | move4type = Grass
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| background = {{water color}}
+| border = {{water color dark}}
+| headcolor = {{water color light}}
+| sprite = Spr RS Lass.png
+| prize = {{Pdollar}}600
+| class = Winstrate
+| classlink = Winstrate family
+| name = Vivi
+| location = Hoenn Route 111
+| locationname = Route 111
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0183
+| pokemon = Marill
+| gender = female
+| level = 15
+| type1 = Water
+| ability = Thick Fat
+| move1 = Defense Curl | move1type = Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Water Gun | move3type = Water
+| move4 = Rollout | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0285
+| pokemon = Shroomish
+| gender = female
+| level = 15
+| type1 = Grass
+| ability = Effect Spore
+| move1 = Absorb | move1type = Grass
+| move2 = Tackle | move2type = Normal
+| move3 = Stun Spore | move3type = Grass
+| move4 = Leech Seed | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0322
+| pokemon = Numel
+| gender = female
+| level = 15
+| type1 = Fire
+| type2 = Ground
+| ability = Oblivious
+| move1 = Growl | move1type = Normal
+| move2 = Tackle | move2type = Normal
+| move3 = Ember | move3type = Fire
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| background = {{fighting color}}
+| border = {{fighting color dark}}
+| headcolor = {{fighting color light}}
+| sprite = Spr RS Expert F.png
+| prize = {{Pdollar}}720
+| class = Winstrate
+| classlink = Winstrate family
+| name = Vicky
+| location = Hoenn Route 111
+| locationname = Route 111
+| game = E
+| pokemon = 1
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0307
+| pokemon = Meditite
+| gender = female
+| level = 18
+| type1 = Fighting
+| type2 = Psychic
+| ability = Pure Power
+| move1 = Hi Jump Kick | move1type = Fighting
+| move2 = Meditate | move2type = Psychic
+| move3 = Confusion | move3type = Psychic
+| move4 = Detect | move4type = Fighting
+}}
+{{Party/end}}
+
+===Gabby and Ty===
+[[Gabby and Ty]], the reporter-cameraman team you met back in {{ci|Slateport}}, can be found standing along the road. Accept their challenge to demonstrate your battle prowess, and they will beg for an interview afterwards. Find a [[Television|TV]] afterwards for a chance to hear about yourself on the news!
+
+==Route 112 (south)==
+[[File:Hoenn Route 112 E.png|thumb|Route 112]]
+[[File:Fiery Path RSE.png|thumb|Fiery Path]]
+
+{{rt|112|Hoenn}} lies at the foot of [[Mt. Chimney]], and a cable car service allows visitors to reach the summit. [[Fiery Path|A tunnel]] cuts through the mountainside to reach the northern part of the route, while [[Lavaridge Town]] and [[Jagged Pass]] lie off to the west.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! {{color|FFBC00|Trainers}}
+|-
+|
+{{trainerheader|volcano|3}}
+{{trainerentry|Spr RS Camper.png|Camper|Larry|288|1|274|Nuzleaf|♂|18|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Carol|272|2|276|Taillow|♀|17||271|Lombre|♀|17|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Trent|640|3|074|Geodude|♂|16||074|Geodude|♂|17||074|Geodude|♂|16||38=Nav}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Brice|680|2|322|Numel|♂|17||066|Machop|♂|17|}}
+{{catch/div|volcano|Rematch}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Trent{{tt|*|First rematch}}|960|4|074|Geodude|♂|24||074|Geodude|♂|24||074|Geodude|♂|24||075|Graveler|♂|24||38=Nav}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Trent{{tt|*|Second rematch}}|1080|4|074|Geodude|♂|27||074|Geodude|♂|27||075|Graveler|♂|27||075|Graveler|♂|27||38=Nav}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Trent{{tt|*|Third rematch}}|1200|4|074|Geodude|♂|30||075|Graveler|♂|30||075|Graveler|♂|30||075|Graveler|♂|30||38=Nav}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Trent{{tt|*|Fourth rematch onwards}}|1320|4|075|Graveler|♂|33||075|Graveler|♂|33||075|Graveler|♂|33||076|Golem|♂|33||38=Nav}}
+{{trainerfooter|volcano|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! {{color|FFBC00|Available Pokémon}}
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entry3|322|Numel|no|no|yes|Grass|14-16|75%|type1=Fire|type2=Ground}}
+{{Catch/entry3|183|Marill|no|no|yes|Grass|14-16|25%|type1=Water}}
+{{Catch/footer|volcano}}
+|}
+
+===Access Denied===
+A pair of [[Team Magma]] Grunts are guarding the cable car station, so no one can reach the summit of Mt. Chimney right now. In addition, the elevated terrain makes westward travel impossible, so the only other way forward is a steamy tunnel through the mountainside.
+
+==Fiery Path==
+The sweltering [[Fiery Path]], a passage that leads through the base of [[Mt. Chimney]], is filled with Pokémon that thrive in the heat. The main passage leads to the north side of {{rt|112|Hoenn}}, while a pair of {{m|Strength|boulders}} prevent anyone from exploring the oppressive side tunnels for now.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! {{color|FFBC00|Available Pokémon}}
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entry3|322|Numel|no|no|yes|Cave|15-16|30%|type1=Fire|type2=Ground}}
+{{Catch/entry3|109|Koffing|no|no|yes|Cave|15-16|25%|type1=Poison}}
+{{Catch/entry3|324|Torkoal|no|no|yes|Cave|14-16|18%|type1=Fire}}
+{{Catch/entry3|066|Machop|no|no|yes|Cave|15-16|15%|type1=Fighting}}
+{{Catch/entry3|218|Slugma|no|no|yes|Cave|15|10%|type1=Fire}}
+{{Catch/entry3|088|Grimer|no|no|yes|Cave|14|2%|type1=Poison}}
+{{Catch/footer|volcano}}
+|}
+
+==Route 112 (north)==
+After passing through [[Fiery Path]], you re-emerge on {{rt|112|Hoenn}}'s north hill. Be sure to harvest some Berries from the nearby trees on your way eastward. The wild Pokémon here are the same as those on the southern half. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! {{color|FFBC00|Trainers}}
+|-
+|
+{{trainerheader|volcano|3}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Bryant|576<br><small>Potential [[Double Battle]] with Shayla</small>|2|322|Numel|♂|18||218|Slugma|♂|18||36=アツオ|37=Atsuo}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Shayla|720<br><small>Potential [[Double Battle]] with Bryant</small>|2|285|Shroomish|♀|18||315|Roselia|♀|18||36=タエコ|37=Taeko}}
+{{trainerfooter|volcano|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! {{color|FFBC00|Items}}
+|-
+|
+{{itlisth|volcano}}
+{{itemlist|Pecha Berry|From the Berry Trees near Fiery Path's north exit|E=yes|display=[[Pecha Berry]] ×4}}
+{{itemlist|Rawst Berry|From the Berry Trees near Fiery Path's north exit|E=yes|display=[[Rawst Berry]] ×4}}
+{{itlistfoot|volcano}}
+|}
+
+{{-}}
+
+==Route 111 (north)==
+Taking the long way through {{rt|112|Hoenn}} and the [[Fiery Path]] has allowed you to avoid the sandstorm raging just south of here. An old lady resides in a house at the foot of the section and can fully heal your party. You may wish to have the [[Mach Bike]] with you to fight every Trainer in this section. Continue to {{rt|113|Hoenn}}.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Northern end}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Wilton|816|3|309|Electrike|♂|17||320|Wailmer|♂|17||296|Makuhita|♂|17||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Brooke|816|3|278|Wingull|♀|17||322|Numel|♀|17||315|Roselia|♀|17||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Black Belt.png|Black Belt|Daisuke|608<br><small>Requires [[Mach Bike]]</small>|1|066|Machop|♂|19|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Wilton{{tt|*|First rematch}}|1248|3|309|Electrike|♂|26||320|Wailmer|♂|26||296|Makuhita|♂|26||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Wilton{{tt|*|Second and third rematch}}|{{tt|1392|Second rematch}}/{{tt|1536|Third rematch}}|3|310|Manectric|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||320|Wailmer|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||296|Makuhita|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Wilton{{tt|*|Fourth rematch onwards}}|1680|3|310|Manectric|♂|35||320|Wailmer|♂|35||297|Hariyama|♂|35||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Brooke{{tt|*|First rematch}}|1248|3|278|Wingull|♀|26|None|322|Numel|♀|26|None|315|Roselia|♀|26||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Brooke{{tt|*|Second and third rematch}}|{{tt|1392|Second rematch}}/{{tt|1536|Third rematch}}|3|279|Pelipper|♀|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||322|Numel|♀|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||315|Roselia|♀|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Brooke{{tt|*|Fourth rematch onwards}}|1632|3|279|Pelipper|♀|34||323|Camerupt|♀|34||315|Roselia|♀|34||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|TM Normal|From the boy near the [[Secret Base]] tree|E=yes|display={{TM|43|Secret Power}}}}
+{{itemlist|Razz Berry III|From the girl near the Berry patch (one per day)|E=yes|display=[[Razz Berry]]}}
+{{itemlist|Oran Berry|From the Berry Trees, north of the Rest Stop|E=yes|display=[[Oran Berry]] ×4}}
+{{itemlist|Razz Berry III|From the Berry Trees, north of the Rest Stop|E=yes|display=[[Razz Berry]] ×6}}
+{{itlistfoot|land}}
+|}
+
+===A Secret Power===
+As you proceed northward, you find a boy staring at a large tree. Speak to him, and he explains that he is considering using a certain move to create a room for himself inside the tree. He gives you {{TM|43|Secret Power}} so that you can establish your own [[Secret Base]] in any of the suspicious-looking {{DL|Secret Base|Locations|trees, wall markings, and clumps of grass}} scattered across the region. Now you can access the TM shop in [[Slateport City]]. A Trainer can decorate their Secret Base as they wish, and can display up to 16 {{DL|Decoration|Generation III decorations|decorations}}.
+
+==Route 113==
+[[File:Hoenn Route 113 E.png|thumb|300px|Route 113]]
+
+Situated between {{rt|111|Hoenn}}'s north end and [[Fallarbor Town]], {{rt|113|Hoenn}} is constantly covered in [[Mt. Chimney]]'s [[volcanic ash]] by the same wind patterns that keep [[Verdanturf Town]]'s air clear and fresh. The {{DL|Hoenn Route 113|Glass Workshop}} stands on the north ridge, where a gifted artist crafts useful items from pure ash.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ash}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ash}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ash}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Jaylen|304|1|328|Trapinch|♂|19|}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Camper.png|Camper|Lawrence|288<br><small>[[Double Battle]] with Lung</small>|2|343|Baltoy||18||027|Sandshrew|♂|18|}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Lung|216<br><small>[[Double Battle]] with Lawrence</small>|2|109|Koffing|♂|18||291|Ninjask|♂|18|}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Wyatt|1080|2|304|Aron|♂|18||304|Aron|♂|18|}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Madeline|760|1|322|Numel|♀|19||38=Nav}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Twins.png|Twins|Tori & Tia|456|2|327|Spinda|♂|19||327|Spinda|♂|19|}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Lao|204|3|109|Koffing|♂|17||109|Koffing|♂|17||109|Koffing|♂|17||38=Nav}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Dillon|304|1|304|Aron|♂|19|}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Sophie|304<br><small>Potential [[Double Battle]] with Coby</small>|2|183|Marill|♀|17||271|Lombre|♀|19|}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Coby|608<br><small>Potential [[Double Battle]] with Sophie</small>|2|227|Skarmory|♂|17||277|Swellow|♂|19|}}
+{{trainerdiv|ash|Rematch}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Madeline{{tt|*|First and second rematch}}|{{tt|1160|First rematch}}/{{tt|1280|Second rematch}}|1|322|Numel|♀|{{tt|29|First rematch}}/{{tt|32|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Madeline{{tt|*|Third rematch}}|1360|2|315|Roselia|♀|34||322|Numel|♀|34||38=Nav}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Madeline{{tt|*|Fourth rematch onwards}}|1480|2|315|Roselia|♀|37||323|Camerupt|♀|37||38=Nav}}
+{{trainerdiv|ash}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Lao{{tt|*|First, second and third rematch}}|{{tt|312|First rematch}}/{{tt|348|Second rematch}}/{{tt|384|Third rematch}}|4|109|Koffing|♂|{{tt|24|First rematch}}/{{tt|27|Second rematch}}/{{tt|30|Third rematch}}||109|Koffing|♂|{{tt|24|First rematch}}/{{tt|27|Second rematch}}/{{tt|30|Third rematch}}||109|Koffing|♂|{{tt|24|First rematch}}/{{tt|27|Second rematch}}/{{tt|30|Third rematch}}||109|Koffing|♂|{{tt|26|First rematch}}/{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Lao{{tt|*|Fourth rematch onwards}}|420|4|109|Koffing|♂|33||109|Koffing|♂|33||109|Koffing|♂|33||110|Weezing|♂|35|Smoke Ball|38=Nav}}
+{{trainerfooter|ash|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ash}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ash}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ash|no}}
+{{Catch/entry3|327|Spinda|no|no|yes|Grass|14-16|70%|type1=Normal}}
+{{Catch/entry3|218|Slugma|no|no|yes|Grass|14-16|25%|type1=Fire}}
+{{Catch/entry3|227|Skarmory|no|no|yes|Grass|16|5%|type1=Steel|type2=Flying}}
+{{Catch/footer|ash}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ash}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ash}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ash}}
+{{itemlist|Ether|In a soot pile on the second eastern-most ledge (hidden)|E=yes}}
+{{itemlist|Nugget|In a soot pile on the eastern-most ledge (hidden)|E=yes}}
+{{itemlist|Super Repel|Eastern-most ledge|E=yes}}
+{{itemlist|Max Ether|Third ledge from the east, north of Parasol Lady Madeline|E=yes}}
+{{itemlist|Soot Sack|In the Glass Workshop, from the owner|E=yes}}
+{{itemlist|TM Normal|In a soot pile, west of the Glass Workshop and beyond the ledge (hidden)|E=yes|display={{TM|32|Double Team}}}}
+{{itemlist|Hyper Potion|West end of the sooty ground, in the trees to the south|E=yes}}
+{{itlistfoot|ash}}
+|}
+
+===Glass Workshop===
+The {{DL|Hoenn Route 113|Glass Workshop}} stands near the route's west end. Step inside and talk to the owner to receive a free [[Soot Sack]], which can be used to collect ash by running through [[Volcanic ash|ash]]-covered tall grass (and [[Jagged Pass]] later on). The amount of ash collected is determined by the number of steps you've walked through ash-covered grass. The constantly-falling ash replenishes these piles whenever you return to the area.
+
+Speak with the workshop owner to learn how much ash you've collected. By providing him with the correct amounts, he is able to create valuable glass items.
+
+{| style="margin: auto; background: #{{locationcolor/dark|ash}}; {{roundy}}; border: 5px solid #{{locationcolor/med|ash}};" cellpadding="3px"
+|-
+! colspan="2" style="background: #{{locationcolor/light|ash}}; {{roundytl|5px}};" | Item
+! style="background: #{{locationcolor/light|ash}};" | Ash required
+! style="background: #{{locationcolor/light|ash}}; {{roundytr|5px}};" | Effect
+|- style="background: #FFF"
+| {{bag|Blue Flute}} || [[Blue Flute]] || 250 steps || Wakes up {{status|sleep}}ing Pokémon
+|- style="background:#FFF"
+| {{bag|Yellow Flute}} || [[Yellow Flute]] || 500 steps || Snaps Pokémon out of {{status|confusion}}
+|- style="background:#FFF"
+| {{bag|Red Flute}} || [[Red Flute]] || 500 steps || Snaps Pokémon out of {{status|infatuation}}
+|- style="background: #FFF;"
+| {{bag|White Flute}} || [[White Flute]] || 1,000 steps || Increases wild Pokémon encounter rate
+|- style="background: #FFF;"
+| {{bag|Black Flute}} || [[Black Flute]] || 1,000 steps || Decreases wild Pokémon encounter rate
+|- style="background: #FFF;"
+| [[File:PrettyChairSprite.png]] || {{DL|Decoration|Super-Secret Base|Pretty Chair}} || 6,000 steps || A Secret Base Decoration
+|-
+| style="background: #FFF; {{roundybl|5px}};" | [[File:PrettyDeskSprite.png]]
+| style="background: #FFF;" | {{DL|Decoration|Super-Secret Base|Pretty Desk}}
+| style="background: #FFF;" | 8,000 steps
+| style="background: #FFF; {{roundybr|5px}};" | A Secret Base Decoration
+|}
+
+==Fallarbor Town==
+[[File:Fallarbor Town E.png|thumb|Fallarbor Town]]
+
+The small town of {{to|Fallarbor}} is located between Routes {{rtn|113|Hoenn}} and {{rtn|114|Hoenn}}, and features rich soil perfect for gardening. A third [[Battle Tent]] is located here. The town is also home to a [[Move Reminder|Move Maniac]] and [[Professor Cozmo]].
+
+{| class="expandable" style="margin: auto; background: #839B47; {{roundy}}; border: 5px solid #98B860;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ash}}
+{{itemlist|Nugget|In the crater near Professor Cozmo's Lab (hidden)|E=yes}}
+{{Itemlist|Hyper Potion|Reward for winning three consecutive battles in the Battle Tent|E=yes}}
+{{catch/div|ash|Return trip}}
+{{itemlist|TM Normal|From Professor Cozmo in his home, in exchange for the [[Meteorite]]|E=yes|display={{TM|27|Return}}}}
+{{itlistfoot|ash}}
+|}
+
+===Meet Lanette===
+Inside the Pokémon Center, you find the PC in use by a woman named [[Lanette]]. She upgraded the previous version of the [[Pokémon Storage System]], adding a user-friendly graphical interface, the ability to store over 400 Pokémon, and the ability to change the {{DL|Pokémon Storage System|wallpaper}} of each Box. As she leaves, she invites you to visit her home on {{rt|114|Hoenn}}.
+
+===Move Tutor===
+There is a girl inside the Poké Mart, examining the merchandise displayed on the rear wall. Speak to her, and she offers to teach the move {{m|Metronome}} to a Pokémon, one time only.
+
+===Battle Tent===
+The {{DL|Battle Tent|Fallarbor Site|Fallarbor Battle Tent}} stands on the north side of town, and is the third of three scattered throughout [[Hoenn]]. At this location, challengers select three of their Pokémon to battle three opposing Trainers. These Trainers' Pokémon will either be level 30, or match the highest-leveled Pokémon in your party, whichever is higher. Each separate Pokémon face-off has a three-turn limit. If neither Pokémon has been knocked out in that time, the judge makes a ruling that depends on three factors: Mind, the amount of offensive moves; Skill, the accuracy of moves; and Body, the remaining HP. Possible scores for each category include Circle (a win, 2 points), Triangle (a tie, 1 point), and X (a loss, 0 points). The Pokémon that earns the most points wins. The reward for winning three consecutive battles here is a [[Hyper Potion]].
+
+[[Scott]] can be found inside the entry hall. He is impressed that you've stopped by, as most people around here are easygoing and laid-back, and urges you to make a challenge.
+
+===Move Maniac===
+The [[Move Reminder|Move Maniac]] lives in the northwest house. This helpful guy knows every move a Pokémon can learn as it grows, and is able to teach forgotten moves to any Pokémon, for a price. He charges a single [[Heart Scale]] for each move relearned. While a few can be found on the beach as invisible items right now, you will need to wait until you encounter wild {{p|Luvdisc}} later on to be able to collect a more steady supply.
+
+==Route 114==
+[[File:Hoenn Route 114 E.png|thumb|Route 114]]
+Pockmarked by fallen Meteorites, the lengthy {{rt|114|Hoenn}} leads up the mountainside to [[Meteor Falls]]. The [[Fossil Maniac]] lives up north, while [[Lanette]]'s home stands on the water's edge.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|mountain}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Nolan|760|1|339|Barboach|♂|19|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Charlotte|304<br><small>Potential [[Double Battle]] with Kai</small>|1|274|Nuzleaf|♀|19|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Kai|760<br><small>Potential [[Double Battle]] with Charlotte</small>|1|339|Barboach|♂|19|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Claude|720|3|129|Magikarp|♂|16||118|Goldeen|♂|17||339|Barboach|♂|18|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Nancy|288|2|183|Marill|♀|18||271|Lombre|♀|18|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Tyra & Ivy|640|2|315|Roselia|♂|18||075|Graveler|♂|20|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Camper.png|Camper|Shane|288|2|027|Sandshrew|♂|18||274|Nuzleaf|♂|18|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Steve|1140|1|304|Aron|♂|19||38=Nav}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Bernie|576|2|218|Slugma|♂|18||278|Wingull|♂|18||38=Nav}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Lucas|720<br><small>Potential [[Double Battle]] with Angelina</small>|2|074|Geodude|♂|18||322|Numel|♂|18|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Angelina|288<br><small>Potential [[Double Battle]] with Lucas</small>|2|271|Lombre|♀|18||183|Marill|♀|18|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Lenny|720|2|074|Geodude|♂|18||066|Machop|♂|18|}}
+{{catch/div|mountain|Rematch}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Steve{{tt|*|First rematch}}|1620|1|305|Lairon|♂|27||38=Nav}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Steve{{tt|*|Second and third rematch}}|{{tt|1740|Second rematch}}/{{tt|1920|Third rematch}}|2|305|Lairon|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||111|Rhyhorn|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Steve{{tt|*|Fourth rematch onwards}}|2100|2|306|Aggron|♂|35||112|Rhydon|♂|35||38=Nav}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Bernie{{tt|*|First rematch}}|832|2|218|Slugma|♂|26||278|Wingull|♂|26||38=Nav}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Bernie{{tt|*|Second and third rematch}}|{{tt|928|Second rematch}}/{{tt|1024|Third rematch}}|2|218|Slugma|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||279|Pelipper|♂|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Bernie{{tt|*|Fourth rematch onwards}}|1120|2|219|Magcargo|♂|35||279|Pelipper|♂|35||38=Nav}}
+{{trainerfooter|mountain|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|mountain|no}}
+{{catch/entry3|333|Swablu|no|no|yes|Grass|15-17|40%|type1=Normal|type2=Flying}}
+{{catch/entry3|270|Lotad|no|no|yes|Grass|15-16|30%|type1=Water|type2=Grass}}
+{{catch/entry3|271|Lombre|no|no|yes|Grass|16, 18|20%|type1=Water|type2=Grass}}
+{{catch/entry3|336|Seviper|no|no|yes|Grass|15, 17|9%|type1=Poison}}
+{{catch/entry3|274|Nuzleaf|no|no|yes|Grass|15|1%|type1=Grass|type2=Dark}}
+{{Catch/div|mountain|Rock Smash}}
+{{catch/entry3|074|Geodude|no|no|yes|Rock Smash|5-20|100%|type1=Rock|type2=Ground}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/footer|mountain}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|mountain}}
+{{itemlist|TM Ground|Fossil Maniac's house, from his little brother|E=yes|display={{TM|28|Dig}}}}
+{{itemlist|TM Normal|From the old man and his {{p|Poochyena}}|E=yes|display={{TM|05|Roar}}}}
+{{itemlist|Energy Powder|In the trees to the northeast of the bridge|E=yes|display=[[Energy Powder|EnergyPowder]]}}
+{{itemlist|Revive|Southwest edge of the lake (hidden)|E=yes}}
+{{itemlist|Persim Berry|In the [[soft soil]] patch past Lanette's house|E=yes|display=[[Persim Berry]] ×6}}
+{{itemlist|Lotad Doll|From Lanette, after speaking to her in Fallarbor Town|E=yes|display={{DL|List of decorations in Generation III|Lotad Doll}}|sprite=Doll Lotad III}}
+{{itemlist|Carbos|On a rock, south of the southern grass patch (hidden)|E=yes}}
+{{itemlist|Protein|On the mountain's first level, northwest of PokéManiac Steve (requires {{m|Rock Smash}})|E=yes}}
+{{itlistfoot|mountain}}
+|}
+
+===Fossil Maniac===
+The [[Fossil Maniac]]'s house stands on the outskirts of [[Fallarbor Town]]. Head inside and talk to his little brother, who kindly gives you {{TM|28|Dig}}. When used in the field, Dig can be used while in a cave to return to the entrance. If you visit the cave at the back of the house, you will find the Fossil Maniac hard at work. He won't give up any Fossils, but hints that others may be uncovered by {{rt|111|Hoenn}}'s raging sandstorm.
+
+===Lanette's House===
+Go south across the bridge to reach [[Lanette]]'s house. Inside, you find the woman struggling to organize her clutter. She is happy that you stopped by, but embarrassed by the state of her home. If you promise to keep her messiness a secret, she will give you a {{DL|List of decorations in Generation III|Lotad Doll}} in return.
+
+===A Berry A Day===
+Speak to the boy outside Lanette's house and he will give out one random Berry from a group of five every day.
+
+{| class="roundtable" style="margin: auto; background: #{{berries color}}; border: 3px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+! colspan="2" style="background: #{{berries color light}};" | Berry
+|-
+| {{bag|Razz Berry III}} || [[Razz Berry]]
+|-
+| {{bag|Bluk Berry}} || [[Bluk Berry]]
+|-
+| {{bag|Nanab Berry III}} || [[Nanab Berry]] 
+|-
+| {{bag|Wepear Berry}} || [[Wepear Berry]]
+|-
+| {{bag|Pinap Berry}} || [[Pinap Berry]]
+|}
+{{-}}
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=5
+|prevname=Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel, Route 118
+|nextsection=7
+|nextname=Meteor Falls, Mt. Chimney, Jagged Pass, Lavaridge Town
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|06]]

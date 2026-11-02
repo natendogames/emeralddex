@@ -1,0 +1,487 @@
+==Route 104 (south)==
+[[File:Hoenn Route 104 E.png|thumb|Route 104]]
+
+The southern half of {{rt|104|Hoenn}} connects [[Petalburg City]] with [[Petalburg Woods]] to the north and {{rt|105|Hoenn}} to the south. A cottage belonging to [[Mr. Briney]] is located on the south side. This route is a good place to catch a {{p|Marill}}, which can learn any four of the five [[HM]] moves that will be required to finish this game. It will be very useful if you cannot or do not want to teach those HM moves to the Pokémon that you use in battle.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Billy|112|2|263|Zigzagoon|♂|5||273|Seedot|♂|7||36=ケイタ|37=Keita}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Darian|360|1|129|Magikarp|♂|9||36=ケンキチ|37=Kenkichi}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Lady.png|Lady|Cindy|1400|1|263|Zigzagoon|♀|7|Nugget|36=レイカ|37=Reika|38=Nav}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Lady.png|Lady|Cindy|{{tt|5400|First rematch}}/{{tt|6000|Second rematch}}/{{tt|6600|Third rematch}}/{{tt|7200|Fourth rematch onwards}}|1|264|Linoone|♀|{{tt|27|First rematch}}/{{tt|30|Second rematch}}/{{tt|33|Third rematch}}/{{tt|36|Fourth rematch onwards}}|Nugget|38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{Catch/entry3|261|Poochyena|no|no|yes|Grass|4-5|40%|type1=Dark}}
+{{Catch/entry3|183|Marill|no|no|yes|Grass|4-5|20%|type1=Water}}
+{{Catch/entry3|265|Wurmple|no|no|yes|Grass|4|20%|type1=Bug}}
+{{Catch/entry3|276|Taillow|no|no|yes|Grass|4-5|10%|type1=Normal|type2=Flying}}
+{{Catch/entry3|278|Wingull|no|no|yes|Grass|3-5|10%|type1=Water|type2=Flying}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|South side}}
+{{itemlist|Antidote|Water's edge, southwest part of the beach (hidden)|E=yes}}
+{{itemlist|Heart Scale|On the beach, southwest of the tall grass (hidden)|E=yes}}
+{{itemlist|Potion|Water's edge, just south of the pier (hidden)|E=yes}}
+{{itemlist|Pecha Berry|In the soft soil patch, north of Mr. Briney's cottage|E=yes|display=[[Pecha Berry]] ×2}}
+{{itemlist|Oran Berry|In the soft soil patch, north of Mr. Briney's cottage|E=yes|display=[[Oran Berry]] ×2}}
+{{itemlist|Poké Ball|On the east ledge, accessed via Petalburg Woods|E=yes|display={{i|Poké Ball}}}}
+{{itlistfoot|land}}
+|}
+
+[[File:Petalburg Woods E.png|thumb|left|Petalburg Woods]]
+
+==Petalburg Woods==
+The tall trees of [[Petalburg Woods]] block much of the sun's rays, leaving the interior cool and dark. Smaller trees restrict travel to the western side for now.
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|forest}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Lyle|48|4|265|Wurmple|♂|3||265|Wurmple|♂|3||265|Wurmple|♂|3||265|Wurmple|♂|3|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png‎|Team Aqua Grunt||180|1|261|Poochyena|♂|9|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|James|96|2|290|Nincada|♂|6||290|Nincada|♂|6||38=Nav}}
+{{catch/div|forest|Rematch}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|James{{tt|*|First rematch}}|432|1|291|Ninjask|♂|27||38=Nav}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|James{{tt|*|Second rematch}}|464|2|269|Dustox|♂|29||291|Ninjask|♂|29||38=Nav}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|James{{tt|*|Third rematch}}|496|3|283|Surskit|♂|31||269|Dustox|♂|31||291|Ninjask|♂|31||38=Nav}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|James{{tt|*|Fourth rematch onwards}}|528|4|283|Surskit|♂|33||291|Ninjask|♂|33||269|Dustox|♂|33||291|Ninjask|♂|33||38=Nav}}
+{{trainerfooter|forest|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|forest|no}}
+{{Catch/entry3|261|Poochyena|no|no|yes|Grass|5-6|30%|type1=Dark}}
+{{Catch/entry3|265|Wurmple|no|no|yes|Grass|5-6|25%|type1=Bug}}
+{{Catch/entry3|285|Shroomish|no|no|yes|Grass|5-6|15%|type1=Grass}}
+{{Catch/entry3|266|Silcoon|no|no|yes|Grass|5|10%|type1=Bug}}
+{{Catch/entry3|268|Cascoon|no|no|yes|Grass|5|10%|type1=Bug}}
+{{Catch/entry3|276|Taillow|no|no|yes|Grass|5-6|5%|type1=Normal|type2=Flying}}
+{{Catch/entry3|287|Slakoth|no|no|yes|Grass|5-6|5%|type1=Normal}}
+{{Catch/footer|forest}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{itemlist|Potion|In the middle of the tall grass patch near the southeast exit (hidden)|E=yes}}
+{{itemlist|Paralyze Heal|Southwest corner, past Bug Catcher Lyle|E=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{itemlist|Great Ball|From the Devon Corporation worker, after defeating the [[Team Aqua]] Grunt|E=yes}}
+{{itemlist|Poké Ball|In the corner to the south of the northwest corner (hidden)|E=yes|display={{i|Poké Ball}}}}
+{{itemlist|Ether|Northwest corner|E=yes}}
+{{itlistfoot|forest}}
+|}
+
+====The Scuffle====
+Deep inside the woods, you come across a researcher from [[Devon Corporation]], a company based in [[Rustboro City]]. After explaining that he is looking for a {{p|Shroomish}}, he is suddenly confronted by a member of [[Team Aqua]]. The thug had planned to ambush the worker when he left the woods, but grew too impatient for that. Defeat him in battle and he flees the scene, but not before hinting that his friends are up to something in Rustboro. The grateful researcher gives you a [[Great Ball]] as thanks. He then rushes off to Rustboro after realizing what his attacker wanted.
+
+==Route 104 (north)==
+The northern half of {{rt|104|Hoenn}} connects [[Petalburg Woods]] with [[Rustboro City]]. The [[Pretty Petal Flower Shop]] stands near the Petalburg Woods exit. The wild Pokémon here are the same as those on the southern half.
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader}}
+{{trainerentry|Spr RS Rich Boy.png|Rich Boy|Winston|1400|1|263|Zigzagoon|♂|7|Nugget|36=ミツグ|37=Mitsugu|38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Lass.png|Lass|Haley|96|2|270|Lotad|♀|6||285|Shroomish|♀|6||36=マキ|37=Maki|38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Twins.png|Twins|Gina & Mia|144|2|273|Seedot|♂|6||270|Lotad|♂|6||36=ナオとミオ|37=Nao and Mio}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Ivan|280|3|129|Magikarp|♂|5||129|Magikarp|♂|6||129|Magikarp|♂|7||36=ヨシタカ|37=Yoshitaka}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Rich Boy.png|Rich Boy|Winston|{{tt|5400|First rematch}}/{{tt|6000|Second rematch}}/{{tt|6600|Third rematch}}/{{tt|7200|Fourth rematch onwards}}|1|264|Linoone|♂|{{tt|27|First rematch}}/{{tt|30|Second rematch}}/{{tt|33|Third rematch}}/{{tt|36|Fourth rematch onwards}}|Nugget|38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Lass.png|Lass|Haley{{tt|*|First rematch}}|416|2|271|Lombre|♀|26||285|Shroomish|♀|26||38=Nav}}
+{{trainerentry|Spr RS Lass.png|Lass|Haley{{tt|*|Second and third rematch}}|{{tt|464|Second rematch}}/{{tt|512|Third rematch}}|2|271|Lombre|♀|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||286|Breloom|♀|{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Lass.png|Lass|Haley{{tt|*|Fourth rematch onwards}}|544|3|277|Swellow|♀|34||271|Lombre|♀|34||286|Breloom|♀|34||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|TM Grass|From a Youngster to the south of the Flower Shop|E=yes|display={{TM|09|Bullet Seed}}}}
+{{itemlist|Oran Berry|In the soft soil patch in front of the Flower Shop|E=yes|display=[[Oran Berry]] ×2}}
+{{itemlist|Cheri Berry|
+* In the soft soil patch in front of the Flower Shop (×2)
+* In the soft soil patch, northeast of the pond (×2)|E=yes|display=[[Cheri Berry]] ×4}}
+{{itemlist|Poké Ball|In the tall grass behind the Flower Shop (hidden)|E=yes|display={{i|Poké Ball}}}}
+{{itemlist|Potion|In the tall grass behind the Flower Shop|E=yes}}
+{{itemlist|Super Potion|In the tall grass behind the Flower Shop (hidden)|E=yes}}
+{{itemlist|Chesto Berry|From an old woman on the northeast side of the pond|E=yes}}
+{{itemlist|Leppa Berry|In the soft soil patch, northeast of the pond|E=yes|display=[[Leppa Berry]] ×2}}
+{{itlistfoot|land}}
+|}
+
+===Pretty Petal Flower Shop===
+The [[Pretty Petal Flower Shop]] is run by three sisters. Talk to the eldest sister by the door to learn about Berries. After obtaining the {{badge|Dynamo}}, she will sell you plant decorations for your secret base. The middle sister hands out the [[Wailmer Pail]] when you first speak to her. The youngest sister will hand out one random Berry from a group of eight every day.
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Wailmer Pail|Inside the Flower Shop, from the owner|E=yes}}
+{{itlistfoot|land}}
+|}
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 3px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="4" style="background: #{{berries color light}}; {{roundytop|5px}};" | Berry
+|- style="background: #FFF;"
+| {{bag|Cheri Berry}} || [[Cheri Berry]] || {{bag|Chesto Berry}} || [[Chesto Berry]]
+|- style="background: #FFF;"
+| {{bag|Pecha Berry}} || [[Pecha Berry]] || {{bag|Rawst Berry}} || [[Rawst Berry]]
+|- style="background: #FFF;"
+| {{bag|Aspear Berry}} || [[Aspear Berry]] || {{bag|Leppa Berry}} || [[Leppa Berry]]
+|- style="background: #FFF;"
+| {{bag|Oran Berry}} || [[Oran Berry]] || {{bag|Persim Berry}} || [[Persim Berry]]
+|}
+After earning the Dynamo Badge, the sisters will also offer {{DL|Pretty Petal Flower Shop|Plants sold|decorative plants}} for sale.
+
+==Rustboro City==
+[[File:Rustboro City E.png|thumb|Rustboro City]]
+[[Rustboro City]] is the third largest city in [[Hoenn]]. Each of the buildings were constructed with stone, giving the city an old-fashioned feeling. The [[Pokémon Trainers' School|Pokémon Trainer's School]], [[Devon Corporation]] headquarters, and [[Rustboro Gym]] are all located here.
+{| class="expandable" style="margin: auto; background: #725C42; {{roundy}}; border: 5px solid #7D6448;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|road|no}}
+{{catch/div|road|Special}}
+{{catch/entry3|273|Seedot|no|no|yes|Trade|The same as the traded Pokémon|One|tradenum=280|tradename=Ralts|type1=grass}}
+{{catch/footer|road}}
+|}
+{| class="expandable" style="margin: auto; background: #725C42; {{roundy}}; border: 5px solid #7D6448;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|X Defense|Outside the fence in the southeast, accessed via Route 104|E=yes}}
+{{itemlist|Premier Ball|From a boy in the southwest building, 2F|E=yes}}
+{{itemlist|HM Normal|From the Cutter in his home west of the Pokémon Center|E=yes|display={{HM|01|Cut}}}}
+{{itemlist|Quick Claw|From the teacher in the Pokémon Trainer's School|E=yes}}
+{{itemlist|Chesto Berry|Held by Dots, the traded {{p|Seedot}}|E=yes}}
+{{catch/div|road|After defeating the Rustboro Gym}}
+{{itemlist|TM Rock|From Roxanne upon her defeat|E=yes|display={{TM|39|Rock Tomb}}}}
+{{itlistfoot|road}}
+|}
+
+===Cutter's House===
+Stop by the Cutter's house next to the Pokémon Center. When the city was expanding, he taught his Pokémon a move to help clear the surrounding land of trees. He no longer needs his {{HM|01|Cut}}, and gives it to you. In the field, Cut may be used to clear away small trees and tall grass.
+
+===Devon Corporation===
+[[Devon Corporation]] is headquartered in a large stone building in the northwest part of town. The company is responsible for manufacturing many of the items Trainers rely on every day, including several variations of Poké Ball and medicine. Only authorized personnel are allowed past the first floor.
+
+===Pokémon Trainer's School===
+The [[Pokémon Trainers' School|Pokémon Trainer's School]] stands to the northeast of the Pokémon Center. Talk with the teacher to receive a [[Quick Claw]], and brush up on the basics by reading the notes on the blackboard.
+{| colspan="3" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 2px solid #{{locationcolor/dark|building}};" cellspacing="2" cellpadding="4"
+|-
+! style="background: #{{locationcolor/light|building}}; {{roundytl|5px}};" | Ailment
+! style="background: #{{locationcolor/light|building}}; {{roundytr|5px}};" | Effect(s)
+|- align="center" style="background: #FFFFFF;"
+| style="background: #{{fire color}};" | '''{{color2|FFF|Burn (status condition)|BURNED}}'''
+| {{stat|Attack}} drops to 50%, inflicts damage equal to 1/8 of maximum {{stat|HP}} every turn. {{type|Fire}} Pokémon are immune to this condition.
+|- align="center" style="background: #FFFFFF;"
+| style="background: #{{ice color}};" | '''{{color2|FFF|Freeze (status condition)|FROZEN}}'''
+| Cannot move until thawed, 20% chance of recovery per turn. {{type|Ice}} Pokémon are immune to this condition.
+|- align="center" style="background: #FFFFFF;"
+| style="background: #{{electric color}};" | '''{{color2|FFF|Paralysis (status condition)|PARALYZE}}'''
+| {{stat|Speed}} drops to 25%, cannot attack a quarter of the time.
+|- align="center" style="background: #FFFFFF;"
+| style="background: #{{poison color}};" | '''{{color2|FFF|Poison (status condition)|POISONED}}'''
+| Inflicts damage equal to 1/8 of maximum {{stat|HP}} every turn. {{t|Poison}}- and {{type|Steel}} Pokémon are immune to this condition.
+|- align="center" style="background: #FFFFFF;"
+| style="background: #{{status color}};" | '''{{color2|FFF|Sleep (status condition)|ASLEEP}}'''
+| Cannot move for one to four turns.
+|-
+| colspan="3" style="background: #{{locationcolor/light|building}}; {{roundybottom|5px}};" |
+|}
+
+====The Man in Sunglasses====
+Just inside the entrance, you find the Man in Sunglasses again, who introduces himself as [[Scott]]. He's been searching everywhere for outstanding Trainers, specifically Pokémon battle experts. He wonders what brings you here to school, and claims that the first thing you should do as a new Trainer is teach {{m|Cut}} to one of your Pokémon. It's a useful field move, but using it outside of battle requires the badge from the local Gym.
+
+It is advisable to talk to Scott every time you see him at each location that appears throughout the game as you will get a [[Battle Frontier (Generation III)|reward]] later.
+
+===Time for a Trade===
+The Rustboro Gym beckons, but before you step inside, visit the house to the east. Inside is a boy who is looking to trade his {{p|Seedot}} for a {{p|Ralts}}. Seedot is a Grass Pokémon that eventually evolves into a {{2t|Grass|Dark}} Pokémon, {{p|Shiftry}}. This one is even holding a [[Chesto Berry]] to sweeten the deal.
+
+===Rustboro Gym===
+[[File:Rustboro Gym E.png|thumb|Rustboro Gym]]
+{{sign|E|header}}
+{{sign|E|title|Rustboro City Pokémon Gym}}
+{{sign|E|Leader: Roxanne<br>The <sc>Rock</sc>-loving honor student!}}
+{{sign|E|footer}}
+
+The [[Rustboro Gym]] specializes in {{type|Rock}} Pokémon. Use {{t|Grass}}, {{t|Water}}, and {{t|Fighting}} moves, such as {{m|Water Gun}} and {{m|Bullet Seed}}, to deal serious damage, and avoid battling with {{t|Fire}}-, {{t|Bug}}-, or {{type|Flying}} Pokémon. As hers is the first Gym in the [[Hoenn League]], this graduate of the [[Pokémon Trainers' School|Pokémon Trainer's School]] has opted for a layout that gives novice Trainers a chance to avoid her subordinates and challenge the Gym Leader directly. Use {{stat|Defense}}-lowering moves like {{m|Leer}} to soften up Roxanne's rock-solid Pokémon, and moves like {{m|Growl}} to weaken their {{stat|Attack}}. As {{2t|Rock|Ground}} Pokémon, her two {{p|Geodude}} are especially vulnerable to Grass and Water moves, sustaining 4× the normal amount of damage. 
+
+{{WalkthroughGym
+| background = {{rock color}}
+| headcolor = {{rock color light}}
+| name = Rustboro Gym
+| badge = Stone Badge
+| image = Stone Badge.png
+| trainers = 
+{{trainerheader|Rock}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Josh|160|1|074|Geodude|♂|10|}}
+{{trainerdiv|Rock}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Tommy|128<br/><small>Potential [[Double Battle]] with Marc</small>|2|074|Geodude|♂|8||074|Geodude|♂|8|}}
+{{trainerdiv|Rock}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Marc|320<br/><small>Potential [[Double Battle]] with Tommy</small>|2|074|Geodude|♂|8||074|Geodude|♂|8|}}
+{{trainerfooter|Rock|I}}
+| party = 
+{{Party
+| background = {{rock color}}
+| border = {{rock color dark}}
+| headcolor = {{rock color light}}
+| middle = yes
+| sprite = Spr RS Roxanne.png
+| prize = {{PDollar}}1500
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Roxanne}}
+| location = Rustboro Gym
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0074
+| pokemon = Geodude
+| gender = female
+| level = 12
+| type1 = Rock
+| type2 = Ground
+| ability = Rock Head
+| move1 = Tackle | move1type = Normal
+| move2 = Defense Curl | move2type = Normal
+| move3 = Rock Throw | move3type = Rock
+| move4 = Rock Tomb | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0074
+| pokemon = Geodude
+| gender = female
+| level = 12
+| type1 = Rock
+| type2 = Ground
+| ability = Rock Head
+| move1 = Tackle | move1type = Normal
+| move2 = Defense Curl | move2type = Normal
+| move3 = Rock Throw | move3type = Rock
+| move4 = Rock Tomb | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0299
+| pokemon = Nosepass
+| gender = female
+| level = 15
+| type1 = Rock
+| ability = Sturdy
+| held = Oran Berry
+| move1 = Block | move1type = Normal
+| move2 = Harden | move2type = Normal
+| move3 = Tackle | move3type = Normal
+| move4 = Rock Tomb | move4type = Rock
+}}
+{{Party/end}}
+}}
+
+
+After the battle, Roxanne awards you the {{badge|Stone}}, which boosts your Pokémon's {{stat|Attack}} by 10% and enables the use of {{m|Cut}} in the field. She also gives you {{TM|39|Rock Tomb}} as a prize.
+
+===Stop, Thief!===
+When you leave the Gym, you witness a [[Team Aqua]] Grunt escaping from the Devon Corporation building. That same Devon researcher from earlier is close behind, and chases the thief northward. He loses track of him in the northeast, where the city connects to {{rt|116|Hoenn}}.
+
+==Now that you can use Cut (optional)==
+There are a few more items on {{rt|104|Hoenn}} and [[Petalburg Woods]] that you can pick up.
+===Route 104 (north)===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Route 104
+|-
+|
+{{itlisth|land}}
+{{Itemlist|X Accuracy|North side, by the southeast corner of the pond|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Petalburg Woods===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Petalburg Woods
+|-
+|
+{{itlisth|land}}
+{{Itemlist|Tiny Mushroom|
+* In a small recess between two trees east of the northern exit and west of the girl who gives a Miracle Seed ''(hidden)''
+* Down the second ledge on the eastern side of the forest, by the southwest corner of the first patch of tall grass ''(hidden)''
+|E=yes|display=[[Tiny Mushroom]] ×2}}
+{{Itemlist|Miracle Seed|From a girl to the east of the northern exit|E=yes}}
+{{Itemlist|Great Ball|In the northeastern-most corner|E=yes}}
+{{Itemlist|X Attack|Down the second ledge on the eastern side of the forest and to the west|E=yes}}
+{{itlistfoot|land}}
+|}
+
+==Route 116==
+[[File:Hoenn Route 116 E.png|thumb|300px|Route 116]]
+
+{{rt|116|Hoenn}} runs east from [[Rustboro City]]. The well-traveled path is used by the workers tasked with construction of [[Rusturf Tunnel]], a project that is now abandoned.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Jose|128|2|265|Wurmple|♂|8||290|Nincada|♂|8|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Joey|144|1|066|Machop|♂|9|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS School Kid F.png|School Kid|Karen|180|1|285|Shroomish|♀|9||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Clark|320<br><small>Potential [[Double Battle]] with Johnson</small>|1|074|Geodude|♂|8||}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Johnson|128<br><small>Potential [[Double Battle]] with Clark or Devan</small>|2|285|Shroomish|♂|8||270|Lotad|♂|8||}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Devan|320<br><small>Potential [[Double Battle]] with Johnson</small>|2|074|Geodude|♂|8||074|Geodude|♂|8||}}
+{{catch/div|land|Requires Cut}}
+{{trainerentry|Spr RS Lady.png|Lady|Sarah|1600<br><small>Potential [[Double Battle]] with Dawson</small>|2|270|Lotad|♀|8||263|Zigzagoon|♀|8|Nugget}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Rich Boy.png|Rich Boy|Dawson|1600<br><small>Potential [[Double Battle]] with Sarah</small>|2|263|Zigzagoon|♂|8|Nugget|261|Poochyena|♂|8|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS School Kid M.png|School Kid|Jerry|180<br><small>Potential [[Double Battle]] with Janice</small>|1|280|Ralts|♂|9|||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Lass.png|Lass|Janice|144<br><small>Potential [[Double Battle]] with Jerry</small>|1|183|Marill|♀|9|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS School Kid F.png|School Kid|Karen{{tt|*|First rematch}}|520|2|285|Shroomish|♀|26||293|Whismur|♀|26||38=Nav}}
+{{trainerentry|Spr RS School Kid F.png|School Kid|Karen{{tt|*|Second rematch}}|580|2|285|Shroomish|♀|29||294|Loudred|♀|29||38=Nav}}
+{{trainerentry|Spr RS School Kid F.png|School Kid|Karen{{tt|*|Third rematch}}|640|2|286|Breloom|♀|32||294|Loudred|♀|32||38=Nav}}
+{{trainerentry|Spr RS School Kid F.png|School Kid|Karen{{tt|*|Fourth rematch onwards}}|700|2|286|Breloom|♀|35||295|Exploud|♀|35||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS School Kid M.png|School Kid|Jerry{{tt|*|First rematch}}|520|2|280|Ralts|♂|26||307|Meditite|♂|26|None|38=Nav}}
+{{trainerentry|Spr RS School Kid M.png|School Kid|Jerry{{tt|*|Second rematch}}|580|2|281|Kirlia|♂|29||307|Meditite|♂|29|None|38=Nav|}}
+{{trainerentry|Spr RS School Kid M.png|School Kid|Jerry{{tt|*|Third rematch}}|640|2|281|Kirlia|♂|32||308|Medicham|♂|32|None|38=Nav|}}
+{{trainerentry|Spr RS School Kid M.png|School Kid|Jerry{{tt|*|Fourth rematch onwards}}|680|3|281|Kirlia|♂|34||354|Banette|♂|34||308|Medicham|♂|34|None|38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|261|Poochyena|no|no|yes|Grass|6-8|28%|type1=Dark}}
+{{Catch/entry3|276|Taillow|no|no|yes|Grass|6-8|20%|type1=Normal|type2=Flying}}
+{{Catch/entry3|290|Nincada|no|no|yes|Grass|6-7|20%|type1=Bug|type2=Ground}}
+{{Catch/entry3|293|Whismur|no|no|yes|Grass|6|20%|type1=Normal}}
+{{Catch/entry3|063|Abra|no|no|yes|Grass|7|10%|type1=Psychic}}
+{{Catch/entry3|300|Skitty|no|no|yes|Grass|7-8|2%|type1=Normal}}
+{{Catch/div|land|Swarm}}
+{{Catch/entry3|300|Skitty|no|no|yes|Swarm|8|50%|type1=Normal}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Repel|Southwest grass patch, near Bug Catcher Jose|E=yes}}
+{{itemlist|X Sp. Atk|On the mountainside, southeast of the tunnel entrance|E=yes|display=[[X Sp. Atk|X Special]]}}
+{{catch/div|forest|Requires {{mcolor|Cut|000}}}}
+{{itemlist|Potion|In the trees just west of the Rest House|E=yes}}
+{{itemlist|Super Potion|In the trees west of the Rest House, western corner of the south ledge (hidden)|E=yes}}
+{{itemlist|Ether|On the ledge, south of the Berry trees|E=yes}}
+{{itemlist|Chesto Berry|Soft soil patch, northwest of the Rest House|E=yes|display=[[Chesto Berry]] ×4}}
+{{itemlist|Pinap Berry|Soft soil patch, northwest of the Rest House|E=yes|display=[[Pinap Berry]] ×6}}
+{{itlistfoot|land}}
+|}
+
+===Kidnap!===
+When you reach the entrance to [[Rusturf Tunnel]], you find old [[Mr. Briney]] standing there. It seems that the thief has added kidnapping to his list of charges, as he has also made off with Mr. Briney's beloved {{p|Wingull}}, [[Peeko]]!
+
+==Rusturf Tunnel==
+[[File:Rusturf Tunnel E.png|thumb|Rusturf Tunnel]]
+
+[[Rusturf Tunnel]] was a construction project by [[Devon Corporation]] that aimed to link [[Rustboro City]] and western [[Hoenn]] to the rest of the region. The tunnel was nearly complete when Devon's president, [[Mr. Stone]], realized that the work was disturbing the local {{p|Whismur}} population. The project was canceled, though only a small bit of debris, {{m|Rock Smash|easily cleared}}, remained to hinder travel.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|cave}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||220|1|261|Poochyena|♂|11|}}
+{{trainerfooter|cave|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|293|Whismur|no|no|yes|Cave|5-8|100%|type1=Normal}}
+{{Catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{itemlist|Poké Ball|Northwest part of the cave|E=yes|display={{i|Poké Ball}}}}
+{{itemlist|Devon Parts|From the Team Aqua Grunt after defeating him|E=yes|display=[[Devon Parts|Devon Goods]]}}
+{{itlistfoot|cave}}
+|}
+
+====The Take-Down====
+The tunnel is fairly small, so you will find the thief and his hostage shortly after you step inside. Defeat him, and he gives up the [[Devon Parts|Devon Goods]] before fleeing. The old man rushes in to check on his [[Peeko]], and introduces himself as [[Mr. Briney]] before the pair leaves for his cottage near [[Petalburg Woods]].
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=1
+|prevname=Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City
+|nextsection=3
+|nextname=Rustboro City, Dewford Town, Route 106, Granite Cave, Route 109, Slateport City
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|02]]

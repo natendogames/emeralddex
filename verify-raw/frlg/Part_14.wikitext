@@ -1,0 +1,628 @@
+{{WalkthroughNotice|FRLG}}
+==One Island==
+[[File:Knot Island FRLG.png|thumb|One Island]]
+[[File:Ember Spa.png|thumb|Ember Spa]]
+[[File:Mt Ember FRLG.png|thumb|Mt. Ember, Exterior]]
+[[File:Mt. Ember Summit FRLG.png|thumb|Mt. Ember, Summit]]
+===One Island (Town)===
+====Pokémon Network Center====
+Upon reaching {{to|One Island}}, [[Bill]] leads you into the [[Pokémon Network Center]] and introduces you to his friend [[Celio]], a programmer who runs the PC network for the [[Sevii Islands]]. The building functions as a traditional Pokémon Center and also houses the Pokémon Network Machine. Celio is currently performing maintenance on the machine, but the islands are too remote and the machine is having trouble connecting to Bill's PC system on the [[Kanto]] mainland. Until maintenance is complete, the normal PC services will be unavailable.
+
+====Deliver the Meteorite====
+While he and Celio get to work on the machine, Bill asks you a favor: visit nearby [[Two Island]] and speak to the man who runs the Game Corner there. He has an interest in rare rocks and gems, and Bill has a [[Meteorite]] for you to deliver to him. To help with this task, Celio gives you a [[Tri-Pass]], a ferry ticket that enables travel between the three northernmost islands in the archipelago. He also gives you a second page for the [[Town Map]] that displays [[One Island]], [[Two Island]], and [[Three Island]].
+
+{| class="expandable" align="center" style="background: #FF6767; {{roundy}}; border: 5px solid #FF8080;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|fire|no}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|090|Shellder|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|120|Staryu|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|fire}}
+|}
+{| class="expandable" align="center" style="background: #FF6767; {{roundy}}; border: 5px solid #FF8080;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|fire}}
+{{itemlist|Meteorite|Pokémon Network Center; from Bill|FR=yes|LG=yes}}
+{{Itemlist|Tri-Pass|Pokémon Network Center; from Celio, after receiving the Meteorite|FR=yes|LG=yes}}
+{{itlistfoot|fire}}
+|}
+
+
+===Treasure Beach===
+South of the port is a small island, with only a single Trainer swimming nearby. This is [[Treasure Beach]], known for the valuable items that regularly wash up on the shore. The tides usually replace these items by the next day, allowing treasure hunters to easily stockpile these rare items.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|sand}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Amara|144|3|086|Seel|♀|36||086|Seel|♀|36||087|Dewgong|♀|36}}
+{{trainerfooter|sand}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|sand|no}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|31-32|30%|type1=Normal|type2=Flying}}
+{{catch/entryfl|114|Tangela|yes|yes|Grass|33, 35|30%|type1=Grass}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|36, 38, 40|20%|type1=Normal|type2=Flying}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|31|10%|type1=Normal}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|37, 40|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|31|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|31|5%|type1=Water|type2=Psychic}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+{{itemlist|Ultra Ball|
+* One step east of the northernmost spot of regular grass  ''(hidden [[Recurring item|recurring item]]; always)''
+* In the southeast corner  ''(hidden [[Recurring item|recurring item]]; always)''|FR=yes|LG=yes|display=[[Ultra Ball]] ×2}}
+{{itemlist|Pearl|
+* On the west side of the southernmost sandy patch  ''(hidden [[Recurring item|recurring item]]; group B)''
+* Two steps east, two steps north of the other Pearl  ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display={{i|Pearl}} ×2}}
+{{itemlist|Big Pearl|In the middle of the northwestern sandy patch  ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itemlist|Stardust|
+* Near the middle of the shore  ''(hidden [[Recurring item|recurring item]]; group B)''
+* Southwest corner of the northwestern sandy patch  ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display=[[Stardust]] ×2}}
+{{itemlist|Star Piece|Four steps north, one step west of the southeast corner  ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itlistfoot|sand}}
+|}
+
+
+===Kindle Road===
+[[Kindle Road]], on the island's rocky eastern side, leads northward from the town to [[Mt. Ember]]. The grassy western path is packed with Trainers, and is the only location where wild {{p|Ponyta}} and {{p|Rapidash}} can be found. A rocky area on the northern edge of the main island houses the [[Ember Spa]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|sand}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Abigail|148|3|054|Psyduck|♀|35|None|054|Psyduck|♀|36|None|055|Golduck|♀|37|None}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Picnicker.png|Picnicker|Claire|700|4|052|Meowth|♀|35|None|052|Meowth|♀|35|None|025|Pikachu|♀|35|None|035|Clefairy|♀|35|None}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Crush Girl.png|Crush Girl|Tanya|912|2|106|Hitmonlee|♂|38|None|107|Hitmonchan|♂|38|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Camper.png|Camper|Bryce|720|3|033|Nidorino|♂|36|None|020|Raticate|♂|36|None|028|Sandslash|♂|36|None}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Garrett|152|3|090|Shellder|♂|35|None|091|Cloyster|♂|35|None|008|Wartortle|♂|38|None}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Crush Kin.png|Crush Kin|Mik & Kia|1872|2|067|Machoke|♂|39|None|057|Primeape|♂|39|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Hugh|888|2|066|Machop|♂|37|None|067|Machoke|♂|37|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Shea|912|2|066|Machop|♂|38|None|067|Machoke|♂|38|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Crush Girl.png|Crush Girl|Sharon|888|2|056|Mankey|♂|37|None|057|Primeape|♂|37|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Finn|152|1|121|Starmie||38|None|38=Vs. Seeker}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Maria|148|2|117|Seadra|♀|37|None|117|Seadra|♀|37|None}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr FRLG Fisherman.png|Fisherman|Tommy|1260|5|118|Goldeen|♂|33|None|118|Goldeen|♂|33|None|119|Seaking|♂|35|None|119|Seaking|♂|35|None|119|Seaking|♂|35|None}}
+{{trainerfooter|sand}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|sand|no}}
+{{catch/entryfl|077|Ponyta|yes|yes|Grass|31, 34|30%|type1=Fire}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|30, 32|25%|type1=Normal|type2=Flying}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|36|10%|type1=Normal|type2=Flying}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|31|10%|type2=Normal}}
+{{catch/entryfl|074|Geodude|yes|yes|Grass|31|10%|type1=Rock|type2=Ground}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|37, 40|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|34|5%|type1=Water}}
+{{catch/entryfl|078|Rapidash|yes|yes|Grass|37, 40|5%|type1=Fire}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|34|5%|type1=Water|type2=Psychic}}
+{{catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/div|sand|Rock Smash}}
+{{catch/entryfl|074|Geodude|yes|yes|Rock Smash|5-30|95%|type1=Rock|type2=Ground}}
+{{catch/entryfl|075|Graveler|yes|yes|Rock Smash|25-40|5%|type1=Rock|type2=Ground}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+{{itemlist|Max Repel|East of the rocky ridge, on a sandy patch (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itemlist|HM Fighting|Ember Spa; from the old man|FR=yes|LG=yes|display={{HM|06|Rock Smash}}}}
+{{itemlist|Ether|In the rocky area south of Ember Spa (requires {{m|Rock Smash}})|FR=yes|LG=yes}}
+{{itemlist|Carbos|Southern point of the rocky ridge (requires {{m|Rock Smash}})|FR=yes|LG=yes}}
+{{itlistfoot|sand}}
+|}
+
+
+====Ember Spa====
+Ember Spa is a small hot spring. By standing in the middle of the water, people and Pokémon can relax and restore their health.
+
+=====Mind Over Matter=====
+The old man standing between the two waterfalls claims to have carved the cave out of a gigantic boulder many years ago. As he no longer needs the tool he used, he gives the {{HM|06|Rock Smash}} to you. This field move allows you to remove [[Breakable rock|weak-looking rocks]] to clear a path. {{DL|Breakable rock|Pokémon FireRed and LeafGreen|Certain Pokémon}} like to hide themselves under these rocks, and will attack when their hiding place is removed!
+
+====Mt. Ember====
+[[Mt. Ember]] is a dormant volcano located at the northernmost point of [[One Island]], across a small channel from Ember Spa.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Pokémon Ranger F.png|Pokémon Ranger|Beth|1368|3|069|Bellsprout|♀|38||044|Gloom|♀|38||044|Gloom|♀|38|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Crush Girl.png|Crush Girl|Jocelyn|912|2|107|Hitmonchan|♂|38||107|Hitmonchan|♂|38|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Pokémon Ranger M.png|Pokémon Ranger|Logan|1440|2|102|Exeggcute|♂|37||103|Exeggutor|♂|40|}}
+{{Trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entryfl|077|Ponyta|yes|yes|Grass|30, 33, 36|35%|type1=fire}}
+{{Catch/entryfl|022|Fearow|yes|yes|Grass|38, 40|25%|type2=flying}}
+{{Catch/entryfl|021|Spearow|yes|no|Grass|30, 32|15%|type2=flying}}
+{{Catch/entryfl|021|Spearow|no|yes|Grass|32|10%|type2=flying}}
+{{Catch/entryfl|066|Machop|yes|yes|Grass|35|10%|type1=fighting}}
+{{Catch/entryfl|074|Geodude|yes|yes|Grass|33|10%|type1=rock|type2=ground}}
+{{Catch/entryfl|078|Rapidash|yes|yes|Grass|39, 42|5%|type1=fire}}
+{{Catch/entryfl|126|Magmar|no|yes|Grass|38, 40|5%|type1=fire}}
+{{Catch/div|mountain|Rock Smash}}
+{{Catch/entryfl|074|Geodude|yes|yes|Rock Smash|5-30|95%|type1=rock|type2=ground}}
+{{Catch/entryfl|075|Graveler|yes|yes|Rock Smash|25-40|5%|type1=rock|type2=ground}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|mountain}}
+{{itemlist|Dire Hit|Lower east side; northeast of the eastern patch of tall grass|FR=yes|LG=yes}}
+{{itemlist|Ultra Ball|
+* Lower west side; southwest of Pokémon Ranger Logan, end of the dead-end path ''(hidden)''
+* Upper west side; dead-end path west of the summit entrance|FR=yes|LG=yes|display=[[Ultra Ball]] ×2}}
+{{itemlist|Fire Stone|
+* Upper east side; southeast of the summit entrance (requires {{m|Rock Smash}}, {{m|Strength}})
+* Upper west side; on a lone rock, southwest of the summit entrance ''(hidden)''|FR=yes|LG=yes|display=[[Fire Stone]] ×2}}
+{{itlistfoot|mountain}}
+|}
+
+
+=====Exterior=====
+To the east, a pair of [[Team Rocket]] Grunts are whispering to themselves about digging and treasure. Near the entrance, a Hiker offers to teach {{m|Explosion}} to a compatible Pokémon. Go west and use {{m|Strength}} to move a pair of boulders, then battle Pokémon Ranger Beth. Head north from the second patch of tall grass to battle the jogging Crush Girl Jocelyn, then go east to find a [[Dire Hit]]. Turn around and go west from Jocelyn to fight Pokémon Ranger Logan and venture inside the mountain.
+
+=====Interior=====
+Follow the tunnels eastward through the volcano to re-emerge on the upper east side.
+
+=====Exterior=====
+Climb up the first stairway to find a group of boulders and [[Breakable rock|cracked rocks]] to the east. Use {{m|Rock Smash}} to remove the western rock, then use {{m|Strength}} to move the southernmost boulder; clear the next rock and boulder to reach a [[Fire Stone]] on the ledge beyond. The stairway to the west leads to another [[Ultra Ball]].
+
+=====Summit=====
+A second group of boulders litters the area. Use {{m|Strength}} to clear a way northward to find a large bird Pokémon roosting atop the volcano.
+
+======VS Moltres======
+Moltres is the next member of the [[legendary birds]]. Use {{t|Water}}- and {{type|Electric}} attacks to weaken it quickly, then follow up with {{t|Grass}} and {{t|Fighting}} moves to wear its health down further. Like with {{p|Articuno}}, inflicting status ailments like {{status|Sleep}} and {{status|Paralysis}} will help increase the chances of capturing it.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=146
+|pokemon=Moltres
+|type1=Fire
+|type2=Flying
+|ability=Pressure
+|level=50
+|move1=Fire Spin|move1type=Fire
+|move2=Agility|move2type=Psychic
+|move3=Endure|move3type=Normal
+|move4=Flamethrower|move4type=Fire
+}}
+
+
+Now that you have explored [[One Island]], fly back to the Pokémon Network Center and take the ferry to the next island.
+{{-}}
+==Two Island==
+[[File:Boon Island FRLG.png|thumb|right|Two Island]]
+
+[[Two Island]] is a tiny island with little more than a Pokémon Center. The [[Joyful Game Corner]] is located here, and the Market Stall offers different items over time. Unlike in the town of {{OBP|One Island|town}}, the waters around the port are too rough, making it impossible to surf or fish.
+
+{| class="expandable" align="center" style="background: #3F9BBC; {{roundy}}; border: 5px solid #7FBCD2;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|lake|no}}
+{{catch/entryfl|043|Oddish|yes|no|Grass|30, 32|30%|type1=grass|type2=poison}}
+{{catch/entryfl|069|Bellsprout|no|yes|Grass|30, 32|30%|type1=grass|type2=poison}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|31|20%|type2=flying}}
+{{catch/entryfl|044|Gloom|yes|no|Grass|36, 38|15%|type1=grass|type2=poison}}
+{{catch/entryfl|070|Weepinbell|no|yes|Grass|36, 38|15%|type1=grass|type2=poison}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|36|10%|type2=flying}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|31|10%|type1=normal}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|37, 40|5%|type1=normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|31|5%|type1=water}}
+{{catch/entryfl|055|Golduck|yes|no|Grass|37, 40|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|31|5%|type1=water|type2=psychic}}
+{{catch/entryfl|080|Slowbro|no|yes|Grass|37, 40|5%|type1=water|type2=psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|5-40|95%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|5-40|95%|type1=water|type2=psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|35-40|5%|type1=water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|35-40|5%|type1=water|type2=psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=water|type2=psychic}}
+{{catch/footer|lake}}
+|}
+{| class="expandable" align="center" style="background: #3F9BBC; {{roundy}}; border: 5px solid #7FBCD2;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|lake}}
+{{Itemlist|Revive|South of the Game Corner (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{Itemlist|PP Max|Cape Brink; sandy spot on the lake's east side ''(hidden)'' (requires {{m|Surf}}, [[Dowsing Machine|Itemfinder]])|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|Cape Brink; behind the Move Tutor's house ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|lake|Later visit}}
+{{Itemlist|Moon Stone|Game Corner; from Lostelle's father, after her safe return|FR=yes|LG=yes}}
+{{itlistfoot|lake}}
+|}
+
+
+===Two Island (Town)===
+====Market Stall====
+The owner of the {{DL|Two Island (town)|Market Stall}} moved here from [[Celadon City]] to set up shop with his younger brother. Only [[Great Ball]]s and [[Fresh Water]] can be purchased initially, but their inventory is updated over time.
+
+{| align="center" style="background: #88A; border: 3px solid #{{locationcolor/dark|building}}; {{roundy|15px}};" cellspacing="1" cellpadding="1" 
+|- valign="top"
+|
+{{shop|}}
+{{shoprow|{{shopitem|Ultra Ball|1200|PD|note=<br><small>After saving [[Lostelle]]</small>}}|{{shopitem|Great Ball|600|PD|note=<br><small>Before {{i|Ruby}}/{{i|Sapphire}} quest</small>}}}}
+{{shoprow|{{shopitem|Repeat Ball|1000|PD|note=<br><small>After {{i|Ruby}}/{{i|Sapphire}} quest</small>}}|{{shopitem|Timer Ball|1000|PD|note=<br><small>After {{i|Ruby}}/{{i|Sapphire}} quest</small>}}}}
+{{shoprow|{{shopitem|Lemonade|350|PD|note=<br><small>After entering [[Hall of Fame]]</small>}}|{{shopitem|Soda Pop|300|PD|note=<br><small>After saving [[Lostelle]]</small>}}}}
+{{shoprow|{{shopitem|Fresh Water|200}}|{{shopitem|Moomoo Milk|500|PD|5=Moomoo Milk III|note=<br><small>After entering [[Hall of Fame]]</small>}}}}
+{{shoprow|{{shopitem|Lava Cookie|200|PD|note=<br><small>After {{i|Ruby}}/{{i|Sapphire}} quest</small>}}}}
+{{shopfooter}}
+|}
+
+
+====Move Maniac====
+The house to the south of the Market Stall belongs to the [[Move Reminder|Move Maniac]]. He claims to know every single move a Pokémon can learn as it grows up, and can re-teach any move that a Pokémon had forgotten. As a mushroom enthusiast, he accepts either two [[Tiny Mushroom|TinyMushroom]]s or one [[Big Mushroom]] per transaction as payment.
+
+====Joyful Game Corner====
+The [[Joyful Game Corner]] is located on the east side of town. When you enter, you find the owner pacing around the building. It seems that his daughter, [[Lostelle]], likes to bring lunch for him every day, but he is starting to worry as she is running late. He pleads with you to search [[Three Island]]. A Biker suddenly enters the building, mistaking the area for Three Island. The owner chases him out, and asks again that you save Lostelle.
+
+===Cape Brink===
+[[Cape Brink]] is a short mountain road on the island's north side. The lone house here belongs to a Channeler who has perfected the ultimate {{t|Grass}}, {{t|Fire}}, and {{t|Water}} moves. She offers to teach {{m|Frenzy Plant}} to {{p|Venusaur}}, {{m|Blast Burn}} to {{p|Charizard}}, and {{m|Hydro Cannon}} to {{p|Blastoise}}. Each of these attacks may only be taught once each, and only to your original [[first partner Pokémon|partner Pokémon]].
+
+==Three Island==
+[[File:Kin Island.png|thumb|450px|right|Three Island]]
+[[File:Berry Forest.png|thumb|Berry Forest]]
+[[File:Berry Forest berries.png|thumb|Berry Forest, with Berry locations]]
+
+[[Three Island]] consists of two plots of land: a larger island to the east that holds the town of {{OBP|Three Island|town}}, and a smaller wooded islet to the west where the [[Berry Forest]] is located.
+
+===Three Isle Port===
+[[Three Isle Port]] is located on the south side of the island, connecting the port to the town of {{OBP|Three Island|town}}. A small cave leads into the cliffside to the east.
+
+====Trouble in Paradise====
+Upon leaving the port, you find several rowdy Bikers harassing the residents. That must mean trouble for the town, as well!
+
+====Three Isle Path====
+[[Three Isle Path]] is a small cave on the southeast side of the larger island. The cliffside here is rumored to hide a large deposit of gold, and one of the residents mines tirelessly for the precious metal.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|Later visit}}
+{{itemlist|Nugget|
+* Southeast of the stairway, on a rock ''(hidden)''
+* From the man as a gift|FR=yes|LG=yes|display=[[Nugget]] ×2}}
+{{itlistfoot|cave}}
+|}
+
+
+=====The Lure of the Ore=====
+By the time you receive the [[National Pokédex]], the man's unrelenting drive has expanded the cave into a tunnel. It seems that he was successful in his treasure hunt, as he shares a spare [[Nugget]] with you. This tunnel opens to an isolated cliff with a single patch of tall grass, inhabited only by {{p|Dunsparce}}.
+
+===Three Island (Town)===
+The town of [[Three Island (town)|Three Island]] encompasses nearly half of the larger island. The local Pokémon Center and Poké Mart are located on the east side, and the house belonging to [[Lostelle]] and her father can be found to the west.
+
+{| class="expandable" align="center" style="background: #02A72C; {{roundy}}; border: 5px solid #03C03C;"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr FRLG Biker.png|Biker|Goon|740|2|109|Koffing|♂|37|None|088|Grimer|♂|37|None}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Biker.png|Biker|Goon|760|1|109|Koffing|♂|38|None}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Biker.png|Biker|Goon|760|1|088|Grimer|♂|38|None}}
+{{trainerdiv|land}}
+{{trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Paxton|936|2|110|Weezing|♂|39|None|089|Muk|♂|39|None}}
+{{trainerfooter|land|I}}
+|}
+{| class="expandable" align="center" style="background: #02A72C; {{roundy}}; border: 5px solid #03C03C;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Full Restore|From the southernmost of the two residents, after defeating the group|FR=yes|LG=yes}}
+{{itemlist|Zinc|Dead-end path south of the Poké Mart (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{itemlist|PP Up|Behind the fence on the west side, accessed via Bond Bridge ''(hidden)'' (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+====Network Machine: Online====
+By the time you arrive in town, [[Bill]] and [[Celio]]'s work on the Network Machine has successfully linked the [[Pokémon Network Center]] with Bill's PC system on [[Kanto|the mainland]], restoring all normal PC functions in the process.
+
+====Biker, Begone!====
+Several more Bikers can be found causing trouble near the Pokémon Center. Approach the gang and one of them asks if you really want to take them on. Defeat the [[Kanto Pokémon Federation|Kanto Rider Federation]] in four consecutive battles and they reluctantly leave the island in peace.
+
+====Lostelle's house====
+The house with the red roof in the southwest part of town belongs to [[Lostelle]] and her father. She is still nowhere to be found, so she must have gone deeper into the island. With the Bikers gone, one of the residents informs you that she had gone west toward [[Bond Bridge]].
+
+===Bond Bridge===
+[[Bond Bridge]] connects the main island with the western islet and the [[Berry Forest]]. Several Trainers can be found here, and valuable items sometimes wash up near the bridge.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Twins.png|Twins|Joy & Meg|888|2|035|Clefairy|♀|37|None|035|Clefairy|♀|37|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Aroma Lady.png|Aroma Lady|Violet|1008|3|001|Bulbasaur|♂|36|None|002|Ivysaur|♂|36|None|002|Ivysaur|♂|36|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Tuber.png|Tuber|Alexis|136|4|120|Staryu||34|None|120|Staryu||34|None|098|Krabby|♂|34|None|098|Krabby|♂|34|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Tisha|152<br><small>Requires {{m|Surf}}</small>|1|099|Kingler|♀|38|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Tuber.png|Tuber|Amira|136|3|060|Poliwag|♂|34|None|061|Poliwhirl|♂|35|None|060|Poliwag|♂|34|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Aroma Lady.png|Aroma Lady|Nikki|1036|2|069|Bellsprout|♀|37|None|070|Weepinbell|♀|37|None}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|29, 32|30%|type1=Normal|type2=Flying}}
+{{catch/entryfl|043|Oddish|yes|no|Grass|31|20%|type1=Grass|type2=Poison}}
+{{catch/entryfl|069|Bellsprout|no|yes|Grass|31|20%|type1=Grass|type2=Poison}}
+{{catch/entryfl|017|Pidgeotto|yes|yes|Grass|34, 37, 40|15%|type1=Normal|type2=Flying}}
+{{catch/entryfl|044|Gloom|yes|no|Grass|36|10%|type1=Grass|type2=Poison}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|31|10%|type1=Normal}}
+{{catch/entryfl|070|Weepinbell|no|yes|Grass|36|10%|type1=Grass|type2=Poison}}
+{{catch/entryfl|048|Venonat|yes|yes|Grass|34|5%|type1=Bug|type2=Poison}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|37, 40|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|31|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|31|5%|type1=Water|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Max Repel|Northwest of the ledge and Aroma Lady Violet, on a rock ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Pearl|Southeast of the bridge, near Tuber Alexis ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itemlist|Stardust|One step west, two steps north of the northwest corner of the bridge ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Berry Forest===
+[[Berry Forest]] is a dense, dark forest known for its plentiful supply of [[Berry|Berries]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|forest|no}}
+{{catch/entryfl|017|Pidgeotto|yes|yes|Grass|37|20%|type2=flying}}
+{{catch/entryfl|044|Gloom|yes|no|Grass|35|20%|type1=grass|type2=poison}}
+{{catch/entryfl|070|Weepinbell|no|yes|Grass|35|20%|type1=grass|type2=poison}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|32|10%|type2=flying}}
+{{catch/entryfl|043|Oddish|yes|no|Grass|30|10%|type1=grass|type2=poison}}
+{{catch/entryfl|048|Venonat|yes|yes|Grass|34|10%|type1=bug|type2=poison}}
+{{catch/entryfl|069|Bellsprout|no|yes|Grass|30|10%|type1=grass|type2=poison}}
+{{catch/entryfl|096|Drowzee|yes|yes|Grass|34|10%|type1=psychic}}
+{{catch/entryfl|049|Venomoth|yes|yes|Grass|37, 40|5%|type1=Bug|type2=poison}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|31|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|31|5%|type1=water|type2=psychic}}
+{{catch/entryfl|097|Hypno|yes|yes|Grass|37, 40|5%|type1=psychic}}
+{{catch/entryfl|102|Exeggcute|yes|yes|Grass|35|5%|type1=grass|type2=psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|5-40|95%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|5-40|95%|type1=water|type2=psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|35-40|5%|type1=water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|35-40|5%|type1=water|type2=psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Super|15-25|40%|type1=water}}
+{{catch/entryfl|119|Seaking|yes|yes|Fish Super|20-30|40%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=water|type2=psychic}}
+{{catch/footer|forest}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{itemlist|Razz Berry III|Northwest of the first tall grass patch ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes|display=[[Razz Berry]]}}
+{{itemlist|Oran Berry|Northeast of the first tall grass patch ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Persim Berry|Northeast of the [[ledge]] near the entrance ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Pinap Berry|Southeast of the second ledge ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Chesto Berry|Northeast corner of the forest ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes}}
+{{itemlist|Full Heal|North side of the northern pond|FR=yes|LG=yes}}
+{{itemlist|Aspear Berry|Northwest of the northernmost pond ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Rawst Berry|North-northwest area of the forest ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes}}
+{{itemlist|Max Ether|North-northwest area, west of the [[Rawst Berry]]|FR=yes|LG=yes}}
+{{itemlist|Bluk Berry|West-southwest of the first pond ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Nanab Berry III|East-northeast of the second pond ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes|display=[[Nanab Berry]]}}
+{{itemlist|Cheri Berry|North of the second pond ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Wepear Berry|North of the second pond ''(hidden [[Recurring item|recurring item]]; groups B and C)''|FR=yes|LG=yes}}
+{{itemlist|Pecha Berry|North of the southwestern pond ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes}}
+{{itemlist|Max Elixir|Dead-end path southeast of the southernmost pond (requires {{m|Surf}}, {{m|Cut}})|FR=yes|LG=yes}}
+{{itemlist|Lum Berry|Northwest corner of the forest ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itemlist|Iapapa Berry|Northwest corner of the forest; from [[Lostelle]], after saving her|FR=yes|LG=yes}}
+{{itlistfoot|forest}}
+|}
+
+
+====Save Lostelle!====
+Make your way to the northwest corner of the forest to find [[Lostelle]]. She is terrified by a Pokémon that she saw a short time ago and is too scared to move. Just then, she starts screaming when she sees the Pokémon reappear. Defeat or capture the wild {{p|Hypno}}!
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=097
+|pokemon=Hypno
+|type1=Psychic
+|level=30
+|gender=both
+|ability=Insomnia
+|move1=Confusion|move1type=Psychic
+|move2=Headbutt|move2type=Normal
+|move3=Poison Gas|move3type=Poison
+|move4=Meditate|move4type=Psychic
+}}
+
+
+Afterward, she reveals that she visited the forest to pick Berries to include with her father's lunch. As thanks for saving her, she gives you an [[Iapapa Berry]]. She is still scared to travel alone, so the two of you automatically travel together back to the Game Corner on [[Two Island]].
+
+==Two Island==
+===Joyful Game Corner===
+Now that [[Lostelle]] is safe and sound, speak to her father to finally deliver [[Bill]]'s [[Meteorite]]. He gives you a [[Moon Stone]] as thanks, and promises to get the Game Corner back up and running right away.
+
+====Skip & Chomp!====
+The Joyful Game Corner offers two multiplayer minigames. Both games feature a selection of Berries as possible prizes.
+:* In [[Pokémon Jump]], a entrant's Pokémon must jump over a {{p|Venusaur}}'s {{m|Vine Whip}} like a jumprope in sync with others to earn points within a time limit. Only small Pokémon capable of jumping are allowed to play.
+:* In [[Dodrio Berry Picking]], several {{p|Dodrio}} line up and try to catch as many falling Berries as possible before the timer runs out. Each entrant must have a Dodrio in their party to participate.
+These games may be played with other Trainers in [[Pokémon FireRed and LeafGreen Versions|FireRed, LeafGreen]] and [[Pokémon Emerald Version|Emerald]] Versions.
+
+==One Island==
+===One Island (Town)===
+====Pokémon Network Center====
+[[Bill]] and [[Celio]] have now finished their work on the Pokémon Network Machine, so Bill is ready to head home. He leads you out of the building and the two of you automatically take the ferry back to [[Cinnabar Island]].
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=13
+|prevname=Cinnabar Island, Pokémon Lab, Pokémon Mansion, Cinnabar Gym
+|nextsection=15
+|nextname=Route 21, Power Plant, Viridian Gym
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|14]]

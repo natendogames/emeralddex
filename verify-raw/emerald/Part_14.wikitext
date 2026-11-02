@@ -1,0 +1,559 @@
+==Route 124==
+[[File:Hoenn Route 124 E.png|thumb|Route 124, Surface]]
+
+{{rt|124|Hoenn}} holds all sorts of treasure, but most lie on the ocean floor far below. It's not possible to fully explore the area without {{m|Dive|a certain field move}}, so for now the route simply serves as a connector between {{ci|Lilycove}} to the west, {{rt|126|Hoenn}} to the south, and [[Mossdeep City]] to the east.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Grace|272<br><small>Potential [[Double Battle]] with Declan</small>|1|183|Marill|♀|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Declan|272<br><small>Potential [[Double Battle]] with Grace</small>|1|130|Gyarados|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Lila & Roy|792|2|170|Chinchou|♂|34||318|Carvanha|♂|33||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Spencer|264|2|072|Tentacool|♂|33||278|Wingull|♂|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Jenny|272|1|320|Wailmer|♀|34||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Chad|264|2|072|Tentacool|♂|33||320|Wailmer|♂|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer F.png|Triathlete|Isabella|1360<br><small>Potential [[Double Battle]] with Roland</small>|1|120|Staryu||34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Roland|272<br><small>Potential [[Double Battle]] with Isabella</small>|1|318|Carvanha|♂|34|}}
+{{catch/div|ocean|Rematch}}
+{{trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Lila & Roy{{tt|*|First rematch}}|960|2|170|Chinchou|♂|42||318|Carvanha|♂|40||38=Nav}}
+{{trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Lila & Roy{{tt|*|Second rematch}}|1032|2|171|Lanturn|♂|45||318|Carvanha|♂|43||38=Nav}}
+{{trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Lila & Roy{{tt|*|Third and fourth rematch onwards}}|{{tt|1104|Third rematch}}/{{tt|1176|Fourth rematch onwards}}|2|171|Lanturn|♂|{{tt|48|Third rematch}}/{{tt|51|Fourth rematch onwards}}||319|Sharpedo|♂|{{tt|46|Third rematch}}/{{tt|49|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Jenny{{tt|*|First and second rematch}}|{{tt|304|First rematch}}/{{tt|328|Second rematch}}|1|320|Wailmer|♀|{{tt|38|First rematch}}/{{tt|41|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Jenny{{tt|*|Third rematch}}|344|2|120|Staryu||43||320|Wailmer|♀|43||38=Nav}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Jenny{{tt|*|Fourth rematch onwards}}|360|3|370|Luvdisc|♀|45||320|Wailmer|♀|45||121|Starmie||45||38=Nav}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|ocean|no}}
+{{catch/div|ocean|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|ocean|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/footer|ocean}}
+|}
+
+===Treasure Hunter's House===
+[[File:Diving Treasure Hunter.png|thumb|left|240px|Interior]]
+The [[Treasure Hunter]]'s house stands on a small island to the southeast. He loves to collect [[Shard]]s, and is happy to trade for them with certain [[Evolution stone]]s. The kind of Shard you trade him determines the kind of stone you get in return.
+
+{| style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 2px solid #{{locationcolor/dark|ocean}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="2" style="background: #{{locationcolor/light|ocean}}; {{roundytl|5px}};" | Shard Given
+! colspan="2" style="background: #{{locationcolor/light|ocean}}; {{roundytr|5px}};" | Stone Received
+|- style="background: #FFF;"
+| {{bag|Red Shard}} || [[Red Shard]] || {{bag|Fire Stone}} || [[Fire Stone]]
+|- style="background: #FFF;"
+| {{bag|Yellow Shard}} || [[Yellow Shard]] || {{bag|Thunder Stone|Thunderstone}} || [[Thunder Stone|Thunderstone]]
+|- style="background: #FFF;"
+| {{bag|Blue Shard}} || [[Blue Shard]] || {{bag|Water Stone}} || [[Water Stone]]
+|- style="background: #FFF;"
+| {{bag|Green Shard}} || [[Green Shard]] || {{bag|Leaf Stone}} || [[Leaf Stone]]
+|-
+| colspan="4" style="background: #{{locationcolor/light|ocean}}; {{roundybottom|5px}};" |
+|}
+
+==Mossdeep City==
+[[File:Mossdeep City E.png|thumb|Mossdeep City]]
+
+[[Mossdeep City]] stands perched on an island near [[Hoenn]]'s eastern edge, where the winds are mild and the weather conditions are stable. This makes it the perfect place for launching rockets, and a perfect home for the [[Mossdeep Space Center]]. The [[Mossdeep Gym|seventh Gym]] in the [[Hoenn League]], run by twin Gym Leaders, is located on the north side of the island, and {{steven}}'s house can be found on the island's northwest corner. [[Scott]] appears in front of the Space Center.
+
+{| class="expandable" style="margin: auto; background: #F0A7B6; {{roundy}}; border: 5px solid #FAAFBE;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|road|no}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/div|road|Gift Pokémon}}
+{{Catch/entry3|374|Beldum|no|no|yes|Gift|5|One|type1=Steel|type2=Psychic}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" style="margin: auto; background: #F0A7B6; {{roundy}}; border: 5px solid #FAAFBE;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+{{itemlist|Net Ball|Southeast corner of the island|E=yes}}
+{{itemlist|King's Rock|From the boy in front of Steven's house|E=yes}}
+{{itemlist|Super Rod III|From the Fisherman in the house east of the Gym|E=yes|display=[[Super Rod]]}}
+{{itemlist|Sun Stone|From a Sailor inside the Space Center|E=yes}}
+{{catch/div|sand|After defeating the Mossdeep Gym}}
+{{itemlist|TM Psychic|From Liza and Tate upon their defeat|E=yes|display={{TM|04|Calm Mind}}}}
+{{catch/div|sand|After defeating Team Magma at the Space Center}}
+{{itemlist|HM Water|From Steven in his house|E=yes|display={{HM|08|Dive}}}}
+{{itlistfoot|sand}}
+|}
+
+===Move Tutor===
+The first person you meet upon arriving in Mossdeep is a Black Belt in the shallow water on the island's southwest side. As a {{type|Fighting}} Trainer, he's had a difficult time at the local Gym and has resorted to punching the ground to relieve his frustration. Speak to him, and he offers to teach the move {{m|Dynamic Punch|DynamicPunch}} to a Pokémon, one time only.
+
+===Steven's House===
+The house on the island's northwest edge belongs to {{Steven}}, and contains part of his rock collection.
+
+===Game Corner===
+A Game Corner is located to the south of the Poké Mart. Inside, Trainers can compete with others from [[Hoenn]]{{sup/3|E}} and [[Kanto]]{{sup/3|FRLG}} in two mini-games, [[Pokémon Jump]] and [[Dodrio Berry Picking]]. Communications are made using the [[Game Boy Advance Wireless Adapter]].
+
+===Running Errands===
+Visit the house nearest the stairway to the Space Center to meet a young woman who uses a {{p|Wingull}} to send letters to a friend in [[Fortree City]]. Talk to the Wingull and it will take flight, off to deliver another note. If you return to Fortree and visit the Pokémon Breeder in the northeast house there, he will give you a [[Mental Herb]] that his Wingull found in its travels.
+
+{| class="expandable" style="margin: auto; background: #58A758; {{roundy}}; border: 5px solid #90C590;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{itemlist|Mental Herb|From the boy in the northeast house, after finding his {{p|Wingull}} in [[Mossdeep City]]|E=yes}}
+{{itlistfoot|forest}}
+|}
+
+===Score the Super Rod===
+The house overlooking the Gym belongs to a lone Fisherman. Speak to him to receive the [[Super Rod]], a high-end fishing rod that can reel in all kinds of sea life.
+
+===Mossdeep Space Center===
+The [[Mossdeep Space Center]] stands on a hill in the northeast. {{steven}} is inside, standing near a table with a letter emblazoned with the [[Team Magma]] logo. It seems that the group has announced its intention of stealing all the rocket fuel on the island. He plans to keep an eye on things for now, and suggests checking out the rest of the city. A Sailor near the viewing area will give you a [[Sun Stone]] he found on the beach.
+
+===Mossdeep Gym===
+[[File:Mossdeep Gym E.png|thumb|Mossdeep Gym]]
+
+{{sign|E|header}}
+{{sign|E|title|Mossdeep City Pokémon Gym<br>Leaders: Liza & Tate}}
+{{sign|E|The mystic combination!}}
+{{sign|E|footer}}
+
+The [[Mossdeep Gym]] specializes in {{type|Psychic}} Pokémon, which are vulnerable to {{t|Dark}}- and {{type|Ghost}} moves. Dark Pokémon are both immune to Psychic moves and able to inflict super-effective damage. Three of the gym leaders' Pokémon have additional weaknesses to {{t|Water}} and {{t|Grass}}. While they're also weak to {{t|Bug}}, Bug attacks are generally too weak to be worthwhile. The Gym features several rooms linked only by [[warp panel]]s. Each room contains Trainers and obstacles on [[spin tile]]s that rotate when certain tiles are stepped on, changing the path and often bringing challengers within view of opposing Gym Trainers.
+
+Step on the warp panel on the west side of the first room. Begin a battle with Hex Maniac Kathleen and Gentleman Clifford. Go east and step on the purple tile, and then battle Psychic Macey. Continue south and step on the green tile twice; this spins the obstacles in the south-central room. Take the north warp to the west-central room, then the left warp there to the northwest room. Step on the first blue tile twice, battle Gentleman Nate and Psychic Virgil, step on the orange tile three times, battle Hex Maniac Sylvia and Psychic Hannah, step on the second blue tile three times, and step on the first blue tile once to reach the warp panel. Cross the south-central room to the last warp and the Gym Leaders' room.
+
+Twins [[Tate and Liza]] send out two Pokémon at once, drawing challengers into a Double Battle. {{p|Claydol}} can boost its already-high {{stat|Special Defense}} with {{m|Light Screen}}, and simultaneously hit two of your Pokémon with {{m|Earthquake}}. {{p|Xatu}}'s {{m|Calm Mind}} raises both its Special stats, and {{m|Confuse Ray}} allows it to harass the foe. {{p|Lunatone}} can lull its opponent to sleep with {{m|Hypnosis}}, while {{p|Solrock}} can scorch {{t|Grass}} Pokémon looking to target their {{t|Rock}} typing. Three of their Pokémon are weakened by {{t|Water}} moves; by using {{m|Surf}}, you can attack both at once and bring the battle to a quick end. Otherwise, you may want to target one Pokémon at a time in what would essentially become a two-on-one battle.
+
+{{WalkthroughGym
+| background = {{psychic color}}
+| headcolor = {{psychic color light}}
+| name = Mossdeep Gym
+| badge = Mind Badge
+| image = Mind Badge.png
+| trainers = 
+{{Trainerheader|Psychic}}
+{{catch/div|Psychic|Southwest room}}
+{{Trainerentry|Spr RS_Psychic M.png|Psychic|Preston|864<br><small>Potential [[Double Battle]] with Maura</small>|1|281|Kirlia|♂|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Psychic F.png|Psychic|Maura|864<br><small>Potential [[Double Battle]] with Preston</small>|1|064|Kadabra|♂|36|}}
+{{catch/div|Psychic|West-central room}}
+{{Trainerentry|Spr RS Psychic F.png|Psychic|Samantha|864<br><small>Potential [[Double Battle]] with Blake</small>|1|178|Xatu|♀|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Psychic M.png|Psychic|Blake|864<br><small>Potential [[Double Battle]] with Samantha</small>|1|203|Girafarig|♂|36|}}
+{{catch/div|Psychic|Southeast room}}
+{{Trainerentry|Spr RS Psychic F.png|Psychic|Macey|864<br><small>Potential [[Double Battle]] with Clifford</small>|1|177|Natu|♀|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Gentleman.png|Gentleman|Clifford|2880<br><small>Potential [[Double Battle]] with Macey or Kathleen</small>|1|203|Girafarig|♂|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Kathleen|864<br><small>Potential [[Double Battle]] with Clifford or Nicholas</small>|1|064|Kadabra|♂|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Psychic M.png|Psychic|Nicholas|864<br><small>Potential [[Double Battle]] with Kathleen</small>|1|202|Wobbuffet|♂|36|}}
+{{catch/div|Psychic|Northwest room}}
+{{Trainerentry|Spr RS Gentleman.png|Gentleman|Nate|2880<br><small>Potential [[Double Battle]] with Virgil</small>|1|325|Spoink|♂|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Psychic M.png|Psychic|Virgil|864<br><small>Potential [[Double Battle]] with Nate or Slyvia</small>|1|280|Ralts|♂|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Sylvia|864<br><small>Potential [[Double Battle]] with Hannah or Virgil</small>|1|307|Meditite|♀|36|}}
+{{trainerdiv|Psychic}}
+{{Trainerentry|Spr RS Psychic F.png|Psychic|Hannah|864<br><small>Potential [[Double Battle]] with Sylvia</small>|1|281|Kirlia|♀|36|}}
+{{Trainerfooter|Psychic|3|Inside}}
+| party = 
+{{Party
+| background = {{psychic color}}
+| border = {{psychic color dark}}
+| headcolor = {{psychic color light}}
+| middle = yes
+| sprite = Spr RS Tate and Liza.png
+| prize = {{PDollar}}8400
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Tate and Liza|Tate & Liza}}
+| location = Mossdeep Gym
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0344
+| pokemon = Claydol
+| gender = none
+| level = 41
+| type1 = Ground
+| type2 = Psychic
+| ability = Levitate
+| move1 = Earthquake | move1type = Ground
+| move2 = AncientPower | move2type = Rock
+| move3 = Psychic | move3type = Psychic
+| move4 = Light Screen | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0178
+| pokemon = Xatu
+| gender = male
+| level = 41
+| type1 = Psychic
+| type2 = Flying
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Sunny Day | move2type = Fire
+| move3 = Confuse Ray | move3type = Ghost
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0337
+| pokemon = Lunatone
+| gender = none
+| level = 42
+| type1 = Rock
+| type2 = Psychic
+| ability = Levitate
+| held = Sitrus Berry
+| move1 = Light Screen | move1type = Psychic
+| move2 = Psychic | move2type = Psychic
+| move3 = Hypnosis | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0338
+| pokemon = Solrock
+| gender = none
+| level = 42
+| type1 = Rock
+| type2 = Psychic
+| ability = Levitate
+| held = Sitrus Berry
+| move1 = Sunny Day | move1type = Fire
+| move2 = SolarBeam | move2type = Grass
+| move3 = Psychic | move3type = Psychic
+| move4 = Flamethrower | move4type = Fire
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Tate and Liza]] award you the {{badge|Mind}}, which boosts your Pokémon's {{stat|Special Attack}} and {{stat|Special Defense}} by 10% and enables the use of {{m|Dive}} in the field. The twins also give you {{TM|04|Calm Mind}} as a prize, and register themselves in your PokéNav.
+
+===Space Center===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|building}}
+{{catch/div|building|1F}}
+{{trainerentry|Spr RS Team Magma Grunt F.png|Team Magma Grunt||620|2|041|Zubat|♀|31||261|Poochyena|♀|31|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||640|1|322|Numel|♂|32|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||640|1|343|Baltoy||32|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||600|3|262|Mightyena|♂|26||262|Mightyena|♂|28||322|Numel|♂|30|}}
+{{catch/div|building|2F}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||640|1|041|Zubat|♂|32|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||640|1|262|Mightyena|♂|32|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||640|1|343|Baltoy||32|}}
+{{trainerfooter|building|I}}
+|}
+
+After beating the Gym, you find [[Maxie]] and several Grunts on their way to the Space Center. Follow them inside and defeat the four Grunts on the first floor. Upstairs, you are ambushed by three more; you fight them one at a time, but with no break between. Farther on, you find Steven confronting Maxie, who reveals his intentions for the rocket fuel. With {{p|Groudon}} gone, he has no need for their base. They're going to cause [[Mt. Chimney]] to erupt by dumping the entire supply into the volcano! Steven is shocked, and asks you to join him in battle against Maxie and [[Tabitha]]. {{DL|Steven Stone|Multi Battle with player|Steven's team}} consists of {{p|Metang}}, {{p|Skarmory}}, and {{p|Aggron}}.
+
+====VS Maxie, Tabitha====
+{{Party
+| walkthrough = yes
+| background = {{steel color}}
+| border = {{steel color dark}}
+| headcolor = {{steel color light}}
+| sprite = E Steven Back.png
+| prize = none
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Steven Stone|Steven}}
+| location = Mossdeep Space Center
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0375
+| pokemon = Metang
+| gender = none
+| level = 42
+| type1 = Steel
+| type2 = Psychic
+| ability = Clear Body
+| move1 = Light Screen | move1type = Psychic
+| move2 = Psychic | move2type = Psychic
+| move3 = Reflect | move3type = Psychic
+| move4 = Metal Claw | move4type = Steel
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0227
+| pokemon = Skarmory
+| gender = female
+| level = 43
+| type1 = Steel
+| type2 = Flying
+| ability = Sturdy
+| move1 = Toxic | move1type = Poison
+| move2 = Aerial Ace | move2type = Flying
+| move3 = Protect | move3type = Normal
+| move4 = Steel Wing | move4type = Steel
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0306
+| pokemon = Aggron
+| gender = female
+| level = 44
+| type1 = Steel
+| type2 = Rock
+| ability = Sturdy
+| move1 = Thunder | move1type = Electric
+| move2 = Protect | move2type = Normal
+| move3 = SolarBeam | move3type = Grass
+| move4 = Dragon Claw | move4type = Dragon
+}}
+{{Party/end}}
+
+
+{{Party/2
+| walkthrough = yes
+| background = {{omega ruby color}}
+| bordercolor = {{omega ruby color dark}}
+| headcolor = {{omega ruby color light}}
+| location = Mossdeep Space Center
+| game = E
+| prize = {{pdollar}}5120
+| t-background = {{omega ruby color light}}
+| t-border = {{omega ruby color dark}}
+| sprite = Spr RS Maxie.png
+| class = Magma Leader
+| classlink = Maxie
+| name = {{color2|000|Maxie}}
+| pokemon = 3
+| t-background2 = {{omega ruby color light}}
+| t-border2 = {{omega ruby color dark}}
+| sprite2 = Spr RS Tabitha.png
+| class2 = Magma Admin
+| name2 = {{color2|000|Tabitha}}
+| pokemon2 = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 42
+| type1 = Dark
+| ability = Intimidate
+| move1 = Swagger | move1type = Normal
+| move2 = Scary Face | move2type = Normal
+| move3 = Take Down | move3type = Normal
+| move4 = Taunt | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0169
+| pokemon = Crobat
+| gender = male
+| level = 43
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Wing Attack | move1type = Flying
+| move2 = Confuse Ray | move2type = Ghost
+| move3 = Air Cutter | move3type = Flying
+| move4 = Mean Look | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0323
+| pokemon = Camerupt
+| gender = male
+| level = 44
+| type1 = Fire
+| type2 = Ground
+| ability = Magma Armor
+| move1 = Take Down | move1type = Normal
+| move2 = Amnesia | move2type = Psychic
+| move3 = Rock Slide | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/2/div|t-background2 = {{omega ruby color dark}}}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0323
+| pokemon = Camerupt
+| gender = male
+| level = 36
+| type1 = Fire
+| type2 = Ground
+| ability = Magma Armor
+| move1 = Focus Energy | move1type = Normal
+| move2 = Take Down | move2type = Normal
+| move3 = Amnesia | move3type = Psychic
+| move4 = Rock Slide | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 38
+| type1 = Dark
+| ability = Intimidate
+| move1 = Roar | move1type = Normal
+| move2 = Swagger | move2type = Normal
+| move3 = Scary Face | move3type = Normal
+| move4 = Take Down | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0042
+| pokemon = Golbat
+| gender = male
+| level = 40
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Bite | move1type = Dark
+| move2 = Wing Attack | move2type = Flying
+| move3 = Confuse Ray | move3type = Ghost
+| move4 = Air Cutter | move4type = Flying
+}}
+{{Party/end}}
+
+
+Having failed at both controlling Groudon and activating the volcano, Maxie begins to questions his goals and wonders if [[Team Aqua]]'s plans are equally misguided. Maxie and his subordinates flee, and Steven invites you to his home. He greets you when you step inside, and hands you {{HM|08|Dive}}. In certain bodies of water, there are dark spots where the water runs unusually deep; using Dive at one of these spots lets you descend to the ocean floor far below. Swim to a point where the sunlight filters down from above and use Dive again to surface. With this move, you will be able to pursue [[Archie]] to the [[Seafloor Cavern]].
+
+==Trick House - Puzzle 6 (optional)==
+In [[Trick House]] now you can complete the puzzle 6.
+
+==Route 125 (optional)==
+[[File:Hoenn Route 125 E.png|thumb|Route 125]]
+
+Located north of [[Mossdeep City]], {{rt|125|Hoenn}} is an optional area with several potential Secret Base locations. The waterlogged [[Shoal Cave]] stands in the route's center.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Ernest|1056|2|278|Wingull|♂|33||067|Machoke|♂|33||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Nolen|272|1|073|Tentacruel|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Sharon|272|1|119|Seaking|♀|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Tanya|272|1|370|Luvdisc|♀|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Presley|1056<br><small>Potential [[Double Battle]] with Auron</small>|2|357|Tropius|♂|33||178|Xatu|♂|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Expert M.png|Expert|Auron|1320<br><small>Potential [[Double Battle]] with Presley</small>|2|310|Manectric|♂|33||068|Machamp|♂|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Stan|272|1|116|Horsea|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Kim & Iris|1120|2|333|Swablu|♂|32||322|Numel|♂|35|}}
+{{catch/div|ocean|Rematch}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Ernest{{tt|*|First rematch}}|1152|3|278|Wingull|♂|36||072|Tentacool|♂|36||067|Machoke|♂|36||38=Nav}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Ernest{{tt|*|Second and third rematch}}|{{tt|1248|Second rematch}}/{{tt|1344|Third rematch}}|3|279|Pelipper|♂|{{tt|39|Second rematch}}/{{tt|42|Third rematch}}||072|Tentacool|♂|{{tt|39|Second rematch}}/{{tt|42|Third rematch}}||067|Machoke|♂|{{tt|39|Second rematch}}/{{tt|42|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Ernest{{tt|*|Fourth rematch onwards}}|1440|3|279|Pelipper|♂|45||067|Machoke|♂|45||073|Tentacruel|♂|45||38=Nav}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Big Pearl|Middle island on the east side|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=13
+|prevname=Slateport City, Lilycove City, Aqua Hideout
+|nextsection=15
+|nextname=Shoal Cave, Route 127, Route 128, Seafloor Cavern
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|14]]

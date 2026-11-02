@@ -1,0 +1,297 @@
+{{WalkthroughNotice|FRLG}}
+==Route 1==
+[[File:Kanto Route 1 FRLG.png|thumb|Route 1]]
+
+{{rt|1|Kanto}} is a peaceful, country road that leads north from [[Pallet Town]] to [[Viridian City]]. The path is riddled with patches of [[tall grass]] and one-way [[ledge]]s that make northward travel difficult. It is not yet possible to catch any of the wild Pokémon here, but it is still good to battle them to earn valuable [[Experience|Experience Points]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{catch/header|land|no}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|2-5|50%|type1=normal|type2=flying}}
+{{catch/entryfl|019|Rattata|yes|yes|Grass|2-4|50%|type1=normal}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Potion|From the Viridian Poké Mart employee|FR=yes|LG=yes}}
+{{itlistfoot}}
+|}
+
+
+===Free Sample===
+Speak to the man on the south side of the route, near the signpost. He works at the [[Poké Mart]] in [[Viridian City]] and gives you a [[Potion]] as a free sample.
+
+==Viridian City==
+[[File:Viridian City FRLG.png|thumb|Viridian City]]
+
+[[Viridian City]] is a small, nature-loving city that is enveloped in green year-round. It is located between {{rt|1|Kanto}} to the south, {{rt|2|Kanto}} to the north, and {{rt|22|Kanto}} to the west.
+
+{| class="expandable" align="center" style="background: #6FA090; {{roundy}}; border: 5px solid #9FC0B5;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|forest}}
+{{itemlist|Oak's Parcel|Poké Mart; from the shopkeeper|FR=yes|LG=yes|display=[[Parcel|Oak's Parcel]]|sprite=Bag Parcel Sprite}}
+{{itemlist|Potion|Near the city's north exit, west of the small tree|FR=yes|LG=yes}}
+{{catch/div|forest|Later visit}}
+{{itemlist|Teachy TV|From the old man who demonstrates how to catch a Pokémon|FR=yes|LG=yes}}
+{{itemlist|TM Ground|From the Gym Leader, after defeating him|FR=yes|LG=yes|display={{TM|26|Earthquake}}}}
+{{itlistfoot|forest}}
+|}
+
+
+===Pokémon Center===
+The first building you will see is the [[Pokémon Center]]. This Pokémon hospital will heal your team to full health and eliminate any status ailments they may have. Each facility also has a PC for Trainers to use, where they can access their Pokémon storage and item storage. As Trainers may only carry six Pokémon with them at once, any others are immediately transferred to storage upon capture. It is a good idea to heal up and save your progress whenever you find a Pokémon Center.
+
+===Poké Mart===
+Another shop sits to the northeast of the Pokémon Center. This is the local [[Poké Mart]]; these stores offer a variety of Poké Balls, Potions, and other items. It is a good idea to stock up on supplies whenever possible, as there is no telling what you may run into on your journey.
+
+{| style="margin: auto;"
+|
+{{shop|Poké Mart}}
+{{shoprow|{{shopitem|Poké Ball (item)|200|5=Poké Ball|display=Poké Ball}}|{{shopitem|Potion|300}}}}
+{{shoprow|{{shopitem|Antidote|100}}|{{shopitem|Paralyze Heal|200|display=Parlyz Heal}}}}
+{{shopfooter}}
+|}
+
+
+====Special Delivery====
+When you step inside, the shopkeeper recognizes you as someone from [[Pallet Town]] and calls you over to the counter. It seems that [[Professor Oak]] had ordered something that was recently delivered. The shopkeeper hands [[Parcel|Oak's Parcel]] to you and asks that you take it to him. The man is adamant, so you will not be able to make any purchases until the delivery is made.
+
+===Pokémon Academy===
+The [[Pokémon academy]] in the city's center teaches inexperienced Trainers about the basics of battle. A blackboard in the front of the room describes the five {{DL|Status condition|Non-volatile status|status ailments}} that can affect a Pokémon.
+
+{| colspan="3" align="center" style="background: #D9D9D9; {{roundy}}; border: 2px solid #CCCCCC;" cellspacing="2" cellpadding="4"
+|-
+! colspan="2" style="background: #E6E6E6; {{roundytl|5px}};" | Ailment
+! style="background: #E6E6E6; {{roundytr|5px}};" | Effect(s)
+|- align="center" style="background: #FFF;"
+| style="background: #{{fire color}};" | '''{{color|FFF|BRN}}'''
+| {{status|Burn}}
+| {{stat|Attack}} drops to 50%; inflicts damage equal to 1/8 of maximum {{stat|HP}} every turn
+|- align="center" style="background: #FFF;"
+| style="background: #{{ice color}};" | '''{{color|FFF|FRZ}}'''
+| {{status|Freeze}}
+| Cannot move until thawed
+|- align="center" style="background: #FFF;"
+| style="background: #{{electric color}};" | '''{{color|FFF|PAR}}'''
+| {{status|Paralysis}}
+| {{stat|Speed}} drops to 25%; cannot attack 1/4 of the time
+|- align="center" style="background: #FFF;"
+| style="background: #{{poison color}};" | '''{{color|FFF|PSN}}'''
+| {{status|Poison}}
+| Inflicts damage equal to 1/8 of maximum {{stat|HP}} every turn; loses 1 HP for every five steps taken outside of battle
+|- align="center" style="background: #FFF;"
+| style="background: #{{status color}};" | '''{{color|FFF|SLP}}'''
+| {{status|Sleep}}
+| Cannot move for one to six turns
+|-
+| colspan="3" style="background: #E6E6E6; {{roundybottom|5px}};" |
+|}
+
+==Pallet Town==
+[[File:KantoTownMap.png|thumb|The [[Kanto]] region, as seen on the Town Map]]
+===Oak's Lab===
+Deliver [[Parcel|Oak's Parcel]], a custom Poké Ball, to him and {{ga|Blue}} arrives a moment later. The professor has a request for each of you: take the [[Pokédex]] he invented and use it to gather information on all the Pokémon in the world. This handheld device is a high-tech encyclopedia that records data on every Pokémon you encounter, and will be complete when you catch a member of every species. It was Oak's dream to do this himself, but his advanced age means that he must rely on the two of you instead. To help get you started, he gives five {{i|Poké Ball}}s to each of you.
+
+===Blue's house===
+Visit your rival's house before leaving town and speak to his sister, [[Daisy Oak|Daisy]], to receive a [[Town Map]].
+
+==Viridian City==
+With [[Parcel|Oak's Parcel]] delivered, it is now possible to purchase items at the Poké Mart, and the {{ka|old man}} that had blocked the path northward is feeling better now that he has had his coffee. When you pass him, he notices your [[Pokédex]] and gives a demonstration of how to catch a Pokémon. Afterward, he gives you the [[Teachy TV]], a portable device tuned to a TV show hosted by [[Primo|his grandson]]. This program, called the ''Poké Dude Show'', teaches its viewers the basics of being a [[Pokémon Trainer]].
+
+At this point, you may proceed north to Route 2, or make an optional detour westward to {{rt|22|Kanto}} first.
+
+==Route 22==
+It is not yet possible to fully explore {{rt|22|Kanto}}, but you may still hunt for new Pokémon. A short way into the route, {{ga|Blue}} appears and challenges you to a battle.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{catch/entryfl|019|Rattata|yes|yes|Grass|2-5|45%|type1=Normal}}
+{{catch/entryfl|056|Mankey|yes|yes|Grass|2-5|45%|type1=Fighting}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|3, 5|10%|type1=Normal|type2=Flying}}
+{{Catch/footer|land}}
+|}
+
+
+===Rival Battle 2===
+Little has changed since your fight in Oak's Lab, but he has since added a {{p|Pidgey}} to his team. Trainers who chose {{p|Bulbasaur}} should be especially wary, as his Pidgey can deal serious damage to {{t|Grass}} Pokémon with {{m|Gust}}. Use the same tactics from your last battle to wear his Pokémon down and take the win.
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}144
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 016
+| pokemon = Pidgey
+| level = 9
+| gender = male
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Gust | move3type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0004
+| pokemon = Charmander
+| level = 9
+| gender = male
+| type1 = Fire
+| ability = Blaze
+| move1 = Scratch | move1type = Normal
+| move2 = Growl | move2type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0004|Charmander}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}144
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 016
+| pokemon = Pidgey
+| level = 9
+| gender = male
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Gust | move3type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0007
+| pokemon = Squirtle
+| level = 9
+| gender = male
+| type1 = Water
+| ability = Torrent
+| move1 = Tackle | move1type = Normal
+| move2 = Tail Whip | move2type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0007|Squirtle}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}144
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 016
+| pokemon = Pidgey
+| level = 9
+| gender = male
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Gust | move3type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0001
+| pokemon = Bulbasaur
+| level  = 9
+| gender = male
+| type1 = Grass | type2 = Poison
+| ability = Overgrow
+| move1 = Tackle | move1type = Normal
+| move2 = Growl | move2type = Normal
+}}
+{{Party/end}}
+
+
+After the battle, be sure to heal your Pokémon and stock up on Poké Balls, then continue on to {{rt|2|Kanto}}. 
+
+If you managed to defeat Blue before catching any Pokémon and have no Poké Balls on-hand, you can return to [[Pallet Town]] and speak to [[Professor Oak]] to receive 5 {{i|Poké Ball}}s.
+
+==Route 2 (West)==
+[[File:Kanto Route 2 FRLG.png|thumb|100px|Route 2]]
+
+{{rt|2|Kanto}} runs northward from [[Viridian City]] to [[Pewter City]]. Much of the route's west side is occupied by a large maze of trees known as [[Viridian Forest]]. {{m|Cut|Overgrown trees}} block access to the east side for now. Head through the [[gate]] to enter the forest, a whole new area with new Pokémon to catch!
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|forest|no}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|2-5|45%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|2-5|45%|type1=Normal}}
+{{Catch/entryfl|010|Caterpie|yes|yes|Grass|4-5|5%|type1=Bug}}
+{{Catch/entryfl|013|Weedle|yes|yes|Grass|4-5|5%|type1=Bug|type2=Poison}}
+{{Catch/footer|forest}}
+|}
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=1
+|prevname=Introduction, Pallet Town
+|nextsection=3
+|nextname=Viridian Forest, Pewter City, Pewter Gym
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|02]]

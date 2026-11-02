@@ -1,0 +1,651 @@
+==Route 119==
+[[File:Hoenn Route 119 E.png|thumb|Route 119]]
+
+Known for its sweltering heat and [[rain]]falls, the spacious {{rt|119|Hoenn}} runs north from {{rt|118|Hoenn}} to [[Fortree City]]. The extreme weather conditions make this an ideal setting for the [[Weather Institute]], located on the north end of this tropical rainforest. You'll need the [[Acro Bike]] to pick up all the items here.
+
+The area is filled with patches of [[tall grass|long grass]], which prevent using both bikes and hide Trainers and wild Pokémon. One of these wild Pokémon is {{p|Tropius}}, which can learn {{m|Fly}} along with four other [[HM]] moves. It will be very useful if you cannot or do not want to teach those HM moves to the Pokémon that you use in battle.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|forest}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Kent|400|1|291|Ninjask|♂|25|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Donald|1440|3|265|Wurmple|♂|24||266|Silcoon|♂|24||267|Beautifly|♂|24|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Greg|400|2|313|Volbeat|♂|25||314|Illumise|♀|25|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Taylor|1620|3|265|Wurmple|♂|27||268|Cascoon|♂|27||269|Dustox|♂|27|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Catcher.png|Bug Catcher|Doug|448|2|290|Nincada|♂|28||291|Ninjask|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Brent|1560|1|283|Surskit|♂|26|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Chris|920<br><small>Requires {{m|Surf}}</small>|4|129|Magikarp|♂|29||072|Tentacool|♂|20||349|Feebas|♂|26||318|Carvanha|♂|23|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Pokémon Ranger F.png|Pokémon Ranger|Catherine|1248|2|044|Gloom|♀|26||315|Roselia|♀|26||38=Nav}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Pokémon Ranger M.png|Pokémon Ranger|Jackson|1296|1|286|Breloom|♂|27||38=Nav}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Rachel|1040<br><small>Potential [[Double Battle]] with Phil</small>|1|118|Goldeen|♀|26|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Phil|832<br><small>Potential [[Double Battle]] with Rachel</small>|1|277|Swellow|♂|26|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Takashi|300<br><small>Potential [[Double Battle]] with Dayton</small>|2|291|Ninjask|♂|25||109|Koffing|♂|25|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Kindler.png|Kindler|Dayton|800<br><small>Potential [[Double Battle]] with Takashi</small>|2|218|Slugma|♂|25||322|Numel|♂|25|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Hugh|800|2|278|Wingull|♂|25||357|Tropius|♂|25|}}
+{{catch/div|forest|After clearing the Weather Institute}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fabian|832<br><small>Potential [[Double Battle]] with Yasu</small>|1|310|Manectric|♂|26|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Yasu|312<br><small>Potential [[Double Battle]] with Fabian</small>|1|291|Ninjask|♂|26|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Hideo|300|2|109|Koffing|♂|25||109|Koffing|♂|25|}}
+{{catch/div|forest|Rematch}}
+{{trainerentry|Spr RS Pokémon Ranger F.png|Pokémon Ranger|Catherine{{tt|*|First, second and third rematch}}|{{tt|1440|First rematch}}/{{tt|1584|Second rematch}}/{{tt|1728|Third rematch}}|2|044|Gloom|♀|{{tt|30|First rematch}}/{{tt|33|Second rematch}}/{{tt|36|Third rematch}}||315|Roselia|♀|{{tt|30|First rematch}}/{{tt|33|Second rematch}}/{{tt|36|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Pokémon Ranger F.png|Pokémon Ranger|Catherine{{tt|*|Fourth rematch onwards}}|1872|2|182|Bellossom|♀|39||315|Roselia|♀|39||38=Nav}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Pokémon Ranger M.png|Pokémon Ranger|Jackson{{tt|*|First, second and third rematch}}|{{tt|1488|First rematch}}/{{tt|1632|Second rematch}}/{{tt|1776|Third rematch}}|1|286|Breloom|♂|{{tt|31|First rematch}}/{{tt|34|Second rematch}}/{{tt|37|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Pokémon Ranger M.png|Pokémon Ranger|Jackson{{tt|*|Fourth rematch onwards}}|1872|2|352|Kecleon|♂|39||286|Breloom|♂|39||38=Nav}}
+{{trainerfooter|forest|3|}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|forest|no}}
+{{catch/entry3|043|Oddish|no|no|yes|Long grass|24-27|30%|type1=Grass|type2=Poison}}
+{{catch/entry3|263|Zigzagoon|no|no|yes|Long grass|25, 27|30%|type1=Normal}}
+{{catch/entry3|264|Linoone|no|no|yes|Long grass|25, 27|30%|type1=Normal}}
+{{catch/entry3|357|Tropius|no|no|yes|Long grass|25-27|9%|type1=Grass|type2=Flying}}
+{{catch/entry3|352|Kecleon|no|no|yes|Long grass|25|1%|type1=Normal}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-35|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|318|Carvanha|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Dark}}
+{{Catch/div|forest|Special}}
+{{catch/entry3|349|Feebas|no|no|yes|Fish Old|20-25|{{tt|50%|Appears only in six random squares}}|type1=Water}}
+{{catch/entry3|349|Feebas|no|no|yes|Fish Good|20-25|{{tt|50%|Appears only in six random squares}}|type1=Water}}
+{{catch/footer|forest}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{itemlist|Super Repel|Southernmost grass patch, in a clearing to the northwest|E=yes}}
+{{itemlist|Full Heal|Southernmost grass patch, in a small 1 tile clearing, to right of Super Repel item (hidden)|E=yes}}
+{{itemlist|Hyper Potion|
+* Southernmost grass patch, in a clearing to the northeast
+* Near the muddy slope, south of the Weather Institute|E=yes|display=[[Hyper Potion]] ×2}}
+{{itemlist|Zinc|Northwest of Fisherman Eugene on the river's southern end (requires {{m|Surf}})|E=yes}}
+{{itemlist|Sitrus Berry|Soft soil patch under the larger wooden bridge|E=yes|display=[[Sitrus Berry]] ×2}}
+{{itemlist|Leppa Berry|Soft soil patch under the larger wooden bridge|E=yes|display=[[Leppa Berry]] ×2}}
+{{itemlist|Calcium|Pathway to a Secret Base entrance, west of the lower waterfall (hidden, requires [[Acro Bike]])|E=yes}}
+{{itemlist|Elixir|East of Ninja Boy Takashi and Kindler Dayton|E=yes}}
+{{catch/div|forest|After clearing the Weather Institute}}
+{{itemlist|Elixir|Southeast of the northern bridge|E=yes}}
+{{itemlist|Ultra Ball|Patch of long grass east of the river, northeast of the lower waterfall (hidden, requires {{m|Surf}})|E=yes}}
+{{itemlist|Leaf Stone|Atop the lower waterfall, to the east (requires {{m|Surf}})|E=yes}}
+{{itemlist|Max Ether|Tiny strip of land at the base of the upper waterfall (hidden, requires {{m|Surf}})|E=yes}}
+{{itemlist|HM Flying|From May/Brendan outside Fortree City, after being defeated|E=yes|display={{HM|02|Fly}}}}
+{{itemlist|Pomeg Berry|In the soft soil near [[Fortree City]]|E=yes|display=[[Pomeg Berry]] ×6}}
+{{itlistfoot|forest}}
+|}
+
+===The Mimic Circle===
+A handful of Trainers in the southernmost patch of long grass like to copy the movements of any Trainer passing by, collectively earning them the "Mimic Circle" nickname. They move when you do, so outmaneuver them to pin them down and start battling. Each one remains in a certain area, which gives you a chance to corner them.
+
+===Finding Feebas===
+{{p|Feebas}} can only be found by fishing in one of six water tiles along the route. Adding to the difficulty, other Pokémon besides Feebas can also appear in the Feebas tiles as well. There is no known easy method to determine which tiles contain Feebas: the only way is to fish repeatedly in each and every water tile on the route, doing so enough times to be reasonably confident that no Feebas are in that tile (or else risk missing a tile). (If the player reels in one Pokémon in every tile, there is a 1 in 64 (approximately 1.6%) chance that the player will pass over all six Feebas tiles without reeling in a single Feebas.) Any rod can find Feebas, and Feebas can be fished from the same tile many times. The tiles' locations are independent of the [[trend]] in [[Dewford Town]], although the tiles' location will change every time the trend does.
+
+===Weather Institute===
+Located on the north end of the route, the [[Weather Institute]] is a high-tech facility used to study and research the intricacies of weather patterns across [[Hoenn]]. This research seems to have attracted the attention of [[Team Aqua]], as several Grunts have been stationed outside.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|building}}
+{{catch/div|building|1F}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||560|1|318|Carvanha|♀|28|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||540|2|041|Zubat|♂|27||261|Poochyena|♂|27|}}
+{{catch/div|building|2F}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||540<br/><small>Potential [[Double Battle]] with the below Grunt</small>|2|261|Poochyena|♂|27||318|Carvanha|♂|27|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||540<br/><small>Potential [[Double Battle]] with the above Grunt</small>|2|041|Zubat|♀|27||261|Poochyena|♀|27|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||520|3|261|Poochyena|♂|26||041|Zubat|♂|26||318|Carvanha|♂|26}}
+{{trainerfooter|building|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|building|no}}
+{{catch/div|building|Gift Pokémon}}
+{{Catch/entry3|351|Castform|no|no|yes|Gift|25|One|type1=Normal}}
+{{catch/footer|building}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|building}}
+{{itemlist|Mystic Water|Held by Castform|E=yes}}
+{{itlistfoot|building}}
+|}
+
+====Rest and Restore Health====
+Visit the back room to find some Team Aqua Grunts searching the place. Before battling them, head to the northwest room to find a comfy bed and rest your Pokémon before continuing on. There is also a PC here in case you should need to reorganize your team.
+
+====Looking for Answers====
+When you reach the second floor, you find the source of the disturbance: Aqua Admin [[Shelly]] is harassing the researchers! She is here looking for information about extreme weather conditions, and to steal one of the Institute's {{p|Castform}}, a rare species of Pokémon. She can't allow you to meddle in the team's plans, and draws you into battle.
+
+====VS Shelly====
+{{Party
+| walkthrough = yes
+| background = {{alpha sapphire color}}
+| border = {{alpha sapphire color dark}}
+| headcolor = {{alpha sapphire color light}}
+| sprite = Spr RS Shelly.png
+| prize = {{PDollar}}1120
+| class = Aqua Admin
+| name = {{color2|000|Shelly}}
+| location = Weather Institute
+| game = E
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0318
+| pokemon = Carvanha
+| gender = female
+| level = 28
+| type1 = Water
+| type2 = Dark
+| ability = Rough Skin
+| move1 = Focus Energy | move1type = Normal
+| move2 = Scary Face | move2type = Normal
+| move3 = Crunch | move3type = Dark
+| move4 = Screech | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = female
+| level = 28
+| type1 = Dark
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Odor Sleuth | move2type = Normal
+| move3 = Roar | move3type = Normal
+| move4 = Swagger | move4type = Normal
+}}
+{{Party/end}}
+
+====The Next Step====
+The Admin simply shrugs off her defeat, claiming that the team has other plans before she and the Grunts leave the building. As thanks for your help, one of the researchers even rewards you with a new Pokémon, {{p|Castform}}, which changes its type and appearance based on the current weather.
+
+===Rival Battle 4===
+Leave the building and cross the upper bridge. {{ga|May}}/{{ga|Brendan}} catches up to you when you reach the nearest stairway. Your friend wants to see how much stronger you've become, and wastes no time challenging you to a battle!
+
+{{Party
+| caption = {{PlayerChoice|0252|Treecko}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = male
+| level = 29
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = male
+| level = 29
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Absorb | move1type = Grass
+| move2 = Nature Power | move2type = Normal
+| move3 = Fake Out | move3type = Normal
+| move4 = Fury Swipes | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 31
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Double Kick | move1type = Fighting
+| move2 = Peck | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Bulk Up | move4type = Fighting
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = female
+| level = 29
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = female
+| level = 29
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Absorb | move1type = Grass
+| move2 = Nature Power | move2type = Normal
+| move3 = Fake Out | move3type = Normal
+| move4 = Fury Swipes | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 31
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Double Kick | move1type = Fighting
+| move2 = Peck | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Bulk Up | move4type = Fighting
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0255|Torchic}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = male
+| level = 29
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Absorb | move1type = Grass
+| move2 = Nature Power | move2type = Normal
+| move3 = Fake Out | move3type = Normal
+| move4 = Fury Swipes | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 29
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 31
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Mud Shot | move1type = Ground
+| move2 = Foresight | move2type = Normal
+| move3 = Mud Sport | move3type = Ground
+| move4 = Take Down | move4type = Normal
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = female
+| level = 29
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Absorb | move1type = Grass
+| move2 = Nature Power | move2type = Normal
+| move3 = Fake Out | move3type = Normal
+| move4 = Fury Swipes | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 29
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 31
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Mud Shot | move1type = Ground
+| move2 = Foresight | move2type = Normal
+| move3 = Mud Sport | move3type = Ground
+| move4 = Take Down | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0258|Mudkip}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 29
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = male
+| level = 29
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 31
+| type1 = Grass
+| ability = Overgrow
+| move1 = Fury Cutter | move1type = Bug
+| move2 = Pursuit | move2type = Dark
+| move3 = Screech | move3type = Normal
+| move4 = Leaf Blade | move4type = Grass
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1860
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 119
+| locationname = Route 119
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 29
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = female
+| level = 29
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Absorb | move1type = Grass
+| move2 = Nature Power | move2type = Normal
+| move3 = Fake Out | move3type = Normal
+| move4 = Fury Swipes | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 31
+| type1 = Grass
+| ability = Overgrow
+| move1 = Fury Cutter | move1type = Bug
+| move2 = Pursuit | move2type = Dark
+| move3 = Screech | move3type = Normal
+| move4 = Leaf Blade | move4type = Grass
+}}
+{{Party/end}}
+
+
+Once you defeat her/him, your friend rewards you with {{HM|02|Fly}}. It's a strong move in battle and even more useful when used in the field, though you'll need to win the Gym Badge from the next city first. She/He then runs off, leaving you to continue on to [[Fortree City]].
+
+Just as your neighbor climbs the hill to Fortree, [[Scott]] is headed south away from it. He congratulates you on winning your latest match, and expects great things from you at the [[Fortree Gym]].
+
+==Fortree City==
+[[File:Fortree City E.png|thumb|250px|Fortree City]]
+
+[[Fortree City]] is located in an old-growth forest with many towering trees. These ancient arbors are so large that the residents were able to build cozy homes among their branches. A shop offering Secret Base decorations can be found in the southeast part of town, and the [[Fortree Gym]] can be found in the heart of the city. Unfortunately, the Gym's entrance is obstructed by something invisible. 
+
+{| class="expandable" style="margin: auto; background: #58A758; {{roundy}}; border: 5px solid #90C590;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|forest|no}}
+{{catch/div|forest|Special}}
+{{Catch/entry3|311|Plusle|no|no|yes|Trade|The same as the traded Pokémon|One|type1=Electric|tradenum=313|tradename=Volbeat}}
+{{catch/footer|forest}}
+|}
+{| class="expandable" style="margin: auto; background: #58A758; {{roundy}}; border: 5px solid #90C590;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{itemlist|TM Normal|From an old woman in the north-northwest house, after clearing her guessing game|E=yes|display={{TM|10|Hidden Power}}}}
+{{itemlist|Wood Mail|Northwest house; held by Pluses, the traded {{p|Plusle}}|E=yes}}
+{{catch/div|forest|Return trip}}
+{{itemlist|TM Flying|From Winona upon her defeat|E=yes|display={{TM|40|Aerial Ace}}}}
+{{itlistfoot|forest}}
+|}
+
+===Secret Base Shop===
+Climb the ladder near the Poké Mart and head east across the rope bridge to reach {{DL|Fortree City|Desk and chair shop|a shop}} with a selection of [[Secret Base]] decorations for sale. Desks can be purchased at the counter to the left, while chairs can be purchased at the counter to the right.
+
+{| style="margin: auto;"
+|
+{{shop|Desk shop}}
+{{shoprow|{{shopdec|Small Desk|SmallDeskSprite|3000|6=List of decorations in Generation III#Small Desk}}|{{shopdec|Pokémon Desk|PokemonDeskSprite|3000|6=List of decorations in Generation III#Pokémon Desk}}}}
+{{shoprow|{{shopdec|Heavy Desk|HeavyDeskSprite|6000|6=List of decorations in Generation III#Heavy Desk}}|{{shopdec|Ragged Desk|RaggedDeskSprite|6000|6=List of decorations in Generation III#Ragged Desk}}}}
+{{shoprow|{{shopdec|Comfort Desk|ComfortDeskSprite|6000|6=List of decorations in Generation III#Comfort Desk}}|{{shopdec|Brick Desk|BrickDeskSprite|9000|6=List of decorations in Generation III#Brick Desk}}}}
+{{shoprow|{{shopdec|Camp Desk|CampDeskSprite|9000|6=List of decorations in Generation III#Camp Desk}}|{{shopdec|Hard Desk|HardDeskSprite|9000|6=List of decorations in Generation III#Hard Desk}}}}
+{{shopfooter|multiple=yes}}
+{{shop|Chair shop}}
+{{shoprow|{{shopdec|Small Chair|SmallChairSprite|2000|6=List of decorations in Generation III#Small Chair}}|{{shopdec|Pokémon Chair|PokemonChairSprite|2000|6=List of decorations in Generation III#Pokémon Chair}}}}
+{{shoprow|{{shopdec|Heavy Chair|HeavyChairSprite|2000|6=List of decorations in Generation III#Heavy Chair}}|{{shopdec|Ragged Chair|RaggedChairSprite|2000|6=List of decorations in Generation III#Ragged Chair}}}}
+{{shoprow|{{shopdec|Comfort Chair|ComfortChairSprite|2000|6=List of decorations in Generation III#Comfort Chair}}|{{shopdec|Brick Chair|BrickChairSprite|2000|6=List of decorations in Generation III#Brick Chair}}}}
+{{shoprow|{{shopdec|Camp Chair|CampChairSprite|2000|6=List of decorations in Generation III#Camp Chair}}|{{shopdec|Hard Chair|HardChairSprite|2000|6=List of decorations in Generation III#Hard Chair}}}}
+{{shopfooter}}
+|}
+
+===Running Errands===
+Speak to the Pokémon Breeder in the northeast house to see his {{p|Wingull}} fly off on an errand. Return later to see if it's successful!
+
+===Reveal Your Hidden Power===
+The north-northwest house belongs to an old woman. Speak to her to take a quiz. She holds a coin in her hand, and asks in which one you think it's hidden. Guess correctly {{tt|three times in a row|Right, Right, Left}} to receive {{TM|10|Hidden Power}}! This unique attack is listed as a {{type|Normal}} move, but its type and power vary depending on the Pokémon using it.
+
+Speak to the woman's elderly husband to learn that he talks in his sleep. He offers to teach the move {{m|Sleep Talk}} to a Pokémon, one time only.
+
+===Time for a Trade===
+The little boy in the northwest house wants a {{p|Volbeat}}. If you happened to catch one back on {{rt|117|Hoenn}}, he'll give you her {{p|Plusle}} in return. Plusle arrives holding a [[Wood Mail]].
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=9
+|prevname=Abandoned Ship, New Mauville, Route 118, Route 123
+|nextsection=11
+|nextname=Route 120, Fortree Gym, Route 121, Route 122, Mt. Pyre
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|10]]

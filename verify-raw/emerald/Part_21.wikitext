@@ -1,0 +1,553 @@
+==Slateport City/Lilycove City==
+That [[S.S. Ticket]] is burning a hole in your Bag! Fly to either {{ci|Slateport}} or {{ci|Lilycove}}, then head to the harbor building. Present your ticket to the woman near the ferry, and she'll ask where you'd like to go.
+
+==S.S. Tidal==
+[[File:SSTidal 1F.png|thumb|left|S.S. Tidal, 1F]]
+[[File:SSTidal B1F.png|thumb|S.S. Tidal, B1F]]
+
+Captain Stern's mighty vessel, the [[S.S. Tidal]], ferries people between Slateport City, Lilycove City, and the Battle Frontier.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|water}}; {{roundy}}; border: 5px solid #{{locationcolor/light|water}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|water}}
+{{catch/div|water|Cabins}}
+{{Trainerentry|Spr RS Young Couple.png|Young Couple|Lea & Jed|2880|2|370|Luvdisc|♀|45||370|Luvdisc|♀|45|}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Rich Boy.png|Rich Boy|Garret|9000|1|184|Azumarill|♂|45|Nugget}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Gentleman.png|Gentleman|Micah|3520|2|310|Manectric|♂|44||310|Manectric|♂|44|}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Pokéfan M.png|Pokéfan|Colton|3360|6|300|Skitty|♀|22|Oran Berry|300|Skitty|♀|36|Oran Berry|300|Skitty|♀|40|Oran Berry|300|Skitty|♀|12|Oran Berry|300|Skitty|♀|30|Oran Berry|301|Delcatty|♀|42|Oran Berry}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Lady.png|Lady|Naomi{{sup/3|E}}|9000|1|315|Roselia|♀|45|Nugget}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Gentleman.png|Gentleman|Thomas|3600|1|335|Zangoose|♂|45|}}
+{{catch/div|water|Basement}}
+{{Trainerentry|Spr RS Sailor.png|Sailor|Phillip|1408<br><small>Potential [[Double Battle]] with Leonard</small>|2|073|Tentacruel|♂|44||067|Machoke|♂|44|}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RS Sailor.png|Sailor|Leonard|1376<br><small>Potential [[Double Battle]] with Phillip</small>|3|066|Machop|♂|43||279|Pelipper|♂|43||067|Machoke|♂|43|}}
+{{Trainerfooter|water|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|water}}; {{roundy}}; border: 5px solid #{{locationcolor/light|water}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|water}}
+{{itemlist|TM Dark|From a man in the top-right cabin|E=yes|display={{TM|49|Snatch}}}}
+{{itemlist|Leftovers|In the northwest trash can on the basement floor (hidden)|E=yes}}
+{{itlistfoot|water}}
+|}
+
+===1F===
+After you climb aboard, [[Scott]] will come and tell you that someone like you should visit the Battle Frontier and he's already made arrangements with the ship's captain to let you visit there anytime. After that, you can find [[Mr. Briney]] and [[Peeko]] on the north side of the ship. The two are happy to be back out on the seas, and even more so now that Briney has been made the ship's honorary captain!
+
+There are eight cabins on the main floor with three cabins on each side holding Trainers who are anxious to battle. On the south side, the second cabin from the left is your own, with a bed where you can rest your Pokémon. If you're going from Slateport to Lilycove, the ship will reach its destination after you sleep once, but if you're going from Lilycove to Slateport you'll need two rests until you arrive. On the north side, the farthest cabin to the right holds a Poké Maniac who gives you {{TM|49|Snatch}}.
+
+===Basement===
+Head downstairs to visit the ship's spacious storage. There's plenty of room for Pokémon battles to play out, and the two hardworking Sailors here will happily oblige. Be sure to search the trash cans to discover some [[Leftovers]], as well.
+
+===The Battle Frontier beckons!===
+After you reach your destination, exit the ship and board it once again. This time, choose to go to the Battle Frontier!
+
+==Battle Frontier==
+[[File:Battle Frontier E.png|thumb|300px|Battle Frontier]]
+[[File:Battle Factory arena E.png|thumb|Inside the Battle Factory]]
+
+The great {{gdis|Battle Frontier|III}} was built to provide a challenge to all those able to defeat the Pokémon League, with the best and brightest Trainers from across the region competing here to determine who among them is the strongest. The small island that once held only the {{gdis|Battle Tower|III}} has been developed to include seven facilities in all. These are, from west to east: the Battle Factory, Battle Dome, Battle Pike, Battle Tower, Battle Arena, Battle Palace, and Battle Pyramid. Each facility is headed by a [[Frontier Brain]], elite Trainers who have mastered the art of battling under their respective rule sets.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|road|no}}
+{{Catch/div|road|Special}}
+{{Catch/entry3|052|Meowth|no|no|yes|Trade|The same as the Traded Pokémon|One|tradenum=300|tradename=Skitty|type1=Normal}}
+{{Catch/entry3|185|Sudowoodo|no|no|yes|Special|40|One|type1=Rock}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{Itemlist|Frontier Pass|sprite=Frontier Pass E|size=30|Gift from a guide in the front [[gate]] upon first entering|E=yes|display={{DL|Trainer Card (game)|Frontier Pass}}}}
+{{Itemlist|None|Gift from [[Scott]] when first talked to at his house|E=yes|display={{tt|1-3|Depending on how many times Scott was met throughout the game}} [[Battle Point|BP]]}}
+{{itemlist|Retro Mail|Held by Meowow, the traded {{p|Meowth}}|E=yes}}
+{{itemlist|Silver Shield|From Scott, after winning 50 consecutive battles in the Battle Tower|E=yes|display={{DL|List of decorations in Generation III|Silver Shield}}|sprite=SilverShieldSprite}}
+{{itemlist|Gold Shield|From Scott, after winning 100 consecutive battles in the Battle Tower|E=yes|display={{DL|List of decorations in Generation III|Gold Shield}}|sprite=GoldShieldSprite}}
+{{itemlist|Lansat Berry|From Scott, after winning all seven Silver Symbols|E=yes}}
+{{itemlist|Starf Berry|From Scott, after winning all seven Gold Symbols|E=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Entrance===
+====Overview====
+When you first enter the Battle Frontier, a woman at the entrance issues you a {{DL|Trainer Card (game)|Frontier Pass}}. This pass holds your Trainer Card, a small map of the Frontier, and all records of your exploits here; this includes the number of accumulated [[Battle Point]]s earned, and any of the seven [[Symbol|Frontier Symbol]]s won. One battle from any facility may be recorded and stored on the Frontier Pass to be viewed or overwritten at any time.
+
+Battle Points are earned by winning a set number of battles in any facility, usually in small amounts, but gradually growing through each consecutive streak. Defeating the Frontier Brain for the first time earns challengers the Silver Symbol of that facility, as well as 10BP. The second defeat of the same Brain earns the challenger the facility's Gold Symbol and another 10BP. The Frontier Brain will only appear in 3-vs-3 Single Battle mode.
+
+====Restrictions====
+No two Pokémon may hold the same item, and items may not be used from the [[Bag]] during battle (except in the [[Battle Pyramid]]). Battles conducted in the Frontier do not award any experience or prize money. The following Pokémon cannot be entered for battle: {{p|Mewtwo}}, {{p|Mew}}, {{p|Lugia}}, {{p|Ho-Oh}}, {{p|Celebi}}, {{p|Kyogre}}, {{p|Groudon}}, {{p|Rayquaza}}, {{p|Jirachi}}, {{p|Deoxys}} (Speed Forme) and {{pkmn|Egg}}.
+
+===Scott's House===
+Scott resides in a house located between the Battle Dome and Battle Tower, and will give you various rewards as you progress through the Battle Frontier. When you first arrive at the Battle Frontier, Scott will award you with 1, 2, 3 or 4 BP depending on the how many times you spoke (13 times in total) throughout the game.
+
+===Battle Factory===
+The {{gdis|Battle Factory|III}} stands in the southwest corner of the island. Unlike the other facilities, the Battle Factory is less interested about a Trainer's ability to battle and more interested in researching a Trainer's capacity to use [[rental Pokémon]]. The Battle Factory functions the same way as the [[Battle Tent]] in [[Slateport City]]. Before each battle, challengers learn a bit of info about the upcoming opponent, and may switch one of their rental Pokémon with one used by the previous opponent.
+
+A Trainer's battle style is based on the moves of his or her Pokémon. Certain moves fall under {{DL|Battle Frontier (Generation III)|Battle style 2|one of seven categories}}. Depending on the number of moves from each category a Trainer's team has, his or her battle style will be described differently.
+
+Upon reaching the 21st and 42nd battle in a streak, [[Noland]] will appear and challenge you to a battle. Like all other Trainers here, his rental Pokémon are completely random. Defeat him to earn the [[Symbol|Knowledge Symbol]].
+
+===Battle Dome===
+[[File:Battle Dome arena E.png|thumb|Inside the Battle Dome]]
+
+The [[Battle Dome]] is located in the island's northwest corner. Inside, tournaments between 16 Trainers are held. Before each battle, Trainers learn a bit about their opponent, including their Pokémon, battle style, and how they train. Then, both Trainers choose two Pokémon from their three-Pokémon party to use in battle. Competitors can learn who was eliminated in each round by viewing the tournament bracket.
+
+Upon winning five and ten championships, [[Tucker]] will appear and challenge you to a battle. Defeat him to earn the [[Symbol|Tactics Symbol]].
+
+====VS Tucker (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Tucker.png
+| prize = 13{{color2|000|Battle Point|BP}}
+| class = Dome Ace
+| classlink = Tucker
+| name = {{color2|000|Tucker}}
+| location = Battle Dome
+| game = E
+| pokemon = 2
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|260|Swampert|Focus Band|Surf|Water|Earthquake|Ground|Ice Beam|Ice|Counter|Fighting|Brave|152|152|106|100}}
+{{lop/facility|game=3|373|Salamence|Lum Berry|Earthquake|Ground|Brick Break|Fighting|Dragon Claw|Dragon|Aerial Ace|Flying|Adamant|152|152|106|||100}}
+{{lop/facility|game=3|006|Charizard|White Herb|Overheat|Fire|Rock Slide|Rock|Aerial Ace|Flying|Earthquake|Ground|Quiet|100|152|106|||152}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Tucker (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Tucker.png
+| prize = 15{{color2|000|Battle Point|BP}}
+| class = Dome Ace
+| classlink = Tucker
+| name = {{color2|000|Tucker}}
+| location = Battle Dome
+| game = E
+| pokemon = 2
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|260|Swampert|Leftovers|Surf|Water|Earthquake|Ground|Ice Beam|Ice|Mirror Coat|Psychic|Brave|252|252|6}}
+{{lop/facility|game=3|376|Metagross|Quick Claw|Psychic|Psychic|Meteor Mash|Steel|Earthquake|Ground|Protect|Normal|Brave|252|252|6}}
+{{lop/facility|game=3|380|Latias|Chesto Berry|Thunderbolt|Electric|Psychic|Psychic|Calm Mind|Psychic|Rest|Psychic|Modest|252||252|||6}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Battle Pike===
+[[File:Battle Pike rooms E.png|thumb|Inside the Battle Pike]]
+
+The outside of the [[Battle Pike]] is designed like a {{p|Seviper}}. There are 21 rooms inside, in seven sets of three. Challengers may choose any of the three in a set to continue through, and in each room, any one of eight events may occur. A woman standing outside each room hints as to what is in one of the three rooms.
+* Single battle: A Trainer with 3 Pokémon walks up to the challenger and battles.
+* Double battle: Two Trainers with 1 Pokémon each will team up and battle the player. This room will not appear if the player already has two fainted Pokémon.
+* Hard single battle and healing: 3 Pokémon per side against a higher-tier opponent; winner's Pokémon are completely healed.
+* Wild Pokémon: Wild {{p|Seviper}}, {{p|Milotic}}, {{p|Dusclops}}, {{p|Electrode}}, {{p|Breloom}}, and {{p|Wobbuffet}} appear.
+* No event: A person who is not a Trainer stands in the room and does nothing.
+* Status effect: A surprise attack will inflict a status on one or more of the challenger's Pokémon. The status includes {{p|Kirlia}}'s {{status|burn}}, {{status|poison}}, {{status|paralysis}}, or {{status|sleep}} and Dusclops's {{status|burn}} or {{status|freeze}}.
+* One or two recovery: One or two of the challenger's Pokémon will be healed.
+* Full recovery: All of the challenger's Pokémon will be healed.
+
+Upon completing two and ten passes through the building, [[Lucy]] will appear and challenge you to a battle. Defeat her to earn the [[Symbol|Luck Symbol]].
+
+====VS Lucy (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Lucy.png
+| prize = 11{{color2|000|Battle Point|BP}}
+| class = Pike Queen
+| classlink = Lucy
+| name = {{color2|000|Lucy}}
+| location = Battle Pike
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|336|Seviper|Quick Claw|Swagger|Normal|Crunch|Dark|Poison Fang|Poison|Giga Drain|Grass|Brave|252||252|6}}
+{{lop/facility|game=3|213|Shuckle|Chesto Berry|Toxic|Poison|Sandstorm|Rock|Protect|Normal|Rest|Psychic|Bold|252|||106|252}}
+{{lop/facility|game=3|350|Milotic|Leftovers|Ice Beam|Ice|Mirror Coat|Psychic|Surf|Water|Recover|Normal|Modest|152||100|152|106}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Lucy (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Lucy.png
+| prize = 18{{color2|000|Battle Point|BP}}
+| class = Pike Queen
+| classlink = Lucy
+| name = {{color2|000|Lucy}}
+| location = Battle Pike
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|336|Seviper|Focus Band|Swagger|Normal|Crunch|Dark|Sludge Bomb|Poison|Giga Drain|Grass|Bold|252|||252|6}}
+{{lop/facility|game=3|208|Steelix|BrightPowder|Earthquake|Ground|Rock Slide|Rock|Explosion|Normal|Screech|Normal|Brave|252|||6|252}}
+{{lop/facility|game=3|130|Gyarados|Chesto Berry|Dragon Dance|Dragon|Return|Normal|Rest|Psychic|Roar|Normal|Adamant|252|6|||252}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Battle Tower===
+[[File:Battle Tower arena E.png|thumb|Inside the Battle Tower]]
+
+The {{gdis|Battle Tower|III}} stands tall on the north-central part of the island. It features 3-vs-3 Single Battle and 4-vs-4 Double Battle formats, and each round consists of seven opposing Trainers who increase in difficulty as the challenger progresses.
+
+Upon completing five and ten runs through the tower, [[Anabel]] will appear and challenge you to a battle. Defeat her to earn the [[Symbol|Ability Symbol]].
+
+====VS Anabel (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Anabel.png
+| prize = 15{{color2|000|Battle Point|BP}}
+| class = Salon Maiden
+| classlink = Tower Tycoon (Trainer class)
+| name = {{color2|000|Anabel}}
+| location = Battle Tower (Generation III)
+| locationname = Battle Tower
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|065|Alakazam|BrightPowder|ThunderPunch|Electric|Fire Punch|Fire|Ice Punch|Ice|Disable|Normal|Modest|106||152|100||152}}
+{{lop/facility|game=3|244|Entei|Lum Berry|Fire Blast|Fire|Calm Mind|Psychic|Return|Normal|Roar|Normal|Lonely|100|152|152|100|6|}}
+{{lop/facility|game=3|143|Snorlax|Quick Claw|Body Slam|Normal|Belly Drum|Normal|Yawn|Normal|Shadow Ball|Ghost|Adamant|152|152||106|100}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Anabel (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Anabel.png
+| prize = 20{{color2|000|Battle Point|BP}}
+| class = Salon Maiden
+| classlink = Tower Tycoon (Trainer class)
+| name = {{color2|000|Anabel}}
+| location = Battle Tower (Generation III)
+| locationname = Battle Tower
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|243|Raikou|Lum Berry|Thunderbolt|Electric|Calm Mind|Psychic|Reflect|Psychic|Rest|Psychic|Modest|158||252|||100}}
+{{lop/facility|game=3|381|Latios|BrightPowder|Psychic|Psychic|Dragon Claw|Dragon|Calm Mind|Psychic|Recover|Normal|Modest|252||252|100||6}}
+{{lop/facility|game=3|143|Snorlax|Chesto Berry|Curse|???|Return|Normal|Rest|Psychic|Shadow Ball|Ghost|Adamant|252|252||6|}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Battle Arena===
+[[File:Battle Arena battlefield E.png|thumb|Inside the Battle Arena]]
+
+The [[Battle Arena]] is located to the southeast of the Battle Tower. Inside, two Pokémon are pitted against each other for three rounds. If neither Pokémon was defeated in that time, they are then rated on their battle proficiency in three categories. The Pokémon with the higher score wins, and the Pokémon with the lower score leaves the battlefield. A tie results in both Pokémon leaving the battlefield. A knockout means an automatic win for the Pokémon still standing.
+
+Similar to the [[Battle Tent]] in [[Fallarbor Town]], Pokémon are rated on their Mind, Skill, and Body. The Pokémon with the better rating in each category earns two points, while a tie earns a single point for each Pokémon.
+* Mind highlights a Pokémon's offensive style. One point is earned for each damage-dealing attack chosen (except {{m|Counter}}, {{m|Mirror Coat}}, and {{m|Bide}}), and a single point is lost if either {{m|Protect}}, {{m|Detect}}, or {{m|Endure}} is chosen. No other moves award points.  Only the move selection matters; even if the Pokémon does not actually use the move (due to an effect such as {{status|paralysis}}), it will still score in this category. The Pokémon with the higher rating earns an additional two points for the overall judgment.
+* Skill focuses on a Pokémon's accuracy. One point is earned for each attack that lands successfully, while two points are deducted if the move misses, fails, or is prevented from executing due to an effect such as paralysis. If the move was caused to fail by {{m|Protect}}, {{m|Detect}}, or flinching from {{m|Fake Out}}, however, no points are deducted. Hitting a move [[Type#Type_effectiveness|super effectively]] rewards two points rather than one, but dealing not very effective damage instead deducts one point. The Pokémon with the higher rating earns an additional two points for the overall judgment.
+* Body focuses on the amount of HP remaining after three rounds compared to the total HP at the beginning. The Pokémon with the better ratio earns an additional two points for the overall judgment.
+
+Upon reaching 28 and 56 wins, [[Greta]] will appear and challenge you to a battle. Defeat her to earn the [[Symbol|Guts Symbol]].
+
+====VS Greta (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Greta.png
+| prize = 12{{color2|000|Battle Point|BP}}
+| class = Arena Tycoon
+| classlink = Greta
+| name = {{color2|000|Greta}}
+| location = Battle Arena
+| game = E
+| pokemon = 2
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|214|Heracross|Salac Berry|Megahorn|Bug|Rock Tomb|Rock|Endure|Normal|Reversal|Fighting|Jolly|106|152||||100|1152}}
+{{lop/facility|game=3|197|Umbreon|Leftovers|Body Slam|Normal|Confuse Ray|Ghost|Psychic|Psychic|Faint Attack|Dark|Calm|152||100|152|106}}
+{{lop/facility|game=3|292|Shedinja|BrightPowder|Shadow Ball|Ghost|Return|Normal|Confuse Ray|Ghost|Aerial Ace|Flying|Adamant||252|6|||252}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Greta (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Greta.png
+| prize = 13{{color2|000|Battle Point|BP}}
+| class = Arena Tycoon
+| classlink = Greta
+| name = {{color2|000|Greta}}
+| location = Battle Arena
+| game = E
+| pokemon = 2
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|197|Umbreon|Chesto Berry|Double-Edge|Normal|Confuse Ray|Ghost|Rest|Psychic|Psychic|Psychic|Calm|252|||252|6}}
+{{lop/facility|game=3|094|Gengar|Leftovers|Psychic|Psychic|Hypnosis|Psychic|Dream Eater|Psychic|Destiny Bond|Ghost|Modest|252||252|6}}
+{{lop/facility|game=3|286|Breloom|Lum Berry|Spore|Grass|Focus Punch|Fighting|Giga Drain|Grass|Headbutt|Normal|Jolly|6|252||||252}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Battle Palace===
+[[File:Battle Palace arena E.png|thumb|Inside the Battle Palace]]
+
+The [[Battle Palace]] stands in the southeast corner of the island. Like the {{to|Verdanturf}} [[Battle Tent]], Pokémon battles conducted here see Pokémon left to their own devices, with no outside commands from their Trainers. A Pokémon's battle style depends on its [[Nature]], and may change when its HP gets low.
+
+All moves belong to one of three categories: Attack, Defense, or Support. Defense moves are all moves that target the user. Support moves are all non-damaging moves that don't fall in the Defense category. Attack moves are all moves not listed under Defense or Support. 
+
+Each Nature has a different ratios that determine how often a Pokémon with that Nature is likely to use Attack, Defense, or Support moves. These ratios change when the Pokémon's HP falls below 50%. During each turn of battle, a category is selected, and a random attack of that category is chosen from the Pokémon's moveset. If no such move exists, the Pokémon will appear "incapable of using its power", and skip its turn.
+
+Upon completing a winning streak of 21 and 42 battles, [[Spenser]] will appear and challenge you to a battle. Defeat him to earn the [[Symbol|Spirits Symbol]].
+
+====VS Spenser (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Spenser.png
+| prize = 15{{color2|000|Battle Point|BP}}
+| class = Palace Maven
+| classlink = Spenser
+| name = {{color2|000|Spenser}}
+| location = Battle Palace
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|169|Crobat|BrightPowder|Confuse Ray|Ghost|Double Team|Normal|Toxic|Poison|Fly|Flying|Adamant|152|||100|106|152}}
+{{lop/facility|game=3|289|Slaking|Scope Lens|Earthquake|Ground|Swagger|Normal|Shadow Ball|Ghost|Brick Break|Fighting|Hardy|152|152||100||106}}
+{{lop/facility|game=3|131|Lapras|Quick Claw|Ice Beam|Ice|Horn Drill|Normal|Confuse Ray|Ghost|Protect|Normal|Quiet|||252|106|152}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Spenser (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Spenser.png
+| prize = 16{{color2|000|Battle Point|BP}}
+| class = Palace Maven
+| classlink = Spenser
+| name = {{color2|000|Spenser}}
+| location = Battle Palace
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color dark}}|{{frontier color}}}}
+{{lop/facility|game=3|059|Arcanine|White Herb|Overheat|Fire|ExtremeSpeed|Normal|Roar|Normal|Protect|Normal|Hasty|6|252|252}}
+{{lop/facility|game=3|289|Slaking|Scope Lens|Hyper Beam|Normal|Earthquake|Ground|Shadow Ball|Ghost|Yawn|Normal|Hardy|6|252||||252}}
+{{lop/facility|game=3|245|Suicune|King's Rock|Blizzard|Ice|Surf|Water|Bite|Dark|Calm Mind|Psychic|Hasty|252||252|||6}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Battle Pyramid===
+[[File:Battle Pyramid interior E.png|thumb|Inside the Battle Pyramid]]
+
+The [[Battle Pyramid]] stands tall on the island's northeast corner. There are seven floors, each one shrouded in darkness that can only be dispelled by defeating opponents on each floor. Challengers cannot take any items into the pyramid, and items found inside can only be used inside. These items are stored in a special Bag, the Battle Bag, that is loaned to each challenger at the entrance. The Battle Bag has enough room for ten different items, and up to 99 of each. If the challenger is victorious, the Battle Bag stores these items for the next battle; upon defeat, the Battle Bag's contents return to one [[Hyper Potion]] and one [[Ether]]. If at any point the challenger acquires more than 10 different items, extra items must be discarded.
+
+Wild Pokémon may be encountered within the pyramid, with strategies differing depending on how many floors the challenger has ventured through. A Hex Maniac next to the PC will tell challengers what to expect from the upcoming floor. These themes range from certain types of Pokémon, Pokémon with moves that inflict status ailments, and Pokémon with certain Abilities.
+
+After completing 21 floors and 70 floors, [[Brandon]] appears at the peak and challenges you to a battle. Defeat him to earn the [[Symbol|Brave Symbol]].
+
+====VS Brandon (Silver Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Brandon.png
+| prize = 16{{color2|000|Battle Point|BP}}
+| class = Pyramid King
+| classlink = Brandon
+| name = {{color2|000|Brandon}}
+| location = Battle Pyramid
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color}}|{{frontier color}}}}
+{{lop/facility|game=3|377|Regirock|Quick Claw|Explosion|Normal|Superpower|Fighting|Earthquake|Ground|AncientPower|Rock|Adamant|152|152||106|100}}
+{{lop/facility|game=3|379|Registeel|Leftovers|Earthquake|Ground|Metal Claw|Steel|Toxic|Poison|Iron Defense|Steel|Adamant|152|152||6|200}}
+{{lop/facility|game=3|378|Regice|Chesto Berry|Ice Beam|Ice|Amnesia|Psychic|Thunder|Electric|Rest|Psychic|Modest|106||152|100|152}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+====VS Brandon (Gold Challenge)====
+{{Party
+| walkthrough = yes
+| background = {{frontier color}}
+| border = {{frontier color dark}}
+| headcolor = {{frontier color light}}
+| sprite = Spr E Brandon.png
+| prize = 19{{color2|000|Battle Point|BP}}
+| class = Pyramid King
+| classlink = Brandon
+| name = {{color2|000|Brandon}}
+| location = Battle Pyramid
+| game = E
+| pokemon = 3
+| table = yes
+}}
+{{lop/facility/head|{{frontier color light}}|{{frontier color}}|{{frontier color}}}}
+{{lop/facility|game=3|144|Articuno|Scope Lens|Blizzard|Ice|Water Pulse|Water|Aerial Ace|Flying|Reflect|Psychic|Mild|6||252|||252}}
+{{lop/facility|game=3|145|Zapdos|Lum Berry|Thunder|Electric|Detect|Fighting|Drill Peck|Flying|Light Screen|Psychic|Mild|6||252|||252}}
+{{lop/facility|game=3|146|Moltres|BrightPowder|Fire Blast|Fire|Hyper Beam|Normal|Aerial Ace|Flying|Safeguard|Normal|Mild|6||252|||252}}
+{{lop/facility/foot|{{frontier color light}}}}
+{{Party/end}}
+
+===Other Areas===
+====The Odd Tree====
+Southeast of the Battle Palace, there is an odd tree standing atop the waterfall that actually moves to avoid water. Use the [[Wailmer Pail]] to disturb it, and the tree attacks! It turns out to be a {{p|Sudowoodo}}, a Pokémon more akin to a rock than a tree.
+
+====Artisan Cave====
+[[File:Artisan_Cave_entrance_E.png|thumb|left|200px|Artisan Cave entrance]]
+[[File:Artisan Cave B1F E.png|thumb|Artisan Cave, B1F]]
+[[File:Artisan Cave 1F E.png|thumb|Artisan Cave, 1F]]
+
+[[Artisan Cave]] is a network of tunnels that link one end of the island to the other. The entrance is located to the south, and is accesible after defeat Sudowoodo or catch it, you'll have access to the water behind it, surf on it, go down the waterfall, and go all the way to the west. The exit leads to a ledge just east of the Battle Tower. Only {{p|Smeargle}} can be found inside, and its [[signature move]], {{m|Sketch}}, lets it copy nearly any other move permanently. When paired with a compatible female, this allows a male Smeargle to pass on nearly any move to the resulting offspring.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|235|Smeargle|no|no|yes|Cave|40-50|100%|type1=Normal}}
+{{Catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|B1F}}
+{{itemlist|Iron|Northeast of the entrance, on the northern of two rocks (hidden)|E=yes}}
+{{itemlist|HP Up|In the southeast pit|E=yes}}
+{{itemlist|Zinc|On a rock in the eastern pit (hidden)|E=yes}}
+{{itemlist|Calcium|North-northeast area, on the right-most of two rocks near the stairway (hidden)|E=yes}}
+{{itemlist|Protein|Northwest corner, on the north-most of two rocks (hidden)|E=yes}}
+{{catch/div|cave|1F}}
+{{itemlist|Carbos|At the end of the eastern path|E=yes}}
+{{itlistfoot|cave}}
+|}
+
+====Time for a Trade====
+A small building stands just west of the Battle Tower. Speak to the woman inside, and she asks to trade her {{p|Meowth}} for your {{p|Skitty}}. Meowth cannot be found anywhere in the wild, while Skitty are found on {{rt|116|Hoenn}}.
+
+====Ranking Hall====
+[[File:Record Hall E.png|thumb|Record Hall]]
+
+The Ranking Hall is located on the island's north side, between the Battle Tower and Battle Pyramid. There are three rooms inside. Records for the Battle Factory, Battle Dome, and Battle Pike are displayed in the left room. The center room holds records for the Battle Tower. Records for the Battle Arena, Battle Palace, and Battle Pyramid are displayed in the right room.
+
+====Double or Nothing====
+In the building to the south of the Battle Pyramid, there are several people placing bets on which challengers they expect to clear certain facilities. After earning three Silver Symbols, one of the men will ask that you compete in a random facility, which changes daily. He then asks that you chip in some Battle Points—either 5, 10, or 15—and if you emerge victorious, he pays you back with twice that amount. If not, the Battle Points you gave him are lost.
+
+====Stats Judge====
+In the building behind the Pokémon Center is [[Battle Frontier (Generation III)#Stats judge|an old man]] who can [[Stats judge|judge]] one of your Pokémon's stats. He first describes the Pokémon's overall ability, which is based on the sum of its six [[Individual values|IVs]]. He then indicates which stat is highest, and which range it falls under.
+
+====Move Tutors====
+Southwest of the Battle Dome is a building with two elderly women inside. Both women are {{DL|Battle Frontier (Generation III)|Move Tutors}}, and each one offers to teach any of ten different moves to a Pokémon. Prices range from 16 to 48 [[Battle Point]]s.
+{|
+|
+{{tutormv/header|emerald|BP|no|disp=Left Tutor}}
+{{tutormv|Softboiled|Normal|bp=16}}
+{{tutormv|Seismic Toss|Fighting|bp=24}}
+{{tutormv|Dream Eater|Psychic|bp=24}}
+{{tutormv|Mega Punch|Normal|bp=24}}
+{{tutormv|Mega Kick|Normal|bp=48}}
+{{tutormv|Body Slam|Normal|bp=48}}
+{{tutormv|Rock Slide|Rock|bp=48}}
+{{tutormv|Counter|Fighting|bp=48}}
+{{tutormv|Thunder Wave|Electric|bp=48}}
+{{tutormv|Swords Dance|Normal|bp=48}}
+|}
+|}
+|
+{{tutormv/header|emerald|BP|no|disp=Right Tutor}}
+{{tutormv|Defense Curl|Normal|bp=16}}
+{{tutormv|Snore|Normal|bp=24}}
+{{tutormv|Mud-Slap|Ground|bp=24}}
+{{tutormv|Swift|Normal|bp=24}}
+{{tutormv|Icy Wind|Ice|bp=24}}
+{{tutormv|Endure|Normal|bp=48}}
+{{tutormv|Psych Up|Normal|bp=48}}
+{{tutormv|Ice Punch|Ice|bp=48}}
+{{tutormv|ThunderPunch|Electric|bp=48}}
+{{tutormv|Fire Punch|Fire|bp=48}}
+|}
+|}
+|}
+
+====Exchange Service Corner====
+[[File:Battle Point Exchange Service Corner E.png|thumb|Exchange Service Corner]]
+
+The {{DL|Battle Frontier (Generation III)|Battle Point Exchange Service Corner|Exchange Service Corner}} is located in front of the Battle Tower. Inside, Battle Points earned on the island may be redeemed for various prizes, including [[Secret Base]] goods, [[Vitamin]]s, and [[Held item]]s for Pokémon. 
+
+*The held items that cost 48 BP are {{bag|Leftovers}} [[Leftovers]], {{bag|White Herb}} [[White Herb]], {{bag|Quick Claw}} [[Quick Claw]], and {{bag|Mental Herb}} [[Mental Herb]].
+*The held items that cost 64 BP are {{bag|Bright Powder|display=BrightPowder}} [[BrightPowder]], {{bag|Choice Band}} [[Choice Band]], {{bag|King's Rock}} [[King's Rock]], {{bag|Focus Band}} [[Focus Band]], and {{bag|Scope Lens}} [[Scope Lens]].
+{{-}}
+
+After completing the Battle Frontier by earning Silver and Gold Symbols for each facility, your final mission is to complete the Pokédex. The discovery of Hoenn-native Pokémon has brought the total number of species to 386, so there is still plenty to keep you busy!
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=20
+|prevname=Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+|next=no
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|21]]

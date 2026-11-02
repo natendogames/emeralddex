@@ -1,0 +1,829 @@
+{{WalkthroughNotice|FRLG}}
+==Saffron City==
+[[File:Saffron City FRLG.png|thumb|Saffron City]]
+[[File:Silph Co 1F FRLG.png|thumb|Silph Co, 1F]]
+[[File:Silph Co 2F FRLG.png|thumb|Silph Co, 2F]]
+[[File:Silph Co 3F FRLG.png|thumb|Silph Co, 3F]]
+[[File:Silph Co 4F FRLG.png|thumb|Silph Co, 4F]]
+[[File:Silph Co 5F FRLG.png|thumb|Silph Co, 5F]]
+[[File:Silph Co 6F FRLG.png|thumb|Silph Co, 6F]]
+[[File:Silph Co 7F FRLG.png|thumb|Silph Co, 7F]]
+[[File:Silph Co 8F FRLG.png|thumb|Silph Co, 8F]]
+[[File:Silph Co 9F FRLG.png|thumb|Silph Co, 9F]]
+[[File:Silph Co 10F FRLG.png|thumb|Silph Co, 10F]]
+[[File:Silph Co 11F FRLG.png|thumb|Silph Co, 11F]]
+
+Having been satisfied with the cup of [[Tea]] from [[Celadon Condominiums|Celadon Mansion]], the guards will now let you enter [[Saffron City]] directly from any adjacent city. Saffron City is a sprawling metropolis located in the heart of the region between [[Cerulean City]], [[Celadon City]], [[Lavender Town]], and [[Vermilion City]]. The [[Silph Co.]] headquarters dominates the city skyline, and two Pokémon Gyms stand in the northeast district. It is the most populous city in all of [[Kanto]].
+
+{| class="expandable" align="center" style="background: #F6D263; {{roundy}}; border: 5px solid #F9E197;"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|sand|no}}
+{{catch/div|sand|Silph Co.}}
+{{catch/entryfl|131|Lapras|yes|yes|Gift|25|One|type1=water|type2=ice}}
+{{Catch/div|sand|Fighting Dojo}}
+{{catch/entryfl|106|Hitmonlee|yes|yes|Gift|25|{{tt|One|Only one of the two can be picked}}|type1=Fighting}}
+{{catch/entryfl|107|Hitmonchan|yes|yes|Gift|25|{{tt|One|Only one of the two can be picked}}|type1=Fighting}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" align="center" style="background: #F6D263; {{roundy}}; border: 5px solid #F9E197;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|sand}}
+{{itemlist|Nugget|Northwest house; on the desk in the Copycat's room ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|TM Psychic|Southeast house; from Mr. Psychic in his home|FR=yes|LG=yes|display={{TM|29|Psychic}}}}
+{{Itemlist|TM Psychic|From Sabrina, after defeating her|FR=yes|LG=yes|display={{TM|04|Calm Mind}}}}
+{{itlistfoot|sand}}
+|}
+
+
+===Mr. Psychic's house===
+The southeast house belongs to a man known as Mr. Psychic. Speak to him and he claims to know exactly why you are here, and gives you {{TM|29|Psychic}}.
+
+===Silph Co.===
+The [[Silph Co]]. is the leading manufacturer of items like Poké Balls, Potions, and TMs. Their products are supplied to every Poké Mart in the region. The company has been a target of [[Team Rocket]], first for their [[Silph Scope]] prototype, and now for a top-secret development project. The Rocket Grunt posted outside the building has fallen asleep, leaving a perfect opportunity to sneak inside. The building holds eleven floors, with [[warp panel]]s allowing the workers to quickly move around. This convenience ends up acting as a maze for anyone trying to reach the top floor.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 2F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||800|5|042|Golbat|♂|25||041|Zubat|♂|25||041|Zubat|♂|25||020|Raticate|♂|25||041|Zubat|♂|25||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Jerry|1344|3|081|Magnemite||28||100|Voltorb||28||082|Magneton||28|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||928|2|104|Cubone|♂|29||041|Zubat|♂|29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Connor|1248|4|088|Grimer|♂|26||110|Weezing|♂|26||109|Koffing|♂|26||110|Weezing|♂|26|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 3F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|020|Raticate|♂|28||097|Hypno|♂|28||020|Raticate|♂|28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Jose|1392|2|101|Electrode||29||110|Weezing|♂|29|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 4F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|023|Ekans|♂|28||041|Zubat|♂|28||104|Cubone|♂|28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||928|2|066|Machop|♂|29||096|Drowzee|♂|29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Rodney|1584|1|101|Electrode||33|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 5F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1056|1|097|Hypno|♂|33|None|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Juggler.png|Juggler|Dalton|1160|2|064|Kadabra|♂|29|None|122|Mr. Mime|♂|29|None}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Beau|1248|4|082|Magneton||26||081|Magnemite||26||109|Koffing|♂|26||110|Weezing|♂|26|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1056|1|024|Arbok|♂|33||}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 6F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||928|2|066|Machop|♂|29||067|Machoke|♂|29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|041|Zubat|♂|28||041|Zubat|♂|28||042|Golbat|♂|28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Taylor|1200|5|100|Voltorb||25||109|Koffing|♂|25||082|Magneton||25||081|Magnemite||25||109|Koffing|♂|25|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 7F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||928|2|104|Cubone|♂|29||104|Cubone|♂|29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||832|4|020|Raticate|♂|26||041|Zubat|♂|26||042|Golbat|♂|26||019|Rattata|♂|26||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Joshua|1392|2|101|Electrode||29||089|Muk|♂|29|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||928|2|027|Sandshrew|♂|29||028|Sandslash|♂|29||}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 8F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||832|4|020|Raticate|♂|26||042|Golbat|♂|26||024|Arbok|♂|26||109|Koffing|♂|26||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|110|Weezing|♂|28||042|Golbat|♂|28||109|Koffing|♂|28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Parker|1392|2|088|Grimer|♂|29||101|Electrode||29|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 9F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|042|Golbat|♂|28||096|Drowzee|♂|28||097|Hypno|♂|28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||896|3|096|Drowzee|♂|28||088|Grimer|♂|28||066|Machop|♂|28|None|}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Ed|1344|3|100|Voltorb||28||082|Magneton||28||109|Koffing|♂|28|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 10F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1056|1|067|Machoke|♂|33||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Scientist.png|Scientist|Travis|1392|2|081|Magnemite||29||109|Koffing|♂|29|}}
+{{trainerfooter|building|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! 11F
+|- 
+| 
+{{trainerheader|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||800|5|019|Rattata|♂|25||041|Zubat|♂|25||023|Ekans|♂|25||019|Rattata|♂|25||019|Rattata|♂|25||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1024|3|104|Cubone|♂|32||096|Drowzee|♂|32|None|105|Marowak|♂|32||}}
+{{trainerfooter|building|I}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|building}}
+{{catch/div|building|2F}}
+{{Itemlist|Ultra Ball|Southwest room, southern potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|3F}}
+{{Itemlist|Hyper Potion|Northeast of the Scientist|FR=yes|LG=yes}}
+{{Itemlist|Protein|Southeast corner, on the middle of three potted plants ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|4F}}
+{{Itemlist|Full Heal|In the northwest room|FR=yes|LG=yes}}
+{{Itemlist|Max Revive|In the northwest room|FR=yes|LG=yes}}
+{{Itemlist|Escape Rope|In the northwest room|FR=yes|LG=yes}}
+{{Itemlist|TM Dark|In the southeast room|FR=yes|LG=yes|display={{TM|41|Torment}}}}
+{{Itemlist|Iron|Southeast room, southern of three potted plants ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|5F}}
+{{Itemlist|Card Key III|In the south hallway|FR=yes|LG=yes|display={{ka|Card Key}}}}
+{{Itemlist|Protein|In the northwest room (requires the {{ka|Card Key}})|FR=yes|LG=yes}}
+{{Itemlist|TM Fighting|In the southwest room|FR=yes|LG=yes|display={{TM|01|Focus Punch}}}}
+{{Itemlist|PP Up|Larger central room, in the potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Elixir|Smaller central room, in a potted plant ''(hidden)'' (requires {{ka|Card Key}})|FR=yes|LG=yes}}
+{{catch/div|building|6F}}
+{{Itemlist|HP Up|In the southwest room (requires the {{ka|Card Key}})|FR=yes|LG=yes}}
+{{Itemlist|X Sp. Atk|In the southwest room (requires the {{ka|Card Key}})|FR=yes|LG=yes}}
+{{Itemlist|Carbos|Northwest room, in the western potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|7F}}
+{{Itemlist|TM Fighting|In the east-central room (requires the {{ka|Card Key}})|FR=yes|LG=yes|display={{TM|08|Bulk Up}}}}
+{{Itemlist|Calcium|In the southwest room|FR=yes|LG=yes}}
+{{Itemlist|Zinc|East-central room, southern potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|8F}}
+{{Itemlist|Iron|East-central room, east of the two beds|FR=yes|LG=yes}}
+{{Itemlist|Nugget|East-central room, northern potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|9F}}
+{{Itemlist|Max Potion|South-southwest room, in the corner near the boxes ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Calcium|Western room, eastern potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|10F}}
+{{Itemlist|Carbos|In the southwest room|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|In the southwest room|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|In the southwest room|FR=yes|LG=yes}}
+{{Itemlist|HP Up|Northeast room, in the potted plant ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|11F}}
+{{Itemlist|Zinc|East; southeast corner|FR=yes|LG=yes}}
+{{Itemlist|Revive|West; middle of three potted plants outside the president's office ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Master Ball|West; From the president in his office, after defeating [[Giovanni]]|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+
+
+====2F====
+It is not possible to open the electronic doors yet, so step on either [[warp panel]] to teleport to the eighth floor.
+
+====8F====
+Battle Scientist Parker and the two Rocket Grunts, then grab the [[Iron]] in the eastern room. Take the elevator down to 3F.
+
+====3F====
+Take the northeast warp panel back to the second floor. Speak to the woman here in the northwest room, and this [[Move Tutor]] offers to teach {{m|Thunder Wave}} to one of your Pokémon. This can be done at any time, even after clearing the building. Warp back to 3F.
+
+Fight the Rocket Grunt and take the warp panel in the southwest to reach 5F; pick up the {{TM|01|Focus Punch}} from the southwest room before returning to 3F.
+
+Climb up the stairs to 4F.
+
+====4F====
+Battle another two Rocket Grunts, pick up {{TM|41|Torment}} in the eastern room, and climb to the fifth floor.
+
+====5F====
+Fight the Rocket Grunt near the stairs and Scientist Beau to the west. Follow the hallway southward to reach another Rocket Grunt standing next to a warp panel. Defeat him, step on the warp panel, then warp right back. Turn eastward to find a {{ka|Card Key}}, which is used to open the building's electronic doors. Pass by the warp panel again and unlock the northwest room to reach a [[Protein]]. Take the stairs up to 6F.
+
+====6F====
+Follow the western hallway past Scientist Taylor and unlock the southwest room to get an [[HP Up]] and an [[X Sp. Atk|X Special]]. Climb the stairs to 7F.
+
+====7F====
+Use the Card Key to unlock the east-central room and pick up {{TM|08|Bulk Up}}. Turn around and follow the central hallway to the southwest room. Battle Scientist Joshua and grab the [[Calcium]] before taking the stairs up to 9F.
+
+====9F====
+Defeat the Rocket Grunt at the south end of the central hallway, then open the door to reach the break room. Speak to the woman here, and she heals your Pokémon to full health as thanks for your efforts. Climb the stairs to the tenth floor.
+
+====10F====
+Battle Scientist Travis and the Rocket Grunt, then pick up the [[Carbos]], [[Rare Candy]], and [[Ultra Ball]] from the southwest room. Ride the elevator all the way down to 3F.
+
+====3F====
+Use the Card Key to unlock the central room. Open the door to the west-central room beyond that, defeat Scientist Jose, and grab the nearby [[Hyper Potion]]. Take the warp in the central room.
+
+====7F (Northwest)====
+When you reach the northwest room on the seventh floor, {{ga|Blue}} is waiting for you.
+
+=====Rival Battle 6=====
+{{ga|Blue}}'s team is much the same as it was in the previous battle in [[Pokémon Tower]], except that his {{p|Kadabra}} and his [[First partner Pokémon|first Pokémon]] have evolved.
+
+{{Party
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1440
+| class = Rival
+| name = Blue
+| location = Silph Co.
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 37
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Quick Attack | move1type = Normal
+| move2 = Whirlwind | move2type = Normal
+| move3 = Wing Attack | move3type = Flying
+| move4 = FeatherDance | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 38
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Confusion | move1type = Psychic
+| move2 = Stun Spore | move2type = Grass
+| move3 = PoisonPowder | move3type = Poison
+| move4 = Sleep Powder | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 35
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Dragon Rage | move2type = Dragon
+| move3 = Leer | move3type = Normal
+| move4 = Twister | move4type = Dragon
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 35
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Reflect | move1type = Psychic
+| move2 = Recover | move2type = Normal
+| move3 = Future Sight | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0006
+| pokemon = Charizard
+| gender = male
+| level = 40
+| type1 = Fire
+| type2 = Flying
+| ability = Blaze
+| move1 = SmokeScreen | move1type = Normal
+| move2 = Scary Face | move2type = Normal
+| move3 = Flamethrower | move3type = Fire
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0004|Charmander}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1440
+| class = Rival
+| name = Blue
+| location = Silph Co.
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 37
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Quick Attack | move1type = Normal
+| move2 = Whirlwind | move2type = Normal
+| move3 = Wing Attack | move3type = Flying
+| move4 = FeatherDance | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 38
+| type1 = Fire
+| ability = Intimidate
+| move1 = Odor Sleuth | move1type = Normal
+| move2 = Take Down | move2type = Normal
+| move3 = Flame Wheel | move3type = Fire
+| move4 = Helping Hand | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 35
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Leech Seed | move1type = Grass
+| move2 = Confusion | move2type = Psychic
+| move3 = Stun Spore | move3type = Grass
+| move4 = PoisonPowder | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 35
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Reflect | move1type = Psychic
+| move2 = Recover | move2type = Normal
+| move3 = Future Sight | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0009
+| pokemon = Blastoise
+| gender = male
+| level = 40
+| type1 = Water
+| ability = Torrent
+| move1 = Water Gun | move1type = Water
+| move2 = Bite | move2type = Dark
+| move3 = Rapid Spin | move3type = Normal
+| move4 = Protect | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0007|Squirtle}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1440
+| class = Rival
+| name = Blue
+| location = Silph Co.
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 37
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Quick Attack | move1type = Normal
+| move2 = Whirlwind | move2type = Normal
+| move3 = Wing Attack | move3type = Flying
+| move4 = FeatherDance | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 38
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Dragon Rage | move2type = Dragon
+| move3 = Leer | move3type = Normal
+| move4 = Twister | move4type = Dragon
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 35
+| type1 = Fire
+| ability = Intimidate
+| move1 = Leer | move1type = Normal
+| move2 = Odor Sleuth | move2type = Normal
+| move3 = Take Down | move3type = Normal
+| move4 = Flame Wheel | move4type = Fire
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 35
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Reflect | move1type = Psychic
+| move2 = Recover | move2type = Normal
+| move3 = Future Sight | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0003
+| pokemon = Venusaur
+| gender = male
+| level = 40
+| type1 = Grass
+| type2 = Poison
+| ability = Overgrow
+| move1 = PoisonPowder | move1type = Poison
+| move2 = Sleep Powder | move2type = Grass
+| move3 = Razor Leaf | move3type = Grass
+| move4 = Sweet Scent | move4type = Normal
+}}
+{{Party/end}}
+
+
+Afterward, he brags that he will be the world's most powerful Trainer before warping away. Once he leaves, speak to the nearby office worker. Realizing that you are here to save them all, he would like to give you a Pokémon. If you have room in your party, he gives you a {{p|Lapras}}. They had been keeping it in their lab, but he thinks it would be much better off with you. Take the final warp panel to the west side of 11F.
+
+====11F (West)====
+Take out one last Rocket Grunt to reach the boardroom. Use the Card Key to open the door and confront [[Giovanni]]. He claims to be having some important business meeting with the company president and warns you to stay out of grown-up matters before drawing you into battle.
+
+=====VS Giovanni=====
+[[Giovanni]]'s {{p|Nidorino}}, {{p|Rhyhorn}}, and {{p|Nidoqueen}} all take serious damage from {{type|Ground}} attacks like {{m|Dig}} and {{m|Earthquake}}. The latter two are also vulnerable to {{t|Water}} moves. His {{p|Kangaskhan}} only takes super effective damage from {{t|Fighting}} attacks.
+
+{{Party
+| walkthrough = yes
+| background = 666666
+| border = CC0000
+| headcolor = CCCCCC
+| sprite = Spr FRLG Giovanni.png
+| prize = {{pdollar}}4100
+| class = Boss
+| classlink = Giovanni
+| name = {{color2|000|Giovanni}}
+| location = Silph Co.
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0033
+| pokemon = Nidorino
+| gender = male
+| level = 37
+| type1 = Poison
+| ability = Poison Point
+| move1 = Horn Attack | move1type = Normal
+| move2 = Poison Sting | move2type = Poison
+| move3 = Helping Hand | move3type = Normal
+| move4 = Fury Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 37
+| type1 = Ground
+| type2 = Rock
+| ability = Rock Head
+| move1 = Fury Attack | move1type = Normal
+| move2 = Scary Face | move2type = Normal
+| move3 = Stomp | move3type = Normal
+| move4 = Rock Blast | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0115
+| pokemon = Kangaskhan
+| gender = female
+| level = 35
+| type1 = Normal
+| ability = Early Bird
+| move1 = Fake Out | move1type = Normal
+| move2 = Rage | move2type = Normal
+| move3 = Mega Punch | move3type = Normal
+| move4 = Tail Whip | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0031
+| pokemon = Nidoqueen
+| gender = female
+| level = 41
+| type1 = Poison
+| type2 = Ground
+| ability = Poison Point
+| move1 = Double Kick | move1type = Fighting
+| move2 = Tail Whip | move2type = Normal
+| move3 = Poison Sting | move3type = Poison
+| move4 = Body Slam | move4type = Normal
+}}
+{{Party/end}}
+
+
+With [[Giovanni]] defeated, [[Team Rocket]]'s plans for [[Silph Co.]] have been thwarted. He vows that the group will never fall and promises to return. Giovanni and his underlings make their escape, while their co-conspirators also flee the building. Speak to the president, who is so grateful to you for saving Silph that he rewards you with the [[Master Ball]] prototype. This improved kind of Poké Ball has a 100% success rate, so be sure to save it for a hard-to-catch Pokémon.
+
+===Copycat's house===
+====Move Tutor====
+Now that the Rockets have left the city, the Grunt outside the northwest house is gone. A girl inside known as the {{OBP|Copycat|character}} likes to collect [[Pokémon doll]]s. Give her a [[Poké Doll]], and she offers to [[Move Tutor|teach]] the move {{m|Mimic}} to a compatible Pokémon.
+
+===Fighting Dojo===
+[[File:Fighting Dojo FRLG.png|thumb|Fighting Dojo]]
+
+[[Saffron City]] is unique as the only city to have two Pokémon Gyms. The [[Fighting Dojo]] is located in the northeast neighborhood, next door to the [[Saffron Gym]]. The two clubs had once competed to determine which would become the city's one official Gym, and the {{t|Psychic}} Pokémon of Saffron Gym were victorious. There is no Badge to be won here, but defeat the [[Koichi|Karate Master]] to earn the choice of two rare {{type|Fighting}} Pokémon: the hard-kicking {{p|Hitmonlee}} or the piston-punching {{p|Hitmonchan}}. Use Psychic- and {{type|Flying}} attacks here for greatest effect.
+
+{{WalkthroughGym
+| background = {{fighting color}}
+| headcolor = {{fighting color light}}
+| name = Fighting Dojo
+| trainers = 
+{{trainerheader|fighting}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Hideki|768|2|066|Machop|♂|32|Black Belt|067|Machoke|♂|32|Black Belt}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Hitoshi|744|3|066|Machop|♂|31|Black Belt|056|Mankey|♂|31|Black Belt|057|Primeape|♂|31|Black Belt}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Mike|744|3|056|Mankey|♂|31|Black Belt|056|Mankey|♂|31|Black Belt|057|Primeape|♂|31|Black Belt}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Aaron|864|1|057|Primeape|♂|36|Black Belt}}
+{{trainerfooter|fighting|I}}
+| party =
+{{Party
+| background = {{fighting color}}
+| border = {{fighting color dark}}
+| headcolor = {{fighting color light}}
+| middle = yes
+| sprite = Spr FRLG Black Belt.png
+| prize = {{PDollar}}888
+| class = Black Belt
+| classlink = Black Belt (Trainer class)
+| name = {{color2|000|Koichi}}
+| location = Fighting Dojo
+| game = FRLG
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0106
+| pokemon = Hitmonlee
+| gender = male
+| level = 37
+| type1 = Fighting
+| ability = Limber
+| held = Black Belt
+| heldlink = Black Belt (item)
+| move1 = Hi Jump Kick | move1type = Fighting
+| move2 = Foresight | move2type = Normal
+| move3 = Focus Energy | move3type = Normal
+| move4 = Mind Reader | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0107
+| pokemon = Hitmonchan
+| gender = male
+| level = 37
+| type1 = Fighting
+| ability = Keen Eye
+| held = Black Belt
+| heldlink = Black Belt (item)
+| move1 = Sky Uppercut | move1type = Fighting
+| move2 = ThunderPunch | move2type = Electric
+| move3 = Ice Punch | move3type = Ice
+| move4 = Fire Punch | move4type = Fire
+}}
+{{Party/end}}
+}}
+
+===Saffron Gym===
+[[File:Saffron Gym FRLG.png|thumb|Saffron Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|SAFFRON CITY POKéMON GYM<br>LEADER: SABRINA}}
+{{sign|FRLG|The Master of Psychic Pokémon!}}
+{{sign|FRLG|footer}}
+
+The [[Saffron Gym]] specializes in {{t|Psychic}} Pokémon. Psychic-type moves are super effective against {{t|Fighting}}- and {{type|Poison}} Pokémon, while Psychic-type Pokémon are weak to {{t|Bug}}-, {{t|Dark}}-, and {{type|Ghost}} moves.
+
+The Gym uses [[Saffron Gym#Generations I-IV|a series of warp panels]] to confuse and disorient any challengers. Step on the panel near the entrance to reach the southeast room. To reach the Gym Leader by using as few warps as possible, continue by stepping on the northwest, southwest, and southwest panels in the following rooms. This leads to the center room, where [[Sabrina]] awaits anyone up to the challenge.
+
+{{WalkthroughGym
+| background = {{psychic color}}
+| headcolor = {{psychic color light}}
+| name = Saffron Gym
+| badge = Marsh Badge
+| image = Marsh Badge.png
+| trainers = 
+{{trainerheader|Psychic}}
+{{catch/div|Psychic|Southeast room}}
+{{trainerentry|Spr FRLG Psychic M.png|Psychic|Cameron|660|3|079|Slowpoke|♂|33|None|079|Slowpoke|♂|33|None|080|Slowbro|♂|33|None}}
+{{catch/div|Psychic|East room}}
+{{trainerentry|Spr FRLG Psychic M.png|Psychic|Tyron|680|2|122|Mr. Mime|♂|34|None|064|Kadabra|♂|34|None}}
+{{catch/div|Psychic|West room}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Stacy|1216|1|093|Haunter|♀|38|None}}
+{{catch/div|Psychic|Northwest room}}
+{{trainerentry|Spr FRLG Psychic M.png|Psychic|Preston|760|1|080|Slowbro|♂|38|None}}
+{{catch/div|Psychic|North room}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Amanda|1088|2|092|Gastly|♀|34|None|093|Haunter|♀|34|None}}
+{{catch/div|Psychic|Southwest room}}
+{{trainerentry|Spr FRLG Channeler.png|Channeler|Tasha|1056|3|092|Gastly|♀|33|None|092|Gastly|♀|33|None|093|Haunter|♀|33|None}}
+{{catch/div|Psychic|Northeast room}}
+{{trainerentry|Spr FRLG Psychic M.png|Psychic|Johan|620|4|064|Kadabra|♂|31|None|122|Mr. Mime|♂|31|None|079|Slowpoke|♂|31|None|064|Kadabra|♂|31|None}}
+{{trainerfooter|Psychic|I}}
+| party = 
+{{Party
+| background = {{psychic color}}
+| border = {{psychic color dark}}
+| headcolor = {{psychic color light}}
+| middle = yes
+| sprite = Spr FRLG Sabrina.png
+| prize = {{PDollar}}4300
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Sabrina}}
+| location = Saffron Gym
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0064
+| pokemon = Kadabra
+| gender = male
+| level = 38
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psybeam | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Future Sight | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0122
+| pokemon = Mr. Mime
+| gender = female
+| level = 37
+| type1 = Psychic
+| ability = Soundproof
+| move1 = Barrier | move1type = Psychic
+| move2 = Psybeam | move2type = Psychic
+| move3 = Baton Pass | move3type = Normal
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0049
+| pokemon = Venomoth
+| gender = female
+| level = 38
+| type1 = Bug
+| type2 = Poison
+| ability = Shield Dust
+| move1 = Psybeam | move1type = Psychic
+| move2 = Gust | move2type = Flying
+| move3 = Leech Life | move3type = Bug
+| move4 = Supersonic | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 43
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Recover | move2type = Normal
+| move3 = Future Sight | move3type = Psychic
+| move4 = Calm Mind | move4type = Psychic
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Sabrina]] awards you the {{badge|Marsh}}, which ensures obedience from all Pokémon up to level 70 and enables the use of {{m|Rock Smash}} in the field. She also gives you {{TM|04|Calm Mind}} as a prize.
+
+The next destination is [[Fuchsia City]] to the south. There are two paths that lead there: either take Cycling Road west of [[Celadon City]], or follow the coast south of [[Lavender Town]].
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=10
+|prevname=Route 16, Route 17, Route 18, Fuchsia City, Fuchsia Gym, Safari Zone, Route 15, Route 14, Route 13, Route 12
+|nextsection=12
+|nextname=Route 19, Route 20 (East), Seafoam Islands, Route 20 (West)
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|11]]

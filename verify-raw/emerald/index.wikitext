@@ -1,0 +1,92 @@
+{{Infobox walkthrough
+|background1={{emerald color}}|color=FFF
+|title=Pokémon Emerald
+|boxart=Emerald EN boxart.jpg|size=200px
+|caption=Pokémon Emerald boxart
+|platform=[[Game Boy Advance]]
+|partof=[[Core series]]
+|generation={{gen|III}}
+|mainarticle=Pokémon Emerald Version
+}}
+
+:''This is an in-depth walkthrough for {{game|Emerald}} for the [[Game Boy Advance]].''
+<hr>
+{| class="roundy" style="margin-top:1em; background: #{{emerald color}}; box-shadow: 0 0 0.2em #999999; padding: 0.5em;"
+|-
+! colspan="2" style="background: rgba(0, 0, 0, 0.2); {{roundytop|5px}}; font-size: 1.3em; color: #FFF;" | Contents
+|-
+! colspan="2" style="background: rgba(0, 0, 0, 0.2); font-size: 1.1em; color: #FFF;" | Main Storyline
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 1|Part 1]]
+| style="padding: 0.5em;" | ''Introduction, Littleroot Town, Route 101, Oldale Town, Route 103, Route 102, Petalburg City''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 2|Part 2]]
+| style="padding: 0.5em;" | ''Route 104, Petalburg Woods, Rustboro City, Rustboro Gym, Route 116, Rusturf Tunnel''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 3|Part 3]]
+| style="padding: 0.5em;" | ''Route 105, Route 106, Dewford Town, Dewford Gym, Granite Cave, Route 107, Route 108, Route 109''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 4|Part 4]]
+| style="padding: 0.5em;" | ''Slateport City, Oceanic Museum, Route 110, Trick House''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 5|Part 5]]
+| style="padding: 0.5em;" | ''Mauville City, Mauville Gym, Route 117, Verdanturf Town, Rusturf Tunnel (Revisited)''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 6|Part 6]]
+| style="padding: 0.5em;" | ''Route 111 (South), Route 112 (South), Fiery Path, Route 112 (North), Route 111 (North), Route 113, Fallarbor Town, Route 114''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 7|Part 7]]
+| style="padding: 0.5em;" | ''Meteor Falls, Route 115, Mt. Chimney, Jagged Pass, Lavaridge Town, Lavaridge Gym''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 8|Part 8]]
+| style="padding: 0.5em;" | ''Route 111 (Desert), Mirage Tower, Petalburg Gym, Route 115, Route 105, Route 107, Route 108''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 9|Part 9]]
+| style="padding: 0.5em;" | ''Abandoned Ship, New Mauville, Route 118''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 10|Part 10]]
+| style="padding: 0.5em;" | ''Route 119, Weather Institute, Fortree City, Route 120''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 11|Part 11]]
+| style="padding: 0.5em;" | ''Fortree Gym, Route 121, Safari Zone, Route 122''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 12|Part 12]]
+| style="padding: 0.5em;" | ''Mt. Pyre, Route 123, Jagged Pass, Team Magma Hideout''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 13|Part 13]]
+| style="padding: 0.5em;" | ''Slateport City, Lilycove City, Team Aqua Hideout''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 14|Part 14]]
+| style="padding: 0.5em;" | ''Route 124, Mossdeep City, Space Center, Route 125''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 15|Part 15]]
+| style="padding: 0.5em;" | ''Shoal Cave, Route 127, Route 128, Seafloor Cavern''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 16|Part 16]]
+| style="padding: 0.5em;" | ''Route 126, Sootopolis City, Cave of Origin, Route 129, Route 130, Route 131, Pacifidlog Town''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 17|Part 17]]
+| style="padding: 0.5em;" | ''Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 18|Part 18]]
+| style="padding: 0.5em;" | ''Sky Pillar, Ever Grande City, Victory Road''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 19|Part 19]]
+| style="padding: 0.5em;" | ''The Pokémon League''
+|-
+! colspan="2" style="background: rgba(0, 0, 0, 0.2); font-size: 1.1em; color: #FFF;" | Post-Game
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 20|Part 20]]
+| style="padding: 0.5em;" | ''Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 21|Part 21]]
+| style="padding: 0.5em;" | ''S.S. Tidal, Battle Frontier''
+|- style="background: #FFF;"
+! style="padding: 0.5em;" | [[Walkthrough:Pokémon Emerald/Part 22|Part 22]]
+| style="padding: 0.5em;" | ''Faraway Island, Southern Island, Birth Island, Navel Rock'' {{tt|*|Event-exclusive}}
+|}
+
+{{Project Walkthroughs notice}}
+[[Category:Walkthroughs]]
+[[Category:Emerald walkthrough|*]]
+[[de:Komplettlösung Smaragd]]

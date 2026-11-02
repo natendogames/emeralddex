@@ -1,0 +1,342 @@
+{{WalkthroughNotice|FRLG}}
+==Route 21==
+[[File:Kanto Route 21 FRLG.png|thumb|100px|Route 21]]
+
+{{rt|21|Kanto}} is an ocean route that leads from [[Cinnabar Island]] back to [[Pallet Town]]. A single patch of tall grass grows just outside of town.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|ocean}}
+{{trainerentry|Spr FRLG Fisherman.png|Fisherman|Wade|972|6|129|Magikarp|♂|27|None|129|Magikarp|♂|27|None|129|Magikarp|♂|27|None|129|Magikarp|♂|27|None|129|Magikarp|♂|27|None|129|Magikarp|♂|27|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Fisherman.png|Fisherman|Ronald|1008|4|119|Seaking|♂|28|None|118|Goldeen|♂|28|None|119|Seaking|♂|28|None|119|Seaking|♂|28|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Sis and Bro.png|Sis and Bro|Lil & Ian|264|2|117|Seadra|♂|33|None|121|Starmie||33|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Spencer|132|2|117|Seadra|♂|33|None|073|Tentacruel|♂|33|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Fisherman.png|Fisherman|Claude|1116|2|090|Shellder|♂|31|None|091|Cloyster|♂|31|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Fisherman.png|Fisherman|Nolan|1188|2|119|Seaking|♂|33|None|118|Goldeen|♂|33|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Jack|148|1|121|Starmie||37|None|38=Vs. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Roland|128|3|061|Poliwhirl|♂|32|None|072|Tentacool|♂|32|None|117|Seadra|♂|32|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Jerome|132|2|120|Staryu||33|None|008|Wartortle|♂|33|None}}
+{{trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|ocean|no}}
+{{catch/entryfl|114|Tangela|yes|yes|Grass|17-28|100%|type1=Grass}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|80%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|ocean}}
+{{itemlist|Pearl|On the fifth island from the south, next to Swimmer Spencer ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itlistfoot|ocean}}
+|}
+
+
+==Pallet Town==
+Having now explored nearly all of the [[Kanto]] region, it is a good time to tie up any loose ends, the most important of which is the [[Kanto Power Plant|Power Plant]]. To get there, fly back to {{rt|10|Kanto}}.
+
+==Route 10==
+To reach the [[Kanto Power Plant|Power Plant]], use {{m|Surf}} to follow the river southward past the [[Rock Tunnel]] entrance. It is only a short distance away, with a single PokéManiac outside the building.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|mountain}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Mark|1392<br><small>Requires {{m|Surf}}</small>|2|111|Rhyhorn|♂|29|None|108|Lickitung|♂|29|None|38=Vs. Seeker}}
+{{trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|mountain|no}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=water|type2=poison}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-35|84%|type1=water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-35|84%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=water|type2=psychic}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|mountain}}
+{{itemlist|Max Ether|One step west, four steps north of PokéManiac Mark ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+
+===Power Plant===
+[[File:Power Plant interior FRLG.png|thumb|Power Plant]]
+
+The [[Kanto Power Plant|Power Plant]] is an industrial complex that was abandoned years ago, though some of the machinery still works. Many forgotten items can be found lying around, but beware: some are actually {{p|Electrode}} that only look like items.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{catch/header|building|no}}
+{{Catch/entryfl|081|Magnemite|yes|yes|Building|22, 25|30%|type1=Electric|type2=Steel}}
+{{Catch/entryfl|100|Voltorb|yes|yes|Building|22, 25|30%|type1=Electric}}
+{{Catch/entryfl|025|Pikachu|yes|yes|Building|22, 24, 26|25%|type1=Electric}}
+{{Catch/entryfl|082|Magneton|no|yes|Building|31, 34|15%|type1=Electric|type2=Steel}}
+{{Catch/entryfl|082|Magneton|yes|no|Building|31, 34|10%|type1=Electric|type2=Steel}}
+{{Catch/entryfl|125|Electabuzz|yes|no|Building|32, 35|5%|type1=Electric}}
+{{Catch/footer|building}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|building}}
+{{Itemlist|Max Potion|North of the entrance room|FR=yes|LG=yes}}
+{{Itemlist|TM Normal|In the long west-east room near the center of the facility|FR=yes|LG=yes|display={{TM|17|Protect}}}}
+{{Itemlist|Elixir|In the long west-east room near the center of the facility|FR=yes|LG=yes}}
+{{Itemlist|TM Electric|In the southeast room|FR=yes|LG=yes|display={{TM|25|Thunder}}}}
+{{Itemlist|Thunder Stone|
+* Northeast room, northeast corner
+* One step south, three steps east of {{p|Zapdos}}' location ''(hidden)''|FR=yes|LG=yes|display=[[Thunder Stone|ThunderStone]] ×2}}
+{{Itemlist|Max Elixir|Central room, in front of the eastern of three machines ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|building|Fake items}}
+{{Itemlist|None|sprite=101MS|
+* In the south-central room
+* Northeast room, northwest corner|FR=yes|LG=yes|display={{p|Electrode}} ×2}}
+{{itlistfoot|building}}
+|}
+
+
+====In Search of Power====
+Pass through the entrance room to get a [[Max Potion]]. Continue in a clockwise direction to the large, central room to find {{TM|17|Protect}} and an [[Elixir]]. Collect {{TM|25|Thunder}} in the southeast room, then follow the narrow hallway northward. Grab the [[Thunder Stone|ThunderStone]] from the northeast corner of the northeast room. Continue westward to reach the final room.
+
+=====VS Zapdos=====
+{{p|Zapdos}} is the last of the [[legendary birds]] that you will encounter. Use {{t|Rock}}- and {{type|Ice}} attacks to weaken it quickly, then follow up with {{t|Grass}}, {{t|Flying}}, and {{t|Fighting}} moves to wear its health down further. Like with {{p|Articuno}} and {{p|Moltres}}, it will be useful to cause status ailments like {{status|Sleep}} to increase the odds of catching it.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=145
+|pokemon=Zapdos
+|type1=Electric
+|type2=Flying
+|level=50
+|ability=Pressure
+|move1=Thunder Wave|move1type=Electric
+|move2=Agility|move2type=Psychic
+|move3=Detect|move3type=Fighting
+|move4=Drill Peck|move4type=Flying
+}}
+
+
+When the battle is over, take the side exit and fly back to [[Viridian City]].
+
+==Viridian City==
+{| class="expandable" align="center" style="background: #6FA090; {{roundy}}; border: 5px solid #9FC0B5;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|forest}}
+{{catch/div|forest|Viridian Gym}}
+{{itemlist|TM Ground|From Giovanni, after defeating him|FR=yes|LG=yes|display={{TM|26|Earthquake}}}}
+{{itemlist|Macho Brace|On the spot where Giovanni stood ''(hidden)'' (requires using the [[Dowsing Machine|Itemfinder]] on this spot)|FR=yes|LG=yes}}
+{{itlistfoot|forest}}
+|}
+
+
+===Viridian Gym===
+[[File:Viridian Gym FRLG.png|thumb|Viridian Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|VIRIDIAN CITY POKéMON GYM}}
+{{sign|FRLG|...}}
+{{sign|FRLG|footer}}
+
+In the time it took to collect the seven other Badges, the Gym Leader of [[Viridian Gym]] has finally returned. [[Giovanni]] resumed his position as Gym Leader shortly after his defeat in [[Saffron City]]. The [[Viridian Gym]] specializes in {{type|Ground}} Pokémon. {{t|Grass}}-, {{t|Water}}-, and {{type|Ice}} attacks will be the most useful. {{type|Flying}} Pokémon are immune to Ground attacks and Flying moves will deal serious damage to the several {{t|Fighting}} Pokémon inside. {{t|Psychic}} moves will work wonders against {{type|Poison}} Pokémon.
+
+Like the [[Team Rocket Hideout|Rocket Hideout]] in [[Celadon City]], the Viridian Gym also employs [[spinner tile]]s to confuse and disorient any challengers. Go north through the center room. Battle Ace Trainer Warren and Black Belt Takashi, so that Takashi walks away from the north wall. Return to the entrance and follow the spinner tiles north and west to reach the Gym Leader.
+
+{{WalkthroughGym
+| background = {{ground color}}
+| headcolor = {{ground color light}}
+| name = Viridian Gym
+| badge = Earth Badge
+| image = Earth Badge.png
+| trainers = 
+{{trainerheader|Ground}}
+{{trainerentry|Spr FRLG Tamer.png|Tamer|Cole|1560|2|024|Arbok|♂|39|None|128|Tauros|♂|39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Kiyo|1032|1|067|Machoke|♂|43|Black Belt}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Samuel|1404|5|028|Sandslash|♂|37|None|028|Sandslash|♂|37|None|111|Rhyhorn|♂|38|None|033|Nidorino|♂|39|None|034|Nidoking|♂|39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Yuji|1368|5|028|Sandslash|♂|38|None|075|Graveler|♂|38|None|095|Onix|♂|38|None|075|Graveler|♂|38|None|105|Marowak|♂|38|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Atsushi|960|2|066|Machop|♂|40|Black Belt|067|Machoke|♂|40|Black Belt}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Tamer.png|Tamer|Jason|1720|1|111|Rhyhorn|♂|43|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Warren|1404|5|105|Marowak|♂|37|None|105|Marowak|♂|37|None|111|Rhyhorn|♂|38|None|030|Nidorina|♀|39|None|031|Nidoqueen|♀|39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr FRLG Black Belt.png|Black Belt|Takashi|912|3|067|Machoke|♂|38|Black Belt|066|Machop|♂|38|Black Belt|067|Machoke|♂|38|Black Belt}}
+{{trainerfooter|Ground|I}}
+| party = 
+{{Party
+| background = {{ground color}}
+| border = {{ground color dark}}
+| headcolor = {{ground color light}}
+| middle = yes
+| sprite = Spr FRLG Giovanni.png
+| prize = {{Pdollar}}5000
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Giovanni}}
+| location = Viridian Gym
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 45
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Rock Blast | move2type = Rock
+| move3 = Scary Face | move3type = Normal
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0051
+| pokemon = Dugtrio
+| gender = male
+| level = 42
+| type1 = Ground
+| ability = Sand Veil
+| move1 = Slash | move1type = Normal
+| move2 = Sand Tomb | move2type = Ground
+| move3 = Mud-Slap | move3type = Ground
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0031
+| pokemon = Nidoqueen
+| gender = female
+| level = 44
+| type1 = Poison
+| type2 = Ground
+| ability = Poison Point
+| move1 = Double Kick | move1type = Fighting
+| move2 = Earthquake | move2type = Ground
+| move3 = Poison Sting | move3type = Poison
+| move4 = Body Slam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0034
+| pokemon = Nidoking
+| gender = male
+| level = 45
+| type1 = Poison
+| type2 = Ground
+| ability = Poison Point
+| move1 = Double Kick | move1type = Fighting
+| move2 = Earthquake | move2type = Ground
+| move3 = Poison Sting | move3type = Poison
+| move4 = Thrash | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 50
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Rock Blast | move2type = Rock
+| move3 = Scary Face | move3type = Normal
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Giovanni]] awards you the {{badge|Earth}}, which ensures obedience from all Pokémon, regardless of level. As a prize, he also gives you {{TM|26|Earthquake}}, a TM he claims to have made when he first acted as Gym Leader. He seems remorseful of his actions, and officially disbands [[Team Rocket]] before disappearing.
+
+===The Path to the Summit===
+Having won all eight Gym Badges, the next destination is the [[Indigo Plateau]], far to the northwest. The elite Trainers there are tough, but before you can challenge them, you must first survive a grueling cave known as {{ka|Victory Road}}. Gather your strongest Pokémon team with access to {{m|Surf}} and {{m|Strength}}, and visit a Poké Mart to replenish your supply of Potions and Poké Balls.
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=14
+|prevname=One Island, Two Island, Three Island
+|nextsection=16
+|nextname=Route 22, Route 23, Victory Road
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|15]]

@@ -1,0 +1,822 @@
+{{WalkthroughNotice|FRLG}}
+==Pallet Town==
+===A World Expands===
+After defeating the elite Trainers at [[Indigo Plateau]], the new Champion returns home to [[Pallet Town]]. [[Professor Oak]] pays you a visit and inspects the progress you have made on your [[Pokédex]]. He tells you that he has a favor to ask, and leads you to his lab. The professor explains that there have been many sightings recently of rare Pokémon species that have never been seen before in [[Kanto]]. He would like to study these Pokémon for himself, but his advanced age means that he must rely on you instead. {{ga|Blue}} enters a short time later, and Oak takes each Trainer's Pokédex for a moment. If each device has recorded data on at least 60 different species, he upgrades them to [[National Pokédex|National Mode]]. This enhancement enables the Pokédex to identify these rare Pokémon species so that you may now begin encountering them. Blue insists that he will be the one to complete the Pokédex, and considers looking around [[One Island]] first. Follow his lead and use {{m|Fly}} to return to [[Vermilion City]] and take the ferry back to the [[Sevii Islands]].
+
+==One Island==
+[[File:Ruby Path 1F FRLG.png|thumb|Ruby Path, 1F]]
+[[File:Ruby Path B1F FRLG.png|thumb|125px|Ruby Path, B1F]]
+[[File:Ruby Path B2F FRLG.png|thumb|Ruby Path, B2F]]
+[[File:Ruby Path B3F FRLG.png|thumb|Ruby Path, B3F]]
+[[File:Ruby Path B4F FRLG.png|thumb|Ruby Path, B4F]]
+[[File:Ruby Path B5F FRLG.png|thumb|Ruby Path, B5F]]
+===One Island (Town)===
+====Pokémon Network Center====
+Speak to [[Celio]] to learn that he is modifying his Network Machine. This update will allow it to accommodate long-distance trades, but in order to do so, he says that the machine requires a special type of gemstone. It is rumored to be somewhere on [[One Island]] but he has not been able to find one yet.
+
+{| class="expandable" align="center" style="background: #FF6767; {{roundy}}; border: 5px solid #FF8080;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|fire}}
+{{catch/div|fire|Later visit}}
+{{Itemlist|Rainbow Pass|Pokémon Network Center; from Celio, in exchange for the Ruby|FR=yes|LG=yes}}
+{{itlistfoot|fire}}
+|}
+
+
+===Mt. Ember===
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|volcano}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1184|2|104|Cubone|♂|37||105|Marowak|♂|37}}
+{{Trainerdiv|volcano}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1120|4|019|Rattata|♂|35||020|Raticate|♂|35||027|Sandshrew|♂|35||028|Sandslash|♂|35}}
+{{Trainerfooter|volcano|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Ruby Path, 1F
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entryfl|074|Geodude|yes|yes|Cave|32, 34, 36, 38, 40|50%|type1=rock|type2=ground}}
+{{Catch/entryfl|066|Machop|yes|yes|Cave|34, 36, 38|40%|type1=fighting}}
+{{Catch/entryfl|067|Machoke|yes|yes|Cave|40, 42|10%|type1=fighting}}
+{{Catch/div|volcano|Rock Smash}}
+{{Catch/entryfl|074|Geodude|yes|yes|Rock Smash|25-40|65%|type1=rock|type2=ground}}
+{{Catch/entryfl|075|Graveler|yes|yes|Rock Smash|30-50|35%|type1=rock|type2=ground}}
+{{Catch/footer|volcano}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Ruby Path, B1F and B5F
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entryfl|074|Geodude|yes|yes|Cave|34, 36, 38, 40, 42|70%|type1=rock|type2=ground}}
+{{Catch/entryfl|218|Slugma|yes|yes|Cave|24, 26, 28, 30|30%|type1=fire}}
+{{Catch/div|volcano|Rock Smash}}
+{{Catch/entryfl|074|Geodude|yes|yes|Rock Smash|25-40|65%|type1=rock|type2=ground}}
+{{Catch/entryfl|075|Graveler|yes|yes|Rock Smash|30-50|35%|type1=rock|type2=ground}}
+{{Catch/footer|volcano}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Ruby Path, B2F and B4F
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entryfl|218|Slugma|yes|yes|Cave|22, 24, 26, 28, 30, 32|60%|type1=fire}}
+{{Catch/entryfl|074|Geodude|yes|yes|Cave|40, 42, 44|40%|type1=rock|type2=ground}}
+{{Catch/div|volcano|Rock Smash}}
+{{Catch/entryfl|074|Geodude|yes|yes|Rock Smash|25-40|65%|type1=rock|type2=ground}}
+{{Catch/entryfl|075|Graveler|yes|yes|Rock Smash|30-50|35%|type1=rock|type2=ground}}
+{{Catch/footer|volcano}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Ruby Path, B3F
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entryfl|218|Slugma|yes|yes|Cave|18, 20, 22, 24, 26, 28, 30, 32, 34, 36|100%|type1=fire}}
+{{Catch/div|volcano|Rock Smash}}
+{{Catch/entryfl|218|Slugma|yes|yes|Rock Smash|15-35|90%|type1=fire}}
+{{Catch/entryfl|219|Magcargo|yes|yes|Rock Smash|25-45|10%|type1=fire|type2=rock}}
+{{Catch/footer|volcano}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|fire}}
+{{Itemlist|Ruby|B5F; on the pedestal (requires {{m|Strength}})|FR=yes|LG=yes|display={{i|Ruby}}}}
+{{itlistfoot|fire}}
+|}
+
+
+====Exterior====
+Go east from the Hiker near the entrance to find that the two [[Team Rocket]] Grunts have finally punched through the wall. They can be overheard excitedly planning to bring any treasure they may find back to the [[Rocket Warehouse]]. The building seems to require two passwords to enter. One of the Grunts has already forgotten them, but the other helpfully reminds him of the first one: ''"{{p|Goldeen}} need log"''. But before he can reveal the second password, they realize that you have been listening in and draw you into battle. Defeat them and they run off to regroup, leaving the new cave entrance exposed.
+
+====Ruby Path====
+=====1F=====
+There are several rocks in the first tunnel that can be cleared with {{m|Rock Smash}}. Go northwest and climb down the ladder.
+
+=====B1F=====
+Head northward and pass through more [[breakable rock]]s to reach the ladder.
+
+=====B2=====
+Go east to find the path blocked by several boulders. Use {{m|Strength}} to move the first boulder (→2) eastward. Take a few steps to the southeast and push the second (→1) eastward, as well. Move the northernmost boulder (↑1) northward, then go south and climb down the ladder.
+
+=====B3F=====
+Clearing the [[breakable rock]]s on this level may reveal wild {{p|Slugma}} or {{p|Magcargo}}, some of the rare Pokémon {{prof|Oak}} spoke of when he upgraded your [[Pokédex]]. Head east and use {{m|Strength}} to move the boulder (→1, ↓1) southeastward to clear a path. A short distance ahead, the path splits in two. Follow the southern tunnel and push the boulder all the way westward. Walk down the stairway and climb down the ladder to the south.
+
+=====B4F=====
+On this level, a series of glass panels are arranged to display the [[Braille]] alphabet, letter by letter. Climb down the ladder in the southeast corner.
+
+=====B5F=====
+Examine the pedestal to obtain the {{i|Ruby}}. A panel on the north wall features another Braille inscription. Take the ladder and climb back up to B3F.
+
+{| class="roundtable" style="margin: auto; background: #{{locationcolor/med|volcano}}; border: 3px solid #{{locationcolor/dark|volcano}}"
+|- style="background:#{{locationcolor/light|volcano}}"
+! Braille
+! English
+|-
+| <ab>
+⠑⠧⠑⠗⠽⠞⠓⠊⠝⠛⠀⠓⠁⠎⠀⠍⠑⠁⠝⠊⠝⠛
+⠑⠭⠊⠎⠞⠑⠝⠉⠑⠀⠓⠁⠎⠀⠍⠑⠁⠝⠊⠝⠛
+⠃⠑⠊⠝⠛⠀⠁⠇⠊⠧⠑⠀⠓⠁⠎⠀⠍⠑⠁⠝⠊⠝⠛
+⠓⠁⠧⠑⠀⠙⠗⠑⠁⠍⠎
+⠥⠎⠑⠀⠏⠕⠺⠑⠗⠲
+</ab>
+| <ab>
+EVERYTHING HAS MEANING
+EXISTENCE HAS MEANING
+BEING ALIVE HAS MEANING
+HAVE DREAMS
+USE POWER.
+</ab>
+|}
+
+
+=====B3F=====
+Return to the branching tunnels and take the eastern path this time. Move the northern boulder (→1) eastward, then the southern boulder (←1) westward. Continue southward and climb up the ladder. This short path acts as a shortcut back to the entrance, ending in the northeast part of 1F.
+
+===One Island (Town)===
+====Pokémon Network Center====
+Return to [[Celio]] to deliver the {{i|Ruby}}. He happily installs the gemstone in his Network Machine, but has another favor to ask. While studying gemstones, he discovered that there is a second that forms a pair with the Ruby. The only information that he has to work with is that it is somewhere in the [[Sevii Islands]]. To help you on your new quest, he takes back your [[Tri-Pass]] and gives you his personal [[Rainbow Pass]], which allows travel among all seven of the islands. He also adds another page to your [[Town Map]] that shows the other four islands.
+
+{{-}}
+==Four Island==
+[[File:Four Island FRLG.png|thumb|Four Island]]
+===Four Island (Town)===
+The town of {{to|Four Island}} is a small settlement on the southwest side of [[Four Island]]. A second [[Pokémon Day Care]] can be found here, and the eastern side of the island houses [[Icefall Cave]].
+
+{| class="expandable" align="center" style="background: #64AEF7; {{roundy}}; border: 5px solid #ABCDEF;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|water|no}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|194|Wooper|yes|no|Surf|5-25|70%|type1=water|type2=ground}}
+{{catch/entryfl|183|Marill|no|yes|Surf|5-25|70%|type1=water}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|5-35|30%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|5-35|30%|type1=water|type2=psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=water|type2=psychic}}
+{{catch/footer|water}}
+|}
+{| class="expandable" align="center" style="background: #64AEF7; {{roundy}}; border: 5px solid #ABCDEF;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|water}}
+{{itemlist|Ultra Ball|On the beach, north of the port ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes}}
+{{itemlist|Star Piece|In the northernmost part of the beach (requires {{m|Rock Smash}})|FR=yes|LG=yes}}
+{{itemlist|Pearl|On the beach, east of the port ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display={{i|Pearl}}}}
+{{itemlist|Stardust|On the strip of land south of the entrance to [[Icefall Cave]] (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itlistfoot|water}}
+|}
+
+
+====A Rival Reappears====
+When you leave the port, you run into {{ga|Blue}} on the beach. He wonders what you are doing in the [[Sevii Islands]], and tells you to stop copying him. He brags about obtaining a [[Pokémon Egg]], and hints that he saw someone you both know on the island. Afterward, he pushes you aside to enter the port.
+
+====Pokémon Day Care====
+A second [[Pokémon Day Care]] is located on the north side of town. While the Day Care on {{rt|5|Kanto}} can only accept one Pokémon at a time, this location can accommodate up to two at once. If two [[Egg Group|compatible]] Pokémon are left at the same time, you may return to find an [[Pokémon Egg|Egg]]!
+
+====Move Tutor====
+There are two men in the northeast house. Speak to the one on the left to learn that they are having a Body Slam match to see who wimps out first. He says that you would be squashed like a bug if you joined them, so he offers to teach {{m|Body Slam}} to a compatible Pokémon of yours instead.
+
+====The Sticker Man's House====
+Located next door to the Poké Mart, a man hands {{ga|Trainer Card}} Stickers to "braggarts" who brag to him about certain accomplishments. There are three different stickers, with four levels each.
+
+{| class="roundy" style="margin:auto; text-align:center; background: #64aef7; border: 3px solid #1E90FF"
+|-
+! style="background: #ABCDEF; {{roundytl|5px}}; padding: 3px;" | Requirement
+! style="background: #{{red color light}}; padding: 3px;" | Level 1
+! style="background: #{{blue color light}}; padding: 3px;" | Level 2
+! style="background: #{{yellow color light}}; padding: 3px;" | Level 3
+! style="background: #{{platinum color light}}; {{roundytr|5px}}; padding: 3px;" | Level 4
+|- style="background: #fff"
+| style="padding: 3px;" | Enter the Hall of Fame
+| 1
+| 40
+| 100
+| 200
+|- style="background: #fff"
+| style="padding: 3px;" | Hatch a [[Pokémon Egg]]
+| 1
+| 100
+| 200
+| 300
+|-
+| style="background: #fff; {{roundybl|5px}}; padding: 3px;" | Win a Link Battle
+| style="background: #fff" | 1
+| style="background: #fff" | 20
+| style="background: #fff" | 50
+| style="background: #fff; {{roundybr|5px}}" | 100
+|}
+
+<br>
+{| class="roundy" style="margin:auto; text-align:center; background: #64aef7; border: 3px solid #1E90FF"
+|-
+! style="background: #{{red color light}}; {{roundytl|5px}}; padding: 3px;" | Level 1
+! style="background: #{{blue color light}}; padding: 3px;" | Level 2
+! style="background: #{{yellow color light}}; padding: 3px;" | Level 3
+! style="background: #{{platinum color light}}; {{roundytr|5px}}; padding: 3px;" | Level 4
+|- style="background: #fff"
+| [[File:Level 1 League Sticker.png]]
+| [[File:Level 2 League Sticker.png]]
+| [[File:Level 3 League Sticker.png]]
+| [[File:Level 4 League Sticker.png]]
+|- style="background: #fff"
+| [[File:Level 1 Egg Sticker.png]]
+| [[File:Level 2 Egg Sticker.png]]
+| [[File:Level 3 Egg Sticker.png]]
+| [[File:Level 4 Egg Sticker.png]]
+|-
+| style="background: #fff; {{roundybl|5px}}" | [[File:Level 1 Battle Sticker.png]]
+| style="background: #fff" | [[File:Level 2 Battle Sticker.png]]
+| style="background: #fff" | [[File:Level 3 Battle Sticker.png]]
+| style="background: #fff; {{roundybr|5px}}" | [[File:Level 4 Battle Sticker.png]]
+|}
+
+
+====Lorelei's house====
+{{DL|Four Island (town)|Lorelei's house|The easternmost house}} belongs to [[Lorelei]], the master {{t|Ice}} Pokémon Trainer of the {{ka|Elite Four}}. She grew up on the island, even catching her first Pokémon in the nearby [[Icefall Cave]]. She is not here at the moment, but her home features a collection of stuffed [[Pokémon doll]]s. There are six at the moment, but she often returns with more to add to her collection.
+
+[[File:Icefall Cave Map Entrance.png|thumb|Icefall Cave, Entrance]]
+[[File:Icefall Cave Map Base Floor.png|thumb|Icefall Cave, 1F]]
+[[File:Icefall Cave Map Down Floor.png|thumb|Icefall Cave, B1F]]
+[[File:Icefall Cave Map Back.png|thumb|Icefall Cave, Back Cave]]
+====Icefall Cave====
+[[Icefall Cave]] is a frigid cave located in the northeast part of [[Four Island (town)|Four Island]]. Several sections of the cave have crumbling floors that have been filled in by ice; stepping on these fragile areas more than once causes them to fall away. The deepest part of the cave is connected to the ocean, and is the only location where wild {{p|Lapras}} may be found.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ice}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1216|3|041|Zubat|♂|38|None|041|Zubat|♂|38|None|042|Golbat|♂|38|None}}
+{{trainerfooter|ice|I}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Entrance
+|-
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|43, 45, 47|40%|type1=Water}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|45, 48|25%|type1=Poison|type2=Flying}}
+{{catch/entryfl|087|Dewgong|yes|yes|Cave|49, 51, 53|20%|type1=water|type2=Ice}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|40|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|41|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|41|5%|type1=Water|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|086|Seel|yes|yes|Surf|5-35|60%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|5-35|30%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|5-35|30%|type1=Water|type2=Psychic}}
+{{catch/entryfl|087|Dewgong|yes|yes|Surf|35-40|5%|type1=Water|type2=Ice}}
+{{catch/entryfl|194|Wooper|yes|no|Surf|5-15|5%|type1=Water|type2=Ground}}
+{{catch/entryfl|183|Marill|no|yes|Surf|5-15|5%|type1=Water}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! 1F
+|-
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|220|Swinub|yes|yes|Cave|23, 25, 27, 29, 31|50%|type1=Ice|type2=Ground}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|45, 48|25%|type1=Poison|type2=Flying}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|40|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|45|10%|type1=Water}}
+{{catch/entryfl|225|Delibird|yes|no|Cave|30|5%|type1=Ice|type2=Flying}}
+{{catch/entryfl|215|Sneasel|no|yes|Cave|30|5%|type1=Dark|type2=Ice}}
+{{catch/footer|ice}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Back Cave
+|-
+|
+{{catch/header|ice|no}}
+{{catch/entryfl|086|Seel|yes|yes|Cave|43, 45, 47|40%|type1=Water}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|45, 48|25%|type1=Poison|type2=Flying}}
+{{catch/entryfl|087|Dewgong|yes|yes|Cave|49, 51, 53|20%|type1=Water|type2=Ice}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|40|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Cave|41|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Cave|41|5%|type1=Water|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-45|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-45|4%|type1=Water|type2=Poison}}
+{{catch/entryfl|131|Lapras|yes|yes|Surf|30-45|1%|type1=Water|type2=Ice}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|090|Shellder|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|120|Staryu|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|ice}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ice}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ice}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ice}}
+{{catch/div|ice|1F}}
+{{Itemlist|Ultra Ball|Center area, northeast of the large ice patch|FR=yes|LG=yes}}
+{{Itemlist|HM Water|On the southern ledge, accessed via B1F|FR=yes|LG=yes|display={{HM|07|Waterfall}}}}
+{{catch/div|ice|B1F}}
+{{Itemlist|Never-Melt Ice|East side|FR=yes|LG=yes|display=[[Never-Melt Ice|NeverMeltIce]]}}
+{{Itemlist|Full Restore|Near the southern ladder|FR=yes|LG=yes}}
+{{itlistfoot|ice}}
+|}
+
+
+=====Entrance=====
+A waterfall flows down from the upper level. Use {{m|Surf}} to cross the water on the lower level and enter the next area.
+
+=====1F=====
+Head northeast to find a large icy patch. Walk across the two eastern sections to reach an [[Ultra Ball]], then pass over the northwest section to continue on. Step on the northernmost icy spot twice to fall through to the lower floor.
+
+=====B1F=====
+Climb up the nearest ladder to reach the northeast part of 1F.
+
+=====1F (Northeast)=====
+Step on the northern icy spot twice to fall through to the basement.
+
+=====B1F=====
+Move south to slide along the ice, then east to reach a [[Never-Melt Ice|NeverMeltIce]]. Head northwestward over the ice and climb back up the ladder.
+
+=====1F (Northeast)=====
+Step on the southern icy spot twice to drop down to the basement again.
+
+=====B1F=====
+Move north, east, south, then west to reach the southern edge of the icy patch. Grab the [[Full Restore]] to the west and climb up the southern ladder.
+
+=====1F=====
+Pick up {{HM|07|Waterfall}} from above the ledge and use it to teach the move to a compatible Pokémon. Take the south exit to return to the entrance.
+
+=====Entrance=====
+Use Waterfall to reach the upper area and climb down the ladder.
+
+=====1F=====
+Go north through the opening in the wall to reach the final area.
+
+=====Back Cave=====
+When you reach the Back Cave, you find [[Lorelei]] confronting a group of three [[Team Rocket]] Grunts who have been poaching and selling Pokémon from the cave. Once she notices you, Lorelei asks for your help in kicking them out. She takes on the two Grunts on the left, leaving you to battle the one on the right.
+
+Afterward, Lorelei presses the Grunts for the location of the captured Pokémon. Even defeated, they refuse to give it up. She tells them that her {{p|Lapras}} is furious for what they have done to its friends, and persuades them to talk after an {{m|Ice Beam}} attack. The Pokémon are being held in the [[Rocket Warehouse]] on [[Five Island]]. However, entering the building requires two passwords, and there is still one to find.
+
+{{-}}
+
+==Six Island==
+[[File:Fortune Island.png|thumb|Six Island]]
+[[File:Pattern Bush FRLG.png|thumb|Pattern Bush]]
+[[File:Altering Cave FRLG.png|thumb|Altering Cave]]
+[[File:Dotted Hole Entrance.png|thumb|Dotted Hole, 1F]]
+[[File:Dotted Hole Sapphire.png|thumb|Dotted Hole, B5F]]
+
+[[Six Island]] consists of a larger island to the south that holds the town of [[Six Island (town)|Six Island]] and [[Ruin Valley]], and smaller northern islands that make up [[Water Path]], [[Green Path]], and [[Pattern Bush]]. [[Outcast Island]] is situated far to the north.
+
+{| class="expandable" align="center" style="background: #E9CE9C; {{roundy}}; border: 5px solid #FADFAD;"
+|- align="center"
+! Items
+|-
+|
+
+{{itlisth|ruins}}
+{{Itemlist|Leppa Berry|North of the Pokémon Center, accessed via Water Path ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|ruins}}
+|}
+
+
+===Six Island (Town)===
+====Pokémon Center====
+=====Heading Home=====
+Visit the Pokémon Center to run into {{ga|Blue}} again. He tells you that he has seen enough of the [[Sevii Islands]] and is returning to [[Kanto]] to work on his [[Pokédex]].
+
+===Water Path===
+[[Water Path]] is a long route on the east side of the main island. It links [[Six Island (town)|the town]] with [[Green Path]] to the north and [[Ruin Valley]] to the south.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader}}
+{{trainerentry|Spr FRLG Juggler.png|Juggler|Edward|1920|4|100|Voltorb||46|None|100|Voltorb||46|None|101|Electrode||47|None|122|Mr. Mime|♂|48|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Hiker.png|Hiker|Earl|1764|2|095|Onix|♂|49|None|067|Machoke|♂|49|None|38=VS. Seeker}}
+{{catch/div|ocean|Requires Surf}}
+{{trainerentry|Spr FRLG Swimmer F.png|Swimmer♀|Denise|196|2|170|Chinchou|♀|49|None|171|Lanturn|♀|49|None}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Swimmer M.png|Swimmer♂|Samir|200|1|130|Gyarados|♂|50|None|38=VS. Seeker}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Twins.png|Twins|Miu & Mia|1200|2|025|Pikachu|♂|50|None|025|Pikachu|♂|50|None}}
+{{trainerdiv}}
+{{trainerentry|Spr FRLG Aroma Lady.png|Aroma Lady|Rose|1372|2|191|Sunkern|♀|49|None|192|Sunflora|♀|49|None}}
+{{trainerfooter}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entryfl|161|Sentret|yes|yes|Grass|10, 15|30%|type1=Normal}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|44|20%|type1=Normal|type2=Flying}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|48, 50|15%|type1=Normal|type2=Flying}}
+{{catch/entryfl|043|Oddish|yes|no|Grass|44|10%|type1=Grass|type2=Poison}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|41|10%|type1=Normal}}
+{{catch/entryfl|069|Bellsprout|no|yes|Grass|44|10%|type1=Grass|type2=Poison}}
+{{catch/entryfl|044|Gloom|yes|no|Grass|48|5%|type1=Grass|type2=Poison}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|47, 50|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|41|5%|type1=Water}}
+{{catch/entryfl|070|Weepinbell|no|yes|Grass|48|5%|type1=Grass|type2=Poison}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|41|5%|type1=Water|type2=Psychic}}
+{{Catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Oran Berry|North-northwest of the northern house ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Elixir|Small bit of land east of the southern house (requires Surf)|FR=yes|LG=yes}}
+{{itemlist|Nest Ball|Northern house; from the woman, after showing a record-breaking {{p|Heracross}} (repeatable; requires Surf)|FR=yes|LG=yes}}
+{{itemlist|Pinap Berry|Tall grass patch, southeast of the town entrance ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Aspear Berry|Tall grass patch, southeast of the town entrance and Pinap Berry ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Dragon Scale|Southernmost bit of land, east of Ruin Valley (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itlistfoot|ocean}}
+|}
+
+
+====The Ultimate Horn====
+The northern island holds two isolated homes. In the northern house, there is a woman who likes big {{p|Heracross}} and wishes to see the "ultimate horn". If you show her a Heracross, she will measure its [[Size and weight variation|size]] and reward you with a [[Nest Ball]]. After doing so, she will give out another Nest Ball for each Heracross that you show her that sets a new record. The current record is displayed on a chart on the back wall. Heracross can be found in the nearby [[Pattern Bush]] to the west.
+
+===Green Path===
+[[Green Path]] consists of the western part of the smaller island, including [[Pattern Bush]], and a pair of tiny rocky islets farther west. [[Outcast Island]] lies off to the north.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr FRLG Psychic F.png|Psychic|Jaclyn|980|3|177|Natu|♀|48||080|Slowbro|♀|48||064|Kadabra|♂|49||38=VS. Seeker}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Ultra Ball|One step south, one step east of Psychic Jaclyn ''(hidden [[Recurring item|recurring item]]; group A)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+====Pattern Bush====
+[[Pattern Bush]] is a small forest covered with thick undergrowth, a perfect habitat for the many {{t|Bug}} Pokémon that reside here. There are odd patterns where tall grass refuses to grow, leading the Trainers here to form their own theories. Some study it in the belief that a secret is concealed.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|forest}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Cordell|768|2|083|Farfetch'd|♂|48||083|Farfetch'd|♂|48|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Pokémon Breeder.png|Pokémon Breeder|Bethany|1400|1|113|Chansey|♀|50|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Garret|588|1|214|Heracross|♂|49|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Joana|784|1|209|Snubbull|♀|49|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Nash|784|3|070|Weepinbell|♂|47||070|Weepinbell|♂|47||071|Victreebel|♂|49|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Vance|576|2|048|Venonat|♂|48||049|Venomoth|♂|48|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Layton|2304|3|028|Sandslash|♂|48||095|Onix|♂|48||028|Sandslash|♂|48|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Marcy|980|3|046|Paras|♀|48||046|Paras|♀|48||047|Parasect|♀|49|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Jonah|564|4|193|Yanma|♂|45||015|Beedrill|♂|45||193|Yanma|♂|46||015|Beedrill|♂|47|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Dalia|768|4|187|Hoppip|♀|46||187|Hoppip|♀|47||188|Skiploom|♀|47||188|Skiploom|♀|48|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Pokémon Breeder.png|Pokémon Breeder|Allison|1344|3|035|Clefairy|♀|48||035|Clefairy|♀|48||036|Clefable|♀|48|}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Riley|1000|2|127|Pinsir|♂|49||214|Heracross|♂|50|}}
+{{Trainerfooter|forest}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|forest|no}}
+{{Catch/entryfl|165|Ledyba|no|yes|Grass|9, 14|30%|type1=bug|type2=flying}}
+{{Catch/entryfl|167|Spinarak|yes|no|Grass|9, 14|30%|type1=bug|type2=poison}}
+{{Catch/entryfl|011|Metapod|no|yes|Grass|9|20%|type1=bug}}
+{{Catch/entryfl|014|Kakuna|yes|no|Grass|9|20%|type1=bug|type2=poison}}
+{{Catch/entryfl|214|Heracross|yes|yes|Grass|15, 20, 25, 30|20%|type1=bug|type2=fighting}}
+{{Catch/entryfl|010|Caterpie|yes|yes|Grass|6|10%|type1=bug}}
+{{Catch/entryfl|013|Weedle|yes|yes|Grass|6|10%|type1=bug|type2=poison}}
+{{Catch/entryfl|011|Metapod|yes|no|Grass|9|5%|type1=bug}}
+{{Catch/entryfl|014|Kakuna|no|yes|Grass|9|5%|type1=bug|type2=poison}}
+{{Catch/entryfl|165|Ledyba|yes|no|Grass|9, 14|5%|type1=bug|type2=flying}}
+{{Catch/entryfl|167|Spinarak|no|yes|Grass|9, 14|5%|type1=bug|type2=poison}}
+{{Catch/footer|forest}}
+|}
+
+
+===Outcast Island===
+[[Outcast Island]] is a rocky ocean route that leads to [[Altering Cave]]. It is named after the island that lies at its northern terminus, the farthest of the small islets from the main island.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|ocean}}
+{{Trainerentry|Spr FRLG Swimmer F.png|Swimmer|Nicole|200|1|183|Marill|♀|50||38=VS. Seeker}}
+{{trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Sis and Bro.png|Sis and Bro|Ava & Geb|400|2|121|Starmie||50||061|Poliwhirl|♂|50|}}
+{{trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Swimmer M.png|Swimmer|Mymo|196|2|099|Kingler|♂|49||008|Wartortle|♂|49|}}
+{{trainerdiv|ocean}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Tylor|1764|2|211|Qwilfish|♂|49||211|Qwilfish|♂|49|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||1536<br><small>Only before defeating the {{tc|Executive|Team Rocket<br>Admins}} at the [[Rocket Warehouse]]</small>|3|089|Muk|♂|48|None|042|Golbat|♂|48|None|020|Raticate|♂|48|None}}
+{{Trainerfooter|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|95%|type1=Water|type2=Poison}}
+{{catch/entryfl|073|Tentacruel|yes|yes|Surf|35-40|5%|type1=Water|type2=Poison}}
+{{Catch/div|ocean|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|80%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|116|Horsea|yes|no|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|211|Qwilfish|yes|no|Fish Super|15-25|40%|type1=Water|type2=Poison}}
+{{Catch/entryfl|098|Krabby|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|223|Remoraid|no|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|117|Seadra|yes|no|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|099|Kingler|no|yes|Fish Super|25-35|4%|type1=Water}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|PP Up|Southwest of Fisherman Tylor (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{itemlist|Net Ball|South of the entrance to [[Altering Cave]] ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itemlist|Star Piece|Small bit of land on the east side of the island (requires Surf) ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{itlistfoot|ocean}}
+|}
+
+
+====Altering Cave====
+[[Altering Cave]] is a mysterious, isolated ruin located at the northermost extent of [[Six Island]]. The undisturbed cave is home only to wild {{p|Zubat}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3a|041|Zubat|yes|yes|yes|Cave|6, 8, 10, 12, 14, 16|100%|type1=poison|type2=flying}}
+{{catch/footer|cave}}
+|}
+
+
+===Ruin Valley===
+[[Ruin Valley]] is a large area on the south side of [[Six Island|the main island]]. The [[Dotted Hole]] can be found in the middle of the valley, surrounded by steep mountain cliffs.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ruins}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ruins}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ruins}}
+{{trainerentry|Spr FRLG Hiker.png|Hiker|Daryl|1800|1|185|Sudowoodo|♂|50|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Hector|2352|2|111|Rhyhorn|♂|49||115|Kangaskhan|♀|49||38=VS. Seeker}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Stanly|2304|3|075|Graveler|♂|48||095|Onix|♂|48||075|Graveler|♂|48|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Foster|2400|1|076|Golem|♂|50|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr FRLG Ruin Maniac.png|Ruin Maniac|Larry|2352|2|067|Machoke|♂|49||067|Machoke|♂|49||38=VS. Seeker}}
+{{trainerfooter|ruins}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ruins}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ruins}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|ruins|no}}
+{{catch/entryfl|177|Natu|yes|yes|Grass|15, 20|25%|type1=Psychic|type2=Flying}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|44|20%|type1=Normal|type2=Flying}}
+{{catch/entryfl|022|Fearow|yes|yes|Grass|49|10%|type1=Normal|type2=Flying}}
+{{catch/entryfl|052|Meowth|yes|yes|Grass|43|10%|type1=Normal}}
+{{catch/entryfl|183|Marill|no|yes|Grass|15|10%|type1=Water}}
+{{catch/entryfl|193|Yanma|yes|yes|Grass|18|10%|type1=Bug|type2=Flying}}
+{{catch/entryfl|194|Wooper|yes|no|Grass|15|10%|type1=Water|type2=Ground}}
+{{catch/entryfl|053|Persian|yes|yes|Grass|49, 52|5%|type1=Normal}}
+{{catch/entryfl|054|Psyduck|yes|no|Grass|41|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Grass|41|5%|type1=Water|type2=Psychic}}
+{{catch/entryfl|202|Wobbuffet|yes|yes|Grass|25|5%|type1=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|183|Marill|no|yes|Surf|5-25|100%|type1=water}}
+{{catch/entryfl|194|Wooper|yes|no|Surf|5-25|100%|type1=water|type2=ground}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=water|type2=psychic}}
+{{catch/footer|ruins}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|ruins}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ruins}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ruins}}
+{{itemlist|Sun Stone|Near the southeast corner (requires {{m|Strength}})|FR=yes|LG=yes}}
+{{itemlist|HP Up|Near the southwest corner (requires Strength)|FR=yes|LG=yes}}
+{{itemlist|Full Restore|Northwest area, southeast of Hiker Daryl on the upper level (requires Strength)|FR=yes|LG=yes}}
+{{itlistfoot|ruins}}
+|}
+
+
+=====Exploring the Ruins=====
+The entrance to the [[Dotted Hole]] has been sealed tight for ages and refuses to budge. On further inspection, there are several dots on the door; this [[Braille]] message translates to the word "{{m|Cut}}". Using the field move here causes the door to open.
+
+====Dotted Hole====
+The [[Dotted Hole]] is a mysterious ruin from an ancient time. It got its name from the six dots on its door.
+
+=====1F=====
+There is nothing of interest on the ground level, so jump down through the hole in the floor to reach B1F.
+
+=====B1F-B4F=====
+The next several levels each display a panel with a word shown in [[Braille]] and have four gaps in the floor, one near each wall. Any visitors would need to decipher the message on each level to learn the correct path forward. Starting on B1F, jump down through each hole in order (up, left, right, down) to reach the lowest level.
+
+=====B5F=====
+On the lowest level, you find the {{i|Sapphire}} on display, just like the {{i|Ruby}} in [[Mt. Ember]]. When you attempt to grab it, [[Gideon|a Scientist]] suddenly drops down from the level above. He followed you so that you would open the ruins, and intends to sell the gemstone to [[Team Rocket]]! Seemingly feeling a bit guilty, he suggests that you can retrieve it after he gets his money. He even offers a password for the [[Rocket Warehouse]]—''"Yes, nah, {{p|Chansey}}"''—before climbing the ladder and making his escape.
+
+A panel on the north wall features another Braille inscription.
+
+{| class="roundtable" style="margin: auto; background: #{{locationcolor/med|underwater}}; border: 3px solid #{{locationcolor/dark|underwater}}"
+|- style="background:#{{locationcolor/light|underwater}}"
+! Braille
+! English
+|-
+| <ab>
+⠇⠑⠞⠀⠞⠓⠑⠀⠞⠺⠕⠀⠛⠇⠊⠞⠞⠑⠗⠊⠝⠛⠀⠎⠞⠕⠝⠑⠎
+⠕⠝⠑⠀⠊⠝⠀⠗⠑⠙
+⠕⠝⠑⠀⠊⠝⠀⠃⠇⠥⠑
+⠉⠕⠝⠝⠑⠉⠞⠀⠞⠓⠑⠀⠏⠁⠎⠞⠲
+⠞⠺⠕⠀⠋⠗⠊⠑⠝⠙⠎⠀⠎⠓⠁⠗⠊⠝⠛⠀⠏⠕⠺⠑⠗⠀⠕⠏⠑⠝⠀⠁⠀⠺⠊⠝⠙⠕⠺⠀⠞⠕⠀⠁⠀⠝⠑⠺⠀⠺⠕⠗⠇⠙⠀⠞⠓⠁⠞⠀⠛⠇⠕⠺⠎⠲
+⠞⠓⠑⠀⠝⠑⠭⠞⠀⠺⠕⠗⠇⠙⠀⠺⠁⠊⠞⠎⠀⠋⠕⠗⠀⠽⠕⠥⠲
+</ab>
+| <ab>
+LET THE TWO GLITTERING STONES
+ONE IN RED
+ONE IN BLUE
+CONNECT THE PAST.
+TWO FRIENDS SHARING POWER OPEN A WINDOW TO A NEW WORLD THAT GLOWS.
+THE NEXT WORLD WAITS FOR YOU.
+</ab>
+|}
+
+
+With the Sapphire stolen and both passwords collected, it's time to visit [[Five Island]] and clear out the rest of the Rockets.
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=17
+|prevname=The Pokémon League
+|nextsection=19
+|nextname=Five Island, Seven Island
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|18]]

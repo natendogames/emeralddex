@@ -1,0 +1,558 @@
+==Littleroot Town==
+{| class="expandable" style="margin: auto; background: #E7C373; {{roundy}}; border: 5px solid #F8E078;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|S.S. Ticket|From Norman, after defeating the Elite Four and Champion for the first time|E=yes}}
+{{itemlist|None|From [[Professor Birch]] in his lab, after entering the Hall of Fame|E=yes|display=[[National Pokédex]]}}
+{{itlistfoot|road}}
+|}
+
+===Home===
+When the credits conclude, you awaken in your room back in [[Littleroot Town]]. Head downstairs and [[Norman]] hands you a gift from [[Mr. Briney]]—the [[S.S. Ticket]]. With this, you can ride [[Captain Stern]]'s new ferry! Norman suggests taking the ferry from either {{ci|Slateport}} or {{ci|Lilycove}}, then heads back to the [[Petalburg Gym]].
+
+===The Eon Pokémon===
+After Norman leaves, a breaking news story flashes across the TV screen; it seems that a certain unnamed Pokémon has been spotted flying around the region. The reporter informs viewers of the Pokémon's color, but static interference prevents you from learning it. After viewing this report, Mom asks which color it was, giving you the choice of red or blue. Depending on your choice, you will be able to encounter the legendary Pokémon {{p|Latias}} or {{p|Latios}}, respectively, {{DL|Roaming Pokémon|Hoenn|roaming}} across Hoenn.
+
+The Pokémon moves to a different area every time you change locations. The easiest way to see Latios/Latias for the first time is to first fly to [[Slateport City]]. Once there, put a Pokémon with a certain level (make sure it is above 13 and below 40) as first conscious member of your party. Once that is done, go to the route above Slateport City (Route 110) and spray Max Repel. Next, use the Mach Bike around for 5 seconds in the grass next to the entrance of [[Seaside Cycling Road|Cycling Road]]. After that, enter to Cycling Road then go back to that patch of grass to repeat the process. The repel helps you save time from encountering Pokémon other than Latios/Latias but still lets you find Latios/Latias because it is not a higher level than 40 (starting level for Latios/Latias). To make matters more difficult, Latios/Latios will also attempt to flee on the first turn of battle. These Pokémon are probably the best one to use your [[Master Ball]] on but if you already used yours or you don't want to, there are some strategies you can utilize. A good way to prevent them from running away is to send out a faster Pokémon like {{p|Crobat}} to use a trapping move like {{m|Mean Look}} ({{p|Zubat}} learns this move at level 36.) Likewise, the move {{m|Wrap}} also works. Your Pokémon should be equipped with a [[Quick Claw]]. Another option is start the battle with a {{p|Wobbuffet}} due to its {{a|Shadow Tag}} ability. If Latios/Latias is afflicted by a status condition, it will retain this ailment when it is next encountered. After meeting it for the first time, the Pokédex tracks its movements.
+
+{{Pokémon/Grid|middle = yes}}
+{{Pokémon
+|walkthrough=yes
+|gen=3
+|ndex=381
+|pokemon=Latios
+|type1=Dragon
+|type2=Psychic 
+|level=40
+|ability=Levitate
+|move1=Protect|move1type=Normal
+|move2=Refresh|move2type=Normal
+|move3=Luster Purge|move3type=Psychic 
+|move4=Psychic|move4type=Psychic
+}}
+{{Pokémon
+|walkthrough=yes
+|gen=3
+|ndex=380
+|pokemon=Latias
+|type1=Dragon
+|type2=Psychic 
+|level=40
+|ability=Levitate
+|move1=Water Sport|move1type=Water
+|move2=Refresh|move2type=Normal
+|move3=Mist Ball|move3type=Psychic
+|move4=Psychic|move4type=Psychic
+}}
+{{Pokémon/Grid/end}}
+
+===Professor Birch's Lab===
+====National Pokédex====
+[[Professor Birch]] and your [[rival]] are waiting outside your house. Birch takes both of you to his lab, where he upgrades your [[Pokédex]]es to [[National Pokédex]] mode. Shortly after leaving the lab, you'll get a call from [[Scott]].
+
+====Johto Starter Pokemon====
+Be sure to visit Professor Birch in his Lab again once you have caught [[List of Pokémon by Hoenn Pokédex number in Generation III|all 200 Pokémon]] in the [[Hoenn]] [[regional Pokédex]]. Once he verifies that you are indeed successful, he offers you a gift to start you on your quest to complete the [[National Pokédex]] listing. This gift is the choice between one of three starter Pokémon of the distant [[Johto]] region: {{p|Chikorita}}, {{p|Cyndaquil}}, and {{p|Totodile}}!
+
+{| style="margin: auto; background: #{{johto color dark}}; text-align: center; font-size: 85%; {{roundy}}; border: 5px solid #{{johto color}};"
+|-
+! colspan="2" style="width: 80px; background: #{{johto color light}}; {{roundytl|5px}};" | [[File:152Chikorita.png|100px]]<br>'''{{pcolor|Chikorita|{{johto color dark}}}}'''<br>
+! colspan="2" style="width: 80px; background: #{{johto color light}};" | [[File:155Cyndaquil.png|100px]]<br>'''{{pcolor|Cyndaquil|{{johto color dark}}}}'''<br>
+! colspan="2" style="width: 80px; background: #{{johto color light}}; {{roundytr|5px}};" | [[File:158Totodile.png|100px]]<br>'''{{pcolor|Totodile|{{johto color dark}}}}'''
+|-
+| colspan="2" style="background: #{{grass color}};" | {{color2|FFF|Grass (type)|Grass}}
+| colspan="2" style="background: #{{fire color}};" | {{color2|FFF|Fire (type)|Fire}}
+| colspan="2" style="background: #{{water color}};" | {{color2|FFF|Water (type)|Water}}
+|- style="background: #{{johto color light}};"
+| {{MSP/3|153|Bayleef}}
+| {{pcolor|Bayleef|{{johto color dark}}}}
+| {{MSP/3|156|Quilava}}
+| {{pcolor|Quilava|{{johto color dark}}}}
+| {{MSP/3|159|Croconaw}}
+| {{pcolor|Croconaw|{{johto color dark}}}}
+|-
+| colspan="2" style="background: #{{grass color}};" | {{color2|FFF|Grass (type)|Grass}}
+| colspan="2" style="background: #{{fire color}};" | {{color2|FFF|Fire (type)|Fire}}
+| colspan="2" style="background: #{{water color}};" | {{color2|FFF|Water (type)|Water}}
+|- style="background: #{{johto color light}};"
+| {{MSP/3|154|Meganium}}
+| {{pcolor|Meganium|{{johto color dark}}}}
+| {{MSP/3|157|Typhlosion}}
+| {{pcolor|Typhlosion|{{johto color dark}}}}
+| {{MSP/3|160|Feraligatr}}
+| {{pcolor|Feraligatr|{{johto color dark}}}}
+|-
+| colspan="2" style="background: #{{grass color}}; {{roundybl|5px}};" | {{color2|FFF|Grass (type)|Grass}}
+| colspan="2" style="background: #{{fire color}};" | {{color2|FFFFFF|Fire (type)|Fire}}
+| colspan="2" style="background: #{{water color}}; {{roundybr|5px}};" | {{color2|FFF|Water (type)|Water}}
+|}
+
+===Gym Leaders and Wally rematches===
+After receiving the National Pokédex, [[Wally]] and the [[Gym Leader]]s can request [[rematch]]es through the [[PokéNav]]'s Match Call.
+*The Gym Leaders can be rematched to a [[Double Battle]], and the only way to rematch with them is to wait until they are ready. Here the Match Call will alert you.
+*Wally can be repeatedly rematched in a similar way to normal trainers with the exception that you do not need to be in Victory Road and is checked each time you enter. Wally is located near the exit of the Victory Road. He is the only opponent which the Match Call doesn't alert you about a rematch.
+
+==Trick House - Puzzle 8==
+In [[Trick House]] now you can complete the puzzle 8. You can get the [[Nugget]] in the Trick Master's Room.
+
+==Altering Cave==
+[[File:Altering Cave E.png|thumb|Altering Cave]]
+Back on {{rt|103|Hoenn}}, a cave entrance has opened up on the east bank of the river that divides the route. This is [[Altering Cave]], and although there have been rumors of {{DL|Altering Cave|Pokémon|rare Pokémon}} inside, it seems to house only {{p|Zubat}}.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|041|Zubat|no|no|yes|Cave|6, 8, 10, 12, 14, 16|100%|type1=Poison|type2=Flying}}
+{{catch/footer|cave}}
+|}
+{{-}}
+
+==Trainer Hill==
+[[File:Trainer Hill E.png|thumb|Trainer Hill]]
+
+[[Trainer Hill]] is located to the east of the Winstrate home. This tower was designed for challengers to race through as quickly as possible, battling four floors of Trainers on the way to the rooftop. The ground floor holds both a Pokémon Center and Poké Mart (the seller upgrade their inventory due you entered the [[Hall of Fame]]), so Trainers can be well-prepared for the trial ahead. There are four different modes—Normal, Variety, Unique, and Expert—with each one more difficult than the last. A challenger's Pokémon will not be healed by the staff, but recovery items like Potions may be used during and between battles. Prizes vary depending on the amount of time elapsed, and all battles conducted here are [[Double Battle]]s. No experience or prize money is awarded.
+
+{| style="margin: auto; background: #{{Locationcolor/med|building}}; {{roundy}}; border: 3px solid #{{Locationcolor/dark|building}};" cellpadding="3"
+! style="background: #{{Locationcolor/light|building}}; {{roundytl|5px}};" | Time
+! colspan="2" style="background: #{{Locationcolor/light|building}}; {{roundytr|5px}}" | Prize
+|-
+| rowspan="4" style="background: #FFF;" | Under 12 minutes
+| style="background: #FFF;" | {{bag|TM Fire}}
+| style="background: #FFF;" | {{TM|11|Sunny Day}}<br><small>{{DL||Normal Mode}}</small>
+|- style="background: #FFF;"
+| {{bag|Elixir}} || [[Elixir]]<br><small>{{DL||Variety Mode}}</small>
+|- style="background: #FFF;"
+| {{bag|TM Grass}} || {{TM|19|Giga Drain}}<br><small>{{DL||Unique Mode}}</small>
+|- style="background: #FFF;"
+| {{bag|TM Fighting}} || {{TM|31|Brick Break}}<br><small>{{DL||Expert Mode}}</small>
+|- style="background: #FFF;"
+| 12-13 minutes || {{bag|Ether}} || [[Ether]]
+|- style="background: #FFF;"
+| 13-14 minutes || {{bag|Max Potion}} || [[Max Potion]]
+|- style="background: #FFF;"
+| 14-16 minutes || {{bag|Revive}} || [[Revive]]
+|- style="background: #FFF;"
+| 16-18 minutes || {{bag|Fluffy Tail}} || [[Fluffy Tail]]
+|-
+| style="background: #FFF; {{roundybl|5px}};" | Over 18 minutes
+| style="background: #FFF;" | {{bag|Great Ball}}
+| style="background: #FFF; {{roundybr|5px}};" | [[Great Ball]]
+|}
+
+==Desert Underpass==
+[[File:Desert Underpass E.png|thumb|400px|Desert Underpass]]
+{{m|Fly}} back to [[Fallarbor Town]] and head west to {{rt|114|Hoenn}} to pay a visit to the [[Fossil Maniac]] in his home just outside of town. His constant digging for new Fossils has caused the wall to collapse, revealing a long, sandy tunnel stretching far to the east. This is the [[Desert Underpass]], which leads through the mountains of northern Hoenn before ending beneath the desert of {{rt|111|Hoenn}}. At the tunnel's end, you find the remaining Fossil that fell beneath the sands when [[Mirage Tower]] disappeared. There are also a handful of Pokémon species to be found here, including {{p|Ditto}}, which can't be found anywhere else. This Pokémon is unique as its only move, {{m|Transform}}, allows it to become a nearly-identical copy of the target. But it's even more useful outside of battle. When left in the Day Care building on {{rt|117|Hoenn}} with nearly any other Pokémon, the pair are able to produce an Egg containing the other Pokémon's first-stage form! This makes it incredibly useful when working to complete the Pokédex.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|132|Ditto|no|no|yes|Cave|38, 40-43, 45|50%|type1=Normal}}
+{{catch/entry3|293|Whismur|no|no|yes|Cave|35-36, 38|34%|type1=Normal}}
+{{catch/entry3|294|Loudred|no|no|yes|Cave|38, 40, 44|16%|type1=Normal}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+|- style="background: #FFFFFF;"
+| align="center" | {{bag|Root Fossil}}<br><br>{{bag|Claw Fossil}}
+| align="center" | [[Root Fossil]]<br>or<br>[[Claw Fossil]]
+| align="left" | Only one; east end of the tunnel
+| align="center" | '''<span style="background: #{{emerald color}}">{{color2|FFF|Pokémon Emerald Version|&nbsp;E&nbsp;}}</span>'''
+{{itlistfoot|cave}}
+|}
+
+==Route 123==
+Now you can get the other four special Berries from the {{DL|Hoenn Route 123|Berry Master's wife}} since you have already entered the [[Hall of Fame]].
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 2px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! style="background: #{{berries color light}}; {{roundytl|5px}};" | Phrase
+! colspan="2" style="background: #{{berries color light}}; {{roundytr|5px}};" | Berry Received
+|- style="background: #FFF;"
+| CHALLENGE CONTEST (requires entering the [[Hall of Fame]])|| {{bag|Pamtre Berry}} || [[Pamtre Berry]]
+|- style="background: #FFF;"
+| OVERWHELMING LATIAS (requires that the player has seen {{p|Latias}})|| {{bag|Watmel Berry}} || [[Watmel Berry]]
+|- style="background: #FFF;"
+| COOL LATIOS (requires that the player has seen {{p|Latios}})|| {{bag|Durin Berry}} || [[Durin Berry]]
+|- style="background: #FFF;"
+| SUPER HUSTLE (requires entering the Hall of Fame)|| {{bag|Belue Berry}} || [[Belue Berry]]
+|- style="background: #FFF;"
+| colspan="3" style="background: #{{berries color light}}; {{roundybottom|5px}};" |
+|}
+
+==Safari Zone==
+[[File:Hoenn Safari Zone E.png|thumb|The Safari Zone]]
+The {{safari|Hoenn}} gives Trainers a chance to encounter all kinds of Pokémon. It is only open to Trainers participating in the {{DL|Hoenn Safari Zone|Safari Game}}, where Trainers must use unconventional tactics to try to catch these Pokémon. Admission is {{pdollar}}500, and entrants are given 30 [[Safari Ball]]s to be used and a limit of 500 steps taken before the game is over. The varied terrain means that some areas are only accessible by [[Acro Bike]] or [[Mach Bike]].
+
+The four quadrants to the north and west of the building are open to any Trainer who received a [[Pokéblock Case]]. Once you upgrade to the National Pokédex, the construction of the two eastern areas will be complete. You can return to the [[Hoenn Safari Zone|Safari Zone]] and catch some Pokémon native to [[Johto]].
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 1 (Southeast)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|043|Oddish|no|no|yes|Grass|25, 27|40%|type1=Grass|type2=Poison}}
+{{Catch/entry3|203|Girafarig|no|no|yes|Grass|25, 27|20%|type1=Normal|type2=Psychic}}
+{{Catch/entry3|084|Doduo|no|no|yes|Grass|25|10%|type1=Normal|type2=Flying}}
+{{Catch/entry3|177|Natu|no|no|yes|Grass|25|10%|type1=Psychic|type2=Flying}}
+{{Catch/entry3|202|Wobbuffet|no|no|yes|Grass|27, 29|10%|type1=Psychic}}
+{{Catch/entry3|025|Pikachu|no|no|yes|Grass|25, 27|5%|type1=Electric}}
+{{Catch/entry3|044|Gloom|no|no|yes|Grass|25|5%|type1=Grass|type2=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 2 (Southwest)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|043|Oddish|no|no|yes|Grass|25, 27|40%|type1=Grass|type2=Poison}}
+{{Catch/entry3|203|Girafarig|no|no|yes|Grass|25, 27|20%|type1=Normal|type2=Psychic}}
+{{Catch/entry3|084|Doduo|no|no|yes|Grass|27|10%|type1=Normal|type2=Flying}}
+{{Catch/entry3|177|Natu|no|no|yes|Grass|25|10%|type1=Psychic|type2=Flying}}
+{{Catch/entry3|202|Wobbuffet|no|no|yes|Grass|27, 29|10%|type1=Psychic}}
+{{Catch/entry3|025|Pikachu|no|no|yes|Grass|25, 27|5%|type1=Electric}}
+{{Catch/entry3|044|Gloom|no|no|yes|Grass|25|5%|type1=Grass|type2=Poison}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|054|Psyduck|no|no|yes|Surf|20-35|100%|type1=Water}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|40%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Super|25-35|80%|type1=Water}}
+{{Catch/entry3|119|Seaking|no|no|yes|Fish Super|25-40|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 3 (Northwest)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|043|Oddish|no|no|yes|Grass|27, 29|30%|type1=Grass|type2=Poison}}
+{{Catch/entry3|111|Rhyhorn|no|no|yes|Grass|27, 29|30%|type1=Ground|type2=Rock}}
+{{Catch/entry3|044|Gloom|no|no|yes|Grass|29, 31|15%|type1=Grass|type2=Poison}}
+{{Catch/entry3|084|Doduo|no|no|yes|Grass|27, 29|15%|type1=Normal|type2=Flying}}
+{{Catch/entry3|085|Dodrio|no|no|yes|Grass|29, 31|5%|type1=Normal|type2=Flying}}
+{{Catch/entry3|127|Pinsir|no|no|yes|Grass|27, 29|5%|type1=Bug}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|054|Psyduck|no|no|yes|Surf|20-35|95%|type1=Water}}
+{{Catch/entry3|055|Golduck|no|no|yes|Surf|25-40|5%|type1=Water}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|40%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Super|25-35|80%|type1=Water}}
+{{Catch/entry3|119|Seaking|no|no|yes|Fish Super|25-40|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 4 (Northeast)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|043|Oddish|no|no|yes|Grass|27-29|30%|type1=Grass|type2=Poison}}
+{{Catch/entry3|231|Phanpy|no|no|yes|Grass|27, 29|30%|type1=Ground}}
+{{Catch/entry3|044|Gloom|no|no|yes|Grass|29, 31|15%|type1=Grass|type2=Poison}}
+{{Catch/entry3|177|Natu|no|no|yes|Grass|27, 29|15%|type1=Psychic|type2=Flying}}
+{{Catch/entry3|178|Xatu|no|no|yes|Grass|29, 31|5%|type1=Psychic|type2=Flying}}
+{{Catch/entry3|214|Heracross|no|no|yes|Grass|27, 29|5%|type1=Bug|type2=Fighting}}
+{{Catch/div|land|Rock Smash}}
+{{Catch/entry3|074|Geodude|no|no|yes|Rock Smash|5-30|100%|type1=Rock|type2=Ground}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 5 (Extended: SE)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|179|Mareep|no|no|yes|Grass|34, 36|30%|type1=Electric}}
+{{Catch/entry3|191|Sunkern|no|no|yes|Grass|33, 35|30%|type1=Grass}}
+{{Catch/entry3|167|Spinarak|no|no|yes|Grass|33|10%|type1=Bug|type2=Poison}}
+{{Catch/entry3|190|Aipom|no|no|yes|Grass|34|10%|type1=Normal}}
+{{Catch/entry3|163|Hoothoot|no|no|yes|Grass|35|5%|type1=Normal|type2=Flying}}
+{{Catch/entry3|207|Gligar|no|no|yes|Grass|37, 40|5%|type1=Ground|type2=Flying}}
+{{Catch/entry3|209|Snubbull|no|no|yes|Grass|34|5%|type1=Normal}}
+{{Catch/entry3|234|Stantler|no|no|yes|Grass|36, 39|5%|type1=Normal}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|194|Wooper|no|no|yes|Surf|25-30|60%|type1=Water|type2=Ground}}
+{{Catch/entry3|183|Marill|no|no|yes|Surf|25-35|39%|type1=Water}}
+{{Catch/entry3|195|Quagsire|no|no|yes|Surf|35-40|1%|type1=Water|type2=Ground}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|25-30|70%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Old|25-30|30%|type1=Water}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|25-30|60%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Good|25-30|20%|type1=Water}}
+{{Catch/entry3|223|Remoraid|no|no|yes|Fish Good|30-35|20%|type1=Water}}
+{{Catch/entry3|223|Remoraid|no|no|yes|Fish Super|25-35|59%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Super|25-30|40%|type1=Water}}
+{{Catch/entry3|224|Octillery|no|no|yes|Fish Super|35-40|1%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 6 (Extended: NE)
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|190|Aipom|no|no|yes|Grass|33, 35|30%|type1=Normal}}
+{{Catch/entry3|216|Teddiursa|no|no|yes|Grass|34, 36|30%|type1=Normal}}
+{{Catch/entry3|165|Ledyba|no|no|yes|Grass|33|10%|type1=Bug|type2=Flying}}
+{{Catch/entry3|191|Sunkern|no|no|yes|Grass|34|10%|type1=Grass}}
+{{Catch/entry3|163|Hoothoot|no|no|yes|Grass|35|5%|type1=Normal|type2=Flying}}
+{{Catch/entry3|204|Pineco|no|no|yes|Grass|34|5%|type1=Bug}}
+{{Catch/entry3|228|Houndour|no|no|yes|Grass|36, 39|5%|type1=Dark|type2=Fire}}
+{{Catch/entry3|241|Miltank|no|no|yes|Grass|37, 40|5%|type1=Normal}}
+{{Catch/div|land|Rock Smash}}
+{{Catch/entry3|213|Shuckle|no|no|yes|Rock Smash|20-40|100%|type1=Bug|type2=Rock}}
+{{Catch/footer|land}}
+|}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|Area 2 (Southwest)}}
+{{itemlist|Max Revive|South edge of the southwest pond (requires {{m|Surf}})|E=yes}}
+{{catch/div|land|Area 3 (Northwest)}}
+{{itemlist|TM Grass|Northeast edge of the pond (requires [[Mach Bike]], {{m|Surf}})|E=yes|display={{TM|22|Solar Beam}}}}
+{{catch/div|land|Area 4 (Northeast)}}
+{{itemlist|Calcium|North edge of the northwest grass patch (requires [[Acro Bike]])|E=yes}}
+{{catch/div|land|Area 5 (Extended: SE)}}
+{{itemlist|PP Up|South of the southern-most Pokéblock stand (hidden)|E=yes}}
+{{itemlist|Full Restore|North edge of the southeast grass patch (hidden)|E=yes}}
+{{itemlist|Big Pearl|Northeast patch of grass, east of the waterfall (requires {{m|Surf}})|E=yes}}
+{{catch/div|land|Area 6 (Extended: NE)}}
+{{itemlist|Rare Candy|Southeast portion of the area, in a 2×3 patch of light green grass, in the southeastern-most square (hidden)|E=yes}}
+{{itemlist|Zinc|In the first alcove along the rocky patch (hidden)|E=yes}}
+{{itemlist|Nugget|Between two ledges at the end of the rocky path|E=yes}}
+{{itlistfoot|land}}
+|}
+===Safari Game===
+In a Safari Game, Trainers must use unconventional tactics to catch wild Pokémon. Rather than use your own Pokémon in battle, you are only allowed to throw [[Pokéblock]]s to entice the target, making it less likely to run; or go near, which makes the target easier to catch but more likely to run.
+
+In addition, there are several Pokéblock feeders scattered throughout the park. Each feeder can accept a single Pokéblock at a time. Any Pokémon encountered in the feeder's range of five steps will have a Nature that is attracted to that type of Pokéblock. The feeder's effect dissipates after 100 steps are taken.
+{{-}}
+
+==The Super-Ancient Pokémon==
+===Weather Institute===
+Return to {{rt|119|Hoenn}} and pay a visit to the [[Weather Institute]]. Speak to the meteorologist on the second floor to learn that he has been tracking weather patterns across [[Hoenn]]. He's even found an unusual weather system localized to a certain area. Routes {{rtn|114|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|116|Hoenn}}, and {{rtn|118|Hoenn}} have been suffering under severe drought, while Routes {{rtn|105|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|127|Hoenn}}, and {{rtn|129|Hoenn}} have become prone to heavy thunderstorms. The existence of these unusual conditions indicates the presence of {{p|Groudon}} and {{p|Kyogre}}, hidden away in a new home that it's made for itself. But these ancient Pokémon are fickle and won't stay put for long, so hurry off to the specified route and you may stumble across a legend!
+
+===Terra Cave===
+[[File:Terra Cave entrance E.png|thumb|left|Terra Cave, entrance]]
+[[File:Terra Cave end E.png|thumb|Terra Cave, interior]]
+
+After learning of a severe drought on Hoenn's west side, you need to visit the specified route in order to track down [[Terra Cave]]. Be aware that if it appears on {{rt|114|Hoenn}}, you will need to scale the waterfall to access it. Enter the cave and proceed to the second chamber, where you find a long tunnel with {{p|Groudon}} sitting in a pool of magma at its end. Be sure to save the game before you approach it, as it will disappear if you happen to defeat it. Its {{a|Drought}} Ability increases {{m|Fire Blast}}'s power by 50% and lets it use {{m|SolarBeam}} without charging. {{m|Rest}} allows it to recover its health, but also makes it easier to catch. Begin with {{t|Grass}}, {{t|Water}}, and {{t|Ice}} moves to weaken it quickly, then follow up with {{t|Rock}} and {{t|Poison}} moves to wear it down further.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=383
+|pokemon=Groudon
+|type1=Ground
+|level=70
+|ability=Drought
+|move1=Fire Blast|move1type=Fire
+|move2=Rest|move2type=Psychic
+|move3=Fissure|move3type=Ground
+|move4=SolarBeam|move4type=Grass
+}}
+
+===Marine Cave===
+[[File:Marine Cave entrance E.png|thumb|left|Marine Cave, entrance]]
+[[File:Marine Cave end E.png|thumb|Marine Cave, interior]]
+After learning of heavy storms on Hoenn's east side, you need to visit the specified route in order to track down [[Marine Cave]]. {{m|Surf}} across the route in search of a small patch of deep, dark water, and {{m|Dive}} down to the ocean floor. Resurface inside the cave and proceed to the second chamber, where you find a long tunnel with {{p|Kyogre}} in a deep pit of seawater at its end. Be sure to save the game before you approach it, as it will disappear if you happen to defeat it. Its {{a|Drizzle}} Ability increases {{m|Hydro Pump}}'s power by 50%. {{m|Rest}} allows it to recover its health, but also makes it easier to catch. Begin with {{t|Grass}} and {{t|Electric}} moves to weaken it quickly, then follow up with {{t|Fire}}, {{t|Water}}, {{t|Ice}}, and {{t|Steel}} moves to wear it down further.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=382
+|pokemon=Kyogre
+|type1=Water
+|level=70
+|ability=Drizzle
+|move1=Hydro Pump|move1type=Water
+|move2=Rest|move2type=Psychic
+|move3=Sheer Cold|move3type=Ice
+|move4=Double-Edge|move4type=Normal
+}}
+
+==Steven Continues His Training==
+===Mossdeep City===
+Return to [[Mossdeep City]] and pay a visit to {{steven}}'s house. He's not home, but he has left a note for you on the table. It says that he plans to do some soul-searching as he continues his training on the road, and doesn't intend to return home for quite some time. He asks a favor of you, to take the Poké Ball on the desk. It contains a {{p|Beldum}}, his favorite Pokémon. He ends the note by saying that he hopes your paths cross again someday.
+
+{| class="expandable" style="margin: auto; background: #F0A7B6; {{roundy}}; border: 5px solid #FAAFBE;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|road|no}}
+{{Catch/div|road|Gift Pokémon}}
+{{Catch/entry3|374|Beldum|no|no|yes|Gift|5|One|type1=Steel|type2=Psychic}}
+{{Catch/footer|road}}
+|}
+
+===Meteor Falls===
+[[File:Meteor Falls Steven Cave E.png|thumb|Meteor Falls, 1F (upper)]]
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F (upper)
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|042|Golbat|no|no|yes|Cave|33, 35, 38, 40|65%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Cave|33, 35, 37, 39|35%|type1=Rock|type2=Psychic}}
+{{catch/footer|cave}}
+|}
+|}
+Though it was possible to explore [[Meteor Falls]] more thoroughly immediately after defeating [[Juan]], you can fully explore this place after entering the [[Hall of Fame]]. The 1F (upper) room is now available. There is nothing important in this final chamber aside from Steven, standing at the north wall. He's been digging for new rocks and stones to add to his collection. He's impressed that you found him here, and warns that if you intend to mount a serious challenge, you should expect the worst.
+
+{{Party
+| walkthrough = yes
+| background = {{steel color}}
+| border = {{steel color dark}}
+| headcolor = {{steel color light}}
+| sprite = Spr RS Steven.png
+| prize = {{PDollar}}4680
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Steven Stone|Steven}}
+| location = Meteor Falls
+| game = E
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0227
+| pokemon = Skarmory
+| gender = male
+| level = 77
+| type1 = Steel
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Toxic | move1type = Poison
+| move2 = Aerial Ace | move2type = Flying
+| move3 = Spikes | move3type = Ground
+| move4 = Steel Wing | move4type = Steel
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0344
+| pokemon = Claydol
+| gender = none
+| level = 75
+| type1 = Ground
+| type2 = Psychic
+| ability = Levitate
+| move1 = Reflect | move1type = Psychic
+| move2 = Light Screen | move2type = Psychic
+| move3 = AncientPower | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0306
+| pokemon = Aggron
+| gender = male
+| level = 76
+| type1 = Steel
+| type2 = Rock
+| ability = Sturdy
+| move1 = Thunder | move1type = Electric
+| move2 = Earthquake | move2type = Ground
+| move3 = SolarBeam | move3type = Grass
+| move4 = Dragon Claw | move4type = Dragon
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0346
+| pokemon = Cradily
+| gender = male
+| level = 76
+| type1 = Rock
+| type2 = Grass
+| ability = Suction Cups
+| move1 = Giga Drain | move1type = Grass
+| move2 = AncientPower | move2type = Rock
+| move3 = Ingrain | move3type = Grass
+| move4 = Confuse Ray | move4type = Ghost
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0348
+| pokemon = Armaldo
+| gender = male
+| level = 76
+| type1 = Rock
+| type2 = Bug
+| ability = Battle Armor
+| move1 = Water Pulse | move1type = Water
+| move2 = AncientPower | move2type = Rock
+| move3 = Aerial Ace | move3type = Flying
+| move4 = Slash | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0376
+| pokemon = Metagross
+| gender = none
+| level = 78
+| type1 = Steel
+| type2 = Psychic
+| ability = Clear Body
+| held = Sitrus Berry
+| move1 = Earthquake | move1type = Ground
+| move2 = Psychic | move2type = Psychic
+| move3 = Meteor Mash | move3type = Steel
+| move4 = Shadow Ball | move4type = Ghost
+}}
+{{Party/end}}
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=19
+|prevname=Pokémon League
+|nextsection=21
+|nextname=S.S. Tidal, Battle Frontier
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|20]]

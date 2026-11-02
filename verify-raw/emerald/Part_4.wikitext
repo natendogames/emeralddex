@@ -1,0 +1,625 @@
+==Slateport City==
+[[File:Slateport City E.png|thumb|Slateport City]]
+[[File:Oceanic Museum E.png|thumb|Oceanic Museum]]
+
+Situated between Routes {{rtn|109|Hoenn}} and {{rtn|110|Hoenn}}, [[Slateport City]] is by far the biggest place you've yet reached, and it is filled with sights to see. From the [[Battle Tent]] to the [[Oceanic Museum]], there's plenty to marvel at in this seaside metropolis.
+
+{| class="expandable" style="margin: auto; background: #979FA7; {{roundy}}; border: 5px solid #C0C0C0;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|road|no}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=water|type2=poison}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" style="margin: auto; background: #979FA7; {{roundy}}; border: 5px solid #C0C0C0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|None|From the woman next to the Energy Guru, if the lead Pokémon has 510 [[Effort values|EVs]]|E=yes|display={{DL|List of Ribbons in the games|Effort Ribbon}}|sprite=Effort Ribbon}}
+{{itemlist|Powder Jar|From a woman in the northeast corner of Slateport Market|E=yes}}
+{{itemlist|Soothe Bell|From a woman in the Fan Club, if the lead Pokémon has high [[friendship]]|E=yes}}
+{{itemlist|Red Scarf|From the Fan Club chairman, if the lead Pokémon has max [[Cool (condition)|Coolness]]|E=yes}}
+{{itemlist|Blue Scarf|From the Fan Club chairman, if the lead Pokémon has max [[Beautiful (condition)|Beauty]]|E=yes}}
+{{itemlist|Pink Scarf|From the Fan Club chairman, if the lead Pokémon has max [[Cute (condition)|Cuteness]]|E=yes}}
+{{itemlist|Green Scarf|From the Fan Club chairman, if the lead Pokémon has max [[Clever (condition)|Cleverness]]|E=yes}}
+{{itemlist|Yellow Scarf|From the Fan Club chairman, if the lead Pokémon has max [[Tough (condition)|Toughness]]|E=yes}}
+{{itemlist|TM Dark|From a Team Aqua Grunt inside the Oceanic Museum|E=yes|display={{TM|46|Thief}}}}
+{{itemlist|TM Dark|From a Sailor in the Battle Tent|E=yes|display={{TM|41|Torment}}}}
+{{itemlist|Full Heal|Reward for winning three consecutive battles in the Battle Tent|E=yes}}
+{{itlistfoot|road}}
+|}
+
+===Slateport Market===
+The {{DL|Slateport City|Slateport Market|open-air market}} hosts numerous vendors peddling rare goods. A man near the southern entrance hints that you'll find even more bargains after obtaining {{TM|43|Secret Power}}. Permanent stat-boosting [[Vitamin]]s can be purchased from the Energy Guru. The red-clad clerk standing next to him will give your lead Pokémon an {{DL|List of Ribbons in the games|Effort Ribbon}} if it has been well-trained. Also after obtaining TM43, another clerk appears from whom additional copies of that and {{TM|10|Hidden Power}} may be purchased.
+
+In the northeast stall, a woman hands out a [[Powder Jar]] to each visitor. This jar is used to store [[Berry Powder]] obtained by playing the [[Berry Crush]] minigame in a Pokémon Center's Union Room. Collect enough powder and you can trade it to her in exchange for vitamins and [[herbal medicine]].
+
+===Pokémon Fan Club===
+The [[Pokémon Fan Club]] can be found just north of the Market. If your lead Pokémon is [[Friendship|friendly]] enough toward you, you can receive a [[Soothe Bell]] from the woman near the back wall. Visit with the club's chairman to have him examine your lead Pokémon's condition. If any of its five Contest stats are high enough, he will reward you with a special item—a [[Red Scarf|Red]], [[Blue Scarf|Blue]], [[Pink Scarf|Pink]], [[Green Scarf|Green]], or [[Yellow Scarf]]. When held, these items boost their respective stat during the Appeal Round of a Pokémon Contest.
+
+====Move Tutor====
+Also inside is a man and his {{p|Azumarill}}; this [[Move Tutor]] offers to teach the move {{m|Swagger}} to a Pokémon, one time only.
+
+===Name Rater===
+North of the Fan Club building is the home of the [[Name Rater]]. This man has the power to evaluate and change your Pokémon's nicknames as often as you'd like. However, he cannot change a Pokémon's nickname if it first belonged to someone else.
+
+===Battle Tent===
+The {{DL|Battle Tent|Slateport Site|Slateport Battle Tent}} stands in the northwest corner of the city. If you enter to the Battle Tent after getting the Devon Goods in Oceanic Museum, then [[Scott]] will come out of the Battle Tent if you try to go in and urge you to take the challenge. At this location, entrants must select three Pokémon from a random list of six [[rental Pokémon]], all at level 30. They must then face three opposing Trainers, and after defeating each one, challengers may trade one of their Pokémon for one belonging to their opponent. No details on the opponent's Pokémon are given; challengers must instead rely on their experience battling the opponent's team. The reward for winning three consecutive battles here is a [[Full Heal]]. No experience or prize money is awarded.
+
+===Slateport Harbor===
+The Harbor is located in the city's northeast district. Since construction is not yet complete on the new ferry, there is little to do here at the moment.
+
+===Stern's Shipyard===
+Inside [[Stern's Shipyard]], you find [[Captain Stern|the captain]]'s assistant, [[Dock]], looking over plans for the [[S.S. Tidal|new ferry]] that is under construction here. Though Stern is nowhere to be found, Dock asks that you deliver the [[Devon Parts|Devon Goods]] to him.
+
+===Oceanic Museum===
+At first, it is impossible to enter the [[Oceanic Museum]] because of the [[Team Aqua]] Grunts lined up outside. But by the time you visit the shipyard, the group has made its way into the building. Pay the {{pdollar}}50 entrance fee to follow them inside. Those that can't afford it will be mistaken as part of "the group that came in earlier", and allowed in for free. The Grunts are more interested in the exhibits than you, so you can speak to them in an effort to gauge their intentions. A Grunt near the entrance is shocked to see you; it's the same guy you fought back in [[Rusturf Tunnel]]! He's learned not to mess with you, and begs forgiveness with {{TM|46|Thief}} before fleeing the scene. Go upstairs to find [[Captain Stern]], examining a display in the lower-right corner. Before you can hand over the [[Devon Parts|Devon Goods]] for his new ferry, you are attacked by two Grunts! Defeat one after the other to save the captain and complete the delivery for [[Mr. Stone]]. 
+
+{| align="center"
+|- align="center" valign="top"
+| 
+{| class="expandable" style="margin: auto; background: #979FA7; {{roundy}}; border: 5px solid #C0C0C0;"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|road}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||300|1|318|Carvanha|♂|15}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||280|2|041|Zubat|♂|14||318|Carvanha|♂|14}}
+{{trainerfooter|road}}
+|}
+|}
+
+Shocked at their failure, the two begin to plan their next move when a stranger appears. It's their boss, [[Aqua Leader]] [[Archie]]! He wonders aloud why you would even want to hinder their plans, but forgives you as he thinks you're too young to understand their ideals. As the group departs, he warns you against interfering with their future plans. When you step outside, you are approached again by Scott. He seems to be a talent scout of some sort, and takes the opportunity to register himself in your PokéNav before heading off. Its advisable to buy a piece of [[Harbor Mail]] for {{pdollar}}50 before leaving the city, since you'll need to trade it to girl in [[Mauville City]] to get a new item.
+
+==Route 110==
+[[File:Hoenn Route 110 E.png|thumb|Route 110]]
+
+The lengthy {{rt|110|Hoenn}} connects two of [[Hoenn]]'s largest cities, {{ci|Slateport}} and {{ci|Mauville}}, and also links back to {{rt|103|Hoenn}}. All pedestrians are restricted to the lower path, which features the mysterious [[Trick House]]. After obtaining a Bike, you can speed through the route on [[Seaside Cycling Road]].
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr RS Pokéfan F.png|Pokéfan|Isabel|1120<br><small>Potential [[Double Battle]] with Kaleb</small>|2|311|Plusle|♀|14|Oran Berry|312|Minun|♀|14|Oran Berry|38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokéfan M.png|Pokéfan|Kaleb|1120<br><small>Potential [[Double Battle]] with Isabel</small>|2|312|Minun|♂|14|Oran Berry|311|Plusle|♂|14|Oran Berry}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Timmy|208|2|304|Aron|♂|15||309|Electrike|♂|13|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Collector.png|Collector|Edwin|840<br><small>Potential [[Double Battle]] with Joseph</small>|2|271|Lombre|♂|14||274|Nuzleaf|♂|14||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Joseph|448<br><small>Potential [[Double Battle]] with Edwin</small>|2|309|Electrike|♂|14||100|Voltorb||14|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|Edward|360<br><small>Potential [[Double Battle]] with Alyssa</small>|1|063|Abra|♂|15|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker F.png|Triathlete|Alyssa|600<br><small>Potential [[Double Battle]] with Edward</small>|1|081|Magnemite||15|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Dale|560|4|072|Tentacool|♂|11||320|Wailmer|♂|14||072|Tentacool|♂|11||320|Wailmer|♂|14|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Pokéfan F.png|Pokéfan|Isabel{{tt|*|First, second and third rematch}}|{{tt|2080|First rematch}}/{{tt|2320|Second rematch}}/{{tt|2560|Third rematch}}|2|311|Plusle|♀|{{tt|26|First rematch}}/{{tt|29|Second rematch}}/{{tt|32|Third rematch}}|Oran Berry|312|Minun|♀|{{tt|26|First rematch}}/{{tt|29|Second rematch}}/{{tt|32|Third rematch}}|Oran Berry|38=Nav}}
+{{trainerentry|Spr RS Pokéfan F.png|Pokéfan|Isabel{{tt|*|Fourth rematch onwards}}|2800|2|311|Plusle|♀|35|Sitrus Berry|312|Minun|♀|35|Sitrus Berry|38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Collector.png|Collector|Edwin{{tt|*|First, second and third rematch}}|{{tt|1560|First rematch}}/{{tt|1740|Second rematch}}/{{tt|1920|Third rematch}}|2|271|Lombre|♂|{{tt|26|First rematch}}/{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||274|Nuzleaf|♂|{{tt|26|First rematch}}/{{tt|29|Second rematch}}/{{tt|32|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Collector.png|Collector|Edwin{{tt|*|Fourth rematch onwards}}|2100|2|272|Ludicolo|♂|35||275|Shiftry|♂|35||36=モトキ|37=Motoki|38=Nav}}
+{{trainerdiv|land}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entry3|309|Electrike|no|no|yes|Grass|12-13|30%|type1=Electric}}
+{{catch/entry3|261|Poochyena|no|no|yes|Grass|12|20%|type1=Dark}}
+{{catch/entry3|312|Minun|no|no|yes|Grass|13|15%|type1=Electric}}
+{{catch/entry3|316|Gulpin|no|no|yes|Grass|12-13|15%|type1=Poison}}
+{{catch/entry3|043|Oddish|no|no|yes|Grass|13|10%|type1=Grass|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Grass|12|8%|type1=Water|type2=Flying}}
+{{catch/entry3|311|Plusle|no|no|yes|Grass|12-13|2%|type1=Electric}}
+{{catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Dire Hit|East of the Trick House, near Youngster Timmy|E=yes}}
+{{itemlist|Full Heal|Northeast of Youngster Timmy (hidden)|E=yes}}
+{{itemlist|Itemfinder|From May/Brendan after defeating her/him|E=yes|display=[[Dowsing Machine|Itemfinder]]}}
+{{itemlist|Great Ball|North of the site of the rival battle (hidden)|E=yes}}
+{{itemlist|Revive|One step north of Collector Edwin and Guitarist Joseph (hidden)|E=yes}}
+{{itemlist|Elixir|Near Psychic Edward and Triathlete Alyssa|E=yes}}
+{{itemlist|Poké Ball|North of Psychic Edward (hidden)|E=yes|display={{i|Poké Ball}}}}
+{{itemlist|Nanab Berry III|From the Berry Trees near the Mauville City gate|E=yes|display=[[Nanab Berry]] ×9}}
+{{itlistfoot|land}}
+|}
+
+===Meet up with Birch===
+If you didn't register [[Professor Birch]] in Littleroot Town, he will appear in this route. Not long after you pass by the southern entrance to Cycling Road, you run into Professor Birch. After a short conversation, he registers himself in your PokéNav so that you can get your Pokédex rated anytime.
+
+===Trick House===
+The [[Trick House]] is located farther north, near the {{rt|103|Hoenn}} junction. The building's owner, the [[Trick Master]], is a fun-loving prankster who has crafted many entertaining tricks for travelers. A new challenge opens each time you earn a [[Badge]]. Don't let his hard work go to waste!
+
+{| style="margin: auto; background: #{{Locationcolor/med|building}}; {{roundy}}; border: 3px solid #{{Locationcolor/dark|building}};" cellpadding="3"
+! style="background: #{{Locationcolor/light|building}}; {{roundytl|5px}};" | Puzzle
+! style="background: #{{locationcolor/light|building}};" | Milestone required
+! style="background: #{{Locationcolor/light|building}};" | Hiding spot
+! style="background: #{{Locationcolor/light|building}};" | Field move required
+! style="background: #{{Locationcolor/light|building}};" | Password
+! colspan="2" style="background: #{{Locationcolor/light|building}}; {{roundytr|5px}}" | Prize
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 1}} || None || Under the table || {{m|Cut}} || "<sc>Trick Master</sc> is fabulous." || {{bag|Rare Candy}} || [[Rare Candy]]
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 2}} || [[File:Dynamo Badge.png|30px]]{{badge|Dynamo}} || Inside the right potted tree || None || "<sc>Trick Master</sc> is smart." || {{bag|Timer Ball}} || [[Timer Ball]]
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 3}} || [[File:Heat Badge.png|30px]]{{badge|Heat}} || Inside the right cabinet || {{m|Rock Smash}} || "<sc>Trick Master</sc> is coveted." || {{bag|Hard Stone}} || [[Hard Stone]]
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 4}} || [[File:Balance Badge.png|30px]]{{badge|Balance}} || Behind the left window || {{m|Strength}} || "<sc>Trick Master</sc> is cool." || {{bag|Smoke Ball}} || [[Smoke Ball]]
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 5}} || [[File:Feather Badge.png|30px]]{{badge|Feather}} || Inside the right potted tree || None || "<sc>Trick Master</sc> is a genius." || {{bag|TM Dark}} || {{TM|12|Taunt}}
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 6}} || [[File:Mind Badge.png|30px]]{{badge|Mind}} || Inside the right cabinet || None || "<sc>Trick Master</sc> is my life." || {{bag|Magnet}} || [[Magnet]]
+|- style="background: #FFF;"
+| {{DL|Trick House|Puzzle 7}} || [[File:Rain Badge.png|30px]]{{badge|Rain}} || Behind the right window || None || "<sc>Trick Master</sc> is huggable." || {{bag|PP Max}} || [[PP Max]]
+|- 
+| rowspan="2" style="background: #FFF; {{roundybl|5px}};" | {{DL|Trick House|Puzzle 8}}
+| rowspan="2" style="background: #FFF;" | [[Hall of Fame]] induction
+| rowspan="2" style="background: #FFF;" | Under the left cushion
+| rowspan="2" style="background: #FFF;" | None
+| rowspan="2" style="background: #FFF;" | "<sc>Trick Master</sc> I love."
+| style="background: #FFF;" | [[File:RedTentSprite.png|24px]]<br><br>[[File:BlueTentSprite.png|24px]]
+| style="background: #FFF; {{roundybr|5px}};" | {{DL|List of decorations in Generation III|Red Tent}}<br><center>or</center>{{DL|List of decorations in Generation III|Blue Tent}}
+|}
+
+====Finding the Trick Master====
+When you step inside, you can't shake the feeling that someone is watching you. The mischievous Trick Master is hiding somewhere! Search the entire room until you find him, when he accepts your challenge and disappears. Certain field moves are required for most of the mazes, so you will need to return later to complete the rest.
+
+====Inside the Maze====
+Once he leaves, examine the scroll on the wall to find a secret passage that leads to a devious maze. Navigate the maze and battle Trainers as you search for a rolled-up scroll with a secret code. Reach the back of the maze and examine the hanging scroll. Inscribe the code on the hidden door to open it. There's no going back, so be sure to find everything the maze has to offer before entering the next room!
+
+====Trick Master's Room====
+The Trick Master waits here for all challengers. Speak to him to receive your reward, then leave through the exit in the north wall. After the last challenge, you can find a hidden [[Nugget]] where the Trick Master had stood.
+
+===Rival Battle 3===
+Go east from the Trick House and pass beneath Cycling Road. Turn north and continue on until you meet {{ga|May}}/{{ga|Brendan}} again. It seems like ages since you last met, so prove to your friend how far you've come as a Trainer! May and Brendan use the same three Pokémon, but May leads with {{p|Wingull}} if the player chose {{p|Mudkip}}.
+
+{{Party
+| caption = {{PlayerChoice|0252|Treecko}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0278
+| pokemon = Wingull
+| gender = male
+| level = 18
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Growl | move1type = Normal
+| move2 = Water Gun | move2type = Water
+| move3 = Supersonic | move3type = Normal
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = male
+| level = 18
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 20
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Focus Energy | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Double Kick | move3type = Fighting
+| move4 = Peck | move4type = Flying
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0278
+| pokemon = Wingull
+| gender = female
+| level = 18
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Growl | move1type = Normal
+| move2 = Water Gun | move2type = Water
+| move3 = Supersonic | move3type = Normal
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = female
+| level = 18
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 20
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Focus Energy | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Double Kick | move3type = Fighting
+| move4 = Peck | move4type = Flying
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0255|Torchic}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = male
+| level = 18
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 18
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Yawn | move1type = Normal
+| move2 = Smog | move2type = Poison
+| move3 = Ember | move3type = Fire
+| move4 = Rock Throw | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 20
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Water Gun | move1type = Water
+| move2 = Bide | move2type = Normal
+| move3 = Mud Shot | move3type = Ground
+| move4 = Foresight | move4type = Normal
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0271
+| pokemon = Lombre
+| gender = female
+| level = 18
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 18
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Yawn | move1type = Normal
+| move2 = Smog | move2type = Poison
+| move3 = Ember | move3type = Fire
+| move4 = Rock Throw | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 20
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Water Gun | move1type = Water
+| move2 = Bide | move2type = Normal
+| move3 = Mud Shot | move3type = Ground
+| move4 = Foresight | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0258|Mudkip}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 18
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Yawn | move1type = Normal
+| move2 = Smog | move2type = Poison
+| move3 = Ember | move3type = Fire
+| move4 = Rock Throw | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0278
+| pokemon = Wingull
+| gender = male
+| level = 18
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Growl | move1type = Normal
+| move2 = Water Gun | move2type = Water
+| move3 = Supersonic | move3type = Normal
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 20
+| type1 = Grass
+| ability = Overgrow
+| move1 = Absorb | move1type = Grass
+| move2 = Quick Attack | move2type = Normal
+| move3 = Fury Cutter | move3type = Bug
+| move4 = Pursuit | move4type = Dark
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}1200
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Hoenn Route 110
+| locationname = Route 110
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0278
+| pokemon = Wingull
+| gender = female
+| level = 18
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Growl | move1type = Normal
+| move2 = Water Gun | move2type = Water
+| move3 = Supersonic | move3type = Normal
+| move4 = Wing Attack | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 18
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Yawn | move1type = Normal
+| move2 = Smog | move2type = Poison
+| move3 = Ember | move3type = Fire
+| move4 = Rock Throw | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 20
+| type1 = Grass
+| ability = Overgrow
+| move1 = Absorb | move1type = Grass
+| move2 = Quick Attack | move2type = Normal
+| move3 = Fury Cutter | move3type = Bug
+| move4 = Pursuit | move4type = Dark
+}}
+{{Party/end}}
+
+
+After the battle, May/Brendan hands you the [[Dowsing Machine|Itemfinder]], a special gadget that allows you to search the surrounding area more thoroughly to discover hidden items! Search the underpass for treasure as you continue on to [[Mauville City]].
+
+==Route 103 (optional)==
+Go to the left of the Trick House. Back to {{rt|103|Hoenn}}! This is the eastern side of the route. It won't take you back to [[Oldale Town]] before you earn more [[Badge]]s, but there are a lot of Trainers here. It's a good idea to battle them all— it's excellent training for your upcoming Gym battle.
+
+{| class="expandable" align="center" style="background: #{{emerald color light}}; {{roundy}}; border: 5px solid #{{emerald color}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|land|}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Daisy|560|2|285|Shroomish|♀|14||315|Roselia|♀|14||36=ミドリ|37=Midori}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Twins.png|Twins|Amy & Liv|360|2|311|Plusle|♂|15||312|Minun|♂|15||36=クミとルミ|37=<br>Kumi and Rumi|38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Pokéfan M.png|Pokéfan|Miguel|1200|1|300|Skitty|♀|15|Oran Berry|36=ミツハル|37=Mitsuharu|38=Nav}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Andrew|600|3|129|Magikarp|♂|5||072|Tentacool|♂|10||129|Magikarp|♂|15||36=カツノリ|37=Katsunori}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Black Belt.png|Black Belt|Rhett|480|1|296|Makuhita|♂|15||36=シゲモリ|37=Shigemori}}
+{{trainerdiv}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Marcos|480|1|100|Voltorb||15||36=エリック|37=Erick}}
+{{trainerfooter|land|3|}}
+|}
+{| class="expandable" align="center" style="background: #{{emerald color light}}; {{roundy}}; border: 5px solid #{{emerald color}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{catch/header|land|no}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{emerald color light}}; {{roundy}}; border: 5px solid #{{emerald color}};"
+|- align="center"
+! Items
+|- 
+|{{Itlisth}}
+{{Itemlist|PP Up|In the center of the forest|E=yes}}
+{{Itemlist|Cheri Berry|In the soft soil patch in the forest|E=yes|display=[[Cheri Berry]] ×4}}
+{{Itemlist|Leppa Berry|In the soft soil patch in the forest|E=yes|display=[[Leppa Berry]] ×2}}
+{{Itemlist|Guard Spec.|In the western extent of the forest|E=yes}}
+{{Itlistfoot}}
+|}
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=3
+|prevname=Rustboro City, Dewford Town, Route 106, Granite Cave, Route 109
+|nextsection=5
+|nextname=Mauville City, Route 117, Verdanturf Town, Rusturf Tunnel, Route 111 (south)
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|04]]

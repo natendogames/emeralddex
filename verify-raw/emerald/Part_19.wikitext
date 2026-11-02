@@ -1,0 +1,543 @@
+==Pokémon League==
+[[File:Ever Grande City League Lobby E.png|thumb|Pokémon League Lobby]]
+
+The [[Ever Grande City|Pokémon League]] building holds the traditional amenities. The Pokémon Center and PC are located to the left, while the Poké Mart is off to the right. It's a good idea to stock up on [[Hyper Potion]]s, [[Full Restore]]s, and [[Full Heal]]s for the gauntlet ahead.
+
+Now that you've entered the Pokémon League lobby, you can come back to it any time using {{m|Fly}}, since now the Ever Grande City has two localitations to visit when flying around Hoenn region: Pokémon Center (south) and Pokémon League (north).
+
+To increase your chances of victory, you may want to revisit the [[Lilycove Department Store]] and purchase some [[battle item]]s. These items temporarily raise one of a Pokémon's stats during battle. Using a single [[X Defense]] or [[X Sp. Def]] will boost the respective stat by 50%. Using two is equal to a 100% boost, so the Pokémon sustains half the normal amount of damage. [[Dire Hit]]s can be useful as well, as using three or more drastically raises the odds of getting a [[critical hit]]. In addition, using a [[Guard Spec.]] protects your Pokémon from stat reduction for five turns.
+
+With your preparations complete, talk to the two Ace Trainers guarding the doorway in the room's center. They verify that you've earned all eight [[Hoenn League]] Badges before stepping aside, allowing you to enter the depths of the Pokémon League. Challengers must face the [[Elite Four]] and {{pkmn|Champion}} in quick succession, with no outside help. Step through the door to reach the first chamber.
+
+===Elite Four===
+====Battle 1: Sidney====
+[[File:Sidney room RSE.png|thumb|Sidney's room]]
+
+The first member of the Elite Four is [[Sidney]], a master {{type|Dark}} Trainer. His Pokémon are all vulnerable to {{t|Bug}}- and {{type|Fighting}} attacks, and immune to {{t|Psychic}} attacks.
+
+He leads with his {{p|Mightyena}}, which lowers the opponent's Attack with its {{a|Intimidate}} Ability. Use Fighting-type moves, or bypass Intimidate by using special attacks or recalling a Pokémon. His {{p|Shiftry}} is a {{2t|Grass|Dark}} type. Its only attack, {{m|Extrasensory}}, is relatively weak but can threaten Fighting-types. Other than that, its moves are all status moves, so status-healing items could be useful. {{p|Cacturne}}, like Shiftry, is another Grass/Dark Pokémon. {{m|Leech Seed}} lets it slowly sap the target's health to restore its own, and {{m|Cotton Spore}} cuts the target's {{stat|Speed}}. Both Pokémon are relatively frail and pack common weaknesses, so barring status annoyance, they should fall easily. His {{p|Crawdaunt}}'s low {{stat|Special Defense}} means you can make quick work of it, through its {{m|Swords Dance}} can be an issue. Last up is his {{p|Absol}}; its high Attack means that any of its moves can pack a punch. Slash has an increased critical-hit ratio, while {{m|Aerial Ace}} can be used to deter Fighting Pokémon. Its defenses are mediocre, s use your strongest moves to keep up the pressure and take it down.
+
+{{Party
+| walkthrough = yes
+| background = {{dark color}}
+| border = {{dark color dark}}
+| headcolor = {{dark color light}}
+| sprite = Spr RS Sidney.png
+| prize = {{PDollar}}4900
+| class = Elite Four
+| name = {{color2|000|Sidney}}
+| location = Pokémon League (Hoenn)
+| locationname = Ever Grande City
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 46
+| type1 = Dark
+| ability = Intimidate
+| move1 = Roar | move1type = Normal
+| move2 = Double-Edge | move2type = Normal
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Crunch | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0275
+| pokemon = Shiftry
+| gender = male
+| level = 48
+| type1 = Grass
+| type2 = Dark
+| ability = Chlorophyll
+| move1 = Torment | move1type = Dark
+| move2 = Double Team | move2type = Normal
+| move3 = Swagger | move3type = Normal
+| move4 = Extrasensory | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0332
+| pokemon = Cacturne
+| gender = male
+| level = 46
+| type1 = Grass
+| type2 = Dark
+| ability = Sand Veil
+| move1 = Leech Seed | move1type = Grass
+| move2 = Faint Attack | move2type = Dark
+| move3 = Needle Arm | move3type = Grass
+| move4 = Cotton Spore | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0342
+| pokemon = Crawdaunt
+| gender = male
+| level = 48
+| type1 = Water
+| type2 = Dark
+| ability = Hyper Cutter
+| move1 = Surf | move1type = Water
+| move2 = Swords Dance | move2type = Normal
+| move3 = Strength | move3type = Normal
+| move4 = Facade | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0359
+| pokemon = Absol
+| gender = male
+| level = 49
+| type1 = Dark
+| ability = Pressure
+| held = Sitrus Berry
+| move1 = Aerial Ace | move1type = Flying
+| move2 = Rock Slide | move2type = Rock
+| move3 = Swords Dance | move3type = Normal
+| move4 = Slash | move4type = Normal
+}}
+{{Party/end}}
+
+====Battle 2: Phoebe====
+[[File:Phoebe room RSE.png|thumb|Phoebe's room]]
+
+The second member of the Elite Four is [[Phoebe]], a master {{type|Ghost}} Trainer. Most of her Pokémon are vulnerable to {{t|Ghost}}- and {{type|Dark}} moves, and immune to {{t|Normal}} and {{t|Fighting}} moves.
+
+She leads with her first of two {{p|Dusclops}}, a defensive Ghost Pokémon that is more interested in status ailments than direct attacks. {{a|Pressure}} can waste your PP, especially when combined with {{m|Protect}}. {{m|Confuse Ray}} triggers the ever-irritating confusion, while {{m|Curse}} deals indirect damage. Phoebe has two {{p|Banette}} on her team, which can both use {{m|Shadow Ball}}. The first can burn the target with {{m|Will-O-Wisp}} and hit {{t|Normal}} Pokémon with {{m|Faint Attack}}, while the second may use {{m|Thunderbolt}} and {{m|Psychic}} for coverage. Due to its unique {{2t|Dark|Ghost}} typing, {{p|Sableye}} has no weaknesses under normal conditions; however, its low stats make it easy to overpower with neutral attacks. Faint Attack and Shadow Ball receive a [[same-type attack bonus]], and {{m|Night Shade}} deals exactly 50 damage each time it hits. Lastly, her second {{p|Dusclops}} has access to Shadow Ball, {{m|Ice Beam}}, {{m|Rock Slide}}, and {{m|Earthquake}}; despite its relatively low offenses, these allow it to deal super-effective damage against a wide variety of Pokémon. Take down her Pokémon with strong Ghost- or Dark-type attacks.
+
+{{Party
+| walkthrough = yes
+| background = {{ghost color}}
+| border = {{ghost color dark}}
+| headcolor = {{ghost color light}}
+| sprite = Spr RS Phoebe.png
+| prize = {{PDollar}}5100
+| class = Elite Four
+| name = {{color2|000|Phoebe}}
+| location = Pokémon League (Hoenn)
+| locationname = Ever Grande City
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0356
+| pokemon = Dusclops
+| gender = female
+| level = 48
+| type1 = Ghost
+| ability = Pressure
+| move1 = Shadow Punch | move1type = Ghost
+| move2 = Confuse Ray | move2type = Ghost
+| move3 = Curse | move3type = ???
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0354
+| pokemon = Banette
+| gender = female
+| level = 49
+| type1 = Ghost
+| ability = Insomnia
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Grudge | move2type = Ghost
+| move3 = Will-O-Wisp | move3type = Fire
+| move4 = Faint Attack | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0302
+| pokemon = Sableye
+| gender = female
+| level = 50
+| type1 = Dark
+| type2 = Ghost
+| ability = Keen Eye
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Double Team | move2type = Normal
+| move3 = Night Shade | move3type = Ghost
+| move4 = Faint Attack | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0354
+| pokemon = Banette
+| gender = female
+| level = 49
+| type1 = Ghost
+| ability = Insomnia
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Psychic | move2type = Psychic
+| move3 = Thunderbolt | move3type = Electric
+| move4 = Facade | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0356
+| pokemon = Dusclops
+| gender = female
+| level = 51
+| type1 = Ghost
+| ability = Pressure
+| held = Sitrus Berry
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Ice Beam | move2type = Ice
+| move3 = Rock Slide | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+
+====Battle 3: Glacia====
+[[File:Glacia room RSE.png|thumb|Glacia's room]]
+
+The third member of the Elite Four is [[Glacia]], a master {{type|Ice}} Trainer. Her Pokémon are vulnerable to {{t|Rock}}- and {{type|Fighting}} attacks.
+
+She leads with her first {{p|Sealeo}} is an {{2t|Ice|Water}} Pokémon which tends to start things off with {{m|Hail}}. Both {{p|Glalie}} know {{m|Ice Beam}} and one or two coverage moves and are weak to {{t|Fire}} and {{t|Steel}}. Her first Glalie's {{m|Light Screen}} temporarily reduces the damage taken from Special moves, so moves like {{m|Flamethrower}} are less effective. Her second Glalie can deal serious damage with {{m|Explosion}}. Both of her nearly-identical Sealeo carry Hail in addition to damaging {{t|Normal}} and {{t|Ice}} attacks, while the second can distract male opponents with {{m|Attract}}. Use {{t|Grass}}- and {{type|Electric}} moves to deal super-effective damage. Glacia's biggest threat is {{p|Walrein}}, another Ice/Water Pokémon. Its high HP, Defense, and Special Defense means that not even super-effective moves will take it down easily. Decent offensive stats allow it to deal respectable damage with {{m|Surf}}, {{m|Ice Beam}}, and {{m|Body Slam}}. {{m|Sheer Cold}} instantly knocks out the target if it hits, but has low accuracy and only works on a target of a lower level than the user. Use {{t|Fighting}} or {{t|Electric}} moves to take it down quickly. 
+
+{{Party
+| walkthrough = yes
+| background = {{ice color}}
+| border = {{ice color dark}}
+| headcolor = {{ice color light}}
+| sprite = Spr RS Glacia.png
+| prize = {{PDollar}}5300
+| class = Elite Four
+| name = {{color2|000|Glacia}}
+| location = Pokémon League (Hoenn)
+| locationname = Ever Grande City
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0364
+| pokemon = Sealeo
+| gender = female
+| level = 50
+| type1 = Ice
+| type2 = Water
+| ability = Thick Fat
+| move1 = Encore | move1type = Normal
+| move2 = Body Slam | move2type = Normal
+| move3 = Hail | move3type = Ice
+| move4 = Ice Ball | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0362
+| pokemon = Glalie
+| gender = female
+| level = 50
+| type1 = Ice
+| ability = Inner Focus
+| move1 = Light Screen | move1type = Psychic
+| move2 = Crunch | move2type = Dark
+| move3 = Icy Wind | move3type = Ice
+| move4 = Ice Beam | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0364
+| pokemon = Sealeo
+| gender = female
+| level = 52
+| type1 = Ice
+| type2 = Water
+| ability = Thick Fat
+| move1 = Attract | move1type = Normal
+| move2 = Double-Edge | move2type = Normal
+| move3 = Hail | move3type = Ice
+| move4 = Blizzard | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0362
+| pokemon = Glalie
+| gender = female
+| level = 52
+| type1 = Ice
+| ability = Inner Focus
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Explosion | move2type = Normal
+| move3 = Hail | move3type = Ice
+| move4 = Ice Beam | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0365
+| pokemon = Walrein
+| gender = female
+| level = 53
+| type1 = Ice
+| type2 = Water
+| ability = Thick Fat
+| held = Sitrus Berry
+| move1 = Surf | move1type = Water
+| move2 = Body Slam | move2type = Normal
+| move3 = Ice Beam | move3type = Ice
+| move4 = Sheer Cold | move4type = Ice
+}}
+{{Party/end}}
+
+====Battle 4: Drake====
+[[File:Drake room RSE.png|thumb|Drake's room]]
+
+The fourth and final member of the Elite Four is [[Drake]], a master {{type|Dragon}} Trainer. His Pokémon are all vulnerable to Dragon-type attacks, and four are weak to {{type|Ice}} attacks as well.
+
+Drake leads with his {{p|Shelgon}}, a physically-oriented Pokémon. {{m|Double-Edge}} is its strongest move, while {{m|Rock Tomb}} helps the slow Pokémon even the playing field by lowering the target's {{stat|Speed}}. Next up is his {{p|Altaria}}, a defensively-oriented Pokémon. {{m|Dragon Dance}} raises both its {{stat|Attack}} and Speed by one stage each, which works well alongside {{m|Double-Edge}}. As a {{2t|Dragon|Flying}} Pokémon, it takes massive damage from Ice attacks. Like Altaria, his {{p|Kingdra}} can make itself more threatening with Dragon Dance, which increases the damage it deals with {{m|Body Slam}}. {{m|Surf}} receives a [[same-type attack bonus]] and {{m|SmokeScreen}} lowers the target's accuracy. Due to its {{2t|Water|Dragon}} typing, its sustains super-effective damage only from Dragon-type moves. {{p|Flygon}} enjoys high Attack and Speed, which lets it harass its foes with {{m|Earthquake}}. Though its other three moves are dependent on its lower {{stat|Special Attack}}, they can still threaten Pokémon that resist Earthquake. Drake's final Pokémon is {{p|Salamence}}, a Dragon/Flying type. It has high Attack, better-than-average Speed, and respectable defenses. Its {{a|Intimidate}} Ability weakens physical attackers, so special attackers, especially those with Ice moves, will have the advantage here.
+
+{{Party
+| walkthrough = yes
+| background = {{dragon color}}
+| border = {{dragon color dark}}
+| headcolor = {{dragon color light}}
+| sprite = Spr RS Drake.png
+| prize = {{PDollar}}5500
+| class = Elite Four
+| name = {{color2|000|Drake}}
+| location = Pokémon League (Hoenn)
+| locationname = Ever Grande City
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0372
+| pokemon = Shelgon
+| gender = male
+| level = 52
+| type1 = Dragon
+| ability = Rock Head
+| move1 = Rock Tomb | move1type = Rock
+| move2 = Dragon Claw | move2type = Dragon
+| move3 = Protect | move3type = Normal
+| move4 = Double-Edge | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0334
+| pokemon = Altaria
+| gender = male
+| level = 54
+| type1 = Dragon
+| type2 = Flying
+| ability = Natural Cure
+| move1 = Double-Edge | move1type = Normal
+| move2 = DragonBreath | move2type = Dragon
+| move3 = Dragon Dance | move3type = Dragon
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0230
+| pokemon = Kingdra
+| gender = male
+| level = 53
+| type1 = Water
+| type2 = Dragon
+| ability = Swift Swim
+| move1 = SmokeScreen | move1type = Normal
+| move2 = Dragon Dance | move2type = Dragon
+| move3 = Surf | move3type = Water
+| move4 = Body Slam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0330
+| pokemon = Flygon
+| gender = male
+| level = 53
+| type1 = Ground
+| type2 = Dragon
+| ability = Levitate
+| move1 = Flamethrower | move1type = Fire
+| move2 = Crunch | move2type = Dark
+| move3 = DragonBreath | move3type = Dragon
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0373
+| pokemon = Salamence
+| gender = male
+| level = 55
+| type1 = Dragon
+| type2 = Flying
+| ability = Intimidate
+| held = Sitrus Berry
+| move1 = Flamethrower | move1type = Fire
+| move2 = Dragon Claw | move2type = Dragon
+| move3 = Rock Slide | move3type = Rock
+| move4 = Crunch | move4type = Dark
+}}
+{{Party/end}}
+
+
+Defeating the Elite Four has earned you the right to challenge Hoenn's reigning Champion. It is important to note that you will be drawn into battle immediately upon entering the final room, so take a moment to tend to your Pokémon and save your progress before moving on.
+
+===Champion===
+[[File:Champion Wallace room E.png|thumb|Champion's room]]
+
+Inside the Champion's hall, you find your [[Wallace]] waiting for you. He commends you and your Pokémon for putting an end to the crisis in {{ci|Sootopolis}}. He goes on to say that Trainers raise their Pokémon by teaching them new battle techniques, but that Trainers learn just as much from their Pokémon. He challenges you to put your achievements to the test against what others like you have achieved. The stage is set for a legendary showdown! While most Champions prefer the benefits of a diverse Pokémon team, Wallace still uses his beloved {{t|Water}} Pokémon from his time as Sootopolis Gym Leader.
+
+Wallace leads with his {{p|Wailord}}, a Water Pokémon with great {{stat|HP}} but low defenses. Initially, its strongest move is {{m|Water Spout}}, which deals the most damage when its HP is full. This move receives [[same-type attack bonus|STAB]], and can be boosted further by rain, thus making it a potent threat. Hit it hard with {{t|Grass}} and {{t|Electric}} attacks to take it down.
+
+{{p|Tentacruel}} is designed to counter {{t|Grass}} types that might threaten its teammates with both {{m|Sludge Bomb}} and {{m|Ice Beam}}. Its {{m|Toxic}} leaves all but {{t|Poison}} and {{t|Steel}} Pokémon {{status|Poison|badly poisoned}}, where an ever-growing amount of HP is lost every turn. Ice Beam and {{m|Hydro Pump}} allow it to fight back against any {{t|Ground}} types that may try to exploit its Poison typing. As a {{2t|Water|Poison}} Pokémon, Tentacruel is especially vulnerable to {{t|Electric}}, Ground, and {{t|Psychic}} attacks. Its {{stat|Special Defense}} is nearly twice as high as its {{stat|Defense}}, so prioritize physical moves over special ones.
+
+A {{2t|Water|Grass}} type, his {{p|Ludicolo}} can actively steal the target's health with {{m|Giga Drain}} and swamp the opposition with {{m|Surf}}. {{m|Leech Seed}} allows it to passively sap even more health from the target over several turns, and {{m|Double Team}} makes it harder to hit by boosting its evasion. Like Tentacruel, its highest stat is its {{stat|Special Defense}}, so physical moves are best. Fortunately, each type from which it sustains super-effective damage—{{t|Bug}}, {{t|Flying}}, and {{t|Poison}}—are all classified as [[Physical move]]s.
+
+His {{p|Whiscash}} has a fairly unique {{2t|Water|Ground}} typing, leaving it susceptible only to {{t|Grass}} moves. {{m|Surf}} and {{m|Earthquake}} both receive [[same-type attack bonus|STAB]], and Earthquake allows it to counter {{t|Electric}} Pokémon which would be problematic for its teammates. {{m|Hyper Beam}} is a powerful attack but the user is forced to rest on the next turn. {{m|Amnesia}} lets it quickly bolster its {{stat|Special Defense}}—its lowest stat after {{stat|Speed}}. All Grass moves are classified as [[Special move]]s, so hammer away at its health before it can harden its defenses.
+
+{{p|Gyarados}} gets straight to business as soon as it hits the field, with its {{a|Intimidate}} Ability cutting the foe's {{stat|Attack}}. {{m|Dragon Dance}} raises its {{stat|Speed}} and its already-high {{stat|Attack}} to sky-high levels, increasing the damage dealt by both {{m|Hyper Beam}} and {{m|Earthquake}}. Its final move, {{m|Surf}}, lets it deal reliable Water-type damage. As a {{2t|Water|Flying}} Pokémon, it takes massive damage from {{t|Electric}} attacks, but Electric Pokémon must watch out for Earthquake. Barring that, its secondary Flying type leaves it susceptible to {{t|Rock}} moves, as well.
+
+Finally, Wallace sends out his ace: {{p|Milotic}}, a Water Pokémon. Milotic is very bulky with its high {{stat|Special Defense}}, allowing it to shrug off the {{t|Grass}} and {{t|Electric}} attacks it is weak to, and can perform stalls with {{m|Toxic}} and {{m|Recover}}. {{m|Surf}} and {{m|Ice Beam}} allow it to handle a variety of threats, including Grass Pokémon. Toxic also pressures the the target to end the match quickly. As said previously, it is weak to Grass and Electric moves, but it may be easier to target its lower physical Defense with neutrally effective physical moves.
+
+{{Party
+| walkthrough = yes
+| background = {{water color}}
+| border = {{water color dark}}
+| headcolor = {{water color light}}
+| sprite = Spr E Wallace.png
+| prize = {{PDollar}}11600
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Wallace}}
+| location = Pokémon League (Hoenn)
+| locationname = Ever Grande City
+| game = E
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0321
+| pokemon = Wailord
+| gender = male
+| level = 57
+| type1 = Water
+| ability = Water Veil
+| move1 = Rain Dance | move1type = Water
+| move2 = Water Spout | move2type = Water
+| move3 = Double-Edge | move3type = Normal
+| move4 = Blizzard | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0073
+| pokemon = Tentacruel
+| gender = male
+| level = 55
+| type1 = Water
+| type2 = Poison
+| ability = Clear Body
+| move1 = Toxic | move1type = Poison
+| move2 = Hydro Pump | move2type = Water
+| move3 = Sludge Bomb | move3type = Poison
+| move4 = Ice Beam | move4type = Ice
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0272
+| pokemon = Ludicolo
+| gender = male
+| level = 56
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Giga Drain | move1type = Grass
+| move2 = Surf | move2type = Water
+| move3 = Leech Seed | move3type = Grass
+| move4 = Double Team | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0340
+| pokemon = Whiscash
+| gender = male
+| level = 56
+| type1 = Water
+| type2 = Ground
+| ability = Oblivious
+| move1 = Earthquake | move1type = Ground
+| move2 = Surf | move2type = Water
+| move3 = Amnesia | move3type = Psychic
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 56
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Dragon Dance | move1type = Dragon
+| move2 = Earthquake | move2type = Ground
+| move3 = Hyper Beam | move3type = Normal
+| move4 = Surf | move4type = Water
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0350
+| pokemon = Milotic
+| gender = male
+| level = 58
+| type1 = Water
+| ability = Marvel Scale
+| held = Sitrus Berry
+| move1 = Recover | move1type = Normal
+| move2 = Surf | move2type = Water
+| move3 = Ice Beam | move3type = Ice
+| move4 = Toxic | move4type = Poison
+}}
+{{Party/end}}
+
+
+With the battle concluded, Wallace congratulates you on your impressive victory. Just as he is about to crown you the new Hoenn League Champion, May/Brendan rushes in with some advice for challenging the Champion, only to find that you've already done so. [[Professor Birch]] arrives not long after, and rates your Pokédex before congratulating you as well.
+
+===Hall of Fame===
+Wallace then leads you into the [[Hall of Fame]], where all Champions are honored. He asks that you set your Poké Balls in the machine here, so that your name and those of your Pokémon can be recorded for posterity. During the process, a shot of each fighter appears briefly on-screen. The screen fades to black, and the game is saved.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=18
+|prevname=Sky Pillar, Ever Grande City, Victory Road
+|nextsection=20
+|nextname=Littleroot Town, Safari Zone, Altering Cave, Desert Underpass, Terra Cave, Marine Cave, Meteor Falls, Trainer Hill
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|19]]

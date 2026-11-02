@@ -1,0 +1,271 @@
+{{WalkthroughNotice|FRLG}}
+==Route 3==
+[[File:Kanto Route 3 FRLG.png|thumb|450px|Route 3]]
+
+{{rt|3|Kanto}} is a grassy road that leads east from [[Pewter City]] into the mountains around {{rt|4|Kanto}}. Many Trainers can be found along the way as they raise their Pokémon for the upcoming cave.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Janice|144|2|016|Pidgey|♀|9|None|016|Pidgey|♀|9|None|38=Vs. Seeker}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Colton|120|3|010|Caterpie|♂|10|None|013|Weedle|♂|10|None|010|Caterpie|♂|10|None|38=Vs. Seeker}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Ben|176|2|019|Rattata|♂|11|None|023|Ekans|♂|11|None|38=Vs. Seeker}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Greg|108|4|013|Weedle|♂|9|None|014|Kakuna|♂|9|None|010|Caterpie|♂|9|None|011|Metapod|♂|9|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Calvin|224|1|021|Spearow|♂|14|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Sally|160|2|019|Rattata|♀|10|None|029|Nidoran♀||10|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|James|132|2|010|Caterpie|♂|11|None|011|Metapod|♂|11|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Robin|224|1|039|Jigglypuff|♀|14|None}}
+{{Trainerfooter|mountain|FRLG}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|mountain|no}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|6-8|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|6-7|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|029|Nidoran♀|no|yes|Grass|6-7|14%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|yes|no|Grass|6-7|14%|type1=Poison}}
+{{Catch/entryfl|039|Jigglypuff|yes|yes|Grass|3, 5, 7|10%|type1=Normal}}
+{{Catch/entryfl|056|Mankey|yes|yes|Grass|7|10%|type1=Fighting}}
+{{Catch/entryfl|029|Nidoran♀|yes|no|Grass|6|1%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|no|yes|Grass|6|1%|type1=Poison}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|mountain}}
+{{itemlist|Oran Berry|Between the pair of ledges on the west side, near Youngster Calvin ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+{{-}}
+==Route 4 (West)==
+===The Magikarp Salesman===
+A Pokémon Center stands near the entrance to [[Mt. Moon]]. Inside, [[Magikarp salesman|a shady man]] offers to sell you a {{p|Magikarp}} for {{pdollar}}500. The fish is nearly useless until it evolves into the powerful {{p|Gyarados}} at level 20. With enough money to spare, you can end up with a strong {{type|Water}} Pokémon sooner than normal, but you can soon hook a Magikarp for free with the right fishing rod.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|mountain|no}}
+{{Catch/div|mountain|Gift Pokémon}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Gift|5|Purchase for {{PDollar}}500|type1=Water}}
+{{Catch/footer|mountain|2}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|mountain}}
+{{itemlist|Persim Berry|West of the Pokémon Center, between the three rocks ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+
+==Mt. Moon==
+[[File:Mt Moon 1F FRLG.png|thumb|Mt. Moon, 1F]]
+[[File:Mt Moon B1F FRLG.png|thumb|Mt. Moon, B1F]]
+[[File:Mt Moon B2F FRLG.png|thumb|Mt. Moon, B2F]]
+
+[[Mt. Moon]] is a mystical mountain that is known for its frequent meteor falls. The shards of stars that fall here are known as [[Moon Stone]]s. There are many Trainers exploring the tunnels inside. Many cave-dwelling Pokémon, like {{p|Zubat}} and {{p|Paras}}, make their home here.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|- 
+| 
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Kent|132|2|013|Weedle|♂|11|None|014|Kakuna|♂|11|None|36=トモミチ|37=Tomomichi}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Iris|224|1|035|Clefairy|♀|14|None|36=ナホ|37=Naho}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Super Nerd.png|Super Nerd|Jovan|264|2|081|Magnemite||11|None|100|Voltorb||11|None|36=キミタカ|37=Kimitaka}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Robby|120|3|010|Caterpie|♂|10|None|011|Metapod|♂|10|None|010|Caterpie|♂|10|None|36=ノリオ|37=Norio}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Miriam|176|2|043|Oddish|♀|11|None|069|Bellsprout|♀|11|None|36=ルリ|37=Ruri}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Josh|160|3|019|Rattata|♂|10|None|019|Rattata|♂|10|None|041|Zubat|♂|10|None|36=タロウ|37=Tarō}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Marcos|360|3|074|Geodude|♂|10|None|074|Geodude|♂|10|None|095|Onix|♂|10|None|36=カツト|37=Katsuto}}
+{{Trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B2F
+|- 
+| 
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||352|3|027|Sandshrew|♂|11|None|019|Rattata|♂|11|None|041|Zubat|♂|11|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||352|2|041|Zubat|♂|11|None|023|Ekans|♂|11|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||416|2|019|Rattata|♂|13|None|027|Sandshrew|♂|13|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||416|2|019|Rattata|♂|13|None|041|Zubat|♂|13|None}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Super Nerd.png|Super Nerd|Miguel|288|3|088|Grimer|♂|12|None|100|Voltorb||12|None|109|Koffing|♂|12|None|36=ミツハル|37=Mitsuharu}}
+{{Trainerfooter|mountain}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|- 
+| 
+{{catch/header|mountain|no}}
+{{Catch/entryfl|041|Zubat|yes|yes|Cave|7-10|69%|type1=Poison|type2=Flying}}
+{{Catch/entryfl|074|Geodude|yes|yes|Cave|7-9|25%|type1=Rock|type2=Ground}}
+{{Catch/entryfl|046|Paras|yes|yes|Cave|8|5%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|035|Clefairy|yes|yes|Cave|8|1%|type1=Normal}}
+{{catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F
+|- 
+| 
+{{catch/header|mountain|no}}
+{{Catch/entryfl|046|Paras|yes|yes|Cave|5-10|100%|type1=Bug|type2=Grass}}
+{{catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B2F
+|- 
+| 
+{{catch/header|mountain|no}}
+{{Catch/entryfl|041|Zubat|yes|yes|Cave|8-11|49%|type1=Poison|type2=Flying}}
+{{Catch/entryfl|074|Geodude|yes|yes|Cave|9-10|30%|type1=Rock|type2=Ground}}
+{{Catch/entryfl|046|Paras|yes|yes|Cave|10, 12|15%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|035|Clefairy|yes|yes|Cave|10, 12|6%|type1=Normal}}
+{{catch/footer|mountain}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|1F}}
+{{Itemlist|TM Grass|In the chamber to the west of the entrance|FR=yes|LG=yes|display={{TM|09|Bullet Seed}}}}
+{{Itemlist|Paralyze Heal|In the chamber to the west of the entrance|FR=yes|LG=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{Itemlist|Potion|Southeast area, on the opposite side of the wall from the entrance|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|Southeast corner, east of Super Nerd Jovan|FR=yes|LG=yes}}
+{{Itemlist|Escape Rope|East-central area|FR=yes|LG=yes}}
+{{Itemlist|Moon Stone|Northwest corner|FR=yes|LG=yes}}
+{{catch/div|cave|B1F}}
+{{Itemlist|Tiny Mushroom|
+* Via the first ladder on 1F; on the second rock from the east of the four arranged west-east ''(hidden [[Recurring item|recurring item; group B and C]])''
+* Via the second ladder on 1F; on the rock in the northeast corner ''(hidden [[Recurring item|recurring item; group B and C]])''
+* Via the northwest ladder on B2F; on a rock in the northeast corner ''(hidden [[Recurring item|recurring item; group B and C]])''|FR=yes|LG=yes|display=[[Tiny Mushroom|TinyMushroom]] ×3}}
+{{Itemlist|Big Mushroom|
+* Via the first ladder on 1F; on the two reachable rocks northwest of the ladder to B2F (×2) ''(hidden [[Recurring item|recurring item; group C]])''
+* Via the third ladder on 1F; on the southernmost rock ''(hidden [[Recurring item|recurring item; group C]])''|FR=yes|LG=yes|display=[[Big Mushroom]] ×3}}
+{{catch/div|cave|B2F}}
+{{Itemlist|Star Piece|South; accessible via the first ladder found on 1F|FR=yes|LG=yes}}
+{{Itemlist|TM Dark|Northeast; accessible via the second ladder found on 1F|FR=yes|LG=yes|display={{TM|46|Thief}}}}
+{{Itemlist|Ether|Northeast; accessible via the second ladder found on 1F, on a rock ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Moon Stone|Main chamber; southeast of the stairway near the [[fossil]]s, on a rock ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Revive|Main chamber; north of the ladder in the center of the floor|FR=yes|LG=yes}}
+{{itemlist/2|Dome Fossil|Helix Fossil|Main chamber; choice between the two Fossils, after defeating the Super Nerd on the northwest platform|FR=yes|LG=yes}}
+{{itemlist|Antidote|Southwest of the ladder in the northwest corner|FR=yes|LG=yes}}
+{{itlistfoot|cave}}
+|}
+
+
+===1F===
+Collect {{TM|09|Bullet Seed}} and the [[Paralyze Heal|Parlyz Heal]] to the west, then follow the tunnel eastward and climb down the first ladder. 
+
+===B2F (South)===
+Battle the [[Team Rocket]] Grunt, then grab the [[Star Piece]] from the raised platform and take the ladder back to 1F.
+
+===1F===
+Go south to battle the next two Trainers. Be sure to collect the [[Potion]], [[Rare Candy]], and [[Escape Rope]]. Head north then west and climb down the second ladder.
+
+===B2F (Northeast)===
+Fight the second Team Rocket Grunt and pick up {{TM|46|Thief}} from the platform. Inspect the large rock to find a hidden [[Ether]] before returning to 1F.
+
+===1F===
+Continue westward along the tunnel. Grab the [[Moon Stone]] in the northwest corner, then take the third ladder to the lower floor. 
+
+===B2F (Outer Area)===
+Follow the winding tunnel in a clockwise direction to the northwest, where Super Nerd Miguel claims both the [[Dome Fossil]] and [[Helix Fossil]] lying here as his own. Defeat him, and he lets you choose one of them for yourself. The Dome Fossil was once a {{p|Kabuto}}, while the Helix Fossil was once an {{p|Omanyte}}. Continue on to reach an [[Antidote]] and climb the final ladder to reach the exit.
+
+{{-}}
+==Route 4 (East)==
+[[File:Kanto Route 4 FRLG.png|thumb|500px|Route 4]]
+
+{{rt|4|Kanto}} is a one-way road leading downhill from the mountains to [[Cerulean City]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|8, 10, 12|35%|type1=Normal}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|8, 10, 12|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|023|Ekans|yes|no|Grass|6, 8, 10, 12|25%|type1=Poison}}
+{{Catch/entryfl|027|Sandshrew|no|yes|Grass|6, 8, 10, 12|25%|type1=Ground}}
+{{Catch/entryfl|056|Mankey|yes|yes|Grass|10, 12|5%|type1=Fighting}}
+{{Catch/footer|mountain|2}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|mountain}}
+{{Itemlist|Great Ball|In the corner to the west of the northwest hill ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Razz Berry|South-central area, south of eastern-most of three ledges ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|TM Normal|Second-highest level of the eastern hill|FR=yes|LG=yes|display={{TM|05|Roar}}}}
+{{Itlistfoot|mountain}}
+|}
+
+
+===Move Tutors===
+Two Black Belts can be found training on the western hill. These men happen to be {{DL|Move Tutor|FireRed and LeafGreen|Move Tutors}}, people who are able to teach their respective move to a compatible Pokémon. The man on the left teaches {{m|Mega Punch}}, while the man on the right teaches {{m|Mega Kick}}. Like other Move Tutors, their service may only be used once.
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=3
+|prevname=Viridian Forest, Route 2, Pewter City, Pewter Gym
+|nextsection=5
+|nextname=Cerulean City, Cerulean Gym, Route 24, Route 25, Route 5
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|04]]

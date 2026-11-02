@@ -1,0 +1,248 @@
+{{WalkthroughNotice|FRLG}}
+==Route 11==
+[[File:Kanto Route 11 FRLG.png|thumb|400px|Route 11]]
+[[File:Diglett Cave FRLG.png|thumb|Diglett's Cave]]
+
+{{rt|11|Kanto}} is a grassy path between [[Vermilion City]] and {{rt|12|Kanto}} to the east. The southeastern end of [[Diglett's Cave]] can be found here, and leads back to {{rt|2|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Eddie|336|1|023|Ekans|♂|21|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Hugo|1296|2|060|Poliwag|♂|18|None|116|Horsea|♂|18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Engineer.png|Engineer|Bernie|864|3|081|Magnemite|None|18|None|081|Magnemite|None|18|None|082|Magneton|None|18|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Dave|288|2|032|Nidoran♂||18|None|033|Nidorino|♂|18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Dillon|304|2|027|Sandshrew|♂|19|None|041|Zubat|♂|19|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Jasper|1296|2|069|Bellsprout|♂|18|None|043|Oddish|♂|18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Engineer.png|Engineer|Braxton|1008|1|081|Magnemite|None|21|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Darian|1296|2|058|Growlithe|♂|18|None|037|Vulpix|♀|18|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Yasu|272|3|019|Rattata|♂|17|None|019|Rattata|♂|17|None|020|Raticate|♂|17|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Gamer.png|Gamer|Dirk|1296|2|100|Voltorb|None|18|None|081|Magnemite|None|18|None}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|023|Ekans|yes|no|Grass|12, 14-15|40%|type1=Poison}}
+{{Catch/entryfl|027|Sandshrew|no|yes|Grass|12, 14-15|40%|type1=Ground}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|13, 15, 17|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|096|Drowzee|yes|yes|Grass|11, 13, 15|25%|type1=Psychic}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/div|land|Special}}
+{{Catch/entryfl|030|Nidorina|yes|no|Trade|tradenum=033|tradename=Nidorino|The same as the traded Pokémon|One|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|no|yes|Trade|tradenum=030|tradename=Nidorina|The same as the traded Pokémon|One|type1=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{Itemlist|Awakening|Northwest part of the route|FR=yes|LG=yes}}
+{{Itemlist|X Defend|Middle of the route, in a grass patch|FR=yes|LG=yes}}
+{{Itemlist|Escape Rope|On a rock just north of the gate ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Great Ball|South of the gate|FR=yes|LG=yes}}
+{{Itemlist|Itemfinder|In the gate; from [[Professor Oak]]'s [[Professor's assistant|aide]], after capturing 30 different species|FR=yes|LG=yes|display=[[Dowsing Machine|Itemfinder]]}}
+{{itlistfoot|land}}
+|}
+
+
+===Treasure Hunting===
+Visit the [[gate]] on the route's east side and speak to the Scientist. He happens to be one of [[Professor Oak]]'s [[Professor's assistant|aides]] and has been tasked with evaluating your [[Pokédex]] progress. If you have caught at least 30 different species, he rewards you with the [[Dowsing Machine|Itemfinder]]. Using this machine reveals any items that may be hidden nearby.
+
+===Time for a Trade===
+The boy near Oak's aide wants a {{p|Nidorina}}{{sup/3|FR}} / {{p|Nidorino}}{{sup/3|LG}}, and is willing to trade its opposite-gender counterpart for one. Both Pokémon can be obtained elsewhere without trading.
+
+===Diglett's Cave===
+[[Diglett's Cave]] is a long tunnel that spans nearly the whole region, linking {{rt|11|Kanto}} to the east side of {{rt|2|Kanto}}. Like the name implies, the only Pokémon that can be found here are {{p|Diglett}} and its evolved form, {{p|Dugtrio}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|cave|no}}
+{{Catch/entryfl|050|Diglett|yes|yes|Cave|15-22|95%|type1=Ground}}
+{{Catch/entryfl|051|Dugtrio|yes|yes|Cave|29, 31|5%|type1=Ground}}
+{{Catch/footer|cave}}
+|}
+
+{{-}}
+==Route 2 (East)==
+[[File:Kanto Route 2 FRLG.png|thumb|100px|Route 2]]
+
+The east side of {{rt|2|Kanto}} was initially inaccessible without {{HM|01|Cut}}. The northwestern end of [[Diglett's Cave]] emerges here.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|forest|no}}
+{{Catch/div|forest|Special}}
+{{Catch/entryfl|122|Mr. Mime|yes|yes|Trade|The same as the traded Pokémon|One|tradenum=063|tradename=Abra|type1=Psychic}}
+{{Catch/footer|forest}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{Itemlist|HM Normal|In the eastern gate; from Oak's aide, after catching at least 10 different species|FR=yes|LG=yes|display={{HM|05|Flash}}}}
+{{Itemlist|Ether|South of the gate and the first ledge|FR=yes|LG=yes}}
+{{Itemlist|Paralyze Heal|South of the second ledge|FR=yes|LG=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{itlistfoot|land}}
+|}
+
+
+===Time for a Trade===
+Visit the northeast house and speak to the man inside. He is looking to get an {{p|Abra}}, and is willing to trade his {{p|Mr. Mime}} to get one. Abra can be found near [[Cerulean City]], though their tendency to {{m|Teleport}} makes them difficult to capture. Mr. Mime is a unique Pokémon that cannot be found anywhere else.
+
+===Let There Be Light===
+Use {{m|Cut}} and continue south to reach the [[gate]], where another of {{prof|Oak}}'s [[Professor's assistant|aides]] is waiting for you. As a reward for capturing at least 10 different species, he gives out {{HM|05|Flash}}. This move makes it easier to navigate the dark interior of [[Rock Tunnel|certain underground areas]].
+
+From here, you may want to revisit [[Viridian City]] to visit the man near the pond. This is another [[Move Tutor]], who offers to teach the move {{m|Dream Eater}} to one of your Pokémon.
+
+==Pewter City==
+===Pewter Museum of Science===
+On this latest visit to [[Pewter City]], you can use {{m|Cut}} to clear the small tree on the northeast hill to reach the employee-only area of the [[Pewter Museum of Science|museum]]. Speak to the Scientist standing next to the table to receive the [[Old Amber]]. There are Scientists elsewhere who have apparently developed a way to regenerate Pokémon from ancient bits of DNA like this.
+
+===Fork in the Road===
+The next step is to return to [[Cerulean City]]. There are two ways to get back there: either travel east through [[Mt. Moon]] again, or hike back through [[Diglett's Cave]] and head north from [[Vermilion City]]. Once back in Cerulean City, make your way to the east side of town and use {{m|Cut}} to clear the small tree and continue eastward.
+
+==Route 9==
+[[File:Kanto Route 9 FRLG.png|thumb|400px|Route 9]]
+
+{{rt|9|Kanto}} is a rocky, uneven mountain road that links [[Cerulean City]] and {{rt|10|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Alicia|360|4|043|Oddish|♀|18|None|069|Bellsprout|♀|18|None|043|Oddish|♀|18|None|069|Bellsprout|♀|18|None|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Jeremy|720|2|066|Machop|♂|20|None|095|Onix|♂|20|None|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Chris|420|2|058|Growlithe|♂|21|None|004|Charmander|♂|21|None|38=Vs. Seeker}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Brent|228|2|015|Beedrill|♂|19|None|015|Beedrill|♂|19|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Alan|756|2|074|Geodude|♂|21|None|095|Onix|♂|21|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Conner|240|3|010|Caterpie|♂|20|None|013|Weedle|♂|20|None|048|Venonat|♂|20|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Drew|380|4|019|Rattata|♂|19|None|027|Sandshrew|♂|19|None|023|Ekans|♂|19|None|027|Sandshrew|♂|19|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Brice|720|3|074|Geodude|♂|20|None|074|Geodude|♂|20|None|066|Machop|♂|20|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Caitlin|460|1|052|Meowth|♀|23|None}}
+{{trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|mountain|no}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|14, 16-17|40%|type1=Normal}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|13, 16-17|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|023|Ekans|yes|no|Grass|11, 13, 15, 17|25%|type1=Poison}}
+{{Catch/entryfl|027|Sandshrew|no|yes|Grass|11, 13, 15, 17|25%|type1=Ground}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|mountain}}
+{{Itemlist|TM Flying|Southwest corner of the route|FR=yes|LG=yes|display={{TM|40|Aerial Ace}}}}
+{{Itemlist|Ether|On a rock in the northwest part of the route ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Burn Heal|Southeast corner of the route|FR=yes|LG=yes}}
+{{Itemlist|Chesto Berry|Northeast part of the route, on the green grass to the west ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|Northeast part of the route, one step west and one step south from the corner ''(hidden)''|FR=yes|LG=yes}}
+{{Itlistfoot|mountain}}
+|}
+
+{{-}}
+==Route 10 (North)==
+[[File:Kanto Route 10 FRLG.png|thumb|100px|Route 10]]
+
+{{rt|10|Kanto}} connects {{rt|9|Kanto}} to [[Lavender Town]] in the south. Much of the route is occupied by a river and the grounds of the [[Kanto Power Plant]]. Anyone traveling through the area must venture through the dim interior of [[Rock Tunnel]]. A remote Pokémon Center near the cave gives Trainers a chance to prepare themselves.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|mountain}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Heidi|400|2|025|Pikachu|♀|20|None|035|Clefairy|♀|20|None}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Mark|1392<br><small>Requires {{m|Surf}}</small>|2|111|Rhyhorn|♂|29|None|108|Lickitung|♂|29|None|38=Vs. Seeker}}
+{{trainerfooter|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|mountain|no}}
+{{catch/entryfl|100|Voltorb|yes|yes|Grass|14, 16-17|40%|type1=electric}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|13, 16-17|35%|type1=normal|type2=flying}}
+{{catch/entryfl|023|Ekans|yes|no|Grass|11, 13, 15, 17|25%|type1=poison}}
+{{catch/entryfl|027|Sandshrew|no|yes|Grass|11, 13, 15, 17|25%|type1=ground}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|mountain}}
+{{itemlist|Everstone|Pokémon Center; from Oak's aide, after catching at least 20 different species|FR=yes|LG=yes}}
+{{itemlist|Persim Berry|Southeast of the Pokémon Center, in the corner of fencing ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Cheri Berry|Southwest of the Pokémon Center, on the edge of the dirt patch ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Super Potion|One step east of Rock Tunnel's north entrance ''(hidden, requires {{m|Cut}})''|FR=yes|LG=yes}}
+{{itlistfoot|mountain}}
+|}
+
+
+===Keep On Keeping On===
+Before setting out for [[Rock Tunnel]], speak to {{prof|Oak}}'s [[Professor's assistant|aide]] inside the Pokémon Center. As a reward for capturing at least 20 different species, he gives out an [[Everstone]]. When held, this unique stone prevents the Pokémon from evolving.
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=6
+|prevname=Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+|nextsection=8
+|nextname=Rock Tunnel, Route 10, Lavender Town, Route 8, Route 7
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|07]]

@@ -1,0 +1,811 @@
+{{WalkthroughNotice|FRLG}}
+==Route 16==
+[[File:Kanto Route 16 FRLG.png|thumb|Route 16]]
+[[File:Kanto Route 17 FRLG.png|thumb|75px|Route 17]]
+
+{{rt|16|Kanto}} leads west from [[Celadon City]] to {{rt|17|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|road}}
+{{catch/div|road|Northern half (requires Cut)}}
+{{Trainerentry|Spr FRLG Young Couple.png|Young Couple|Lea & Jed|1624|2|078|Rapidash|♂|29|None|038|Ninetales|♀|29|None}}
+{{catch/div|road|Main path}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Lao|580|2|088|Grimer|♂|29|None|109|Koffing|♂|29|None}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Koji|672|3|066|Machop|♂|28|None|056|Mankey|♂|28|None|066|Machop|♂|28|None}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Luke|696|2|056|Mankey|♂|29|None|066|Machop|♂|29|None}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Hideo|660|1|110|Weezing|♂|33|None}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Ruben|560|3|110|Weezing|♂|28|None|109|Koffing|♂|28|None|110|Weezing|♂|28|None|38=Vs. Seeker}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Camron|696|2|056|Mankey|♂|29|None|066|Machop|♂|29|None|38=Vs. Seeker}}
+{{trainerfooter|road}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|road|no}}
+{{Catch/entryfl|084|Doduo|yes|yes|Grass|18, 20, 22|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|18, 20, 22|30%|type1=Normal}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|20, 22|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|020|Raticate|yes|yes|Grass|23, 25|5%|type1=Normal}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|road}}
+{{itemlist|HM Flying|Northwest house, from the reclusive girl (requires {{m|Cut}})|FR=yes|LG=yes|display={{HM|02|Fly}}}}
+{{itemlist|Leftovers|On the spot where Snorlax was sleeping ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Amulet Coin|In the south gate; from Oak's aide, after catching at least 40 different Pokémon|FR=yes|LG=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Rags to Riches===
+Enter the south gate and speak to the Scientist on the upper floor. He happens to be another of {{prof|Oak}}'s [[Professor's assistant|aides]], and has been instructed to give you an [[Amulet Coin]] if you have caught at least 40 different Pokémon. When held, the amount of prize money won is doubled if the holder takes part in the battle.
+
+===Roadblock===
+A {{p|Snorlax}} has fallen asleep near the gate, blocking the path. Use the [[Poké Flute]] to wake the Pokémon, which attacks in a grumpy rage! Snorlax are hard to find, so catch it if you can.
+
+{{Pokémon
+| walkthrough = yes
+| middle = yes
+| gen = 3
+| ndex = 0143
+| pokemon = Snorlax
+| gender = both
+| type1 = Normal
+| ability = Immunity
+| ability2 = Thick Fat
+| held = Chesto Berry
+| level = 30
+| move1 = Headbutt | move1type = Normal
+| move2 = Yawn | move2type = Normal
+| move3 = Rest | move3type = Psychic
+| move4 = Snore | move4type = Normal
+}}
+
+
+===Fly, Fly Away===
+In the eastern part of the route, use {{m|Cut}} on the small tree to reach the secluded northern area. Enter the house beyond the gate and speak to the girl inside. She prefers to spend time on her own and gives you {{HM|02|Fly}} to keep her hideaway a secret. Using Fly in the field allows a Trainer to instantly travel to any city or town that had been visited previously.
+
+
+
+==Route 17==
+The bridges of {{rt|17|Kanto}} pass over the ocean on the way downhill to {{rt|18|Kanto}}. Anyone riding a Bicycle on the Cycling Road who stops pedaling will roll southward, unless the A or B Buttons are held.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Isaiah|696|2|066|Machop|♂|29||068|Machamp|♂|29||38=Vs. Seeker}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Virgil|560|3|110|Weezing|♂|28||109|Koffing|♂|28||110|Weezing|♂|28|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Raul|696|2|056|Mankey|♂|29||057|Primeape|♂|29|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Billy|660|1|089|Muk|♂|33|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Jamal|624|4|056|Mankey|♂|26||056|Mankey|♂|26||068|Machamp|♂|26||066|Machop|♂|26|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Nikolas|580|2|100|Voltorb||29||100|Voltorb||29|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Zeek|792|1|067|Machoke|♂|33|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Cue Ball.png|Cue Ball|Corey|696|2|057|Primeape|♂|29||067|Machoke|♂|29||38=Vs. Seeker}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Jaxon|580|2|110|Weezing|♂|29||089|Muk|♂|29||38=Vs. Seeker}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|William|500|5|109|Koffing|♂|25||110|Weezing|♂|25||109|Koffing|♂|25||110|Weezing|♂|25||109|Koffing|♂|25|}}
+{{trainerfooter|road}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|road|no}}
+{{Catch/entryfl|084|Doduo|yes|yes|Grass|24, 26, 28|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|20, 22|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|020|Raticate|yes|yes|Grass|25, 27, 29|25%|type1=Normal}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|22|5%|type1=Normal}}
+{{Catch/entryfl|022|Fearow|yes|yes|Grass|25, 27|5%|type1=Normal|type2=Flying}}
+{{Catch/footer|road}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|road}}
+{{itemlist|Rare Candy|Eastern path, about halfway through the route ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Full Restore|Middle path, about halfway through the route ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|PP Up|Western path, about halfway through the route ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Max Revive|Western path, near the south end of the route ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Max Elixir|South end of the route, three steps east of the sign ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|road}}
+|}
+
+{{-}}
+==Route 18==
+[[File:Kanto Route 18 FRLG.png|thumb|Route 18]]
+
+{{rt|18|Kanto}} leads east from {{rt|17|Kanto}} to [[Fuchsia City]]. The road northward to [[Celadon City]] is reserved for cyclists, so be sure to bring a [[Bicycle]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|road}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Jacob|624|4|021|Spearow|♂|26|None|021|Spearow|♂|26|None|022|Fearow|♂|26|None|021|Spearow|♂|26|None|38=Vs. Seeker}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Wilton|696|2|021|Spearow|♂|29|None|022|Fearow|♂|29|None}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Ramiro|816|1|085|Dodrio|♂|34|None}}
+{{trainerfooter|road}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|road}}; {{roundy}}; border: 5px solid #{{locationcolor/light|road}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|road|no}}
+{{Catch/entryfl|084|Doduo|yes|yes|Grass|24, 26, 28|35%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|20, 22|30%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|020|Raticate|yes|yes|Grass|25, 27, 29|15%|type1=Normal}}
+{{Catch/entryfl|022|Fearow|yes|yes|Grass|25, 27, 29|15%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|019|Rattata|yes|yes|Grass|22|5%|type1=Normal}}
+{{catch/div|road|Special}}
+{{catch/entryfl|108|Lickitung|yes|no|Trade|Same as the traded Pokémon|One|tradenum=055|tradename=Golduck|type1=Normal}}
+{{catch/entryfl|108|Lickitung|no|yes|Trade|Same as the traded Pokémon|One|tradenum=080|tradename=Slowbro|type1=Normal}}
+{{Catch/footer|road}}
+|}
+
+
+===Time for a Trade===
+Enter the gate and visit the second floor to find a boy who is looking to trade Pokémon. He is hoping to get a {{p|Golduck}}{{sup/3|FR}} / {{p|Slowbro}}{{sup/3|LG}}, and is willing to trade his {{p|Lickitung}} for one. Both Golduck and Slowbro can be caught in the wild, but Lickitung is a unique Pokémon found nowhere else.
+
+==Fuchsia City==
+[[File:Fuchsia City FRLG.png|thumb|Fuchsia City]]
+
+[[Fuchsia City]] is the largest city in southern [[Kanto]], located between {{rt|18|Kanto}} and {{rt|15|Kanto}}. To the south, a beach leads to the waters of {{rt|19|Kanto}}. The northern part of the city is occupied by rare Pokémon exhibits and a nature preserve known as the [[Safari Zone]]. Trainers aiming to earn their next Badge can challenge the [[Fuchsia Gym]] in the southwest.
+
+{| class="expandable" align="center" style="background: #DA5DA8; {{roundy}}; border: 5px solid #E693C5;"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|fog|no}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/footer|fog}}
+|}
+{| class="expandable" align="center" style="background: #DA5DA8; {{roundy}}; border: 5px solid #E693C5;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|fog}}
+{{itemlist|Good Rod III|Southeastern-most house; from the [[Fishing Brothers|Fishing Guru's brother]]|FR=yes|LG=yes|display=[[Good Rod]]}}
+{{itemlist|HM Normal|Southeast house; from [[Baoba|the Safari Zone Warden]], after returning his [[Gold Teeth]]|FR=yes|LG=yes|display={{HM|04|Strength}}}}
+{{itemlist|Rare Candy|Inside the Safari Zone Warden's house (requires {{m|Strength}})|FR=yes|LG=yes}}
+{{itemlist|Max Revive|Backyard of the Fishing Guru's house, one step east of the southernmost flower ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|TM Poison|From Koga, after defeating him|FR=yes|LG=yes|display={{TM|06|Toxic}}}}
+{{itlistfoot|fog}}
+|}
+
+
+===Fishing Guru 2===
+The southeastern-most house belongs to the [[Fishing Brothers|Fishing Guru's brother]]. Speak to him to receive a [[Good Rod]]. This mid-level fishing rod can reel in a greater variety of water-dwelling Pokémon than the [[Old Rod]]. Give it a try at his backyard pond to find {{p|Poliwag}} and {{p|Goldeen}} to add to your collection.
+
+===Safari Zone Warden's house===
+The southeastern house belongs to [[Baoba|the Safari Zone Warden]]. It is difficult to understand what he is saying, but seems to have misplaced his set of [[Gold Teeth]]. If you happen to find a set of false teeth, be sure to return it to him.
+
+===Fuchsia Gym===
+[[File:Fuchsia Gym FRLG.png|thumb|Fuchsia Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|FUCHSIA CITY POKéMON GYM<br>LEADER: KOGA}}
+{{sign|FRLG|The Poisonous Ninja Master!}}
+{{sign|FRLG|footer}}
+
+The [[Fuchsia Gym]] officially specializes in {{type|Poison}} Pokémon, although there are several {{t|Psychic}}- and {{type|Ground}} Pokémon to be found inside. Poison-type moves are super effective against {{type|Grass}} Pokémon, while Poison-type Pokémon are weak to Ground- and Psychic-type moves.
+
+The Gym Leader is trained in the skills of the ninja, and has installed a series of nearly invisible glass panels to disorient any challengers. Anyone looking to battle the Gym Leader must first find the path between these panels to reach the middle of the room. [[Koga]]'s team includes only pure Poison-type Pokémon, but three of his Pokémon have the {{a|Levitate}} Ability, making Psychic-type moves the most effective. Each of his Pokémon can {{status|poison}} their target, so be sure to bring along some [[Antidote]]s.
+
+{{WalkthroughGym
+| background = {{poison color}}
+| headcolor = {{poison color light}}
+| name = Fuchsia Gym
+| badge = Soul Badge
+| image = Soul Badge.png
+| trainers = 
+{{Trainerheader|Poison}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Nate|1360|2|096|Drowzee|♂|34|None|064|Kadabra|♂|34|None}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Kayden|1520|1|097|Hypno|♂|38|None}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Kirk|1240|4|096|Drowzee|♂|31|None|096|Drowzee|♂|31|None|064|Kadabra|♂|31|None|096|Drowzee|♂|31|None}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr FRLG Tamer.png|Tamer|Edgar|1320|3|024|Arbok|♂|33|None|024|Arbok|♂|33|None|028|Sandslash|♂|33|None}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr FRLG Tamer.png|Tamer|Phil|1360|2|028|Sandslash|♂|34|None|024|Arbok|♂|34|None}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Shawn|1360|2|096|Drowzee|♂|34|None|097|Hypno|♂|34|None}}
+{{Trainerfooter|Poison|I}}
+| party = 
+{{Party
+| background = {{poison color}}
+| border = {{poison color dark}}
+| headcolor = {{poison color light}}
+| middle = yes
+| sprite = Spr FRLG Koga.png
+| prize = {{PDollar}}4,300
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Koga}}
+| game = FRLG
+| location = Fuchsia Gym
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| game = FireRed
+| ndex = 0109
+| pokemon = Koffing
+| gender = male
+| ability = Levitate
+| level  =37
+| type1 = Poison
+| move1 = Selfdestruct | move1type = Normal
+| move2 = Sludge | move2type = Poison
+| move3 = SmokeScreen | move3type = Normal
+| move4 = Toxic | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 089
+| pokemon = Muk
+| gender = male
+| ability = Sticky Hold
+| level = 39
+| type1 = Poison
+| move1 = Minimize | move1type = Normal
+| move2 = Sludge | move2type = Poison
+| move3 = Acid Armor | move3type = Poison
+| move4 = Toxic | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 109
+| pokemon = Koffing
+| gender = male
+| ability = Levitate
+| level = 37
+| type1 = Poison
+| move1 = Selfdestruct | move1type = Normal
+| move2 = Sludge | move2type=Poison
+| move3 = SmokeScreen | move3type = Normal
+| move4 = Toxic | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 110
+| pokemon = Weezing
+| gender = male
+| ability = Levitate
+| level = 43
+| type1 = Poison
+| move1 = Tackle | move1type = Normal
+| move2 = Sludge | move2type = Poison
+| move3 = SmokeScreen | move3type = Normal
+| move4 = Toxic | move4type = Poison
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Koga]] awards you the {{badge|Soul}}, which gives your Pokémon a slight {{stat|Defense}} boost during battle and enables the use of {{m|Surf}} in the field. As a prize, he also gives you {{TM|06|Toxic}}, which he claims is a secret ninja technique from over 400 years ago.
+
+===Safari Zone===
+For {{pdollar}}500, Trainers who visit the {{ka|Safari Zone}} are given 30 [[Safari Ball]]s and allowed to catch any Pokémon they can find. There is a catch: visitors are restricted from using their own Pokémon to weaken the wild Pokémon first. Instead, they may throw either bait or rocks before attempting capture. Throwing bait makes a Pokémon less likely to run, but harder to catch; throwing a rock has the opposite effect. When visitors run out of Safari Balls or walk 600 steps, the game is over.
+
+{| class="roundy" style="margin:auto; background: #000; border: 3px solid #{{locationcolor/dark|land}}"
+|-
+! style="background:#{{locationcolor/light|land}}; {{roundytl|5px}}" | Center Area
+! style="background:#{{locationcolor/light|land}}" | Area 1
+! style="background:#{{locationcolor/light|land}}" | Area 2
+! style="background:#{{locationcolor/light|land}}; {{roundytr|5px}}" | Area 3
+|-
+| [[File:Safari Zone entrance FRLG.png|150px]]
+| [[File:Safari Zone area 1 FRLG.png|150px]]
+| [[File:Safari Zone area 2 FRLG.png|150px]]
+| [[File:Safari Zone area 3 FRLG.png|150px]]
+|-
+| colspan="4" style="background:#{{locationcolor/light|land}}; line-height: 50%; {{roundybottom|5px}}" | &nbsp;
+|}
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Center Area
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|029|Nidoran♀|no|yes|Grass|22|20%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|yes|no|Grass|22|20%|type1=Poison}}
+{{Catch/entryfl|102|Exeggcute|yes|yes|Grass|24-25|20%|type1=Grass|type2=Psychic}}
+{{Catch/entryfl|111|Rhyhorn|yes|yes|Grass|25|20%|type1=Ground|type2=Rock}}
+{{Catch/entryfl|048|Venonat|yes|yes|Grass|22|15%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|030|Nidorina|no|yes|Grass|31|10%|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|yes|no|Grass|31|10%|type1=Poison}}
+{{Catch/entryfl|030|Nidorina|yes|no|Grass|31|5%|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|no|yes|Grass|31|5%|type1=Poison}}
+{{Catch/entryfl|047|Parasect|yes|yes|Grass|30|5%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|123|Scyther|yes|no|Grass|23|4%|type1=Bug|type2=Flying}}
+{{Catch/entryfl|127|Pinsir|no|yes|Grass|23|4%|type1=Bug}}
+{{Catch/entryfl|113|Chansey|yes|yes|Grass|23|1%|type1=Normal}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 1
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|029|Nidoran♀|no|yes|Grass|24|20%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|yes|no|Grass|24|20%|type1=Poison}}
+{{Catch/entryfl|084|Doduo|yes|yes|Grass|26|20%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|102|Exeggcute|yes|yes|Grass|23, 25|20%|type1=Grass|type2=Psychic}}
+{{Catch/entryfl|046|Paras|yes|yes|Grass|22|15%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|030|Nidorina|no|yes|Grass|33|10%|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|yes|no|Grass|33|10%|type1=Poison}}
+{{catch/entryfl|029|Nidoran♀|yes|no|Grass|24|5%|type1=Poison}}
+{{catch/entryfl|032|Nidoran♂|no|yes|Grass|24|5%|type1=Poison}}
+{{Catch/entryfl|047|Parasect|yes|yes|Grass|25|5%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|115|Kangaskhan|yes|yes|Grass|25|4%|type1=Normal}}
+{{Catch/entryfl|123|Scyther|yes|no|Grass|28|1%|type1=Bug|type2=Flying}}
+{{Catch/entryfl|127|Pinsir|no|yes|Grass|28|1%|type1=Bug}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 2
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|029|Nidoran♀|no|yes|Grass|30|20%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|yes|no|Grass|30|20%|type1=Poison}}
+{{Catch/entryfl|102|Exeggcute|yes|yes|Grass|25, 27|20%|type1=Grass|type2=Psychic}}
+{{Catch/entryfl|111|Rhyhorn|yes|yes|Grass|26|20%|type1=Ground|type2=Rock}}
+{{Catch/entryfl|046|Paras|yes|yes|Grass|23|15%|type1=Bug|type2=Grass}}
+{{Catch/entryfl|030|Nidorina|no|yes|Grass|30|10%|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|yes|no|Grass|30|10%|type1=Poison}}
+{{catch/entryfl|030|Nidorina|yes|no|Grass|30|5%|type1=Poison}}
+{{catch/entryfl|033|Nidorino|no|yes|Grass|30|5%|type1=Poison}}
+{{Catch/entryfl|049|Venomoth|yes|yes|Grass|32|5%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|113|Chansey|yes|yes|Grass|26|4%|type1=Normal}}
+{{Catch/entryfl|128|Tauros|yes|yes|Grass|28|1%|type1=Normal}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Area 3
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|029|Nidoran♀|no|yes|Grass|22|20%|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|yes|no|Grass|22|20%|type1=Poison}}
+{{Catch/entryfl|084|Doduo|yes|yes|Grass|26|20%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|102|Exeggcute|yes|yes|Grass|25, 27|20%|type1=Grass|type2=Psychic}}
+{{Catch/entryfl|048|Venonat|yes|yes|Grass|23|15%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|030|Nidorina|no|yes|Grass|30|10%|type1=Poison}}
+{{Catch/entryfl|033|Nidorino|yes|no|Grass|30|10%|type1=Poison}}
+{{catch/entryfl|029|Nidoran♀|yes|no|Grass|30|5%|type1=Poison}}
+{{catch/entryfl|032|Nidoran♂|no|yes|Grass|30|5%|type1=Poison}}
+{{Catch/entryfl|049|Venomoth|yes|yes|Grass|32|5%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|128|Tauros|yes|yes|Grass|25|4%|type1=Normal}}
+{{Catch/entryfl|115|Kangaskhan|yes|yes|Grass|28|1%|type1=Normal}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/footer|land}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth}}
+{{Itemlist|Safari Ball|Loaned for use in the Safari Game, leftovers are returned when the game ends|FR=yes|LG=yes|display=[[Safari Ball]] ×30}}
+{{catch/div|land|Center Area}}
+{{Itemlist|Nugget|On the central island (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{Itemlist|Leaf Stone|On the central island, three steps east of the Nugget ''(hidden)'' (requires Surf)|FR=yes|LG=yes}}
+{{catch/div|land|Area 1}}
+{{Itemlist|Leaf Stone|On the southern rocky ridge|FR=yes|LG=yes}}
+{{Itemlist|TM Fire|In the tall grass nearly surrounded by water|FR=yes|LG=yes|display={{TM|11|Sunny Day}}}}
+{{Itemlist|Max Potion|West of the smaller rocky ridge|FR=yes|LG=yes}}
+{{Itemlist|Full Restore|southwest of the rest house|FR=yes|LG=yes}}
+{{catch/div|land|Area 2}}
+{{Itemlist|Quick Claw|Near the middle of the zone|FR=yes|LG=yes}}
+{{Itemlist|TM Steel|Southwest of the rest house|FR=yes|LG=yes|display={{TM|47|Steel Wing}}}}
+{{Itemlist|Protein|Northwest of the rest house|FR=yes|LG=yes}}
+{{catch/div|land|Area 3}}
+{{Itemlist|Gold Teeth III|Northeast of the rocky ridge|FR=yes|LG=yes|display=[[Gold Teeth]]}}
+{{Itemlist|TM Normal|Southeast of the Secret House|FR=yes|LG=yes|display={{TM|32|Double Team}}}}
+{{Itemlist|Revive|In the dirt patch in front of the Secret House ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|HM Water|Secret House; from a safari official as a reward|FR=yes|LG=yes|display={{HM|03|Surf}}}}
+{{Itemlist|Max Potion|In the tall grass patch (requires {{m|Surf}})|FR=yes|LG=yes}}
+{{Itemlist|Max Revive|Southeast side of the rocky ridge (requires Surf)|FR=yes|LG=yes}}
+{{Itlistfoot}}
+|}
+
+
+====Center Area====
+Enter the safari and head to the northeast to reach the second area.
+
+====Area 1====
+Climb onto the larger rocky ridge to the south and pick up the [[Leaf Stone]]. Head west to reach several patches of tall grass, {{TM|11|Sunny Day}} on the edge of a lake, and a [[Max Potion]] to the northwest. Collect the [[Full Restore]] near the rest house and take the northwest exit.
+
+====Area 2====
+Climb onto the rocky ridge to the east to reach the middle of the zone and a [[Quick Claw]]. Backtrack, then go northwest through the tall grass and climb onto the western ridge. Head northeast from the three ponds to find {{TM|47|Steel Wing}}. Turn west near the rest house to pick up a [[Protein]] and follow the path to the southwest exit.
+
+====Area 3====
+Head south to find a set of [[Gold Teeth]], then go west to get {{TM|32|Double Team}} before entering the Secret House. It seems that no one else has ventured this deep into the park, so the {{HM|03|Surf}} is yours. Use it on a {{t|Water}} Pokémon, like {{p|Gyarados}} or {{p|Lapras}}, and you can cross the pond to the south to reach a [[Max Potion]] and a [[Max Revive]] on the way back to the center. Otherwise, you can backtrack through the other areas until the timer runs out, which likely will not be much longer.
+
+==Route 15==
+[[File:Kanto Route 15 FRLG.png|thumb|300px|Route 15]]
+
+{{rt|15|Kanto}} leads east from [[Fuchsia City]] to {{rt|14|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|land}}
+{{catch/div|land|Northern path (requires Cut)}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Becky|580|2|025|Pikachu|♀|29|None|026|Raichu|♀|29|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Crush Kin.png|Crush Kin|Ron & Mya|1392|2|107|Hitmonchan|♂|29|Black Belt|106|Hitmonlee|♂|29|Black Belt|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Celia|660|1|035|Clefairy|♀|33|None}}
+{{trainerdiv}}
+{{catch/div|land|Southern path}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Ernest|500|5|109|Koffing|♂|25|None|109|Koffing|♂|25|None|110|Weezing|♂|25|None|109|Koffing|♂|25|None|088|Grimer|♂|25|None}} 
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Alex|560|3|109|Koffing|♂|28|None|088|Grimer|♂|28|None|110|Weezing|♂|28|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Grace|2088|2|017|Pidgeotto|♀|29|None|040|Wigglytuff|♀|29|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Olivia|2088|2|001|Bulbasaur|♂|29|None|002|Ivysaur|♂|29|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Kindra|560|3|044|Gloom|♀|28|None|043|Oddish|♀|28|None|043|Oddish|♀|28|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Chester|672|3|085|Dodrio|♂|28|None|084|Doduo|♂|28|None|084|Doduo|♂|28|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Edwin|624|4|017|Pidgeotto|♂|26|None|083|Farfetch'd|♂|26|None|084|Doduo|♂|26|None|016|Pidgey|♂|26|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Yazmin|580|3|069|Bellsprout|♀|29|None|043|Oddish|♀|29|None|114|Tangela|♀|29|None}}
+{{trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|048|Venonat|yes|yes|Grass|24, 26|30%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|25, 27|20%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|017|Pidgeotto|yes|yes|Grass|29|5%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|044|Gloom|yes|no|Grass|28, 30|5%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|070|Weepinbell|no|yes|Grass|28, 30|5%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|132|Ditto|yes|yes|Grass|25|5%|type1=Normal}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth}}
+{{Itemlist|TM Water|Western portion of the northern hill (requires {{m|Cut}})|FR=yes|LG=yes|display={{TM|18|Rain Dance}}}}
+{{Itemlist|Exp. Share|In the gate; from [[Professor Oak]]'s [[Professor's assistant|aide]], after capturing 50 different species|FR=yes|LG=yes}}
+{{Itlistfoot}}
+|}
+
+
+===Share the Wealth===
+Enter the gate and speak to another of [[Professor Oak]]'s [[Professor's assistant|aides]]. If you have caught at least 50 different species, the professor has asked him to give you an [[Exp. Share]]. When held by a Pokémon in your party, his item distributes [[Experience|Experience Points]] to the holder whether they participate in the battle or not, but reduces the number of points for Pokémon that do participate.
+
+==Route 14==
+[[File:Kanto Route 14 FRLG.png|thumb|100px|Route 14]]
+
+{{rt|14|Kanto}} is a pleasant coastal road where the salty breeze blows in from the sea. The path runs north from {{rt|15|Kanto}} toward {{rt|13|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{Trainerheader|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Carter|672|3|016|Pidgey|M|28|None|084|Doduo|M|28|None|017|Pidgeotto|M|28|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Mitch|624|4|016|Pidgey|M|26|None|021|Spearow|M|26|None|016|Pidgey|M|26|None|022|Fearow|M|26|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Marlon|672|3|021|Spearow|M|28|None|084|Doduo|M|28|None|022|Fearow|M|28|None|38=Vs. Seeker}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Beck|696|2|017|Pidgeotto|M|29|None|022|Fearow|M|29|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Donald|792|1|083|Farfetch'd|M|33|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Benny|696|2|021|Spearow|M|29|None|022|Fearow|M|29|None|38=Vs. Seeker}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Twins.png|Twins|Kiri & Jan|696|2|004|Charmander|M|29|None|007|Squirtle|M|29|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Gerald|580|2|109|Koffing|M|29|None|089|Muk|M|29|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Malik|580|2|109|Koffing|M|29|None|088|Grimer|M|29|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Isaac|560|3|088|Grimer|M|28|None|088|Grimer|M|28|None|109|Koffing|M|28|None}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Lukas|520|4|109|Koffing|M|26|None|109|Koffing|M|26|None|088|Grimer|M|26|None|109|Koffing|M|26|None|38=Vs. Seeker}}
+{{Trainerfooter|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|048|Venonat|yes|yes|Grass|24, 26|30%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|132|Ditto|yes|yes|Grass|23|15%|type1=Normal}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|27|10%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|017|Pidgeotto|yes|yes|Grass|29|5%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|044|Gloom|yes|no|Grass|30|5%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|070|Weepinbell|no|yes|Grass|30|5%|type1=Grass|type2=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|land}}
+{{itemlist|Pinap Berry|Southeast corner, near Twins Kiri & Jan ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Zinc|In the tall grass patch ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+{{-}}
+==Route 13==
+[[File:Kanto Route 13 FRLG.png|thumb|300px|Route 13]]
+
+{{rt|13|Kanto}} is a difficult, narrow path that leads eastward from {{rt|14|Kanto}} to {{rt|12|Kanto}}. Many Trainers can be found among the maze of fences.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Alma|560|3|118|Goldeen|♀|28|None|060|Poliwag|♀|28|None|116|Horsea|♀|28|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Sebastian|696|2|016|Pidgey|♂|29|None|017|Pidgeotto|♂|29|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Susie|480|5|016|Pidgey|♀|24|None|052|Meowth|♀|24|None|019|Rattata|♀|24|None|025|Pikachu|♀|24|None|052|Meowth|♀|24|None|38=Vs. Seeker}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Lola|1944|3|019|Rattata|♀|27|None|025|Pikachu|♀|27|None|019|Rattata|♀|27|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Beauty.png|Beauty|Sheila|480|2|035|Clefairy|♀|29|None|052|Meowth|♀|29|None|38=Vs. Seeker}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Valerie|600|2|060|Poliwag|♀|30|None|060|Poliwag|♀|30|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Gwen|540|4|016|Pidgey|♀|27|None|052|Meowth|♀|27|None|016|Pidgey|♀|27|None|017|Pidgeotto|♀|27|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Robert|624|4|016|Pidgey|♂|26|None|017|Pidgeotto|♂|26|None|021|Spearow|♂|26|None|022|Fearow|♂|26|None|38=Vs. Seeker}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Bird Keeper.png|Bird Keeper|Perry|600|5|021|Spearow|♂|25|None|016|Pidgey|♂|25|None|016|Pidgey|♂|25|None|021|Spearow|♂|25|None|021|Spearow|♂|25|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Biker.png|Biker|Jared|560|3|109|Koffing|♂|28|None|109|Koffing|♂|28|None|109|Koffing|♂|28|None}}
+{{Trainerfooter}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|22, 24, 26|35%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|048|Venonat|yes|yes|Grass|24, 26|30%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|25, 27|20%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|017|Pidgeotto|yes|yes|Grass|29|5%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|044|Gloom|yes|no|Grass|28, 30|5%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|070|Weepinbell|no|yes|Grass|28, 30|5%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|132|Ditto|yes|yes|Grass|25|5%|type1=Normal}}
+{{Catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=Water|type2=Poison}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-35|84%|type1=Water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-35|84%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=Water|type2=Psychic}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth}}
+{{Itemlist|PP Up|Two steps east of the Trainer Tips sign that hints to look to the left ''(hidden)''|FR=yes|LG=yes}}
+{{Itlistfoot}}
+|}
+
+{{-}}
+==Route 12==
+[[File:Kanto Route 12 FRLG.png|thumb|75px|right|Route 12]]
+
+{{rt|12|Kanto}} connects [[Lavender Town]], {{rt|11|Kanto}}, and {{rt|13|Kanto}}. Beyond the northern gate, the area is also known as Silence Bridge. It is a favorite spot for Fishermen.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|water}}; {{roundy}}; border: 5px solid #{{locationcolor/light|water}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|water}}
+{{catch/div|water|North of Snorlax}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Ned|792|3|118|Goldeen|♂|22|None|060|Poliwag|♂|22|None|118|Goldeen|♂|22|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Chip|864|2|072|Tentacool|♂|24|None|118|Goldeen|♂|24|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Hank|972|1|118|Goldeen|♂|27|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Elliot|756|4|060|Poliwag|♂|21|None|090|Shellder|♂|21|None|118|Goldeen|♂|21|None|116|Horsea|♂|21|None|38=Vs. Seeker}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Young Couple.png|Young Couple|Gia & Jes|1344|2|032|Nidoran♂||24|None|029|Nidoran♀||24|None|38=Vs. Seeker}}
+{{catch/div|water|South of Snorlax}}
+{{Trainerentry|Spr FRLG Rocker.png|Rocker|Luca|696|2|100|Voltorb||29|None|101|Electrode||29|None|38=Vs. Seeker}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Justin|580<br><small>Requires {{m|Cut}}</small>|2|032|Nidoran♂||29|None|033|Nidorino|♂|29|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr FRLG Fisherman.png|Fisherman|Andrew|864|2|129|Magikarp|♂|24|None|129|Magikarp|♂|24|None}}
+{{trainerfooter|water}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|water}}; {{roundy}}; border: 5px solid #{{locationcolor/light|water}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|water|no}}
+{{catch/entryfl|043|Oddish|yes|no|Grass|22-26|35%|type1=grass|type2=poison}}
+{{catch/entryfl|069|Bellsprout|no|yes|Grass|22-26|35%|type1=grass|type2=poison}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|23-27|30%|type1=normal|type2=flying}}
+{{catch/entryfl|048|Venonat|yes|yes|Grass|24-26|30%|type1=bug|type2=poison}}
+{{catch/entryfl|044|Gloom|yes|no|Grass|28-30|5%|type1=grass|type2=poison}}
+{{catch/entryfl|070|Weepinbell|no|yes|Grass|28-30|5%|type1=grass|type2=poison}}
+{{Catch/div|water|Surfing}}
+{{catch/entryfl|072|Tentacool|yes|yes|Surf|5-40|100%|type1=water|type2=poison}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Good|5-15|60%|type1=water}}
+{{catch/entryfl|098|Krabby|yes|no|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|116|Horsea|no|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=water}}
+{{catch/entryfl|098|Krabby|no|yes|Fish Super|15-35|84%|type1=water}}
+{{catch/entryfl|116|Horsea|yes|no|Fish Super|15-35|84%|type1=water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=water|type2=flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|25-35|1%|type1=water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|25-35|1%|type1=water|type2=psychic}}
+{{Catch/footer|water}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|water}}; {{roundy}}; border: 5px solid #{{locationcolor/light|water}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|water}}
+{{Itemlist|TM Normal|From the girl on the second floor of the Lavender gate|FR=yes|LG=yes|display={{TM|27|Return}}}}
+{{Itemlist|TM Psychic|Southeast of the Lavender Town gate (requires {{m|Surf}})|FR=yes|LG=yes|display={{TM|48|Skill Swap}}}}
+{{Itemlist|Hyper Potion|Five steps east, two steps north of Fisherman Elliot ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Super Rod III|From the [[Fishing Brothers|Fishing Guru]]'s younger brother|FR=yes|LG=yes|display=[[Super Rod]]}}
+{{Itemlist|Net Ball|From the Fishing Guru's younger brother, for showing him a record-breaking {{p|Magikarp}} (repeatable)|FR=yes|LG=yes}}
+{{Itemlist|Iron|Southwest of the Fishing Guru's house (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{Itemlist|Rare Candy|In the tall grass patch ''(hidden)'' (requires Cut)|FR=yes|LG=yes}}
+{{Itlistfoot|water}}
+|}
+
+
+===Roadblock===
+Halfway through the route, a second {{p|Snorlax}} has fallen asleep in another inconvenient place. Use the [[Poké Flute]] like before to wake the Pokémon, and it attacks in a grumpy rage!
+
+{{Pokémon
+| walkthrough = yes
+| middle = yes
+| gen = 3
+| ndex = 0143
+| pokemon = Snorlax
+| gender = both
+| type1 = Normal
+| ability = Immunity
+| ability2 = Thick Fat
+| held = Chesto Berry
+| level = 30
+| move1 = Headbutt | move1type = Normal
+| move2 = Yawn | move2type = Normal
+| move3 = Rest | move3type = Psychic
+| move4 = Snore | move4type = Normal
+}}
+
+
+===Fishing Guru 3===
+The house to the south of the intersection with {{rt|11|Kanto}} is home to the [[Fishing Brothers|Fishing Guru]]'s younger brother. Speak to him to receive the [[Super Rod]]. This high-end fishing rod is the best model available and can reel in some of the strongest sea creatures, like {{p|Seaking}} and {{p|Dratini}}.
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=9
+|prevname=Celadon City, Celadon Gym, Rocket Hideout, Pokémon Tower
+|nextsection=11
+|nextname=Saffron City, Silph Co., Fighting Dojo, Saffron Gym
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|10]]

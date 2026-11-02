@@ -1,0 +1,606 @@
+{{WalkthroughNotice|FRLG}}
+==Cerulean City==
+[[File:Cerulean City FRLG.png|thumb|300px|Cerulean City]]
+
+[[Cerulean City]] is a beautiful city with flowing water and blooming flowers. It is located between {{rt|4|Kanto}}, {{rt|24|Kanto}}, {{rt|9|Kanto}}, and {{rt|5|Kanto}}.
+
+{| class="expandable" align="center" style="background: #3F9BBC; {{roundy}}; border: 5px solid #7FBCD2;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|lake|no}}
+{{Catch/div|lake|Special}}
+{{Catch/entryfl|124|Jynx|yes|yes|Trade|tradenum=061|tradename=Poliwhirl|The same as the traded Pokémon|One|type1=Ice|type2=Psychic}}
+{{catch/footer|lake}}
+|}
+{| class="expandable" align="center" style="background: #3F9BBC; {{roundy}}; border: 5px solid #7FBCD2;"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|lake}}
+{{Itemlist|Rare Candy|In the backyard of the northwest house ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Powder Jar|From an old man in the north-northwest house|FR=yes|LG=yes}}
+{{Itemlist|TM Water|From Misty, after defeating her|FR=yes|LG=yes|display={{TM|03|Water Pulse}}}}
+{{Itemlist|Fame Checker|From Blue, after defeating him|FR=yes|LG=yes}}
+{{itemlist|Fab Mail|Held by Zynx, a {{p|Jynx}} received through a trade|FR=yes|LG=yes}}
+{{catch/div|lake|Later visit}}
+{{Itemlist|TM Ground|From the Team Rocket Grunt, after defeating him|FR=yes|LG=yes|display={{TM|28|Dig}}}}
+{{Itemlist|Bicycle|From the [[Miracle Cycle|Bike Shop]] owner, in exchange for a [[Bike Voucher]]|FR=yes|LG=yes}}
+{{Itlistfoot|lake}}
+|}
+
+
+===Time for a Trade===
+Visit the house next to the Pokémon Center to find an old man who would like to [[trade]] Pokémon. He is willing to part with his {{p|Jynx}} in exchange for a {{p|Poliwhirl}}. Poliwhirl can only be found by using a [[Super Rod|high-level fishing rod]].
+
+===Gym Badges, Explained===
+The northwest house belongs to a man who offers to explains the effects of the eight {{DL|Badge|Indigo League|Gym Badges}}. Half of them give a slight power boost to a respective stat, while the other half ensure a Pokémon's [[obedience]] during battle. The first seven unlock the use of field moves.
+
+<br>
+{| style="margin: auto; background: #3F9BBC; {{roundy}}; border: 2px solid #007BA7;" cellspacing="2" cellpadding="4"
+|-
+! colspan="2" style="background: #7FBCD2; {{roundytl|5px}};" | Badge
+! style="background: #7FBCD2;" | Effect
+! colspan="2" style="background: #7FBCD2;" | Badge
+! style="background: #7FBCD2; {{roundytr|5px}};" | Effect
+|- align="center" style="background: #FFF;"
+| [[File:Boulder Badge.png|20px|Boulder Badge]]
+| {{badge|Boulder}}
+| Increases {{stat|Attack}},<br>Allows {{m|Flash}} in the field
+| [[File:Cascade Badge.png|20px|Cascade Badge]]
+| {{badge|Cascade}}
+| Ensures obedience up to level 30,<br>Allows {{m|Cut}} in the field
+|- align="center" style="background: #FFF;"
+| [[File:Thunder Badge.png|20px|Thunder Badge]]
+| {{badge|Thunder}}
+| Increases {{stat|Speed}},<br>Allows {{m|Fly}} in the field
+| [[File:Rainbow Badge.png|20px|Rainbow Badge]]
+| {{badge|Rainbow}}
+| Ensures obedience up to level 50,<br>Allows {{m|Strength}} in the field
+|- align="center" style="background: #FFF;"
+| [[File:Soul Badge.png|20px|Soul Badge]]
+| {{badge|Soul}}
+| Increases {{stat|Defense}},<br>Allows {{m|Surf}} in the field
+| [[File:Marsh Badge.png|20px|Marsh Badge]]
+| {{badge|Marsh}}
+| Ensures obedience up to level 70,<br>Allows {{m|Rock Smash}} in the field
+|- align="center" style="background: #FFF;"
+| [[File:Volcano Badge.png|20px|Volcano Badge]]
+| {{badge|Volcano}}
+| Increases {{stat|Special Attack}} and {{stat|Special Defense}},<br>Allows {{m|Waterfall}} in the field
+| [[File:Earth Badge.png|20px|Earth Badge]]
+| {{badge|Earth}}
+| Ensures obedience up to level 100
+|-
+| colspan="6" style="background: #7FBCD2; {{roundybottom|5px}};" | 
+|}
+
+
+===Medicine Man===
+The north-northwest house belongs to an old man. When provided with the required amount of [[Berry Powder]], he is able to concoct a variety of medicines. On your first visit, he gives out the [[Powder Jar]], which stores any and all Berry Powder obtained from the [[Berry Crush]] minigame.
+
+{| style="margin: auto;"
+|
+{{shop|Berry Powder}}
+{{shoprow|{{shopitem|Energy Powder|50|Units|display=EnergyPowder}}|{{shopitem|Energy Root|80|Units}}}}
+{{shoprow|{{shopitem|Heal Powder|50|Units}}|{{shopitem|Revival Herb|300|Units}}}}
+{{shoprow|{{shopitem|Protein|1,000|Units}}|{{shopitem|Iron|1,000|Units}}}}
+{{shoprow|{{shopitem|Carbos|1,000|Units}}|{{shopitem|Calcium|1,000|Units}}}}
+{{shoprow|{{shopitem|Zinc|1,000|Units}}|{{shopitem|HP Up|1,000|Units}}}}
+{{shoprow|{{shopitem|PP Up|3,000|Units}}}}
+{{shopfooter}}
+|}
+
+
+===Bike Shop===
+It would be great to get a [[Bicycle]] from the [[Miracle Cycle|Bike Shop]] in the southwest part of town, but they cost a whopping {{pdollar}}1,000,000! It is not possible to carry that much money, so it looks like you are stuck traveling on foot for now.
+
+===Breaking, Entering===
+The house in the northeast is currently blocked off by a police officer. It seems that [[Team Rocket]] has broken into the home and stolen [[TM28|a valuable item]] from its residents. Nothing can be done to remedy this at the moment, so set your sights on the Gym instead.
+
+===Cerulean Gym===
+[[File:Cerulean Gym FRLG.png|thumb|Cerulean Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|CERULEAN CITY POKéMON GYM<br>LEADER: MISTY}}
+{{sign|FRLG|The Tomboyish Mermaid!}}
+{{sign|FRLG|footer}}
+
+The [[Cerulean Gym]] specializes in {{type|Water}} Pokémon. Water-type moves are super effective against {{t|Fire}}-, {{t|Ground}}-, and {{type|Rock}} Pokémon, while Water-type Pokémon are weak to {{t|Electric}}- and {{type|Grass}} moves.
+
+Take out [[Misty]]'s {{p|Staryu}} quickly to move on to her {{p|Starmie}}. Her second Pokémon is both {{stat|Special Attack|stronger}} and {{stat|Speed|faster}} than Staryu, making its {{m|Water Pulse}} especially painful to vulnerable Pokémon. Use Pikachu's {{m|ThunderShock}}, or Grass moves like {{m|Vine Whip}} and {{m|Bullet Seed}}, to deal serious damage and make quick work of it.
+
+{{WalkthroughGym
+| background = {{water color}}
+| headcolor = {{water color light}}
+| name = Cerulean Gym
+| badge = Cascade Badge
+| image = Cascade Badge.png
+| trainers = 
+{{Trainerheader|Water}}
+{{Trainerentry|Spr FRLG Swimmer M.png|Swimmer|Luis|64|2|116|Horsea|♂|16|None|090|Shellder|♂|16|None}}
+{{Trainerdiv|Water}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Diana|380|1|118|Goldeen|♀|19|None}}
+{{Trainerfooter|Water|I}}
+| party =
+{{Party
+| background = {{water color}}
+| border = {{water color dark}}
+| headcolor = {{water color light}}
+| middle = yes
+| sprite = Spr FRLG Misty.png
+| prize = {{Pdollar}}2,100
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Misty}}
+| game = FRLG
+| location = Cerulean Gym
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0120
+| pokemon = Staryu
+| level = 18
+| type1 = Water
+| ability = Natural Cure
+| move1 = Tackle | move1type = Normal
+| move2 = Harden | move2type = Normal
+| move3 = Recover | move3type = Normal
+| move4 = Water Pulse | move4type = Water
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0121
+| pokemon = Starmie
+| level = 21
+| type1 = Water 
+| type2 = Psychic
+| ability = Natural Cure
+| move1 = Rapid Spin | move1type = Normal
+| move2 = Swift | move2type = Normal
+| move3 = Recover | move3type = Normal
+| move4 = Water Pulse | move4type = Water
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Misty]] awards you the {{badge|Cascade}}, which ensures obedience from all Pokémon up to level 30 and enables the use of {{m|Cut}} in the field. She also gives you {{TM|03|Water Pulse}} as a prize.
+
+===Rival Battle 3===
+When you head toward {{rt|24|Kanto}}, {{ga|Blue}} appears and taunts you as usual before drawing you into another battle. He leads with his {{p|Pidgeotto}}, so start off with {{t|Electric}}- and {{type|Rock}} attacks. His {{p|Abra}} is a sitting duck as {{m|Teleport|its only move}} does not deal any damage, making a good opportunity to earn experience for your lower-leveled Pokémon. {{p|Rattata}}'s {{m|Quick Attack}} lets it move first regardless of its {{stat|Speed}}, so try to take it out quickly. His [[first partner Pokémon|first Pokémon]] is more of a threat now that it has learned a damaging move that matches its type. This [[same-type attack bonus]] boosts its power by 50%. Avoid pitting your own first Pokémon against his, or your Pokémon could take serious damage.
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}288
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Cerulean City
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 17
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0063
+| pokemon = Abra
+| gender = male
+| level = 16
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0019
+| pokemon = Rattata
+| gender = male
+| level = 15
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0004
+| pokemon = Charmander
+| level = 18
+| gender = male
+| type1 = Fire
+| ability = Blaze
+| move1 = Scratch | move1type = Normal
+| move2 = Growl | move2type = Normal
+| move3 = Ember | move3type = Fire
+| move4 = Metal Claw | move4type = Steel
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0004|Charmander}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}288
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Cerulean City
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 17
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0063
+| pokemon = Abra
+| gender = male
+| level = 16
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0019
+| pokemon = Rattata
+| gender = male
+| level = 15
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0007
+| pokemon = Squirtle
+| level = 18
+| gender = male
+| type1 = Water
+| ability = Torrent
+| move1 = Tackle | move1type = Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Withdraw | move3type = Water
+| move4 = Water Gun |move4type = Water
+}}
+{{Party/end}}
+
+{{Party
+| walkthrough = yes
+| caption = {{PlayerChoice|0007|Squirtle}}
+| background = {{Blue color}}
+| border = {{Green color dark}}
+| headcolor = {{Blue color light}}
+| sprite = Spr FRLG Blue 1.png
+| prize = {{PDollar}}288
+| class = Rival
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Cerulean City
+| game = FRLG
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0017
+| pokemon = Pidgeotto
+| gender = male
+| level = 17
+| type1 = Normal | type2 = Flying
+| ability = Keen Eye
+| move1 = Tackle | move1type = Normal
+| move2 = Gust | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0063
+| pokemon = Abra
+| gender = male
+| level = 16
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Teleport | move1type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0019
+| pokemon = Rattata
+| gender = male
+| level = 15
+| type1 = Normal
+| ability = Guts
+| move1 = Tackle | move1type=Normal
+| move2 = Tail Whip | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0001
+| pokemon = Bulbasaur
+| level  = 18
+| gender = male
+| type1 = Grass 
+| type2 = Poison
+| ability = Overgrow
+| move1 = Sleep Powder | move1type = Grass
+| move2 = PoisonPowder | move2type = Poison
+| move3 = Vine Whip | move3type = Grass
+| move4 = Leech Seed | move4type = Grass
+}}
+{{Party/end}}
+
+
+After the battle, {{ga|Blue}} brags about visiting a world-famous PokéManiac and adding more data to his [[Pokédex]] before he runs off. He returns a moment later, saying that he feels sorry for you for always plodding along behind him, and gives you a gift. The [[Fame Checker]] is a device that records miscellaneous information about famous people, like [[Gym Leader]]s. Once Blue leaves this time, you are free to continue to {{rt|24|Kanto}}.
+
+==Route 24==
+[[File:Kanto Route 24 FRLG.png|thumb|100px|Route 24]]
+
+{{rt|24|Kanto}} stretches north from [[Cerulean City]] to {{rt|25|Kanto}}. Most of the area is occupied by a river and the Nugget Bridge that crosses it.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Nugget Bridge}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Cale|120|4|010|Caterpie|♂|10|None|013|Weedle|♂|10|None|011|Metapod|♂|10|None|014|Kakuna|♂|10|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Ali|192|3|016|Pidgey|♀|12|None|043|Oddish|♀|12|None|069|Bellsprout|♀|12|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Timmy|224|2|027|Sandshrew|♂|14|None|023|Ekans|♂|14|None|38=Vs. Seeker}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Reli|256|2|032|Nidoran♂||16|None|029|Nidoran♀||16|None|38=Vs. Seeker}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Ethan|360|1|056|Mankey|♂|18|None}}
+{{Trainerdiv}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||480|2|023|Ekans|♂|15|None|041|Zubat|♂|15|None}}
+{{catch/div|land|Grassy area}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Shane|280|2|019|Rattata|♂|14|None|023|Ekans|♂|14|None}}
+{{trainerfooter}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|12-14|25%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|12-14|25%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|010|Caterpie|yes|yes|Grass|7|20%|type1=Bug}}
+{{Catch/entryfl|013|Weedle|yes|yes|Grass|7|20%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|11, 13|15%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|063|Abra|yes|yes|Grass|8, 10, 12|15%|type1=Psychic}}
+{{Catch/entryfl|011|Metapod|no|yes|Grass|8|4%|type1=Bug}}
+{{Catch/entryfl|014|Kakuna|yes|no|Grass|8|4%|type1=Bug|type2=Poison}}
+{{Catch/entryfl|011|Metapod|yes|no|Grass|8|1%|type1=Bug}}
+{{Catch/entryfl|014|Kakuna|no|yes|Grass|8|1%|type1=Bug|type2=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Nugget|From the Team Rocket Grunt, after defeating the Trainers on Nugget Bridge|FR=yes|LG=yes}}
+{{itemlist|TM Normal|On the northwest hill|FR=yes|LG=yes|display={{TM|45|Attract}}}}
+{{itemlist|Pecha Berry|On the northeast hill, accessible via Route 25 ''(hidden)''|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Nugget Bridge===
+There are five Trainers to be fought on the famous Nugget Bridge. When all five are defeated, a man at the bridge's north end will reward you with a [[Nugget]], a bit of gold that can be sold for a high price. The man then reveals himself as a [[Team Rocket]] Grunt and tries to persuade you to join the group, and draws you into battle when you refuse.
+
+==Route 25==
+[[File:Kanto Route 25 FRLG.png|thumb|400px|Route 25]]
+[[File:<!--Sea Cottage interior FRLG-->SeaBill.png|thumb|Sea Cottage, interior]]
+
+{{rt|25|Kanto}} leads eastward from {{rt|24|Kanto}}. The path winds its way through a forest before it ends overlooking the sea. The [[Sea Cottage]] is located on the east side.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Franklin|540|2|066|Machop|♂|15|None|074|Geodude|♂|15|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Wayne|612|1|095|Onix|♂|17|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Joey|240|2|019|Rattata|♂|15|None|021|Spearow|♂|15|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Dan|272|1|079|Slowpoke|♂|17|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Picnicker.png|Picnicker|Kelsey|300|2|032|Nidoran♂||15|None|029|Nidoran♀||15|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Hiker.png|Hiker|Nob|468|4|074|Geodude|♂|13|None|074|Geodude|♂|13|None|066|Machop|♂|13|None|074|Geodude|♂|13|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Flint|280|2|019|Rattata|♂|14|None|023|Ekans|♂|14|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Youngster.png|Youngster|Chad|224|2|023|Ekans|♂|14|None|027|Sandshrew|♂|14|None|38=Vs. Seeker}}
+{{trainerdiv}}
+{{Trainerentry|Spr FRLG Lass.png|Lass|Haley|208|3|043|Oddish|♀|13|None|016|Pidgey|♀|13|None|043|Oddish|♀|13|None}}
+{{Trainerfooter}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+| 
+{{catch/header|land|no}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|12-14|25%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|12-14|25%|type1=Grass|type2=Poison}}
+{{catch/entryfl|010|Caterpie|yes|yes|Grass|8|20%|type1=Bug}}
+{{catch/entryfl|013|Weedle|yes|yes|Grass|8|20%|type1=Bug|type2=Poison}}
+{{catch/entryfl|016|Pidgey|yes|yes|Grass|11, 13|15%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|063|Abra|yes|yes|Grass|9, 11, 13|15%|type1=Psychic}}
+{{catch/entryfl|011|Metapod|no|yes|Grass|9|4%|type1=Bug}}
+{{catch/entryfl|014|Kakuna|yes|no|Grass|9|4%|type1=Bug|type2=Poison}}
+{{catch/entryfl|011|Metapod|yes|no|Grass|9|1%|type1=Bug}}
+{{catch/entryfl|014|Kakuna|no|yes|Grass|9|1%|type1=Bug|type2=Poison}}
+{{catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Elixir|Northwest part of the maze, near Hiker Franklin ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|TM Normal|Northeast part of the maze (requires defeating Camper Flint or {{m|Cut}})|FR=yes|LG=yes|display={{TM|43|Secret Power}}}}
+{{itemlist|Oran Berry|Southeast of the maze, next to a row of bushes ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Bluk Berry|Northeast of the maze, near the end of the fence ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|Ether|Two steps south and six steps east of the Sea Cottage entrance ''(hidden)''|FR=yes|LG=yes}}
+{{itemlist|S.S. Ticket|From Bill, after helping him undo his experiment|FR=yes|LG=yes}}
+{{itlistfoot|land}}
+|}
+
+
+===Sea Cottage===
+====An Unfortunate Turn====
+The [[Sea Cottage]] belongs to [[Bill]], a famous Pokémon researcher. When you step inside, it seems like Bill must be away, until you speak to the Pokémon inside. His latest experiment has gone awry and combined his DNA with that of a Pokémon! He needs your help, so once he has stepped into the machine, inspect his PC to activate a program to undo the change and return him to normal. As a token of gratitude, he gives you an [[S.S. Ticket]], which grants access to the [[S.S. Anne|luxury cruise ship]] currently docked in [[Vermilion City]] to the south.
+
+====Bill's Favorite Pokémon====
+Before leaving the cape, you can exit and re-enter the cottage and inspect Bill's PC to view some of [[Eeveelution|his favorite Pokémon]]. This adds {{p|Vaporeon|four}} {{p|Jolteon|new}} {{p|Flareon|pages}} to your Pokédex.
+
+==Cerulean City==
+===Justice, Served===
+Once you return to [[Cerulean City]], the officer blocking the burgled house has stepped aside, allowing you to enter. Inside are obvious signs of a break-in, like muddy footprints and overturned planters. There is even a large hole in the wall! Step out through the hole to find and confront the thief.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|road}}
+{{Trainerentry|Spr FRLG Team Rocket Grunt M.png|Team Rocket Grunt||544|2|066|Machop|♂|17|None|096|Drowzee|♂|17|None}}
+{{Trainerfooter|road|FRLG|Inside}}
+|}
+
+
+When he is defeated, the Rocket Grunt gives up the stolen {{TM|28|Dig}} before fleeing the scene. When used inside a cave, Dig instantly returns you to the entrance. It is useful in a pinch when you need to heal your Pokémon.
+
+==Route 5==
+[[File:Kanto Route 5 FRLG.png|thumb|Route 5]]
+
+{{rt|5|Kanto}} is a scenic road that runs downhill from [[Cerulean City]] to [[Saffron City]]. The [[Underground Path (Kanto Routes 5-6)|first]] of the region's two Underground Paths begins here and runs southward underneath Saffron City to re-emerge on {{rt|6|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+| 
+{{Catch/header|land|no}}
+{{Catch/entryfl|016|Pidgey|yes|yes|Grass|13, 15-16|40%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|052|Meowth|yes|yes|Grass|10, 12, 14, 16|35%|type1=Normal}}
+{{Catch/entryfl|043|Oddish|yes|no|Grass|13, 15-16|25%|type1=Grass|type2=Poison}}
+{{Catch/entryfl|069|Bellsprout|no|yes|Grass|13, 15-16|25%|type1=Grass|type2=Poison}}
+{{Catch/footer|land}}
+|}
+
+
+===Pokémon Day Care===
+The house on the hill is the [[Pokémon Day Care]]. The old man inside will raise one Pokémon at a time while you are away. A Pokémon left here will gain one [[Experience|experience point]] for every step taken. If you bought the {{p|Magikarp}} near [[Mt. Moon]], this is a good way to raise it. The downside is that he will make every decision, so he may end up deleting a move you would like to keep. He charges {{pdollar}}100, plus another {{pdollar}}100 for every new level, to return a Pokémon.
+
+===Underground Path===
+It is impossible to reach [[Saffron City]] at the moment, so enter the [[Underground Path (Kanto Routes 5-6)|Underground Path]] and follow the tunnel to {{rt|6|Kanto}}.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|building|no}}
+{{Catch/div|building|Gift Pokémon}}
+{{Catch/entryfl|029|Nidoran♀|yes|no|Trade|tradenum=032|tradename=Nidoran♂|The same as the traded Pokémon|One|type1=Poison}}
+{{Catch/entryfl|032|Nidoran♂|no|yes|Trade|tradenum=029|tradename=Nidoran♀|The same as the traded Pokémon|One|type1=Poison}}
+{{Catch/footer|building}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|building}}; {{roundy}}; border: 5px solid #{{locationcolor/light|building}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|building}}
+{{itemlist|Tiny Mushroom|Held by Ms. Nido{{sup/3|FR}} / Mr. Nido{{sup/3|LG}}, a {{p|Nidoran♀}}{{sup/3|FR}} / {{p|Nidoran♂}}{{sup/3|LG}} received through a trade|FR=yes|LG=yes|display=[[Tiny Mushroom|TinyMushroom]]}}
+{{Itemlist|Antidote|Two squares south of the northern stairs and two squares west of the eastern wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Paralyze Heal|On the northernmost blue line, three squares east of the western wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes|display=[[Paralyze Heal|Parlyz Heal]]}}
+{{Itemlist|Awakening|Six squares north of the northernmost red line, one square east of the western wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Potion|On the northernmost red line, two squares west of the eastern wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Ether|Five squares south of the southernmost blue line, three squares east of the western wall ''(hidden [[Recurring item|recurring item]]; group C)''|FR=yes|LG=yes}}
+{{Itemlist|Ice Heal|Six squares north of the southern stairs and one square west of the eastern wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{Itemlist|Burn Heal|Two squares north of the southern stairs and two squares east of the western wall ''(hidden [[Recurring item|recurring item]]; group B)''|FR=yes|LG=yes}}
+{{itlistfoot|building}}
+|}
+
+
+====Time for a Trade====
+A girl in the north gate is looking to [[trade]]. She is willing to part with her {{p|Nidoran♀}}{{sup/3|FR}} / {{p|Nidoran♂}}{{sup/3|LG}} in exchange for its opposite-gender counterpart. The Pokémon arrives holding a [[Tiny Mushroom|TinyMushroom]].
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=4
+|prevname=Route 3, Mt. Moon, Route 4
+|nextsection=6
+|nextname=Route 6, Vermilion City, S.S. Anne, Vermilion Gym
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|05]]

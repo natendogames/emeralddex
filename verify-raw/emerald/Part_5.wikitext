@@ -1,0 +1,504 @@
+==Mauville City==
+[[File:Mauville City E.png|thumb|Mauville City]]
+
+[[Mauville City]] is located in central [[Hoenn]], situated between Routes {{rtn|110|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|117|Hoenn}}, and {{rtn|118|Hoenn}}. Tourist hotspots include the [[Mauville Gym]], [[Mauville Game Corner|Game Corner]], and [[Rydel's Cycles]].
+
+{| class="expandable" style="margin: auto; background: #DC8FEA; {{roundy}}; border: 5px solid #E0B0FF;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|Coin Case|From the woman in the house next to the Poké Mart, in exchange for a piece of [[Harbor Mail]]|E=yes}}
+{{itemlist|X Speed|Southeast of the Poké Mart, behind the fence|E=yes}}
+{{itemlist|HM Fighting|From the Scientist in the southeast house|E=yes|display={{HM|06|Rock Smash}}}}
+|- style="background: #FFF;"
+| align="center" | {{bag|Acro Bike}}<br><br>{{bag|Mach Bike}}
+| align="center" | [[Acro Bike]]<br>or<br>[[Mach Bike]]
+| align="left" | From Rydel; can switch models at any time by speaking to him again
+| align="center" | '''<span style="background: #{{emerald color}}">{{color2|FFF|Pokémon Emerald Version|&nbsp;E&nbsp;}}</span>'''
+|- style="background: #FFF;"
+| align="center" | [[File:Doll Treecko III.png]]<br><br>[[File:Doll Torchic III.png]]<br><br>[[File:Doll Mudkip III.png]]
+| align="center" | {{DL|Decoration|Pokémon dolls 2|Treecko Doll}},<br>{{DL|Decoration|Pokémon dolls 2|Torchic Doll}},or<br>{{DL|Decoration|Pokémon dolls 2|Mudkip Doll}}
+| align="left" | From a girl in the Game Corner, to match the player's starter Pokémon
+| align="center" | '''<span style="background: #{{emerald color}}">{{color2|FFF|Pokémon Emerald Version|&nbsp;E&nbsp;}}</span>'''
+{{itemlist|Coin Case|From a man to the right of the Game Corner's service desk|E=yes|display=20 {{OBP|Coin|Game Corner}}s}}
+{{catch/div|road|After defeating the Mauville Gym}}
+{{itemlist|TM Electric|From Wattson upon his defeat|E=yes|display={{TM|34|Shock Wave}}}}
+{{itlistfoot|road}}
+|}
+
+
+===Rydel's Cycles===
+[[Rydel's Cycles]] is located near the city's east exit. Spotting your dirty [[Running Shoes]], the shop owner, [[Rydel]], realizes that you've done a lot of traveling. He offers you a free bicycle, and gives you the choice between two models. The [[Mach Bike]] is faster and is able to ride up {{DL|Bike obstacles|muddy slopes}}, which is useful for exploring places like [[Granite Cave]]. The [[Acro Bike]] is slower which allows for more precise control and the ability to perform {{DL|Bicycle|tricks}}. After choosing a bike, you can speak to Rydel at any time to swap it for the other model. 
+
+===Game Corner===
+[[File:Mauville Game Corner interior RSE.png|thumb|Game Corner interior]]
+[[File:Pokemon Game Corner Roulette.png|thumb|Roulette]]
+
+The [[Mauville Game Corner|Game Corner]] features sixteen [[slot machine]]s, four of which are in use by other patrons, and two [[roulette]] tables. A [[Coin Case]] is needed to participate. {{OBP|Coin|Game Corner}}s may be purchased from the woman at the left side of the service desk, available at 50 for {{pdollar}}1,000 and 500 for {{pdollar}}10,000.
+
+====Prizes====
+Collect enough coins and they can be exchanged for valuable prizes. To do so, speak to either of the two women at the right side of the service desk.
+
+{| style="margin: auto;"
+|
+{{shop|Left woman}}
+{{shoprow|{{shopitem|TM32|1500|C||TM Normal|Double Team}}|{{shopitem|TM29|3500|C||TM Psychic|Psychic}}}}
+{{shoprow|{{shopitem|TM35|4000|C||TM Fire|Flamethrower}}|{{shopitem|TM24|4000|C||TM Electric|Thunderbolt}}}}
+{{shoprow|{{shopitem|TM13|4000|C||TM Ice|Ice Beam}}}}
+{{shopfooter|multiple=yes}}
+{{shop|Right woman}}
+{{shoprow|{{shopdec|Treecko Doll|Doll Treecko III|1000|Coins|6=List of decorations in Generation III#Treecko Doll}}|{{shopdec|Torchic Doll|Doll Torchic III|1000|Coins|6=List of decorations in Generation III#Torchic Doll}}}}
+{{shoprow|{{shopdec|Mudkip Doll|Doll Mudkip III|1000|Coins|6=List of decorations in Generation III#Mudkip Doll}}}}
+{{shopfooter}}
+|}
+
+===Move Tutor===
+Another [[Move Tutor]] can be found outside the Gym. This man offers to teach the move {{m|Rollout}} to a Pokémon, one time only.
+
+===Wally's Challenge===
+When you approach the Gym, you find [[Wally]] and his uncle talking outside the building. He desperately wants to challenge the Gym, but his uncle has reservations. He challenges you to a quick battle to test his skills.
+
+{{Party
+| walkthrough = yes
+| background = {{tcg grass color light}}
+| border = {{tcg grass color}}
+| headcolor = CED8F6
+| sprite = Spr RS Wally.png
+| prize = {{PDollar}}960
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Wally}}
+| location = Mauville City
+| game = E
+| pokemon = 1
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0280
+| pokemon = Ralts
+| gender = male
+| level = 16
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Growl | move1type = Normal
+| move2 = Confusion | move2type = Psychic
+| move3 = Double Team | move3type = Normal
+| move4 = Teleport | move4type = Psychic
+}}
+{{Party/end}}
+
+
+After being defeated, he decides to return to [[Verdanturf Town]]. As they turn to leave, his uncle recognizes you as the Trainer who helped Wally catch his {{p|Ralts}}, and invites you to visit them in Verdanturf.
+
+[[Scott]] arrives after they leave. He was watching the match, and was impressed that you didn't hold anything back, even when battling a friend. He lets you know that he'll be cheering for you, and heads west to {{rt|117|Hoenn}}. Soon after that, you receive a call from [[Wally]]. His uncle has just bought him a PokéNav, and he's excited that he can contact you anytime.
+
+===Mauville Gym===
+[[File:Mauville Gym E.png|thumb|Mauville Gym]]
+
+{{sign|E|header}}
+{{sign|E|title|Mauville City Pokémon Gym<br>Leader: Wattson}}
+{{sign|E|The cheerfully electrifying man!}}
+{{sign|E|footer}}
+
+The [[Mauville Gym]] specializes in {{type|Electric}} Pokémon. While most Pokémon of this type are only vulnerable to {{type|Ground}} attacks, the other Pokémon inside make {{t|Fire}} and {{t|Fighting}} moves useful as well. Keep your {{t|Water}}- and {{type|Flying}} Pokémon on the sidelines for now. The Gym features several electrical barriers, which can be turned on and off by stepping on thunderbolt-shaped switches. To reach the Gym Leader, simply step on the southwest switch.
+
+[[Wattson]] leads with his {{p|Voltorb}}. Though its {{stat|Attack}} is low, its {{m|Selfdestruct}} may unexpectedly knock out one of your Pokémon. His {{p|Electrike}} is not much of a threat, but it can strike first with {{m|Quick Attack}}. Pokémon that use [[contact]] moves against Electrike also risk becoming paralyzed due to its {{a|Static}} Ability. {{p|Magneton}} likes to start with {{m|Supersonic}} to confuse its foe. Its {{stat|Special Attack}} is dangerously high, which allows it to deal serious damage with the unavoidable {{m|Shock Wave}} move; fortunately, it also sustains quadruple damage from Ground moves. His {{p|Manectric}} can use {{m|Howl}} to raise its {{stat|Attack}}, which boosts the damage dealt by Quick Attack. It can also actively paralyze the foe with {{m|Thunder Wave}}, and like Electrike, has the Static Ability.
+
+{{WalkthroughGym
+| background = {{electric color}}
+| headcolor = {{electric color light}}
+| name = Mauville Gym
+| badge = Dynamo Badge
+| image = Dynamo Badge.png
+| trainers = 
+{{Trainerheader|Electric}}
+{{Trainerentry|Spr RS Battle Girl.png|Battle Girl|Vivian|408<br/><small>Potential [[Double Battle]] with Kirk</small>|2|307|Meditite|♀|17||307|Meditite|♀|17|}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RS Guitarist.png|Guitarist|Kirk|544<br/><small>Potential [[Double Battle]] with Vivian</small>|2|309|Electrike|♂|17||100|Voltorb||17|}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RS Youngster.png|Youngster|Ben|272|2|263|Zigzagoon|♂|17||316|Gulpin|♂|17|}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Angelo|1020<br/><small>Potential [[Double Battle]] with Shawn</small>|2|314|Illumise|♀|17||313|Volbeat|♂|17|}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RS Guitarist.png|Guitarist|Shawn|544<br/><small>Potential [[Double Battle]] with Angelo</small>|2|100|Voltorb||17||081|Magnemite||17|}}
+{{Trainerfooter|Electric|I}}
+| party = 
+{{Party
+| background = {{electric color}}
+| border = {{electric color dark}}
+| headcolor = {{electric color light}}
+| middle = yes
+| sprite = Spr RS Wattson.png
+| prize = {{PDollar}}2400
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Wattson}}
+| location = Mauville Gym
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0100
+| pokemon = Voltorb
+| gender = none
+| level = 20
+| type1 = Electric
+| ability = Soundproof
+| move1 = Rollout | move1type = Rock
+| move2 = Spark | move2type = Electric
+| move3 = Selfdestruct | move3type = Normal
+| move4 = Shock Wave | move4type = Electric
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0309
+| pokemon = Electrike
+| gender = male
+| level = 20
+| type1 = Electric
+| ability = Static
+| move1 = Shock Wave | move1type = Electric
+| move2 = Leer | move2type = Normal
+| move3 = Quick Attack | move3type = Normal
+| move4 = Howl | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0082
+| pokemon = Magneton
+| gender = none
+| level = 22
+| type1 = Electric
+| type2 = Steel
+| ability = Magnet Pull
+| move1 = Supersonic | move1type = Normal
+| move2 = Shock Wave | move2type = Electric
+| move3 = Thunder Wave | move3type = Electric
+| move4 = SonicBoom | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0310
+| pokemon = Manectric
+| gender = male
+| level = 24
+| type1 = Electric
+| ability = Static
+| held = Sitrus Berry
+| move1 = Quick Attack | move1type = Normal
+| move2 = Thunder Wave | move2type = Electric
+| move3 = Shock Wave | move3type = Electric
+| move4 = Howl | move4type = Normal
+}}
+{{Party/end}}
+}}
+
+
+After the battle, Wattson awards you the {{badge|Dynamo}}, which boosts your Pokémon's {{stat|Speed}} by 10% and enables the use of {{m|Rock Smash}} in the field. He also hands out {{TM|34|Shock Wave}} as a prize, and registers himself in your PokéNav.
+
+==Now that you have the Mach Bike and Dynamo Badge (optional)==
+There are items on {{rt|104|Hoenn}} and [[Granite Cave]] B2F that you can pick up.
+
+===Route 104 (north)===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{Itemlist|White Herb|From a girl in front of the [[Pretty Petal flower shop]], after talking to the woman inside the shop by the door and obtaining the {{badge|Dynamo}}|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Granite Cave===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Granite Cave (B2F)
+|-
+|
+{{itlisth|cave}}
+{{Itemlist|Everstone|In the rock near the Rare Candy (requires [[Mach Bike]]) ''(hidden)''|E=yes}}
+{{Itemlist|Repel|Beneath the first two sets of cracked floors (requires [[Mach Bike]])|E=yes}}
+{{Itemlist|Rare Candy|Down the ladder past the three sets of cracked floors (requires [[Mach Bike]])|E=yes}}
+{{itlistfoot|cave}}
+|}
+You can also find {{p|Nosepass}} in Granite Cave (B2F) now by using the [[HM]] move {{m|Rock Smash}} on the rocks. The rocks reset each time you leave and re-enter the floor.
+
+===Route 110===
+While riding your bicycle, you can enter {{rt|110|Hoenn}}'s [[Seaside Cycling Road]] and battle the trainers there.
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{Trainerdiv|road|Seaside Cycling Road}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Jaclyn|384|1|063|Abra|♂|16|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker F.png|Triathlete|Abigail|640|1|081|Magnemite||16||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker M.png|Triathlete|Anthony|560|2|081|Magnemite||14||081|Magnemite||14|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker M.png|Triathlete|Benjamin|640|1|081|Magnemite||16||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker F.png|Triathlete|Jasmine|240|3|081|Magnemite||14||081|Magnemite||14||100|Voltorb||6|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Biker M.png|Triathlete|Jacob|560|3|100|Voltorb||6||100|Voltorb||6||081|Magnemite||14|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Triathlete Biker F.png|Triathlete|Abigail{{tt|*|First and second rematch}}|{{tt|1120|First rematch}}/{{tt|1240|Second rematch}}|1|081|Magnemite||{{tt|28|First rematch}}/{{tt|31|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Triathlete Biker F.png|Triathlete|Abigail{{tt|*|Third and fourth rematch onwards}}|{{tt|1360|Third rematch}}/{{tt|1480|Fourth rematch onwards}}|1|082|Magneton||{{tt|34|Third rematch}}/{{tt|37|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS  Triathlete Biker M.png|Triathlete|Benjamin{{tt|*|First and second rematch}}|{{tt|1200|First rematch}}/{{tt|1320|Second rematch}}|1|081|Magnemite||{{tt|30|First rematch}}/{{tt|33|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS  Triathlete Biker M.png|Triathlete|Benjamin{{tt|*|Third and fourth rematch onwards}}|{{tt|1440|Third rematch}}/{{tt|1560|Fourth rematch onwards}}|1|082|Magneton||{{tt|36|Third rematch}}/{{tt|39|Fourth rematch onwards}}||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+
+==Trick House - Puzzle 2 (optional)==
+In [[Trick House]] now you can complete the puzzle 2.
+
+==Route 117 (optional)==
+[[File:Hoenn Route 117 E.png|thumb|300px|Route 117]]
+
+{{rt|117|Hoenn}} stretches west from [[Mauville City]]. The optional path serves as a shortcut back to western [[Hoenn]], by way of [[Verdanturf Town]] and [[Rusturf Tunnel]]. A [[Pokémon Day Care]] is located just outside the city.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader}}
+{{trainerentry|Spr RS Triathlete Runner M.png|Triathlete|Dylan|680|1|084|Doduo|♂|17||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Anna & Meg|544|2|263|Zigzagoon|♂|15||296|Makuhita|♂|17||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder M.png|Pokémon Breeder|Isaac|440|6|293|Whismur|♂|11||263|Zigzagoon|♂|11||304|Aron|♂|11||261|Poochyena|♂|11||276|Taillow|♂|11||296|Makuhita|♂|11|38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Runner F.png|Triathlete|Maria|680|1|084|Doduo|♀|17||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Derek|960|2|269|Dustox|♂|16||267|Beautifly|♂|16|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Brandi|408<br><small>Potential [[Double Battle]] with Melina</small>|1|280|Ralts|♀|17|}}
+{{trainerentry|Spr RS Triathlete Runner F.png|Triathlete|Melina|680<br><small>Potential [[Double Battle]] with Brandi or Aisha</small>|1|084|Doduo|♀|17|}}
+{{trainerentry|Spr RS Battle Girl.png|Battle Girl|Aisha|408<br><small>Potential [[Double Battle]] with Melina</small>|1|307|Meditite|♀|17|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Lydia|440|6|278|Wingull|♀|11||285|Shroomish|♀|11||183|Marill|♀|11||315|Roselia|♀|11||300|Skitty|♀|11||118|Goldeen|♀|11||38=Nav}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Triathlete Runner M.png|Triathlete|Dylan{{tt|*|First and second rematch}}|{{tt|1120|First rematch}}/{{tt|1240|Second rematch}}|1|084|Doduo|♂|{{tt|28|First rematch}}/{{tt|31|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Triathlete Runner M.png|Triathlete|Dylan{{tt|*|Third and fourth rematch onwards}}|{{tt|1360|Third rematch}}/{{tt|1480|Fourth rematch onwards}}|1|085|Dodrio|♂|{{tt|34|Third rematch}}/{{tt|37|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Anna & Meg{{tt|*|First and second rematch}}|{{tt|960|First rematch}}/{{tt|1056|Second rematch}}|2|263|Zigzagoon|♂|{{tt|28|First rematch}}/{{tt|31|Second rematch}}||296|Makuhita|♂|{{tt|30|First rematch}}/{{tt|33|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Anna & Meg{{tt|*|Third rematch}}|1152|2|264|Linoone|♂|34||296|Makuhita|♂|36||38=Nav}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Anna & Meg{{tt|*|Fourth rematch onwards}}|1216|2|264|Linoone|♂|36||297|Hariyama|♂|38||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder M.png|Pokémon Breeder|Isaac{{tt|*|First rematch}}|880|6|294|Loudred|♂|22||264|Linoone|♂|22||304|Aron|♂|22||262|Mightyena|♂|22||277|Swellow|♂|22||296|Makuhita|♂|22||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder M.png|Pokémon Breeder|Isaac{{tt|*|Second and third rematch}}|{{tt|1000|Second rematch}}/{{tt|1120|Third rematch}}|6|294|Loudred|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||264|Linoone|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||304|Aron|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||262|Mightyena|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||277|Swellow|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||297|Hariyama|♂|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder M.png|Pokémon Breeder|Isaac{{tt|*|Fourth rematch onwards}}|1240|6|294|Loudred|♂|31||264|Linoone|♂|31||305|Lairon|♂|31||262|Mightyena|♂|31||277|Swellow|♂|31||297|Hariyama|♂|31||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Triathlete Runner F.png|Triathlete|Maria{{tt|*|First and second rematch}}|{{tt|1120|First rematch}}/{{tt|1240|Second rematch}}|1|084|Doduo|♀|{{tt|28|First rematch}}/{{tt|31|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Triathlete Runner F.png|Triathlete|Maria{{tt|*|Third and fourth rematch onwards}}|{{tt|1360|Third rematch}}/{{tt|1480|Fourth rematch onwards}}|1|085|Dodrio|♀|{{tt|34|Third rematch}}/{{tt|37|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Lydia{{tt|*|First rematch}}|880|6|278|Wingull|♀|22||285|Shroomish|♀|22||183|Marill|♀|22||315|Roselia|♀|22||300|Skitty|♀|22||118|Goldeen|♀|22||36=イクエ|37=Ikue|38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Lydia{{tt|*|Second and third rematch}}|{{tt|1000|Second rematch}}/{{tt|1120|Third rematch}}|6|279|Pelipper|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||286|Breloom|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||183|Marill|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||315|Roselia|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||301|Delcatty|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||118|Goldeen|♀|{{tt|25|Second rematch}}/{{tt|28|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Lydia{{tt|*|Fourth rematch onwards}}|1240|6|279|Pelipper|♀|31||286|Breloom|♀|31||184|Azumarill|♀|31||315|Roselia|♀|31||301|Delcatty|♀|31||119|Seaking|♀|31||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{Catch/entry3|043|Oddish|no|no|yes|Grass|13-14|40%|type1=Grass|type2=Poison}}
+{{Catch/entry3|261|Poochyena|no|no|yes|Grass|13-14|30%|type1=Dark}}
+{{Catch/entry3|314|Illumise|no|no|yes|Grass|13-14|18%|type1=Bug}}
+{{Catch/entry3|183|Marill|no|no|yes|Grass|13|10%|type1=Water}}
+{{Catch/entry3|273|Seedot|no|no|yes|Grass|13|1%|type1=Grass}}
+{{Catch/entry3|313|Volbeat|no|no|yes|Grass|13|1%|type1=Bug}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{Catch/div|land|Swarm}}
+{{Catch/entry3|273|Seedot|no|no|yes|Swarm|13|50%|type1=Grass}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Wepear Berry|From the Berry Trees on the east side of the route|E=yes|display=[[Wepear Berry]] ×9}}
+{{itemlist|Revive|Northwest part of the route (requires {{m|Cut}})|E=yes}}
+{{itemlist|Great Ball|Southwest part of the route|E=yes}}
+{{itemlist|Repel|Southwest part of the route (hidden)|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Pokémon Day Care===
+The [[Pokémon Day Care]] is a facility that raises Pokémon for busy Trainers. For a small fee, up to two Pokémon can be left here to be raised by the Day Care staff. During their stay, Pokémon will gradually level up and learn new moves. When two {{DL|Pokémon breeding|How to breed|compatible}} Pokémon are left at the same time, you may return to find an [[Pokémon Egg|Egg]]! Speak to the Day-Care Man and he will hint at the odds of finding one.
+
+{| style="margin: auto; background: #{{locationcolor/dark|land}}; {{roundy}}; border: 5px solid #{{locationcolor/med|land}};" cellpadding="3px"
+|-
+! style="background: #{{locationcolor/light|land}}; {{roundytl|5px}};" | Quote
+! style="background: #{{locationcolor/light|land}}; {{roundytr|5px}};" | Chance for Egg
+|- style="background: #FFF"
+| ''"The two seem to get along very well."'' || <center>70%</center>
+|- style="background: #FFF"
+| ''"The two seem to get along."'' || <center>50%</center>
+|- style="background: #FFF"
+| ''"The two don't seem to like each other much."'' || <center>20%</center>
+|-
+| style="background: #FFF; {{roundybl|5px}};" | ''"The two prefer to play with other Pokémon more than each other."''
+| style="background: #FFF; {{roundybr|5px}};" | <center>0%</center>
+|}
+
+Whenever an Egg is found, the Day-Care Man will be standing farther away from the fence, eager to talk to you. Speak to him to receive the Egg, and carry it with you on your journey. The more you travel with an Egg, the faster the Pokémon inside will hatch.
+
+==Verdanturf Town (optional)==
+[[File:Verdanturf Town E.png|thumb|Verdanturf Town]]
+
+{{to|Verdanturf}} is a small town just west of {{rt|117|Hoenn}}, at the foot of the mountains. Due to the prevailing wind pattern, the area is always kept clear of falling volcanic ash. [[Wally]] is visiting with his uncle's family here, in the hopes that the fresh, clean air will improve his health.
+
+{| class="expandable" style="margin: auto; background: #43AF83; {{roundy}}; border: 5px solid #70C0A0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|TM Normal|From a woman inside the Battle Tent|E=yes|display={{TM|45|Attract}}}}
+{{itemlist|Nest Ball|Reward for winning three consecutive battles in the Battle Tent|E=yes}}
+{{itlistfoot|land}}
+|}
+
+===Move Tutor===
+Another [[Move Tutor]] can be found inside the Pokémon Center. This young boy offers to teach the move {{m|Fury Cutter}} to a Pokémon, one time only.
+
+===Battle Tent===
+The {{DL|Battle Tent|Verdanturf Site|Verdanturf Battle Tent}} stands in the northwest corner of town, and is the second of three scattered throughout [[Hoenn]]. At this location, challengers select three of their Pokémon to battle three opposing Trainers. These Trainers' Pokémon will either be level 30, or match the highest-leveled Pokémon in your party, whichever is higher. Trainers take a backseat here, while their Pokémon battle on their own, using moves most suited to their [[Nature]]s. All moves are grouped into three categories; Attack, Defense, and Support. Each Nature has a ratio of Attack, Defense, and Support moves that Pokémon with that Nature will prefer to use, but these ratios may change when a Pokémon's HP falls below 50%. During battle, a Pokémon chooses one of these categories, then selects a random attack from its moveset that matches that category. If no such attack exists, the Pokémon will "appear incapable of using its power" and skip its turn. The reward for winning three consecutive battles here is a [[Nest Ball]].
+
+[[Scott]] can be found in the entry hall, in which he only appear in this place if you have the {{badge|Dynamo}}, a requirement we fulfill. He claims that a Battle Tent is a great place to meet tough Trainers, and expects you to do your best here.
+
+===Wanda's House===
+The middle home on the south side belongs to [[Wanda]], who happens to be [[Wally]]'s cousin. This is where Wally is staying for now, but it seems that he's run off to train his Pokémon. According to Wanda's mother, Wanda is concerned about her boyfriend, who is working non-stop to complete the construction of [[Rusturf Tunnel]]. She often goes there to visit him.
+
+===Friendship Rater===
+In the house situated to the left of Wanda's house, there is a woman who rates the [[friendship]] of Pokémon.
+
+==Rusturf Tunnel==
+[[File:Rusturf Tunnel E.png|thumb|Rusturf Tunnel]]
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|cave}}
+{{trainerentry|Spr RS Hiker.png|Hiker|Mike|640|3|074|Geodude|♂|16||074|Geodude|♂|16||066|Machop|♂|16|}}
+{{trainerfooter|cave|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|293|Whismur|no|no|yes|Cave|5-8|100%|type1=Normal}}
+{{Catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{itemlist|HM Normal|From [[Wanda]]'s boyfriend, after {{m|Rock Smash|clearing}} the remaining debris|E=yes|display={{HM|04|Strength}}}}
+{{itemlist|Max Ether|Northeast part of the cave|E=yes}}
+{{itlistfoot|cave}}
+|}
+
+===Reunion===
+Enter the cave through either {{rt|116|Hoenn}} or [[Verdanturf Town]]. With the {{badge|Dynamo}}, you can finally use {{m|Rock Smash}} to clear a path through [[Rusturf Tunnel]]. Step inside and go northwest to reach a group of cracked rocks. Clear the debris to open the tunnel and reunite [[Wanda]] with her hardworking boyfriend. As thanks, he gives you {{HM|04|Strength}}!
+
+===Route 116===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|Western area}}
+{{itemlist|Repeat Ball|From the Devon researcher, after delivering the [[Devon Parts|Devon Goods]] to [[Captain Stern]]|E=yes}}
+{{catch/div|land|Accessed through [[Verdanturf Town]]}}
+{{itemlist|Black Glasses|In the isolated eastern area, accessed via Rusturf Tunnel, by the bottom of the stairs (hidden)|E=yes}}
+{{itemlist|HP Up|In the isolated eastern area, on the mountainside|E=yes}}
+{{itlistfoot|land}}
+|}
+If you leave the tunnel through the middle exit, then you enter a new area on {{rt|116|Hoenn}}. You can pick up a [[Black Glasses]] and [[HP Up]] here. Additionally, you can talk to a [[Devon Corporation]] employee anytime after delivering the Devon Goods, and he will give you a free [[Repeat Ball]] and allow you to buy more Repeat Balls and [[Timer Ball]]s at [[Rustboro City]].
+
+==Route 118 (optional)==
+We're going to head right, from Mauville City to Route 118. This is the western side of the route. You can't explore most of it, but the experience is valuable. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Western side}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Rose|560<br><small>Potential [[Double Battle]] with Deandre</small>|3|315|Roselia|♀|14||285|Shroomish|♀|14||315|Roselia|♀|14||38=Nav}}
+{{trainerentry|Spr RS Youngster.png|Youngster|Deandre|224<br><small>Potential [[Double Battle]] with Rose</small>|3|263|Zigzagoon|♂|14||304|Aron|♂|14||309|Electrike|♂|14|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Wade|640|1|072|Tentacool|♂|16|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Dalton|480|2|081|Magnemite||15||293|Whismur|♂|15||38=Nav}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Rose{{tt|*|First rematch}}|1040|2|285|Shroomish|♀|26||315|Roselia|♀|26||38=Nav}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Rose{{tt|*|Second and third rematch}}|{{tt|1120|Second rematch}}/{{tt|1240|Third rematch}}|3|285|Shroomish|♀|{{tt|28|Second rematch}}/{{tt|31|Third rematch}}||044|Gloom|♀|{{tt|28|Second rematch}}/{{tt|31|Third rematch}}||315|Roselia|♀|{{tt|28|Second rematch}}/{{tt|31|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Aroma Lady.png|Aroma Lady|Rose{{tt|*|Fourth rematch onwards}}|1360|3|286|Breloom|♀|34||044|Gloom|♀|34||315|Roselia|♀|34||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Dalton{{tt|*|First rematch}}|800|3|081|Magnemite||25||293|Whismur|♂|25||081|Magnemite||25||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Dalton{{tt|*|Second rematch}}|896|3|081|Magnemite||28||294|Loudred|♂|28||081|Magnemite||28||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Dalton{{tt|*|Third rematch}}|992|3|082|Magneton||31||294|Loudred|♂|31||082|Magneton||31||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Dalton{{tt|*|Fourth rematch onwards}}|1088|3|082|Magneton||34||295|Exploud|♂|34||082|Magneton||34||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|land|no}}
+{{catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|West side}}
+{{itemlist|Heart Scale|On the beach, on a rock near Fisherman Wade (hidden)|E=yes}}
+{{itlistfoot|land}}
+|}
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=4
+|prevname=Route 110, Trick House, Route 103
+|nextsection=6
+|nextname=Route 111 (south), Route 112 (south), Fiery Path, Route 112 (north), Route 111 (north), Route 113, Fallarbor Town, Route 114
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|05]]

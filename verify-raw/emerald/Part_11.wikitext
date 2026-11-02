@@ -1,0 +1,427 @@
+==Route 120==
+[[File:Hoenn Route 120 E.png|thumb|Route 120]]
+
+The lengthy {{rt|120|Hoenn}} runs southeast from [[Fortree City]] to {{rt|121|Hoenn}}. The long grass makes great cover for Pokémon capable of camouflaging themselves. In this route in some areas the weather is raining constantly.  Two separate ruins, [[Scorched Slab]] and the [[Ancient Tomb]], are located here.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|forest}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Clarissa|1120|2|315|Roselia|♀|28||320|Wailmer|♀|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Interviewer.png|Interviewer|[[Gabby and Ty|Gabby & Ty]]|2880|2|082|Magneton||30||294|Loudred|♂|30|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Robert|928|1|333|Swablu|♂|29||38=Nav}}
+{{catch/div|forest|Return trip}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Colin|896|2|278|Wingull|♂|28||177|Natu|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Leonel|1440<br><small>Potential [[Double Battle]] with Angelica</small>|1|310|Manectric|♂|30|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Angelica|1200<br><small>Potential [[Double Battle]] with Leonel</small>|1|351|Castform|♀|30|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Riley|336<br><small>Potential [[Double Battle]] with Callie</small>|2|290|Nincada|♂|28||109|Koffing|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Battle Girl.png|Battle Girl|Callie|672<br><small>Potential [[Double Battle]] with Riley</small>|2|307|Meditite|♀|28||296|Makuhita|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Jennifer|1440|1|302|Sableye|♀|30|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Pokémon Ranger F.png|Pokémon Ranger|Jenna|1344|3|270|Lotad|♀|28||271|Lombre|♀|28||274|Nuzleaf|♀|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Pokémon Ranger M.png|Pokémon Ranger|Lorenzo|1344|3|273|Seedot|♂|28||274|Nuzleaf|♂|28||271|Lombre|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Jeffrey|1620|3|283|Surskit|♂|27||283|Surskit|♂|27||283|Surskit|♂|27||38=Nav}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Keigo|336|2|109|Koffing|♂|28||291|Ninjask|♂|28|}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Chip|1620|3|343|Baltoy||27||027|Sandshrew|♂|27||028|Sandslash|♂|27|}}
+{{catch/div|forest|Rematch}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Robert{{tt|*|First rematch}}|1024|2|177|Natu|♂|32||333|Swablu|♂|32||38=Nav}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Robert{{tt|*|Second and third rematch}}|{{tt|1120|Second rematch}}/{{tt|1216|Third rematch}}|2|177|Natu|♂|{{tt|35|Second rematch}}/{{tt|38|Third rematch}}||334|Altaria|♂|{{tt|35|Second rematch}}/{{tt|38|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Robert{{tt|*|Fourth rematch onwards}}|1312|2|334|Altaria|♂|41||178|Xatu|♂|41||38=Nav}}
+{{trainerdiv|forest}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Jeffrey{{tt|*|First rematch}}|1860|3|283|Surskit|♂|31||283|Surskit|♂|31||283|Surskit|♂|31||38=Nav}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Jeffrey{{tt|*|Second rematch}}|2040|3|283|Surskit|♂|34||283|Surskit|♂|34||284|Masquerain|♂|34||38=Nav}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Jeffrey{{tt|*|Third rematch}}|2160|4|283|Surskit|♂|36||265|Wurmple|♂|36||283|Surskit|♂|36||284|Masquerain|♂|36||38=Nav}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Jeffrey{{tt|*|Fourth rematch onwards}}|2280|5|283|Surskit|♂|38||269|Dustox|♂|38||283|Surskit|♂|38||284|Masquerain|♂|38|Silver Powder|267|Beautifly|♂|38||38=Nav}}
+{{trainerfooter|forest|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|forest|no}}
+{{catch/entry3|262|Mightyena|no|no|yes|Long grass|25, 27|30%|type1=Dark}}
+{{catch/entry3|043|Oddish|no|no|yes|Long grass|25-27|25%|type1=Grass|type2=Poison}}
+{{catch/entry3|261|Poochyena|no|no|yes|Long grass|25|20%|type1=Dark}}
+{{catch/entry3|183|Marill|no|no|yes|Long grass|25, 27|15%|type1=Water}}
+{{catch/entry3|359|Absol|no|no|yes|Long grass|25, 27|8%|type1=Dark}}
+{{catch/entry3|273|Seedot|no|no|yes|Long grass|25|1%|type1=Grass}}
+{{catch/entry3|352|Kecleon|no|no|yes|Long grass|25|1%|type1=Normal}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|183|Marill|no|no|yes|Surf|5-35|99%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Surf|20-30|1%|type1=Water}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Ground}}
+{{catch/div|forest|Special}}
+{{catch/entry3|352|Kecleon|no|no|yes|Special|30|{{tt|Six|Requires Devon Scope}}|type1=Normal}}
+{{Catch/div|forest|Swarm}}
+{{Catch/entry3|273|Seedot|no|no|yes|Swarm|25|50%|type1=Grass}}
+{{catch/footer|forest}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|forest}}
+{{catch/div|forest|First visit}}
+{{itemlist|Rare Candy|Dead-end path north of Parasol Lady Clarissa (hidden, requires {{m|Cut}})|E=yes}}
+{{itemlist|Revive|Clearing in the northernmost patch of long grass (hidden)|E=yes}}
+{{itemlist|Devon Scope III|From {{steven}} on the north bridge, after battling Kecleon|E=yes|display=[[Devon Scope]]}}
+{{catch/div|forest|Return trip}}
+{{itemlist|Nest Ball|North edge of the northern lake (requires [[Devon Scope]])|E=yes}}
+{{itemlist|Aspear Berry|Soft soil patch, northeast of the puddle-laden area (requires {{m|Cut}})|E=yes|display=[[Aspear Berry]] ×6}}
+{{itemlist|Revive|Puddle-laden area southwest of the northern soft soil patch|E=yes}}
+{{itemlist|Zinc|Northwest corner of the grass maze (hidden)|E=yes}}
+{{itemlist|Nugget|Southwest corner of the grass maze|E=yes}}
+{{itemlist|Pecha Berry|Southwestern-most soft soil patch|E=yes|display=[[Pecha Berry]] ×6}}
+{{itemlist|Nanab Berry III|Soft soil patch near the southwest pond|E=yes|display=[[Nanab Berry]] ×3}}
+{{itemlist|Pinap Berry|Soft soil patch near the southwest pond|E=yes|display=[[Pinap Berry]] ×3}}
+{{itemlist|Wepear Berry|Soft soil patch near the southwest pond|E=yes|display=[[Wepear Berry]] ×3}}
+{{itemlist|Razz Berry III|Soft soil patch near the southwest pond|E=yes|display=[[Razz Berry]] ×3}}
+{{itemlist|Full Heal|South side of the southwest pond (requires {{m|Surf}})|E=yes}}
+{{itemlist|Rare Candy|South side of the southwest pond (hidden, requires {{m|Surf}})|E=yes}}
+{{itemlist|Hyper Potion|North side of the southern-most patch of long grass|E=yes}}
+{{itlistfoot|forest}}
+|}
+
+===Gabby and Ty===
+After defeating [[Gabby and Ty]] on {{rt|118|Hoenn}}, the news team can now be found in the northeast corner of the route. Accept their challenge and give them another great interview afterwards!
+
+===The Unseen Objects===
+You meet Steven again on the northern bridge. It seems that another unseen object blocks the way forward, but luckily, he has a way to solve this mystery. He puts on the [[Devon Scope]], a high-tech piece of eyewear that reveals invisible objects. Sure enough, it reveals a {{p|Kecleon}} in front of you; catch or defeat the Pokémon to clear the bridge. Pleased with your actions, Steven allows you to keep the device. With the Devon Scope in hand, you can chase off the Kecleon outside the Gym. Head back into town to win your next Badge, or continue exploring the route.
+
+In the route 119 there are 2 invisible Kecleon, while in the route 120 there are 6 invisible Kecleon.
+
+===Scorched Slab===
+[[Scorched Slab]] is a cave jutting up out of the north lake. The entrance lies at water level, so the single chamber inside holds mostly water. At the far end of the cave, a small slab of rock holds a single bit of treasure, {{TM|11|Sunny Day}}.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{Itemlist|TM Fire VI|1F, far end of the cave|E=yes|display={{TM|11|Sunny Day}}}}
+{{itlistfoot|cave}}
+|}
+
+===A Berry A Day===
+The route splits near its south end, with the western trail leading up to a plateau. Talk to the Beauty near the stairway and she'll give you one rare Berry every day. The kind of Berry received depends on the last digit of your [[Trainer ID number]].
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 2px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="2" style="background: #{{berries color light}}; {{roundytl|5px}};" | Berry
+! style="background: #{{berries color light}}; {{roundytr|5px}};" | Condition
+|- style="background: #FFF;"
+| {{bag|Figy Berry}} || [[Figy Berry]] || ID number ends in 0 or 5
+|- style="background: #FFF;"
+| {{bag|Wiki Berry}} || [[Wiki Berry]] || ID number ends in 1 or 6
+|- style="background: #FFF;"
+| {{bag|Mago Berry}} || [[Mago Berry]] || ID number ends in 2 or 7
+|- style="background: #FFF;"
+| {{bag|Aguav Berry}} || [[Aguav Berry]] || ID number ends in 3 or 8
+|- style="background: #FFF;"
+| {{bag|Iapapa Berry}} || [[Iapapa Berry]] || ID number ends in 4 or 9
+|-
+| colspan="3" style="background: #{{berries color light}}; {{roundybottom|5px}};" |
+|}
+
+===Ancient Tomb===
+The unusual arrangement of stones on the southwest plateau is known as the [[Ancient Tomb]]. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+{{-}}
+
+==Fortree City==
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{catch/div|flying|After defeating the Fortree Gym}}
+{{itemlist|TM Normal|From Winona upon her defeat|E=yes|display={{TM|40|Aerial Ace}}}}
+{{itlistfoot|road}}
+|}
+
+===Fortree Gym===
+[[File:Fortree Gym E.png|thumb|Fortree Gym]]
+
+{{sign|E|header}}
+{{sign|E|title|Fortree City Pokémon Gym<br>Leader: Winona}}
+{{sign|E|The bird user taking flight into the world.}}
+{{sign|E|footer}}
+
+The [[Fortree Gym]] specializes in {{type|Flying}} Pokémon, which take serious damage from {{t|Electric}}, {{t|Rock}}, and {{t|Ice}} moves. The Gym is fairly straightforward, with a single path leading up to the Gym Leader's lofty perch. The only obstacles are turnstiles, some of which can only be spun in certain directions. Pass through the first two turnstiles to reach Bird Keeper Humberto. After that, spin the third turnstile clockwise to reach Picnicker Ashley and Bird Keeper Jared. Spin the fourth turnstile clockwise, then do the same for the fifth. Go back to the fourth and push the larger side southward, then spin it clockwise again. Pass through the fifth turnstile again to reach Camper Flint and Bird Keeper Edwardo on the other side. Defeat Bird Keeper Darius to the west, then there are only three turnstiles left. Spin the smallest one counter-clockwise without walking through it, then pass through all three in a counter-clockwise circle. Push the larger side of the southeast one eastward, then go northeast to reach the Gym Leader.
+
+[[Winona]] starts off with {{p|Swablu}}; not very threatening on its own, but {{m|Mirror Move}} executes the previous move used by the target, and {{m|Perish Song}} causes any Pokémon on the field to faint in three turns. Her {{p|Tropius}} relies on the sun; {{m|Sunny Day}} both doubles its {{stat|Speed}} due to its {{a|Chlorophyll}} Ability, eliminates the charging turn needed for {{m|SolarBeam}} while active. It also makes {{m|Synthesis}} more effective, restoring 66% of its HP rather than the usual 50%. Her {{p|Pelipper}} takes massive damage from {{t|Electric}} attacks. {{t|Rock}} moves are also effective, but Rock Pokémon should be wary of its {{m|Water Gun}}. {{p|Skarmory}} has several resistances and a high physical {{stat|Defense}}, which may rise even higher due to {{m|Steel Wing}}. {{m|Sand-Attack}} makes it harder to hit, while {{m|Aerial Ace}}'s perfect {{stat|accuracy}} lets it reliably land a hit. Due to its {{t|Dragon}} typing, her {{p|Altaria}} takes only normal damage from Electric moves. Rock moves will be more effective, and Ice moves are greater still. It can target unsuspecting Electric types with {{m|Earthquake}}, and can raise its {{stat|Attack}} and {{stat|Speed}} with {{m|Dragon Dance}}.
+
+{{WalkthroughGym
+| background = {{flying color}}
+| headcolor = {{flying color light}}
+| name = Fortree Gym
+| badge = Feather Badge
+| image = Feather Badge.png
+| trainers = 
+{{Trainerheader|Flying}}
+{{Trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Humberto|960|1|227|Skarmory|♂|30|}}
+{{Trainerdiv|Flying}}
+{{Trainerentry|Spr RS_Bird Keeper.png|Bird Keeper|Jared|864<br><small>Potential [[Double Battle]] with Ashley</small>|3|084|Doduo|♂|27||227|Skarmory|♂|27||357|Tropius|♂|27|}}
+{{Trainerdiv|Flying}}
+{{Trainerentry|Spr RS Picnicker.png|Picnicker|Ashley|432<br><small>Potential [[Double Battle]] with Jared</small>|3|333|Swablu|♀|27||333|Swablu|♀|27||333|Swablu|♀|27|}}
+{{Trainerdiv|Flying}}
+{{Trainerentry|Spr RS Camper.png|Camper|Flint|464<br><small>[[Double Battle]] with Edwardo</small>|2|277|Swellow|♂|29||178|Xatu|♂|29|}}
+{{Trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Edwardo|928<br><small>[[Double Battle]] with Flint</small>|2|084|Doduo|♂|29||279|Pelipper|♂|29|}}
+{{Trainerdiv|Flying}}
+{{Trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Darius|960|1|357|Tropius|♂|30|}}
+{{Trainerfooter|Flying|I}}
+| party = 
+{{Party
+| background = {{flying color}}
+| border = {{flying color dark}}
+| headcolor = {{flying color light}}
+| middle = yes
+| sprite = Spr RS Winona.png
+| prize = {{PDollar}}3300
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Winona}}
+| location = Fortree Gym
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0333
+| pokemon = Swablu
+| gender = female
+| level = 29
+| type1 = Normal
+| type2 = Flying
+| ability = Natural Cure
+| move1 = Perish Song | move1type = Normal
+| move2 = Mirror Move | move2type = Flying
+| move3 = Safeguard | move3type = Normal
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = female
+| level = 29
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Sunny Day | move1type = Fire
+| move2 = Aerial Ace | move2type = Flying
+| move3 = SolarBeam | move3type = Grass
+| move4 = Synthesis | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = female
+| level = 30
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Water Gun | move1type = Water
+| move2 = Supersonic | move2type = Normal
+| move3 = Protect | move3type = Normal
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0227
+| pokemon = Skarmory
+| gender = female
+| level = 31
+| type1 = Steel
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Sand-Attack | move1type = Ground
+| move2 = Fury Attack | move2type = Normal
+| move3 = Steel Wing | move3type = Steel
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0334
+| pokemon = Altaria
+| gender = female
+| level = 33
+| type1 = Dragon
+| type2 = Flying
+| ability = Natural Cure
+| held = Oran Berry
+| move1 = Earthquake | move1type = Ground
+| move2 = DragonBreath | move2type = Dragon
+| move3 = Dragon Dance | move3type = Dragon
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Party/end}}
+}}
+
+
+Upon her defeat, [[Winona]] awards you the {{badge|Feather}}, which ensures obedience from all Pokémon up to level 70 and enables the use of {{m|Fly}} in the field. This move allows you to instantly revisit any city or town you've previously explored. She also hands out {{TM|40|Aerial Ace}} as a prize, and registers herself in your PokéNav.
+
+A short time after you leave the Gym, you receive a call from [[Scott]]. He's impressed that you defeated the Fortree Gym, and wonders if you could be the Trainer he's been searching for. He also reminds you that he'll keep cheering for you from the sidelines.
+
+==Trick House - Puzzle 5 (optional)==
+In [[Trick House]] now you can complete the puzzle 5.
+
+==Route 121==
+[[File:Hoenn Route 121 E.png|thumb|300px|Route 121]]
+
+Compared to its neighbor to the west, {{rt|121|Hoenn}} is smaller and more straightforward. {{rt|122|Hoenn}} runs off to the south, while [[Lilycove City]] lies to the east. The north side of the route is home to the {{safari|Hoenn}}, a park that attracts Trainers from across the region.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{trainerentry|Spr RS Bug Maniac.png|Bug Maniac|Cale|1740<br><small>Potential [[Double Battle]] with Tammy</small>|2|269|Dustox|♂|29||267|Beautifly|♂|29|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Tammy|696<br><small>Potential [[Double Battle]] with Cale</small>|2|355|Duskull|♀|29||353|Shuppet|♀|29|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Jessica|2320|2|352|Kecleon|♀|29||336|Seviper|♀|29||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Sr and Jr.png|Sr. and Jr.|Kate & Joy|1024|2|327|Spinda|♂|30||289|Slaking|♂|32|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Pat|1000<br><small>Potential [[Double Battle]] with Myles{{tt|*|Only first three Pokémon will be used if faced in a Double Battle}}</small>|6|261|Poochyena|♀|25||285|Shroomish|♀|25||309|Electrike|♀|25||183|Marill|♀|25||027|Sandshrew|♀|25||316|Gulpin|♀|25|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokémon Breeder M.png|Pokémon Breeder|Myles|1000<br><small>Potential [[Double Battle]] with Pat{{tt|*|Only first three Pokémon will be used if faced in a Double Battle}}</small>|6|296|Makuhita|♂|25||278|Wingull|♂|25||357|Tropius|♂|25||263|Zigzagoon|♂|25||309|Electrike|♂|25||322|Numel|♂|25|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Gentleman.png|Gentleman|Walter|2320|1|310|Manectric|♂|29||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Pokéfan F.png|Pokéfan|Vanessa|2400|1|025|Pikachu|♀|30|Oran Berry}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Marcel|1392<br><small>Potential [[Double Battle]] with Cristin</small>|2|310|Manectric|♂|29||275|Shiftry|♂|29|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Cristin|1392<br><small>Potential [[Double Battle]] with Marcel</small>|2|294|Loudred|♀|29||288|Vigoroth|♀|29||38=Nav}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Beauty.png|Beauty|Jessica|{{tt|2800|First rematch}}/{{tt|3040|Second rematch}}/{{tt|3280|Third rematch}}/{{tt|3520|Fourth rematch onwards}}|2|352|Kecleon|♀|{{tt|35|First rematch}}/{{tt|38|Second rematch}}/{{tt|41|Third rematch}}/{{tt|44|Fourth rematch onwards}}||336|Seviper|♀|{{tt|35|First rematch}}/{{tt|38|Second rematch}}/{{tt|41|Third rematch}}/{{tt|44|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Gentleman.png|Gentleman|Walter{{tt|*|First rematch}}|2720|1|310|Manectric|♂|34||38=Nav}}
+{{trainerentry|Spr RS Gentleman.png|Gentleman|Walter{{tt|*|Second and third rematch}}|{{tt|2880|Second rematch}}/{{tt|3120|Third rematch}}|2|264|Linoone|♂|{{tt|36|Second rematch}}/{{tt|39|Third rematch}}||310|Manectric|♂|{{tt|36|Second rematch}}/{{tt|39|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Gentleman.png|Gentleman|Walter{{tt|*|Fourth rematch onwards}}|3280|3|264|Linoone|♂|41||055|Golduck|♂|41||310|Manectric|♂|41||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Cristin{{tt|*|First rematch}}|1680|2|294|Loudred|♀|35||288|Vigoroth|♀|35||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Cristin{{tt|*|Second and third rematch}}|{{tt|1776|Second rematch}}/{{tt|1872|Third rematch}}|3|327|Spinda|♀|{{tt|37|Second rematch}}/{{tt|39|Third rematch}}||294|Loudred|♀|{{tt|37|Second rematch}}/{{tt|39|Third rematch}}||288|Vigoroth|♀|{{tt|37|Second rematch}}/{{tt|39|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Cristin{{tt|*|Fourth rematch onwards}}|1968|3|327|Spinda|♀|41||295|Exploud|♀|41||289|Slaking|♀|41||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entry3|353|Shuppet|no|no|yes|Grass|26, 28|30%|type1=Ghost}}
+{{catch/entry3|261|Poochyena|no|no|yes|Grass|26|20%|type1=Dark}}
+{{catch/entry3|262|Mightyena|no|no|yes|Grass|26, 28|20%|type1=Dark}}
+{{catch/entry3|043|Oddish|no|no|yes|Grass|26, 28|15%|type1=Grass|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Grass|26-28|9%|type1=Water|type2=Flying}}
+{{catch/entry3|044|Gloom|no|no|yes|Grass|28|5%|type1=Grass|type2=Poison}}
+{{catch/entry3|352|Kecleon|no|no|yes|Grass|25|1%|type1=Normal}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Aspear Berry|Soft soil patch in the northwest|E=yes|display=[[Aspear Berry]] ×2}}
+{{itemlist|Chesto Berry|Soft soil patch in the northwest|E=yes|display=[[Chesto Berry]] ×2}}
+{{itemlist|Persim Berry|Soft soil patch in the northwest|E=yes|display=[[Persim Berry]] ×2}}
+{{itemlist|Rawst Berry|Soft soil patch in the northwest|E=yes|display=[[Rawst Berry]] ×2}}
+{{itemlist|HP Up|South of Beauty Jessica, behind the fence (hidden)|E=yes}}
+{{itemlist|Zinc|South of the Safari Zone entrance|E=yes}}
+{{itemlist|Revive|Fenced-in area, between Pokémon Breeders Pat and Myles|E=yes}}
+{{itemlist|Carbos|Fenced-in area, south of Gentleman Walter|E=yes}}
+{{itemlist|Nugget|Fenced-in area, northwest of Poké Fan Vanessa (hidden, requires {{m|Cut}})|E=yes}}
+{{itemlist|Full Heal|Fenced-in area, east of Poké Fan Vanessa (hidden)|E=yes}}
+{{itemlist|Max Revive|Fenced-in area, between Cooltrainers Marcel and Cristin (hidden)|E=yes}}
+{{itemlist|Nanab Berry III|Soft soil patch in the southeast|E=yes|display=[[Nanab Berry]] ×6}}
+{{itlistfoot|land}}
+|}
+
+===A Sighting===
+It's not long before you catch a glimpse of [[Team Aqua]]. These Grunts are in a rush to reach [[Mt. Pyre]], and take off to the south. Go first to east.
+
+==Lilycove City (briefly)==
+Visit the Cove Lily Motel.
+
+===Cove Lily Motel===
+Scott can be found napping at a table on the upper level. If you want to win 3 BP from Scott later then talk with him in this moment since he only appears in this place before Team Aqua steals the submarine from Slateport City.
+
+==Route 122==
+[[File:Hoenn Route 122 RSE.png|thumb|Route 122]]
+
+{{rt|122|Hoenn}} is a short, simple ocean route stretching between Routes {{rtn|121|Hoenn}} and {{rtn|123|Hoenn}}, with [[Mt. Pyre]] standing tall in the center.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|ocean|no}}
+{{catch/div|ocean|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|ocean|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/footer|ocean}}
+|}
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=10
+|prevname=Route 119, Fortree City
+|nextsection=12
+|nextname=Mt. Pyre, Route 123, Jagged Pass, Magma Hideout
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|11]]

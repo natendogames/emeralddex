@@ -1,0 +1,965 @@
+{{WalkthroughNotice|FRLG}}
+==Cerulean City==
+Having cleared the [[Sevii Islands]], there is only one place left to explore: [[Cerulean Cave]], a mysterious place on the northwest edge of [[Cerulean City]]. To get there, visitors must {{m|Surf}} southward from {{rt|24|Kanto}}.
+
+===Cerulean Cave===
+[[File:Cerulean Cave 1F FRLG.png|thumb|300px|right|Cerulean Cave, 1F]]
+[[File:Cerulean Cave 2F FRLG.png|thumb|300px|right|Cerulean Cave, 2F]]
+[[File:Cerulean Cave B1F FRLG.png|thumb|300px|right|Cerulean Cave, B1F]]
+
+[[Cerulean Cave]] is a mysterious cavern located in the northwest part of [[Cerulean City]]. Only the most powerful Trainers who have entered the [[Hall of Fame]] are allowed to enter due to the powerful wild Pokémon inside. The sprawling cave network is unforgiving, so be sure to prepare well. Pack the [[Super Rod]] and stock up on [[Ultra Ball]]s, and bring the [[Master Ball]] as well. It is here that the {{p|Mewtwo|genetically-engineered Pokémon}} from [[Cinnabar Island]]'s {{ka|Pokémon Mansion}} fled after escaping the facility.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|- 
+| 
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|- 
+| 
+{{catch/header|cave|no}}
+{{catch/entryfl|047|Parasect|yes|yes|Cave|49, 58|25%|type1=Bug|type2=Grass}}
+{{catch/entryfl|082|Magneton|yes|yes|Cave|49|20%|type1=Electric|type2=Steel}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|46, 55|14%|type1=Poison|type2=Flying}}
+{{catch/entryfl|057|Primeape|yes|yes|Cave|52, 61|11%|type1=Fighting}}
+{{catch/entryfl|132|Ditto|yes|yes|Cave|52, 61|11%|type1=Normal}}
+{{catch/entryfl|067|Machoke|yes|yes|Cave|46|10%|type1=Fighting}}
+{{catch/entryfl|101|Electrode|yes|yes|Cave|58|5%|type1=Electric}}
+{{catch/entryfl|202|Wobbuffet|yes|yes|Cave|55|4%|type1=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|30-50|65%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|30-50|65%|type1=Water|type2=Psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|40-55|35%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|40-55|35%|type1=Water|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=Water|type2=Psychic}}
+{{catch/div|cave|Rock Smash}}
+{{catch/entryfl|074|Geodude|yes|yes|Rock Smash|30-50|65%|type1=Rock|type2=Ground}}
+{{catch/entryfl|075|Graveler|yes|yes|Rock Smash|40-55|35%|type1=Rock|type2=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 2F
+|- 
+| 
+{{catch/header|cave|no}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|49, 58|25%|type1=Poison|type2=Flying}}
+{{catch/entryfl|067|Machoke|yes|yes|Cave|49|20%|type1=Fighting}}
+{{catch/entryfl|047|Parasect|yes|yes|Cave|52, 61|14%|type1=Bug|type2=Grass}}
+{{catch/entryfl|064|Kadabra|yes|yes|Cave|55, 64|11%|type1=Psychic}}
+{{catch/entryfl|132|Ditto|yes|yes|Cave|55, 64|11%|type1=Normal}}
+{{catch/entryfl|082|Magneton|yes|yes|Cave|52|10%|type1=Electric|type2=Steel}}
+{{catch/entryfl|202|Wobbuffet|yes|yes|Cave|58|5%|type1=Psychic}}
+{{catch/entryfl|101|Electrode|yes|yes|Cave|61|4%|type1=Electric}}
+{{catch/div|cave|Rock Smash}}
+{{catch/entryfl|074|Geodude|yes|yes|Rock Smash|35-55|65%|type1=Rock|type2=Ground}}
+{{catch/entryfl|075|Graveler|yes|yes|Rock Smash|45-60|35%|type1=Rock|type2=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F
+|- 
+| 
+{{catch/header|cave|no}}
+{{catch/entryfl|064|Kadabra|yes|yes|Cave|58, 67|25%|type1=Psychic}}
+{{catch/entryfl|132|Ditto|yes|yes|Cave|58, 67|25%|type1=Normal}}
+{{catch/entryfl|047|Parasect|yes|yes|Cave|55, 64|14%|type1=Bug|type2=Grass}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|52, 61|11%|type1=Poison|type2=Flying}}
+{{catch/entryfl|067|Machoke|yes|yes|Cave|52|10%|type1=Fighting}}
+{{catch/entryfl|082|Magneton|yes|yes|Cave|55|10%|type1=Electric|type2=Steel}}
+{{catch/entryfl|101|Electrode|yes|yes|Cave|64|4%|type1=Electric}}
+{{catch/entryfl|202|Wobbuffet|yes|yes|Cave|61|1%|type1=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|40-60|65%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|40-60|65%|type1=Water|type2=Psychic}}
+{{catch/entryfl|055|Golduck|yes|no|Surf|50-65|35%|type1=Water}}
+{{catch/entryfl|080|Slowbro|no|yes|Surf|50-65|35%|type1=Water|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-35|16%|type1=Water|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-25|4%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-25|4%|type1=Water|type2=Psychic}}
+{{catch/div|cave|Rock Smash}}
+{{catch/entryfl|074|Geodude|yes|yes|Rock Smash|40-60|65%|type1=Rock|type2=Ground}}
+{{catch/entryfl|075|Graveler|yes|yes|Rock Smash|50-65|35%|type1=Rock|type2=Ground}}
+{{catch/footer|cave}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|cave}}
+{{catch/div|cave|1F}}
+{{Itemlist|Nugget|Western ridge, north side|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|Western ridge, two steps east of the north ladder ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Max Elixir|Middle ridge, northwest of the eastern ladder|FR=yes|LG=yes}}
+{{Itemlist|Full Restore|Southwest area|FR=yes|LG=yes}}
+{{catch/div|cave|2F}}
+{{Itemlist|Full Restore|Northeast; accessed via the northeast ladder on 1F (requires {{m|Rock Smash}})|FR=yes|LG=yes}}
+{{Itemlist|PP Up|Southwest; accessed via the southwest ladder on 1F (requires Rock Smash)|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|East; accessed via east ladder on middle ridge (requires Rock Smash)|FR=yes|LG=yes}}
+{{catch/div|cave|B1F}}
+{{Itemlist|Max Revive|Northeast corner|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|On the larger central ridge|FR=yes|LG=yes}}
+{{itlistfoot|cave}}
+|}
+
+
+====1F====
+Head to the water's edge and use {{m|Surf}} to reach the island in the northeast corner, then climb the ladder to 2F.
+
+====2F (Northeast)====
+Follow the trail to reach a [[Full Restore]] behind a pair of breakable rocks, and return to 1F.
+
+====1F====
+Surf westward and climb onto the western ridge. Collect the [[Nugget]] near the north ladder, then climb up the south ladder.
+
+====2F (Southwest)====
+Use {{m|Rock Smash}} to reach a [[PP Up]], then climb back down the ladder.
+
+====1F====
+Go east to collect a [[Full Restore]] at the water's edge and walk up onto the other ridge. Climb up the northeast ladder.
+
+====2F (East)====
+Clear the rock to reach an [[Ultra Ball]], then go back down to 1F.
+
+====1F====
+Head northwest to pick up a [[Max Elixir]]. Continue westward to reach the ladder in the middle of 1F.
+
+====2F (Center)====
+Follow the path in a counter-clockwise direction to reach the ladder in the northwest corner.
+
+====1F (Northwest)====
+This tiny part of 1F simply leads to the lower floor.
+
+====B1F====
+Go east to reach a [[Max Revive]] in the northeast corner. Turn south and climb onto the rocky ridge to pick up the nearby [[Ultra Ball]]. Continue southwestward and use {{m|Surf}} to find {{p|Mewtwo}}, alone on its island.
+
+=====VS Mewtwo=====
+Not only is {{p|Mewtwo}} the strongest Pokémon around, but it has already reached level 70. As a {{type|Psychic}} Pokémon, it is vulnerable to {{t|Bug}}-, {{t|Ghost}}-, and {{type|Dark}} attacks. The legendary Pokémon can restore its health repeatedly with {{m|Recover}}, so inflicting status ailments are a must. Not only will this make Mewtwo easier to catch, but {{status|Sleep}}, {{status|Freeze|Freezing}}, and {{status|Paralysis}} will prevent it from replenishing its HP. It will not let itself be caught easily, so either use the [[Master Ball]] when the battle begins or be prepared to go through more than a few [[Ultra Ball]]s.
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=150
+|pokemon=Mewtwo
+|type1=Psychic
+|level=70
+|ability=Pressure
+|move1=Swift|move1type=Normal
+|move2=Recover|move2type=Normal
+|move3=Safeguard|move3type=Normal
+|move4=Psychic|move4type=Psychic
+}}
+
+
+==A Legend On the Loose==
+With [[Celio]]'s Network Machine fully upgraded, there have been recent sightings of a mysterious, quick-footed Pokémon. This Pokémon has found its way here from the neighboring [[Johto]] region and begins [[Roaming Pokémon|roaming]] across [[Kanto]]. The creature that appears will have a type advantage against your [[first partner Pokémon]].
+
+'''Before trying to track it down, be sure to save your progress'''. Due to {{DL|List of battle glitches in Generation III|Roaming Roar bug|a glitch}}, {{p|Entei}} and {{p|Raikou}} will permanently disappear if they are able to use {{m|Roar}} to escape. If you have not yet used the [[Master Ball]], doing so when the battle begins is the easiest way to avoid this scenario; players may also use a [[soft reset]] to reload the game from the last save. Otherwise, players would need to play through a new game to make the beast reappear. Thankfully, this bug was fixed in the [[Nintendo Switch]] re-release of the games.
+
+===Tracking a Beast===
+The Pokémon now races across the vast [[Kanto]] region, but it is not necessary to search every area for it. A simple strategy involves spraying on a Repel.
+
+{| width="75%" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 2px solid #{{locationcolor/dark|land}};"
+|-
+! colspan="2" style="background: #{{locationcolor/light|land}}; {{roundytop|5px}}; padding 5px;" | Trainer Tips!
+|-
+| style="background: #FFF; padding: 5px;" | 1.
+| style="background: #FFF; padding: 5px;" | If necessary, visit a Poké Mart to purchase a few [[Repel]]s or [[Super Repel]]s.
+|-
+| style="background: #FFF; padding: 5px;" | 2.
+| style="background: #FFF; padding: 5px;" | {{m|Fly}} back to [[Viridian City]] and go north to {{rt|2|Kanto}}.
+|-
+| style="background: #FFF; padding: 5px;" | 3.
+| style="background: #FFF; padding: 5px;" | The Pokémon in the first party position must have a level between 11 and 49. Choose a Repel variant and spray it on. This chases off any wild Pokémon with a lower level, leaving the high-level beast the only thing left to encounter.
+|-
+| style="background: #FFF; {{roundybl|5px}}; padding: 5px;" | 4.
+| style="background: #FFF; {{roundybr|5px}}; padding: 5px;" | Wander through the tall grass until the beast appears. If not, enter and exit the gate to [[Viridian Forest]] to reload the map and change the Pokémon's location.
+|}
+
+It will attempt to flee as soon as the battle begins, so be sure to use [[Ability|Abilities]] like {{a|Arena Trap}} or moves like {{m|Mean Look}} to block its escape.
+
+{{Pokémon/Grid|middle=yes}}
+{{Pokémon
+|caption={{PlayerChoice|0001|Bulbasaur}}
+|walkthrough=yes
+|middle=yes
+|gen=3
+|pokemon=Entei
+|ndex=244
+|level=50
+|type1=Fire
+|ability=Pressure
+|move1=Ember|move1type=Fire
+|move2=Roar|move2type=Normal
+|move3=Fire Spin|move3type=Fire
+|move4=Stomp|move4type=Normal
+}}
+
+{{Pokémon
+|caption={{PlayerChoice|0004|Charmander}}
+|walkthrough=yes
+|middle=yes
+|gen=3
+|pokemon=Suicune
+|ndex=245
+|level=50
+|type1=Water
+|ability=Pressure
+|move1=BubbleBeam|move1type=Water
+|move2=Rain Dance|move2type=Water
+|move3=Gust|move3type=Flying
+|move4=Aurora Beam|move4type=Ice
+}}
+
+{{Pokémon
+|caption={{PlayerChoice|0007|Squirtle}}
+|walkthrough=yes
+|middle=yes
+|gen=3
+|pokemon=Raikou
+|ndex=243
+|level=50
+|type1=Electric
+|ability=Pressure
+|move1=ThunderShock|move1type=Electric
+|move2=Roar|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Spark|move4type=Electric
+}}
+{{Pokémon/Grid/end}}
+
+
+==Indigo Plateau==
+By the time [[Celio]] fully upgrades his Network Machine, [[Lorelei]] has returned from [[Four Island]]. Each of these five elite Trainers have continued pushing their Pokémon to new heights, with higher levels, new moves, and even new party members.
+
+===Lorelei===
+[[Lorelei]] has swapped out her {{p|Slowbro}} in favor of {{p|Piloswine}}, while her {{p|Lapras}} and {{p|Dewgong}} have learned {{m|Thunder}} and {{m|Signal Beam}}, respectively. {{t|Fighting}}- and {{type|Electric}} Pokémon work well against her team, but be careful of {{m|Psychic}} and {{m|Earthquake}}.
+
+{{Party
+| walkthrough = yes
+| background = {{ice color}}
+| border = {{ice color dark}}
+| headcolor = {{ice color light}}
+| sprite = Spr FRLG Lorelei.png
+| prize = {{PDollar}}6600
+| class = Elite Four
+| name = {{color2|000|Lorelei}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0087
+| pokemon = Dewgong
+| gender = male
+| level = 64
+| type1 = Water
+| type2 = Ice
+| ability = Thick Fat
+| move1 = Surf | move1type = Water
+| move2 = Ice Beam | move2type = Ice
+| move3 = Signal Beam | move3type = Bug
+| move4 = Double Team | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0091
+| pokemon = Cloyster
+| gender = male
+| level = 63
+| type1 = Water
+| type2 = Ice
+| ability = Shell Armor
+| move1 = Rain Dance | move1type = Water
+| move2 = Surf | move2type = Water
+| move3 = Ice Beam | move3type = Ice
+| move4 = Supersonic | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0221
+| pokemon = Piloswine
+| gender = male
+| level = 63
+| type1 = Ice
+| type2 = Ground
+| ability = Oblivious
+| move1 = Earthquake | move1type = Ground
+| move2 = Blizzard | move2type = Ice
+| move3 = Double-Edge | move3type = Normal
+| move4 = Rock Slide | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0124
+| pokemon = Jynx
+| gender = female
+| level = 66
+| type1 = Ice
+| type2 = Psychic
+| ability = Oblivious
+| move1 = Psychic | move1type = Psychic
+| move2 = Ice Beam | move2type = Ice
+| move3 = Lovely Kiss | move3type = Normal
+| move4 = Attract | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0131
+| pokemon = Lapras
+| gender = male
+| level = 66
+| type1 = Water
+| type2 = Ice
+| ability = Water Absorb
+| held = Cheri Berry
+| move1 = Psychic | move1type = Psychic
+| move2 = Thunder | move2type = Electric
+| move3 = Surf | move3type = Water
+| move4 = Ice Beam | move4type = Ice
+}}
+{{Party/end}}
+
+===Bruno===
+Both of [[Bruno]]'s {{p|Onix}} have evolved into {{p|Steelix}}, but their low {{stat|Special Defense}} leaves them vulnerable to {{t|Fire}} and {{t|Water}} moves. His three other Pokémon now know {{m|Rock Slide}}, making this a hazardous battle for {{t|Flying}} Pokémon. {{t|Psychic}} attacks are still useful, and Psychic Pokémon only need to fear his Steelix's {{m|Crunch}}.
+
+{{Party
+| walkthrough = yes
+| background = {{fighting color}}
+| border = {{fighting color dark}}
+| headcolor = {{fighting color light}}
+| sprite = Spr FRLG Bruno.png
+| prize = {{PDollar}}6800
+| class = Elite Four
+| name = {{color2|000|Bruno}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0208
+| pokemon = Steelix
+| gender = male
+| level = 65
+| type1 = Steel
+| type2 = Ground
+| ability = Sturdy
+| move1 = Earthquake | move1type = Ground
+| move2 = Rock Tomb | move2type = Rock
+| move3 = Iron Tail | move3type = Steel
+| move4 = Crunch | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0107
+| pokemon = Hitmonchan
+| gender = male
+| level = 65
+| type1 = Fighting
+| ability = Keen Eye
+| move1 = Sky Uppercut | move1type = Fighting
+| move2 = Mach Punch | move2type = Fighting
+| move3 = Rock Slide | move3type = Rock
+| move4 = Counter | move4type = Fighting
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0106
+| pokemon = Hitmonlee
+| gender = male
+| level = 65
+| type1 = Fighting
+| ability = Limber
+| move1 = Mega Kick | move1type = Normal
+| move2 = Foresight | move2type = Normal
+| move3 = Earthquake | move3type = Ground
+| move4 = Rock Slide | move4type = Rock
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0208
+| pokemon = Steelix
+| gender = male
+| level = 66
+| type1 = Steel
+| type2 = Ground
+| ability = Sturdy
+| move1 = DragonBreath | move1type = Dragon
+| move2 = Iron Tail | move2type = Steel
+| move3 = Earthquake | move3type = Ground
+| move4 = Crunch | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0068
+| pokemon = Machamp
+| gender = male
+| level = 68
+| type1 = Fighting
+| ability = Guts
+| held = Persim Berry
+| move1 = Brick Break | move1type = Fighting
+| move2 = Cross Chop | move2type = Fighting
+| move3 = Earthquake | move3type = Ground
+| move4 = Rock Slide | move4type = Rock
+}}
+{{Party/end}}
+
+===Agatha===
+[[Agatha]]'s {{p|Golbat}} has evolved into {{p|Crobat}}, and she has swapped out her {{p|Haunter}} in favor of {{p|Misdreavus}}. Her {{p|Arbok}} has learned {{m|Earthquake}}, and both {{p|Gengar}} know {{m|Psychic}}. In addition, her Misdreavus and her second Gengar know {{m|Thunderbolt}}.
+
+{{Party
+| walkthrough = yes
+| background = {{ghost color}}
+| border = {{ghost color dark}}
+| headcolor = {{ghost color light}}
+| sprite = Spr FRLG Agatha.png
+| prize = {{PDollar}}7000
+| class = Elite Four
+| name = {{color2|000|Agatha}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0094
+| pokemon = Gengar
+| gender = male
+| level = 66
+| type1 = Ghost
+| type2 = Poison
+| ability = Levitate
+| move1 = Confuse Ray | move1type = Ghost
+| move2 = Shadow Ball | move2type = Ghost
+| move3 = Hypnosis | move3type = Psychic
+| move4 = Psychic | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0169
+| pokemon = Crobat
+| gender = male
+| level = 66
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Confuse Ray | move1type = Ghost
+| move2 = Shadow Ball | move2type = Ghost
+| move3 = Air Cutter | move3type = Flying
+| move4 = Sludge Bomb | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0200
+| pokemon = Misdreavus
+| gender = male
+| level = 65
+| type1 = Ghost
+| ability = Levitate
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Thunderbolt | move2type = Electric
+| move3 = Psychic | move3type = Psychic
+| move4 = Attract | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0024
+| pokemon = Arbok
+| gender = male
+| level = 68
+| type1 = Poison
+| ability = Intimidate
+| move1 = Double Team | move1type = Normal
+| move2 = Sludge Bomb | move2type = Poison
+| move3 = Earthquake | move3type = Ground
+| move4 = Giga Drain | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0094
+| pokemon = Gengar
+| gender = male
+| level = 70
+| type1 = Ghost
+| type2 = Poison
+| ability = Levitate
+| held = Chesto Berry
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Sludge Bomb | move2type = Poison
+| move3 = Psychic | move3type = Psychic
+| move4 = Thunderbolt | move4type = Electric
+}}
+{{Party/end}}
+
+===Lance===
+One of [[Lance]]'s {{p|Dragonair}} has evolved into {{p|Dragonite}}, while the other has been replaced by {{p|Kingdra}}. Kingdra's {{2t|Water|Dragon}} typing means that it is only vulnerable to {{t|Dragon}} moves, while it can counter Dragon-type Pokémon with {{m|Ice Beam}}. Both of his Dragonite know moves to counter {{t|Water}} and {{2t|Water|Ice}} Pokémon that may attempt using Ice moves. His {{p|Gyarados}} can cover its weakness to {{t|Electric}} Pokémon with {{m|Earthquake}}, while his {{p|Aerodactyl}} can counter Ice-type Pokémon with {{m|AncientPower}}.
+
+{{Party
+| walkthrough = yes
+| background = {{dragon color}}
+| border = {{dragon color dark}}
+| headcolor = {{dragon color light}}
+| sprite = Spr FRLG Lance.png
+| prize = {{pdollar}}7200
+| class = Elite Four
+| name = {{color2|000|Lance}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 68
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Dragon Dance | move1type = Dragon
+| move2 = Earthquake | move2type = Ground
+| move3 = Thunder Wave | move3type = Electric
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0149
+| pokemon = Dragonite
+| gender = male
+| level = 66
+| type1 = Dragon
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Flamethrower | move1type = Fire
+| move2 = Dragon Claw | move2type = Dragon
+| move3 = Earthquake | move3type = Ground
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0230
+| pokemon = Kingdra
+| gender = male
+| level = 66
+| type1 = Water
+| type2 = Dragon
+| ability = Swift Swim
+| move1 = Dragon Dance | move1type = Dragon
+| move2 = Surf | move2type = Water
+| move3 = Ice Beam | move3type = Ice
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0142
+| pokemon = Aerodactyl
+| gender = male
+| level = 70
+| type1 = Rock
+| type2 = Flying
+| ability = Rock Head
+| move1 = Aerial Ace | move1type = Flying
+| move2 = AncientPower | move2type = Rock
+| move3 = Earthquake | move3type = Ground
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0149
+| pokemon = Dragonite
+| gender = male
+| level = 72
+| type1 = Dragon
+| type2 = Flying
+| ability = Inner Focus
+| held = Persim Berry
+| move1 = Thunderbolt | move1type = Electric
+| move2 = Outrage | move2type = Dragon
+| move3 = Ice Beam | move3type = Ice
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Party/end}}
+
+===Rival Battle 9===
+{{ga|Blue}} has swapped out his {{p|Pidgeot}} and {{p|Rhydon}} for {{p|Heracross}} and {{p|Tyranitar}}. Most of his Pokémon also have moves to cover their weaknesses. Heracross takes massive damage from {{t|Flying}} attacks, but avoid using Flying-type Pokémon as it can fight back with {{m|Rock Tomb}}. Similarly, Tyranitar suffers massive damage from {{t|Fighting}} moves, but Fighting-type Pokémon will be vulnerable to {{m|Aerial Ace}}, a Flying-type attack. His {{p|Arcanine}}, {{p|Gyarados}}, and {{p|Exeggutor}} are much the same as before. Arcanine can counter {{t|Rock}} Pokémon with {{m|Iron Tail}}, and Gyarados can retaliate against {{t|Electric}} Pokémon with {{m|Earthquake}}. {{p|Charizard}}, {{p|Blastoise}}, and {{p|Venusaur}} all have ways to counter their weaknesses, so be wary of sending in a Pokémon that may seemingly have the advantage at first.
+
+{{Party
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}7500
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0214
+| pokemon = Heracross
+| gender = male
+| level = 72
+| type1 = Bug
+| type2 = Fighting
+| ability = Swarm
+| move1 = Megahorn | move1type = Bug
+| move2 = Counter | move2type = Fighting
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 73
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Calm Mind | move3type = Psychic
+| move4 = Shadow Ball | move4type = Ghost
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0248
+| pokemon = Tyranitar
+| gender = male
+| level = 72
+| type1 = Rock
+| type2 = Dark
+| ability = Sand Stream
+| move1 = Crunch | move1type = Dark
+| move2 = Thunderbolt | move2type = Electric
+| move3 = Earthquake | move3type = Ground
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0103
+| pokemon = Exeggutor
+| gender = male
+| level = 73
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Sleep Powder | move1type = Grass
+| move2 = Light Screen | move2type = Psychic
+| move3 = Giga Drain | move3type = Grass
+| move4 = Psychic | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 73
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Dragon Dance | move1type = Dragon
+| move2 = Hydro Pump | move2type = Water
+| move3 = Earthquake | move3type = Ground
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0006
+| pokemon = Charizard
+| gender = male
+| level = 75
+| type1 = Fire
+| type2 = Flying
+| ability = Blaze
+| held = Sitrus Berry
+| move1 = Fire Blast | move1type = Fire
+| move2 = Aerial Ace | move2type = Flying
+| move3 = Dragon Claw | move3type = Dragon
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0004|Charmander}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}7500
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0214
+| pokemon = Heracross
+| gender = male
+| level = 72
+| type1 = Bug
+| type2 = Fighting
+| ability = Swarm
+| move1 = Megahorn | move1type = Bug
+| move2 = Counter | move2type = Fighting
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 73
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Calm Mind | move3type = Psychic
+| move4 = Shadow Ball | move4type = Ghost
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0248
+| pokemon = Tyranitar
+| gender = male
+| level = 72
+| type1 = Rock
+| type2 = Dark
+| ability = Sand Stream
+| move1 = Crunch | move1type = Dark
+| move2 = Thunderbolt | move2type = Electric
+| move3 = Earthquake | move3type = Ground
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0059
+| pokemon = Arcanine
+| gender = male
+| level = 73
+| type1 = Fire
+| ability = Intimidate
+| move1 = Overheat | move1type = Fire
+| move2 = ExtremeSpeed | move2type = Normal
+| move3 = Iron Tail | move3type = Steel
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0103
+| pokemon = Exeggutor
+| gender = male
+| level = 73
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Sleep Powder | move1type = Grass
+| move2 = Light Screen | move2type = Psychic
+| move3 = Giga Drain | move3type = Grass
+| move4 = Psychic | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0009
+| pokemon = Blastoise
+| gender = male
+| level = 75
+| type1 = Water
+| ability = Torrent
+| held = Sitrus Berry
+| move1 = Rain Dance | move1type = Water
+| move2 = Hydro Pump | move2type = Water
+| move3 = Ice Beam | move3type = Ice
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0007|Squirtle}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}7500
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0214
+| pokemon = Heracross
+| gender = male
+| level = 72
+| type1 = Bug
+| type2 = Fighting
+| ability = Swarm
+| move1 = Megahorn | move1type = Bug
+| move2 = Counter | move2type = Fighting
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 73
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Reflect | move2type = Psychic
+| move3 = Calm Mind | move3type = Psychic
+| move4 = Shadow Ball | move4type = Ghost
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0248
+| pokemon = Tyranitar
+| gender = male
+| level = 72
+| type1 = Rock
+| type2 = Dark
+| ability = Sand Stream
+| move1 = Crunch | move1type = Dark
+| move2 = Thunderbolt | move2type = Electric
+| move3 = Earthquake | move3type = Ground
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 73
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Dragon Dance | move1type = Dragon
+| move2 = Hydro Pump | move2type = Water
+| move3 = Earthquake | move3type = Ground
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0059
+| pokemon = Arcanine
+| gender = male
+| level = 73
+| type1 = Fire
+| ability = Intimidate
+| move1 = Overheat | move1type = Fire
+| move2 = ExtremeSpeed | move2type = Normal
+| move3 = Iron Tail | move3type = Steel
+| move4 = Aerial Ace | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0003
+| pokemon = Venusaur
+| gender = male
+| level = 75
+| type1 = Grass
+| type2 = Poison
+| ability = Overgrow
+| held = Sitrus Berry
+| move1 = Sunny Day | move1type = Fire
+| move2 = SolarBeam | move2type = Grass
+| move3 = Sludge Bomb | move3type = Poison
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+
+
+With the powered-up [[Pokémon League]] defeated and [[Cerulean Cave]] cleared, the only thing left to do is to complete the [[Pokédex]]. There are 386 different Pokémon species that have been discovered so far, so there is plenty of training left to do!
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=19
+|prevname=Five Island, Seven Island
+|nextsection=21
+|nextname=Birth Island, Navel Rock {{tt|*|Event-exclusive in the original release, but is accessible in the Nintendo Switch digital release}}
+|
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|20]]

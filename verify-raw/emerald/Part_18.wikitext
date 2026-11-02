@@ -1,0 +1,486 @@
+==Sky Pillar (optional)==
+[[File:Sky Pillar 1F after E.png|thumb|left|Sky Pillar, 1F]]
+[[File:Sky Pillar 2F after E.png|thumb|Sky Pillar, 2F]]
+[[File:Sky Pillar 3F after E.png|thumb|left|Sky Pillar, 3F]]
+[[File:Sky Pillar 4F after E.png|thumb|Sky Pillar, 4F]]
+[[File:Sky Pillar 5F after E.png|thumb|left|Sky Pillar, 5F]]
+[[File:Sky Pillar 6F after E.png|thumb|Sky Pillar, 6F]]
+Inmediately after putting an end to the battle between {{p|Groudon}} and {{p|Kyogre}}, {{p|Rayquaza}} has returned home to [[Sky Pillar]]. The building's advanced age coupled with the dragon's movements have left several areas of flooring {{DL|Hole|Generation III|unstable}}, which makes the [[Mach Bike]] necessary to reach the apex this time around.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ruins}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ruins}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ruins|no}}
+{{Catch/div|ruins|1F}}
+{{Catch/entry3|042|Golbat|no|no|yes|1F|34-35|30%|type1=Poison|type2=Flying}}
+{{Catch/entry3|302|Sableye|no|no|yes|1F|33-34|30%|type1=Dark|type2=Ghost}}
+{{Catch/entry3|344|Claydol|no|no|yes|1F|36-38|25%|type1=Ground|type2=Psychic}}
+{{Catch/entry3|354|Banette|no|no|yes|1F|37-38|15%|type1=Ghost}}
+{{Catch/div|ruins|3F}}
+{{Catch/entry3|042|Golbat|no|no|yes|3F|34-35|30%|type1=Poison|type2=Flying}}
+{{Catch/entry3|302|Sableye|no|no|yes|3F|33-34|30%|type1=Dark|type2=Ghost}}
+{{Catch/entry3|344|Claydol|no|no|yes|3F|36-38|25%|type1=Ground|type2=Psychic}}
+{{Catch/entry3|354|Banette|no|no|yes|3F|37-38|15%|type1=Ghost}}
+{{Catch/div|ruins|5F}}
+{{Catch/entry3|042|Golbat|no|no|yes|5F|34-35|30%|type1=Poison|type2=Flying}}
+{{Catch/entry3|302|Sableye|no|no|yes|5F|33-34|30%|type1=Dark|type2=Ghost}}
+{{Catch/entry3|344|Claydol|no|no|yes|5F|36-38|19%|type1=Ground|type2=Psychic}}
+{{Catch/entry3|354|Banette|no|no|yes|5F|37-38|15%|type1=Ghost}}
+{{Catch/entry3|334|Altaria|no|no|yes|5F|38-39|6%|type1=Dragon|type2=Flying}}
+{{Catch/div|ruins|Special}}
+{{Catch/entry3|384|Rayquaza|no|no|yes|Special|70|One|type1=Dragon|type2=Flying}}
+{{Catch/footer|ruins}}
+|}
+
+===1F-5F===
+Enter the tower and climb the stairs to 2F. There are several patches of unstable floor here, so use the Mach Bike to speed over them and continue on. Things get tricky on 4F, where you must once again stop cycling on one of two cracked tiles on the north side of the floor; this causes you to fall back down to the previously-inaccessible part of 3F. Climb to 5F and take the stairs in the northeast to reach the apex.
+
+===Apex===
+Upon reaching the rooftop, you find the legendary creature fully awake beyond the final flight of stairs. At level 70, {{p|Rayquaza}} is the highest-leveled Pokémon before the credits, and as such, easily warrants the use of a [[Master Ball]]. If you want to save the Master Ball, you will need a similarly high-leveled Pokémon with excellent stats and several dozen [[Timer Ball]]s. Be sure to '''SAVE THE GAME''' before trying to catch it! As a {{2t|Dragon|Flying}} Pokémon, it is especially vulnerable to {{t|Ice}} attacks, but Dragon- and {{type|Rock}} moves are also useful. Begin with these super-effective moves to deal heavy damage, and consider putting it to sleep before it can restore its health with {{m|Rest}}. Follow up with {{t|Grass}}, {{t|Fire}}, and {{t|Water}} moves to wear its health away even further. Beware of its most dangerous move, {{m|Outrage}}: after rampaging for several turns, Rayquaza becomes confused from fatigue. While it can deal serious damage to its target, it may also cause the dragon to attack itself in its confusion, and could end up knocking itself out! If you do manage to catch it, it will prove to be useful against the [[Elite Four]].
+
+{{Pokémon
+|walkthrough=yes
+|middle=yes
+|gen=3
+|ndex=384
+|pokemon=Rayquaza
+|type1=Dragon
+|type2=Flying
+|level=70
+|ability=Air Lock
+|move1=Fly|move1type=Flying
+|move2=Rest|move2type=Psychic
+|move3=ExtremeSpeed|move3type=Normal
+|move4=Outrage|move4type=Dragon
+}}
+{{-}}
+
+==Trick House - Puzzle 7 (optional)==
+In [[Trick House]] now you can complete puzzle 7.
+
+==Now that you can use Waterfall (optional)==
+A few new items on routes {{rtn|114|Hoenn}} and {{rtn|119|Hoenn}} become accessible.
+
+===Route 114===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Route 114
+|-
+|
+{{itlisth|mountain}}
+{{Itemlist|Rare Candy|In the small patch of land west of the top of the waterfall (requires {{m|Surf}} and {{m|Waterfall}})|E=yes}}
+{{itlistfoot|mountain}}
+|}
+
+===Route 119===
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Route 119
+|-
+|
+{{itlisth|forest}}
+{{itemlist|Hondew Berry|Soft soil patch near the upper waterfall (requires {{m|Surf}}, {{m|Waterfall}})|E=yes|display=[[Hondew Berry]] ×4}}
+{{Itemlist|Nugget|Far north past the upper waterfall (requires [[Acro Bike]], {{m|Surf}}, and {{m|Waterfall}})|E=yes}}
+{{itemlist|Rare Candy|Northwest of the upper waterfall (requires {{m|Surf}}, {{m|Waterfall}}, [[Acro Bike]], [[Devon Scope]])|E=yes}}
+{{itlistfoot|forest}}
+|}
+
+==Meteor Falls (optional)==
+[[File:Meteor Falls 1F1R alt E.png|thumb|left|Meteor Falls, 1F (front)]]
+[[File:Meteor Falls B1F R1 E.png|thumb|Meteor Falls, B1F (front)]]
+[[File:Meteor Falls 1F2R E.png|thumb|left|Meteor Falls, 1F (back)]]
+[[File:Meteor Falls B1F R2 E.png|thumb|Meteor Falls, B1F (back)]]
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|cave}}
+{{catch/div|water|Requires {{mcolor|Surf|000}}, {{mcolor|Waterfall|000}}}}
+{{trainerentry|Spr RS Old Couple.png|Old Couple|John and Jay|3120|2|308|Medicham|♂|39||297|Hariyama|♂|39||38=Nav}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Dragon Tamer.png|Dragon Tamer|Nicolas|1776|2|334|Altaria|♂|37||334|Altaria|♂|37||38=Nav}}
+{{catch/div|cave|Rematch}}
+{{trainerentry|Spr RS Old Couple.png|Old Couple|John and Jay|{{tt|3440|First rematch}}/{{tt|3680|Second rematch}}/{{tt|3920|Third rematch}}/{{tt|4160|Fourth rematch onwards}}|2|308|Medicham|♂|{{tt|43|First rematch}}/{{tt|46|Second rematch}}/{{tt|49|Third rematch}}/{{tt|52|Fourth rematch onwards}}||297|Hariyama|♂|{{tt|43|First rematch}}/{{tt|46|Second rematch}}/{{tt|49|Third rematch}}/{{tt|52|Fourth rematch onwards}}||38=Nav}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Dragon Tamer.png|Dragon Tamer|Nicolas{{tt|*|First and second rematch}}|{{tt|1968|First rematch}}/{{tt|2112|Second rematch}}|2|334|Altaria|♂|{{tt|41|First rematch}}/{{tt|44|Second rematch}}||334|Altaria|♂|{{tt|41|First rematch}}/{{tt|44|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Dragon Tamer.png|Dragon Tamer|Nicolas{{tt|*|Third rematch}}|2208|3|371|Bagon|♂|46||334|Altaria|♂|46||334|Altaria|♂|46||38=Nav}}
+{{trainerentry|Spr RS Dragon Tamer.png|Dragon Tamer|Nicolas{{tt|*|Fourth rematch onwards}}|2352|3|334|Altaria|♂|49||334|Altaria|♂|49||372|Shelgon|♂|49|Dragon Fang|38=Nav}}
+{{trainerfooter|cave|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F (front)
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|041|Zubat|no|no|yes|Cave|14-20|80%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Cave|14, 16, 18|20%|type1=Rock|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|041|Zubat|no|no|yes|Surf|5-35|90%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Surf|5-35|10%|type1=Rock|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Ground}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Super|20-45|100%|type1=Water|type2=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F (back), B1F (front)
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|042|Golbat|no|no|yes|Cave|33, 35, 38, 40|65%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Cave|33, 35, 37, 39|35%|type1=Rock|type2=Psychic}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|042|Golbat|no|no|yes|Surf|30-35|90%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Surf|5-35|10%|type1=Rock|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Ground}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Super|20-35|80%|type1=Water|type2=Ground}}
+{{catch/entry3|340|Whiscash|no|no|yes|Fish Super|30-45|20%|type1=Water|type2=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F (back)
+|-
+|
+{{catch/header|cave|no}}
+{{catch/entry3|042|Golbat|no|no|yes|Cave|33, 35, 38, 40|50%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Cave|35, 37, 39|25%|type1=Rock|type2=Psychic}}
+{{catch/entry3|371|Bagon|no|no|yes|Cave|25, 30, 35|25%|type1=Dragon}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|042|Golbat|no|no|yes|Surf|30-35|90%|type1=Poison|type2=Flying}}
+{{catch/entry3|338|Solrock|no|no|yes|Surf|5-35|10%|type1=Rock|type2=Psychic}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Ground}}
+{{catch/entry3|339|Barboach|no|no|yes|Fish Super|20-35|80%|type1=Water|type2=Ground}}
+{{catch/entry3|340|Whiscash|no|no|yes|Fish Super|30-45|20%|type1=Water|type2=Ground}}
+{{catch/footer|cave}}
+|}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|1F}}
+{{itemlist|TM Steel|Northwestern-most hill, accessed via B1F (requires {{m|Surf}}, {{m|Waterfall}})|E=yes|display={{TM|23|Iron Tail}}}}
+{{itemlist|PP Up|Southeastern hill, accessed via B1F (requires {{m|Surf}}, {{m|Waterfall}})|E=yes}}
+{{catch/div|cave|B1F}}
+{{itemlist|TM Dragon|In the dead-end back chamber (requires {{m|Surf}}, {{m|Waterfall}})|E=yes|display={{TM|02|Dragon Claw}}}}
+{{itlistfoot|cave}}
+|}
+
+====1F (front)====
+Enter [[Meteor Falls]] and scale the upper waterfall to reach the second part of 1F.
+
+====1F (back)====
+A series of ledges restrict movement from this direction, so go northeast and climb down the ladder.
+
+====B1F (front)====
+A short distance away, you find a fork in the road.
+* Taking the northwest ladder leads to the previous chamber, where another ladder leads back here. This lets you {{m|Surf}} across the water to the north doorway, which leads to a tiny chamber with {{TM|02|Dragon Claw}}. It's also the only area where wild {{p|Bagon}} can be found. Surf southeast from that chamber to another doorway which leads to a part of the entrance chamber that holds a [[PP Up]].
+* Taking the southwest ladder leads to the far northwest hill in the entrance chamber. Collect {{TM|23|Iron Tail}}.
+
+==Ever Grande City (south)==
+[[File:Ever Grande City E.png|thumb|left|Ever Grande City]]
+
+High above the ocean, [[Ever Grande City]] is lush with grass and flowers. The large waterfall makes it impossible to reach the city itself without a Pokémon able to {{m|Waterfall|scale}} the cascading waters. The island is divided by {{ho|Victory Road}}, which runs through a large mountain at the center of the isle. Visit the Pokémon Center to make your preparations before braving this final challenge on the road to the [[Pokémon League]], also in here inside is [[Scott]] to talk with him in his last localization before completing the game.
+
+{| class="expandable" style="margin: auto; background: #FF8C00; {{roundy}}; border: 5px solid #FFA500;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|water|no}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water||type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water||type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|370|Luvdisc|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|30-45|45%|type1=Water}}
+{{Catch/entry3|370|Luvdisc|no|no|yes|Fish Super|30-35|40%|type1=Water}}
+{{Catch/entry3|222|Corsola|no|no|yes|Fish Super|30-35|15%|type1=Water|type2=Rock}}
+{{Catch/footer|water}}
+|}
+
+==Victory Road==
+[[File:Victory Road 1F E.png|thumb|Victory Road, 1F]]
+[[File:Victory Road B1F E.png|thumb|Victory Road, B1F]]
+[[File:Victory Road B2F E.png|thumb|Victory Road, B2F]]
+
+{{ho|Victory Road}}, the long, tough trail through the mountainside, is the final challenge on the road to the [[Pokémon League]]. This grueling trail serves as a way to weed out all but the most determined Trainers. The field moves {{m|Surf}}, {{m|Strength}}, {{m|Rock Smash}}, and {{m|Waterfall}} are required to reach the other side, while {{m|Flash}} is optional. If you can make it through this daunting tunnel, you just might have what it takes to enter the [[Hall of Fame]]!
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Albert|2064|2|082|Magneton||43||089|Muk|♂|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Hope|2160|1|315|Roselia|♀|45|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Shannon|2160|1|344|Claydol||45|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Samuel|2016|3|277|Swellow|♂|42||303|Mawile|♂|42||064|Kadabra|♂|42|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Julie|2016|3|028|Sandslash|♀|42||038|Ninetales|♀|42||357|Tropius|♀|42|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Owen|2016|3|352|Kecleon|♂|42||075|Graveler|♂|42||321|Wailord|♂|42|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Dianne|2064<br/><small>Potential [[Double Battle]] with Felix</small>|2|344|Claydol||43||171|Lanturn|♀|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Felix|2064<br/><small>Potential [[Double Battle]] with Dianne</small>|2|308|Medicham|♂|43||344|Claydol||43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Caroline|2064|2|227|Skarmory|♀|43||302|Sableye|♀|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|[[Winstrate family|Vito]]|2016|4|085|Dodrio|♂|42||064|Kadabra|♂|42||101|Electrode||42||275|Shiftry|♂|42|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Michelle|2016|3|324|Torkoal|♀|42||308|Medicham|♀|42||272|Ludicolo|♀|42|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Mitchell|2064<br/><small>Potential [[Double Battle]] with Halle</small>|2|337|Lunatone||43||338|Solrock||43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Halle|2064<br/><small>Potential [[Double Battle]] with Mitchell</small>|2|302|Sableye|♀|43||359|Absol|♀|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Edgar|2064|2|332|Cacturne|♂|43||279|Pelipper|♂|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Katelynn|2064<br/><small>Potential [[Double Battle]] with Quincy</small>|2|282|Gardevoir|♀|43||289|Slaking|♀|43|}}
+{{trainerdiv|cave}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Quincy|2064<br/><small>Potential [[Double Battle]] with Katelynn</small>|2|289|Slaking|♂|43||356|Dusclops|♂|43|}}
+{{trainerfooter|cave|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|042|Golbat|no|no|yes|Cave|38, 40|25%|type1=Poison|type2=Flying}}
+{{Catch/entry3|297|Hariyama|no|no|yes|Cave|38, 40|25%|type1=Fighting}}
+{{Catch/entry3|041|Zubat|no|no|yes|Cave|36|10%|type1=Poison|type2=Flying}}
+{{Catch/entry3|294|Loudred|no|no|yes|Cave|40|10%}}
+{{Catch/entry3|296|Makuhita|no|no|yes|Cave|36|10%|type1=Fighting}}
+{{Catch/entry3|305|Lairon|no|no|yes|Cave|40|10%|type1=Steel|type2=Rock}}
+{{Catch/entry3|293|Whismur|no|no|yes|Cave|36|5%}}
+{{Catch/entry3|304|Aron|no|no|yes|Cave|36|5%|type1=Steel|type2=Rock}}
+{{Catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B1F
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|042|Golbat|no|no|yes|Cave|38, 40, 42|35%|type1=Poison|type2=Flying}}
+{{Catch/entry3|297|Hariyama|no|no|yes|Cave|38, 40, 42|35%|type1=Fighting}}
+{{Catch/entry3|305|Lairon|no|no|yes|Cave|40, 42|25%|type1=Steel|type2=Rock}}
+{{Catch/entry3|303|Mawile|no|no|yes|Cave|38|5%|type1=Steel}}
+{{Catch/div|rock|Rock Smash}}
+{{Catch/entry3|074|Geodude|no|no|yes|Rock Smash|30-40|30%|type1=Rock|type2=Ground}}
+{{Catch/entry3|075|Graveler|no|no|yes|Rock Smash|35-40|70%|type1=Rock|type2=Ground}}
+{{Catch/footer|cave}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! B2F
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/entry3|042|Golbat|no|no|yes|Cave|40, 42, 44|35%|type1=Poison|type2=Flying}}
+{{Catch/entry3|302|Sableye|no|no|yes|Cave|40, 42, 44|35%|type1=Dark|type2=Ghost}}
+{{Catch/entry3|305|Lairon|no|no|yes|Cave|40, 42, 44|25%|type1=Steel|type2=Rock}}
+{{Catch/entry3|303|Mawile|no|no|yes|Cave|42, 44|5%|type1=Steel}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|042|Golbat|no|no|yes|Surf|25-40|100%|type1=Poison|type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Old|5-10|30%|type1=Water}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|118|Goldeen|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|339|Barboach|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Ground}}
+{{Catch/entry3|339|Barboach|no|no|yes|Fish Super|25-35|80%|type1=Water|type2=Ground}}
+{{Catch/entry3|340|Whiscash|no|no|yes|Fish Super|30-45|20%|type1=Water|type2=Ground}}
+{{Catch/footer|cave}}
+|}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|cave}}
+{{catch/div|cave|1F}}
+{{itemlist|Max Elixir|On a ledge on the east side of the floor|E=yes}}
+{{itemlist|PP Up|On the southeast cliff, accessible via B1F|E=yes}}
+{{itemlist|Ultra Ball|On the west edge of the southeast cliff, accessible via B1F (hidden)|E=yes}}
+{{catch/div|cave|B1F}}
+{{itemlist|Full Restore|North of Cooltrainer Samuel (requires {{m|Strength}}, {{m|Rock Smash}})|E=yes}}
+{{itemlist|TM Psychic|Isolated northeast cliff, accessible via B2F|E=yes|display={{TM|29|Psychic}}}}
+{{catch/div|cave|B2F}}
+{{itemlist|Max Repel|In a nook near the northeast ladder (hidden)|E=yes}}
+{{itemlist|Full Heal|Between the two waterfalls, near Cooltrainer Vito|E=yes}}
+{{itemlist|Elixir|In a nook atop the eastern waterfall (hidden)|E=yes}}
+{{itlistfoot|cave}}
+|}
+
+
+===1F===
+Head north under the first two bridges and climb the north-northwest stairway. Turn east and cross over these next two bridges to reach a [[Max Elixir]] on a ledge to the east. Jump the ledge and head to the northwest, battling Cooltrainer Albert on the way. Climb the west-central stairway and cross the bridge, and [[Wally]] appears from the south. His defeat in your previous battle forced him to become stronger, and you find that the sickly, weak-willed kid you met back in [[Petalburg City]] is no more. In his place stands a confident Trainer, ready to show off how much training he's done!
+
+====VS Wally====
+Wally leads with his {{p|Altaria}}, a {{2t|Dragon|Flying}} type that is especially vulnerable to {{t|Ice}} attacks. It can raise its {{stat|Attack}} and {{stat|Speed}} with {{m|Dragon Dance}}, so use super-effective moves to take it down before it becomes a major threat. {{p|Delcatty}} may be his weakest Pokémon, but it can still cause problems with {{m|Sing}}, {{m|Charm}}, and its {{a|Cute Charm}} Ability. Its stats aren't very threatening, but knock it out quickly to avoid these pitfalls. With moves like {{m|Toxic}} and {{m|Leech Seed}}, his {{p|Roselia}} can tip the battle in his favor as time goes on. Knock it out with {{t|Fire}}, {{t|Ice}}, {{t|Flying}}, or {{t|Psychic}} moves. {{p|Magneton}} can be a major threat due to its high {{stat|Special Attack}}; strike it with {{t|Ground}} moves to take it down. Finally, Wally resorts to using his {{p|Gardevoir}}. {{m|Psychic}} and {{m|Future Sight}} are strong attacks that receive a [[same-type attack bonus]], and {{m|Calm Mind}} can boost its damage output to dangerous levels. Use {{t|Dark}}, {{t|Ghost}}, and {{t|Bug}} moves to knock it out and win the battle.
+
+{{Party
+| walkthrough = yes
+| background = {{tcg grass color light}}
+| border = {{tcg grass color}}
+| headcolor = CED8F6
+| sprite = Spr RS Wally.png
+| prize = {{PDollar}}2,700
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Wally}}
+| location = Victory Road (Hoenn)
+| locationname = Victory Road
+| game = E
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0334
+| pokemon = Altaria
+| gender = male
+| level = 44
+| type1 = Dragon
+| type2 = Flying
+| ability = Natural Cure
+| move1 = Aerial Ace | move1type = Flying
+| move2 = Safeguard | move2type = Normal
+| move3 = DragonBreath | move3type = Dragon
+| move4 = Dragon Dance | move4type = Dragon
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0301
+| pokemon = Delcatty
+| gender = female
+| level = 43
+| type1 = Normal
+| ability = Cute Charm
+| move1 = Sing | move1type = Normal
+| move2 = Assist | move2type = Normal
+| move3 = Charm | move3type = Normal
+| move4 = Faint Attack | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0315
+| pokemon = Roselia
+| gender = male
+| level = 44
+| type1 = Grass
+| type2 = Poison
+| ability = Natural Cure
+| move1 = Magical Leaf | move1type = Grass
+| move2 = Leech Seed | move2type = Grass
+| move3 = Giga Drain | move3type = Grass
+| move4 = Toxic | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0082
+| pokemon = Magneton
+| gender = none
+| level = 41
+| type1 = Electric
+| type2 = Steel
+| ability = Magnet Pull
+| move1 = Supersonic | move1type = Normal
+| move2 = Thunderbolt | move2type = Electric
+| move3 = Tri Attack | move3type = Normal
+| move4 = Screech | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0282
+| pokemon = Gardevoir
+| gender = male
+| level = 45
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Double Team | move1type = Normal
+| move2 = Calm Mind | move2type = Psychic
+| move3 = Psychic | move3type = Psychic
+| move4 = Future Sight | move4type = Psychic
+}}
+{{Party/end}}
+
+
+Wally admits that he couldn't defeat you this time, but promises to continue his training and catch up to you one day. From this point on, he remains in Victory Road to train, and may be challenged to a rematch after entering the [[Hall of Fame]]. Battle Cooltrainer Hope in the northwest corner, and take the ladder down to B1F.
+
+===B1F===
+As this level is deeper underground, it's a good idea to use {{m|Flash}} to light the way. There are two boulders nearby; use {{m|Strength}} to move the first boulder westward and the second boulder eastward. This leads to a fork in the road. Take the northern path past cracked rocks (using {{m|Rock Smash}}), boulders, and Cooltrainer Shannon to reach the ladder in the southeast corner; this leads to a [[PP Up]] and a hidden [[Ultra Ball]] on 1F. Back on B1F, jump the nearby ledge and head north past Cooltrainer Samuel to find a [[Full Restore]] beyond some boulders and a cracked rock. Backtrack to the southeast ledge, then go west to reach the next ladder.
+
+===B2F===
+Go north to fight Cooltrainer Julie and {{m|Surf}} north across the water's edge. Climb the stairway, check the nook in the north wall for a hidden [[Max Repel]], then take the northeast ladder to an isolated cliff on B1F, which holds {{TM|29|Psychic}}. Back on B2F, head south to battle Cooltrainer Owen. After that, pass over the two bridges to fight Cooltrainer Caroline at the west end. Go north to find yourself at the top of a waterfall. Surf out to the northeast to battle [[Winstrate family|Cooltrainer Vito]] (the last member of [[Winstrate family]]) and claim a [[Full Heal]], then continue east to find a hidden [[Elixir]] atop the eastern waterfall. Turn around and ride down the western waterfall before turning east to reach the next ladder.
+
+===B1F===
+Fight the three nearby Cooltrainers, then head southeast and use Strength and Rock Smash to clear a way to the final ladder.
+
+===1F===
+Cross over the final bridge and head north to fight Cooltrainer Edgar. Go a short distance northward and turn the corner to come within view of the exit.
+
+==Ever Grande City (north)==
+With {{ho|Victory Road}} behind you, only a long, stone walkway separates you from the Pokémon League, where the Elite Four and Champion await your challenge. Follow the walkway to the large building at its end, and prepare for your final test.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=17
+|prevname=Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+|nextsection=19
+|nextname=Pokémon League
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|18]]

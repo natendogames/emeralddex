@@ -1,0 +1,560 @@
+{{WalkthroughNotice|FRLG}}
+==Route 22==
+[[File:Kanto Route 22 FRLG.png|thumb|Route 22]]
+[[File:Kanto Route 23 FRLG.png|thumb|Route 23]]
+
+{{rt|22|Kanto}} is a simple route that connects [[Viridian City]] to the [[Pokémon League Reception Gate]] in the west.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{catch/entryfl|019|Rattata|yes|yes|Grass|2-5|45%|type1=Normal}}
+{{catch/entryfl|056|Mankey|yes|yes|Grass|2-5|45%|type1=Fighting}}
+{{catch/entryfl|021|Spearow|yes|yes|Grass|3, 5|10%|type1=Normal|type2=Flying}}
+{{Catch/div|water|Surfing}}
+{{catch/entryfl|054|Psyduck|yes|no|Surf|20-40|100%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Surf|20-40|100%|type1=Water|type2=Psychic}}
+{{Catch/div|water|Fishing}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=Water}}
+{{catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=Water|type2=Psychic}}
+{{Catch/footer|land}}
+|}
+
+
+===Rival Battle 7===
+As you attempt to travel westward, {{ga|Blue}} appears and challenges you again. His Pokémon are no pushovers, but play to their weaknesses and they should not last very long.
+
+{{Party
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1908
+| class = Rival
+| name = Blue
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 47
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = FeatherDance | move1type = Flying
+| move2 = Wing Attack | move2type = Flying
+| move3 = Gust | move3type = Flying
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 45
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Horn Drill | move2type = Normal
+| move3 = Rock Blast | move3type = Rock
+| move4 = Fury Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 45
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = SolarBeam | move1type = Grass
+| move2 = Sleep Powder | move2type = Grass
+| move3 = PoisonPowder | move3type = Poison
+| move4 = Stun Spore | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 45
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Hydro Pump | move1type = Water
+| move2 = Twister | move2type = Dragon
+| move3 = Leer | move3type = Normal
+| move4 = Rain Dance | move4type = Water
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 47
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Calm Mind | move2type = Psychic
+| move3 = Future Sight | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0006
+| pokemon = Charizard
+| gender = male
+| level = 53
+| type1 = Fire
+| type2 = Flying
+| ability = Blaze
+| move1 = Flamethrower | move1type = Fire
+| move2 = Wing Attack | move2type = Flying
+| move3 = Slash | move3type = Normal
+| move4 = Scary Face | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0004|Charmander}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1908
+| class = Rival
+| name = Blue
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 47
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = FeatherDance | move1type = Flying
+| move2 = Wing Attack | move2type = Flying
+| move3 = Gust | move3type = Flying
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 45
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Horn Drill | move2type = Normal
+| move3 = Rock Blast | move3type = Rock
+| move4 = Fury Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 45
+| type1 = Fire
+| ability = Intimidate
+| move1 = Flame Wheel | move1type = Fire
+| move2 = Take Down | move2type = Normal
+| move3 = Leer | move3type = Normal
+| move4 = Agility | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0102
+| pokemon = Exeggcute
+| gender = male
+| level = 45
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = SolarBeam | move1type = Grass
+| move2 = Sleep Powder | move2type = Grass
+| move3 = PoisonPowder | move3type = Poison
+| move4 = Stun Spore | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 47
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Calm Mind | move2type = Psychic
+| move3 = Future Sight | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0009
+| pokemon = Blastoise
+| gender = male
+| level = 53
+| type1 = Water
+| ability = Torrent
+| move1 = Water Gun | move1type = Water
+| move2 = Rain Dance | move2type = Water
+| move3 = Bite | move3type = Dark
+| move4 = Rapid Spin | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0007|Squirtle}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 2.png
+| prize = {{PDollar}}1908
+| class = Rival
+| name = Blue
+| location = Kanto Route 22
+| locationname = Route 22
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 47
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = FeatherDance | move1type = Flying
+| move2 = Wing Attack | move2type = Flying
+| move3 = Gust | move3type = Flying
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0111
+| pokemon = Rhyhorn
+| gender = male
+| level = 45
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Horn Drill | move2type = Normal
+| move3 = Rock Blast | move3type = Rock
+| move4 = Fury Attack | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 45
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Hydro Pump | move1type = Water
+| move2 = Twister | move2type = Dragon
+| move3 = Leer | move3type = Normal
+| move4 = Rain Dance | move4type = Water
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0058
+| pokemon = Growlithe
+| gender = male
+| level = 45
+| type1 = Fire
+| ability = Intimidate
+| move1 = Flame Wheel | move1type = Fire
+| move2 = Take Down | move2type = Normal
+| move3 = Leer | move3type = Normal
+| move4 = Agility | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 47
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Calm Mind | move2type = Psychic
+| move3 = Future Sight | move3type = Psychic
+| move4 = Disable | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0003
+| pokemon = Venusaur
+| gender = male
+| level = 53
+| type1 = Grass
+| type2 = Poison
+| ability = Overgrow
+| move1 = Razor Leaf | move1type = Grass
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Growth | move3type = Normal
+| move4 = Synthesis | move4type = Grass
+}}
+{{Party/end}}
+
+==Route 23 (South)==
+{{sign|FRLG|header}}
+{{sign|FRLG|POKéMON LEAGUE<br>Front Gate}}
+{{sign|FRLG|footer}}
+
+{{rt|23|Kanto}} is a lengthy road that links the [[Pokémon League Reception Gate]] to [[Indigo Plateau]]. {{ka|Victory Road}} is located on the north side.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|land|no}}
+{{Catch/entryfl|056|Mankey|yes|yes|Grass|32, 34|30%|type1=Fighting}}
+{{Catch/entryfl|022|Fearow|yes|yes|Grass|40, 42, 44|25%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|023|Ekans|yes|no|Grass|32, 34|20%|type1=Poison}}
+{{Catch/entryfl|027|Sandshrew|no|yes|Grass|32, 34|20%|type1=Ground}}
+{{Catch/entryfl|021|Spearow|yes|yes|Grass|32, 34|15%|type1=Normal|type2=Flying}}
+{{Catch/entryfl|024|Arbok|yes|no|Grass|44|5%|type1=Poison}}
+{{Catch/entryfl|028|Sandslash|no|yes|Grass|44|5%|type1=Ground}}
+{{Catch/entryfl|057|Primeape|yes|yes|Grass|42|5%|type1=Fighting}}
+{{Catch/div|water|Surfing}}
+{{Catch/entryfl|054|Psyduck|yes|no|Surf|20-40|100%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Surf|20-40|100%|type1=Water|type2=Psychic}}
+{{Catch/div|water|Fishing}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Old|5|100%|type1=Water}}
+{{Catch/entryfl|060|Poliwag|yes|yes|Fish Good|5-15|60%|type1=Water}}
+{{Catch/entryfl|118|Goldeen|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|129|Magikarp|yes|yes|Fish Good|5-15|20%|type1=Water}}
+{{Catch/entryfl|060|Poliwag|yes|yes|Fish Super|15-25|40%|type1=Water}}
+{{Catch/entryfl|061|Poliwhirl|yes|yes|Fish Super|20-30|40%|type1=Water}}
+{{Catch/entryfl|130|Gyarados|yes|yes|Fish Super|15-25|15%|type1=Water|type2=Flying}}
+{{Catch/entryfl|054|Psyduck|yes|no|Fish Super|15-35|5%|type1=Water}}
+{{Catch/entryfl|079|Slowpoke|no|yes|Fish Super|15-35|5%|type1=Water|type2=Psychic}}
+{{Catch/footer|land}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|land}}
+{{Itemlist|Leppa Berry|Northwest of the Thunder Badge checkpoint, on the marked square ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Max Ether|Two steps south, two steps west of the northeast corner of the island ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|Northeast of the lake, on the wall between two statues ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Aspear Berry|Southwest of the Volcano Badge checkpoint, on the marked square ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Full Restore|East of the northernmost grass patch, on a rock ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Sitrus Berry|West-southwest of the Victory Road entrance, next to the statue ''(hidden)''|FR=yes|LG=yes}}
+{{Itlistfoot|land}}
+|}
+
+
+===VIPs Only===
+All Trainers traveling to [[Indigo Plateau]] must present their Badges to prove their worth. The first guard looks to see if a Trainer has earned the {{badge|Boulder}}. The other guards are posted at various checkpoints farther along the route to inspect each Trainer for the other seven Badges. Once the last guard has verified that you have earned the {{badge|Earth}}, you are free to enter Victory Road.
+
+[[File:Victory Road 1F FRLG.png|thumb|Victory Road, 1F]]
+[[File:Victory Road 2F FRLG.png|thumb|Victory Road, 2F]]
+[[File:Victory Road 3F FRLG.png|thumb|Victory Road, 3F]]
+===Victory Road===
+There are several large boulders in {{ka|Victory Road}} that can only be moved with {{m|Strength}}, like in the [[Seafoam Islands]]. However, instead of dropping them down through holes in the floor, they must be moved onto pressure switches to unlock new areas.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{trainerheader|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer F.png|Cooltrainer|Naomi|1512|5|053|Persian|♀|42|None|077|Ponyta|♀|42|None|078|Rapidash|♀|42|None|037|Vulpix|♀|42|None|038|Ninetales|♀|42|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Rolando|1512|5|020|Raticate|♂|42|None|002|Ivysaur|♂|42|None|008|Wartortle|♂|42|None|005|Charmeleon|♂|42|None|006|Charizard|♂|42|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Black Belt.png|Black Belt|Daisuke|1032|3|067|Machoke|♂|43|Black Belt|066|Machop|♂|43|Black Belt|067|Machoke|♂|43|Black Belt}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Nelson|1640|4|096|Drowzee|♂|41|None|097|Hypno|♂|41|None|064|Kadabra|♂|41|None|064|Kadabra|♂|41|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Tamer.png|Tamer|Vincent|1760|2|053|Persian|♂|44|None|055|Golduck|♂|44|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Juggler.png|Juggler|Gregory|1920|1|122|Mr. Mime|♂|48|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|George|1512|5|103|Exeggutor|♂|42|None|028|Sandslash|♂|42|None|091|Cloyster|♂|42|None|101|Electrode||42|None|059|Arcanine|♂|42|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG PokéManiac.png|PokéManiac|Dawson|1920|3|005|Charmeleon|♂|40|None|131|Lapras|♂|40|None|108|Lickitung|♂|40|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer F.png|Cooltrainer|Alexa|1512|5|035|Clefairy|♀|42|None|039|Jigglypuff|♀|42|None|053|Persian|♀|42|None|087|Dewgong|♀|42|None|113|Chansey|♀|42|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer M.png|Cooltrainer|Colby|1548|5|099|Kingler|♂|41|None|061|Poliwhirl|♂|42|None|073|Tentacruel|♂|42|None|117|Seadra|♂|42|None|009|Blastoise|♂|43|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cooltrainer F.png|Cooltrainer|Caroline|1512|5|069|Bellsprout|♀|42|None|070|Weepinbell|♀|42|None|071|Victreebel|♀|42|None|046|Paras|♀|42|None|047|Parasect|♀|42|None}}
+{{trainerdiv|cave}}
+{{Trainerentry|Spr FRLG Cool Couple.png|Cool Couple|Ray & Tyra|2160|2|034|Nidoking|♂|45|None|031|Nidoqueen|♀|45|None}}
+{{trainerfooter|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 1F, 3F
+|- 
+|
+{{catch/header|cave|no}}
+{{catch/entryfl|095|Onix|yes|yes|Cave|40, 43, 46|30%|type1=Rock|type2=Ground}}
+{{catch/entryfl|066|Machop|yes|yes|Cave|32|20%|type1=Fighting}}
+{{catch/entryfl|074|Geodude|yes|yes|Cave|32|20%|type1=Rock|type2=Ground}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|32|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|024|Arbok|yes|no|Cave|44|5%|type1=Poison}}
+{{catch/entryfl|028|Sandslash|no|yes|Cave|44|5%|type1=Ground}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|44|5%|type1=Poison|type2=Flying}}
+{{catch/entryfl|067|Machoke|yes|yes|Cave|44, 46|5%|type1=Fighting}}
+{{catch/entryfl|105|Marowak|yes|yes|Cave|44, 46|5%|type1=Ground}}
+{{catch/footer|cave}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! 2F
+|- 
+|
+{{catch/header|cave|no}}
+{{catch/entryfl|066|Machop|yes|yes|Cave|34|20%|type1=Fighting}}
+{{catch/entryfl|074|Geodude|yes|yes|Cave|34|20%|type1=Rock|type2=Ground}}
+{{catch/entryfl|095|Onix|yes|yes|Cave|45, 48|20%|type1=Rock|type2=Ground}}
+{{catch/entryfl|041|Zubat|yes|yes|Cave|34|10%|type1=Poison|type2=Flying}}
+{{catch/entryfl|057|Primeape|yes|yes|Cave|42|10%|type1=Fighting}}
+{{catch/entryfl|024|Arbok|yes|no|Cave|46|5%|type1=Poison}}
+{{catch/entryfl|028|Sandslash|no|yes|Cave|46|5%|type1=Ground}}
+{{catch/entryfl|042|Golbat|yes|yes|Cave|46|5%|type1=Poison|type2=Flying}}
+{{catch/entryfl|067|Machoke|yes|yes|Cave|46, 48|5%|type1=Fighting}}
+{{catch/entryfl|105|Marowak|yes|yes|Cave|46, 48|5%|type1=Ground}}
+{{catch/footer|cave}}
+|}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|cave}}
+{{catch/div|cave|1F}}
+{{Itemlist|TM Dragon|Northeast corner, north of the boulder (requires {{m|Strength}})|FR=yes|LG=yes|display={{TM|02|Dragon Claw}}}}
+{{Itemlist|Rare Candy|Northeast corner, west of the boulder (requires {{m|Strength}})|FR=yes|LG=yes}}
+{{Itemlist|Full Restore|Northeast corner, on a rock two steps east of TM02 ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Ultra Ball|Near the middle of 1F, on a rock ''(hidden)''|FR=yes|LG=yes}}
+{{catch/div|cave|2F}}
+{{Itemlist|TM Ground|South of the rock platform|FR=yes|LG=yes|display={{TM|37|Sandstorm}}}}
+{{Itemlist|Full Heal|Northeast area, next to the Tamer|FR=yes|LG=yes}}
+{{Itemlist|TM Ice|Northeast corner, near the Juggler|FR=yes|LG=yes|display={{TM|07|Hail}}}}
+{{Itemlist|Guard Spec.|Northwest area, in the crater|FR=yes|LG=yes}}
+{{catch/div|cave|3F}}
+{{Itemlist|Max Revive|Northeast area, near the Cooltrainer♂|FR=yes|LG=yes}}
+{{Itemlist|TM Fire|Near the ladder in the northwest corner|FR=yes|LG=yes|display={{TM|50|Overheat}}}}
+{{Itlistfoot|cave}}
+|}
+
+
+====1F====
+Near the entrance, there is a boulder to the west and a pressure switch to the east. To activate the switch, use {{m|Strength}} to move the boulder eastward (↓1, →5, ↑2, →7, ↑2, →1, and ↓1). Doing so removes the barrier on the rocky ridge. Head to the northeast area to find two items near the north wall. The cave's narrow layout forces you to use the boulder here to block off one item in order to reach the other. Collect either the [[Rare Candy]] or {{TM|02|Dragon Claw}}, then exit and re-enter the cave to reset the puzzle and reach the other item. Go west past the two Cooltrainers and climb up the ladder to the northwest.
+
+====2F====
+Another boulder can be found to the south. Push this one southwestward (←2, ↓2, ←2) to reach the switch and clear the next barrier. Walk along the rocky ridge and go down the first stairway. Pick up {{TM|37|Sandstorm}} to the west, then head northeastward to reach a [[Full Heal]] and {{TM|07|Hail}}. Climb the northeast ladder to the third floor.
+
+====3F====
+Go northeast to fight a Cooltrainer♂ and pick up a [[Max Revive]]. Head to the northwest area to find {{TM|50|Overheat}} and another switch. Climb down the ladder to reach a separate part of the second floor.
+
+====2F====
+Battle PokéManiac Dawson and pick up the [[Guard Spec.]] in the crater to the east. Take the ladder back up to the third floor.
+
+====3F====
+Go back to the boulder in the northeast area and push it all the way westward (↑2, ←22, ↓1, ←4, ↓3, →1) to reach the switch. This removes the next barrier so that you can reach the southern area. Walk across the rocky ridge and go south to battle two more Cooltrainers. Head east and push the boulder here down the hole in the floor, then jump down after it.
+
+====2F====
+Shove the boulder all the way westward to the switch. This removes the barrier near where the boulder landed. Climb up onto the ridge and take the ladder up to the third floor.
+
+====3F (Southeast)====
+Climb down the next ladder back to the second floor.
+
+====2F (East)====
+The Cooltrainer in the final area offers to teach {{m|Double-Edge}} to a compatible Pokémon, in recognition of you clearing the cave. Take the eastern exit to return to {{rt|23|Kanto}}.
+{{-}}
+
+==Route 23 (North)==
+Follow the tiled pathway to the north and head through the maze of stones to finally reach [[Indigo Plateau]].
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|land}}
+{{Itemlist|Lum Berry|Southwest of the maze of stones, on a marked square ''(hidden)''|FR=yes|LG=yes}}
+{{Itemlist|Max Elixir|Northwest part of the maze of stones ''(hidden)''|FR=yes|LG=yes}}
+{{Itlistfoot|land}}
+|}
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=15
+|prevname=Route 21, Power Plant, Viridian Gym
+|nextsection=17
+|nextname=The Pokémon League
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|16]]

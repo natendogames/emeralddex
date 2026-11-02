@@ -1,0 +1,506 @@
+==Mt. Pyre==
+[[File:Mt Pyre 1F RSE.png|thumb|left|Mt. Pyre, 1F]]
+[[File:Mt Pyre 6F E.png|thumb|left|Mt. Pyre, 6F]]
+[[File:Mt Pyre exterior E.png|thumb|Mt. Pyre, Exterior and Summit]]
+The towering [[Mt. Pyre]] exists to soothe the spirits of Pokémon that have passed on. Hoenn's most beloved Pokémon have been laid to rest here, making the mountain a very sacred place.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Inside
+|-
+|
+{{trainerheader|mountain}}
+{{catch/div|mountain|2F}}
+{{trainerentry|Spr RS PokéManiac.png|PokéManiac|Mark|1860<br/><small>Potential [[Double Battle]] with Leah</small>|1|111|Rhyhorn|♂|31|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Leah|744<br/><small>Potential [[Double Battle]] with Mark or Zander</small>|1|325|Spoink|♀|31|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Black Belt.png|Black Belt|Zander|992<br/><small>Potential [[Double Battle]] with Leah</small>|1|297|Hariyama|♂|31|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Young Couple.png|Young Couple|Dez & Luke|1984|2|301|Delcatty|♀|31||310|Manectric|♂|31|}}
+{{catch/div|mountain|3F}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Kayla|624<br/><small>Potential [[Double Battle]] with Gabrielle</small>|3|202|Wobbuffet|♀|26||177|Natu|♀|26||064|Kadabra|♂|26|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Gabrielle|1040<br/><small>Potential [[Double Battle]] with Kayla or William{{tt|*|Only first three Pokémon will be used if faced in a Double Battle}}</small>|6|300|Skitty|♀|26||261|Poochyena|♀|26||263|Zigzagoon|♀|26||270|Lotad|♀|26||273|Seedot|♀|26||276|Taillow|♀|26||38=Nav|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|William|624<br/><small>Potential [[Double Battle]] with Gabrielle</small>|3|280|Ralts|♂|26||280|Ralts|♂|26||281|Kirlia|♂|26|}}
+{{catch/div|mountain|4F}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Tasha|768|1|353|Shuppet|♀|32|}}
+{{catch/div|mountain|5F}}
+{{trainerentry|Spr RS Black Belt.png|Black Belt|Atsushi|1024|1|297|Hariyama|♂|32|}}
+{{catch/div|mountain|6F}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Valerie|768<br/><small>Potential [[Double Battle]] with Cedric</small>|1|302|Sableye|♀|32||38=Nav}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|Cedric|768<br/><small>Potential [[Double Battle]] with Valerie</small>|1|202|Wobbuffet|♂|32|}}
+{{catch/div|mountain|Rematch}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Gabrielle{{tt|*|First rematch}}|1240|6|300|Skitty|♀|31||262|Mightyena|♀|31||263|Zigzagoon|♀|31||270|Lotad|♀|31||273|Seedot|♀|31||276|Taillow|♀|31||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Gabrielle{{tt|*|Second rematch}}|1320|6|300|Skitty|♀|33||262|Mightyena|♀|33||264|Linoone|♀|33||271|Lombre|♀|33||274|Nuzleaf|♀|33||276|Taillow|♀|33||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Gabrielle{{tt|*|Third rematch}}|1400|6|301|Delcatty|♀|35||262|Mightyena|♀|35||264|Linoone|♀|35||271|Lombre|♀|35||274|Nuzleaf|♀|35||277|Swellow|♀|35||38=Nav}}
+{{trainerentry|Spr RS Pokémon Breeder F.png|Pokémon Breeder|Gabrielle{{tt|*|Fourth rematch onwards}}|1480|6|301|Delcatty|♀|37||262|Mightyena|♀|37||264|Linoone|♀|37||272|Ludicolo|♀|37||275|Shiftry|♀|37||277|Swellow|♀|37||38=Nav}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Valerie{{tt|*|First rematch}}|744|2|302|Sableye|♀|31||325|Spoink|♀|31||38=Nav}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Valerie{{tt|*|Second and third rematch}}|{{tt|840|Second rematch}}/{{tt|960|Third rematch}}|2|325|Spoink|♀|{{tt|35|Second rematch}}/{{tt|40|Third rematch}}||302|Sableye|♀|{{tt|35|Second rematch}}/{{tt|40|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Valerie{{tt|*|Fourth rematch onwards}}|1008|3|355|Duskull|♀|42||302|Sableye|♀|42||326|Grumpig|♀|42||38=Nav}}
+{{trainerfooter|mountain|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Outside
+|-
+|
+{{trainerheader|mountain}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640|1|318|Carvanha|♂|32|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640|1|041|Zubat|♂|32|}}
+{{trainerdiv|mountain}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||600<br/><small>[[Double Battle]] with the following Grunt</small>|2|261|Poochyena|♂|30||318|Carvanha|♂|30|}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||600<br/><small>[[Double Battle]] with the previous Grunt</small>|2|320|Wailmer|♀|30||041|Zubat|♀|30|}}
+{{trainerfooter|mountain|3}}
+|}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Interior
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/div|mountain|1F-3F}}
+{{Catch/entry3|353|Shuppet|no|no|yes|1F-3F|22-29|100%|type1=Ghost}}
+{{Catch/div|mountain|4F-6F}}
+{{Catch/entry3|353|Shuppet|no|no|yes|4F-6F|22-29|90%|type1=Ghost}}
+{{Catch/entry3|355|Duskull|no|no|yes|4F-6F|25, 27, 29|10%|type1=Ghost}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Exterior
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entry3|353|Shuppet|no|no|yes|Grass|27-29|60%|type1=Ghost}}
+{{Catch/entry3|037|Vulpix|no|no|yes|Grass|25, 27, 29|30%|type1=Fire}}
+{{Catch/entry3|278|Wingull|no|no|yes|Grass|26-28|10%|type1=Water|type2=Flying}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Summit
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entry3|353|Shuppet|no|no|yes|Grass|24-30|85%|type1=Ghost}}
+{{Catch/entry3|355|Duskull|no|no|yes|Grass|26, 28, 30|13%|type1=Ghost}}
+{{Catch/entry3|358|Chimecho|no|no|yes|Grass|28|2%|type1=Psychic}}
+{{Catch/footer|mountain}}
+|}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|mountain}}
+{{catch/div|mountain|Interior}}
+{{itemlist|Cleanse Tag|1F; From the old woman in the northeast corner|E=yes}}
+{{itemlist|Ultra Ball|2F; Southwest corner|E=yes}}
+{{itemlist|Super Repel|3F; West wall|E=yes}}
+{{itemlist|Sea Incense|4F; Southwest corner, accessible by falling from 5F|E=yes}}
+{{itemlist|Lax Incense|5F; South side, accessible by falling from 6F|E=yes}}
+{{itemlist|TM Ghost|6F; South side|E=yes|display={{TM|30|Shadow Ball}}}}
+{{catch/div|mountain|Exterior}}
+{{itemlist|TM Psychic|Atop the rock wall near the second grass patch|E=yes|display={{TM|48|Skill Swap}}}}
+{{itemlist|Max Potion|Southeast of the Summit entrance|E=yes}}
+{{itemlist|Max Ether|Southwest of the Summit entrance, on a headstone (hidden)|E=yes}}
+{{itemlist|Ultra Ball|Northwest corner, on a headstone (hidden)|E=yes}}
+{{catch/div|mountain|Summit}}
+{{itemlist|Zinc|Southwest corner, on a headstone (hidden)|E=yes}}
+{{itemlist|Rare Candy|Northeast corner, in the tall grass (hidden)|E=yes}}
+{{itemlist|Magma Emblem|From the old woman after Team Aqua flees|E=yes}}
+{{itlistfoot|mountain}}
+|}
+
+===Interior===
+On 1F, talk to the old woman in the northeast corner. Concerned for your safety, she gives you a [[Cleanse Tag]], which reduces the wild encounter rate when held by your lead Pokémon.
+
+On 6F, pick up {{TM|30|Shadow Ball}} from the south side before falling through the nearby hole in the floor. On the south side of 5F, you find a [[Lax Incense]], which boosts the holder's {{stat|Evasion|evasiveness}} by 5%. Fall through the southeast hole to return to 4F, where you find a [[Sea Incense]]. This item gives {{t|Water}} moves a 5% power boost when held. These Incenses also allow {{p|Wobbuffet}}, {{p|Marill}}, and {{p|Azumarill}} to produce {{p|Wynaut}} and {{p|Azurill}} Eggs at the Day Care.
+
+===Exterior===
+Reaching the summit means a long climb up the mountainside. Be sure to collect {{TM|48|Skill Swap}} and the [[Max Potion]] before moving on.
+
+===Summit===
+When you reach the summit, you are finally able to catch up to [[Team Aqua]]. Show no mercy to the four Grunts lining the path as you advance northward. Upon reaching the mountain's highest peak, [[Archie]] informs you that [[Maxie]] and [[Team Magma]] beat them to the summit, but he also got what he wanted, and steals the [[Red Orb]] from its altar! Like your last meeting atop [[Mt. Chimney]], he doesn't have much time to waste on you. He orders his team to fall back, and the group disappears in an instant. Afterward, the elderly woman caretaker tells you that the two Orbs belong together and must never be separated as they are now. She says that although Team Magma showed up first and was able to steal the [[Blue Orb]], they left something behind in their haste. She gives you the [[Magma Emblem]], in the hopes that it may be useful.
+{{-}}
+
+==Route 123 (optional)==
+[[File:Hoenn Route 123 E.png|thumb|400px|Route 123]]
+
+{{rt|123|Hoenn}} slopes downhill as it runs westward, from {{rt|122|Hoenn}} back to {{rt|118|Hoenn}}. Before heading onto this route, make sure that you have a Pokémon on your team that knows [[Cut]], and also have at least one {{t|Grass}} type Pokémon.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|land}}
+{{catch/div|land|Accessed via Route 122}}
+{{trainerentry|Spr RS Hex Maniac.png|Hex Maniac|Kindra|720<br><small>Potential [[Double Battle]] with Ed</small>|2|355|Duskull|♀|30||353|Shuppet|♀|30|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Collector.png|Collector|Ed|1800<br><small>Potential [[Double Battle]] with Kindra</small>|2|335|Zangoose|♂|30||336|Seviper|♂|30|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Wendy|1392|3|303|Mawile|♀|29||315|Roselia|♀|29||279|Pelipper|♀|29|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Braxton|1344|5|277|Swellow|♂|28||328|Trapinch|♂|28||320|Wailmer|♂|28||082|Magneton||28||275|Shiftry|♂|28|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fernando|960<br><small>Potential [[Double Battle]] with Alberto</small>|2|309|Electrike|♂|30||294|Loudred|♂|30||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Alberto|960<br><small>Potential [[Double Battle]] with Fernando</small>|2|279|Pelipper|♂|30||178|Xatu|♂|30|}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Jacki|720<br><small>Potential [[Double Battle]] with Fredrick</small>|2|064|Kadabra|♂|30||337|Lunatone||30||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Expert M.png|Expert|Fredrick|1200<br><small>Potential [[Double Battle]] with Jacki</small>|2|296|Makuhita|♂|30||067|Machoke|♂|30|}}
+{{catch/div|land|Requires {{mcolor|Cut|000}}}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|Cameron|744|1|338|Solrock||31||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Jonas|372<br><small>[[Double Battle]] with Kayley</small>|1|109|Koffing|♂|31|}}
+{{trainerentry|Spr RS Parasol Lady.png|Parasol Lady|Kayley|1240<br><small>[[Double Battle]] with Jonas</small>|1|351|Castform|♀|31|}}
+{{catch/div|land|Rematch}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fernando{{tt|*|First rematch}}|1120|3|309|Electrike|♂|35||309|Electrike|♂|35||294|Loudred|♂|35||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fernando{{tt|*|Second rematch}}|1184|3|309|Electrike|♂|37||310|Manectric|♂|37||294|Loudred|♂|37||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fernando{{tt|*|Third rematch}}|1248|3|310|Manectric|♂|39||310|Manectric|♂|39||294|Loudred|♂|39||38=Nav}}
+{{trainerentry|Spr RS Guitarist.png|Guitarist|Fernando{{tt|*|Fourth rematch onwards}}|1312|3|310|Manectric|♂|41||310|Manectric|♂|41||295|Exploud|♂|41||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Jacki{{tt|*|First, second and third rematch}}|{{tt|816|First rematch}}/{{tt|888|Second rematch}}/{{tt|960|Third rematch}}|2|064|Kadabra|♂|{{tt|34|First rematch}}/{{tt|37|Second rematch}}/{{tt|40|Third rematch}}||337|Lunatone||{{tt|34|First rematch}}/{{tt|37|Second rematch}}/{{tt|40|Third rematch}}||36=シホミ|37=Shihomi|38=Nav}}
+{{trainerentry|Spr RS Psychic F.png|Psychic|Jacki{{tt|*|Fourth rematch onwards}}|1032|2|337|Lunatone||43||065|Alakazam|♂|43||38=Nav}}
+{{trainerdiv|land}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|Cameron{{tt|*|First, second and third rematch}}|{{tt|792|First rematch}}/{{tt|912|Second rematch}}/{{tt|984|Third rematch}}|2|064|Kadabra|♂|{{tt|33|First rematch}}/{{tt|38|Second rematch}}/{{tt|41|Third rematch}}||338|Solrock||{{tt|33|First rematch}}/{{tt|38|Second rematch}}/{{tt|41|Third rematch}}||38=Nav}}
+{{trainerentry|Spr RS Psychic M.png|Psychic|Cameron{{tt|*|Fourth rematch onwards}}|1080|2|338|Solrock||45||065|Alakazam|♂|45||38=Nav}}
+{{trainerfooter|land|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|land|no}}
+{{catch/entry3|353|Shuppet|no|no|yes|Grass|26, 28|30%|type1=Ghost}}
+{{catch/entry3|261|Poochyena|no|no|yes|Grass|26|20%|type1=Dark}}
+{{catch/entry3|262|Mightyena|no|no|yes|Grass|26, 28|20%|type1=Dark}}
+{{catch/entry3|043|Oddish|no|no|yes|Grass|26, 28|15%|type1=Grass|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Grass|26-28|9%|type1=Water|type2=Flying}}
+{{catch/entry3|044|Gloom|no|no|yes|Grass|28|5%|type1=Grass|type2=Poison}}
+{{catch/entry3|352|Kecleon|no|no|yes|Grass|25|1%|type1=Normal}}
+{{catch/div|water|Surfing}}
+{{catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{catch/div|water|Fishing}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{catch/footer|land}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|land}}; {{roundy}}; border: 5px solid #{{locationcolor/light|land}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{catch/div|land|Accessible via Route 122}}
+{{itemlist|PP Up|
+* East of the pier, at the end of the dead-end center path (hidden, requires {{m|Cut}})
+* West of Psychic Jacki and Expert Frederick|E=yes|display=[[PP Up]] ×2}}
+{{itemlist|Rare Candy|East of the pier, near the trees (hidden, requires {{m|Cut}})|E=yes}}
+{{itemlist|TM Grass|From a girl southwest of the pier, if shown a {{t|Grass}} Pokémon|E=yes|display={{TM|19|Giga Drain}}}}
+{{itemlist|Pecha Berry|Soft soil patch west of the pier|E=yes|display=[[Pecha Berry]] ×2}}
+{{itemlist|Rawst Berry|Soft soil patch west of the pier|E=yes|display=[[Rawst Berry]] ×2}}
+{{itemlist|Sitrus Berry|Soft soil patch west of the pier|E=yes|display=[[Sitrus Berry]] ×2}}
+{{itemlist|Hyper Potion|On a rock, east of Hex Maniac Kindra (hidden)|E=yes}}
+{{itemlist|Leppa Berry|Soft soil patch on the north side|E=yes|display=[[Leppa Berry]] ×4}}
+{{itemlist|Elixir|On a ledge, northeast of Cooltrainer Wendy|E=yes}}
+{{itemlist|Super Repel|In a clearing in a grass patch along the north treeline (hidden)|E=yes}}
+{{itemlist|Revival Herb|South of the rock outcropping, west of Guitarist Fernando|E=yes}}
+{{itemlist|Calcium|West of the pond|E=yes}}
+{{itlistfoot|land}}
+|}
+
+==Jagged Pass==
+[[File:Magma Hideout entrance E.png|thumb|Magma Hideout, outside]]
+
+Having received the [[Magma Emblem]] from the caretakers atop [[Mt. Pyre]], the next step is to use it. {{m|Fly}} back to [[Lavaridge Town]] and {{rt|112|Hoenn}}, then either enter [[Jagged Pass]] from the south and use the [[Acro Bike]] to scale the cliffs, or ride the cable car to the summit and descend. Hike through the area until you reach the halfway point, where you passed that Magma Grunt on your first visit. Just then, a suspicious-looking part of the cliffside begins shaking in response to the Magma Emblem. By the time the tremor subsides, a gaping hole has appeared in the rock!
+
+==Magma Hideout==
+[[File:Magma Hideout 1F E.png|thumb|left|Magma Hideout, entrance]]
+[[File:Magma Hideout 2F1R E.png|thumb|Magma Hideout, 1F]]
+[[File:Magma Hideout 2F2R E.png|thumb|left|Magma Hideout, B1F]]
+[[File:Magma Hideout 3F1R E.png|thumb|Magma Hideout, B2F]]
+[[File:Magma Hideout 3F2R E.png|thumb|left|Magma Hideout, B3F]]
+[[File:Magma Hideout 4F E.png|thumb|Magma Hideout, B4F]]
+[[File:Magma Hideout 3F3R E.png|thumb|left|Magma Hideout, B5F]]
+[[File:Magma Hideout 2F3R E.png|thumb|Magma Hideout, stairs room]]
+Located deep in the side of [[Mt. Chimney]], the {{OBP|Magma Hideout|Jagged Pass}} serves as the terrestrial team's base of operations. Many strange machines can be found inside, and one chamber even holds excavation equipment for further expansion.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|volcano}}
+{{catch/div|volcano|1F}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|261|Poochyena|♂|29|}}
+{{catch/div|volcano|1F (elevated path)}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|041|Zubat|♂|29|}}
+{{catch/div|volcano|2F}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|322|Numel|♂|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt F.png|Team Magma Grunt||580|1|262|Mightyena|♀|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||560<br/><small>Potential [[Double Battle]] with the following Grunt</small>|2|343|Baltoy||28||322|Numel|♂|28|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||560<br/><small>Potential [[Double Battle]] with the preceding Grunt</small>|2|343|Baltoy||28||041|Zubat|♂|28|}}
+{{catch/div|volcano|2F (Room 2)}}
+{{trainerentry|Spr RS Team Magma Grunt F.png|Team Magma Grunt||580<br/><small>[[Double Battle]] with the following Grunt</small>|1|322|Numel|♀|29|}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580<br/><small>[[Double Battle]] with the preceding Grunt</small>|1|262|Mightyena|♂|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|041|Zubat|♂|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|261|Poochyena|♂|29|}}
+{{catch/div|volcano|3F}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|041|Zubat|♂|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt F.png|Team Magma Grunt||580|1|343|Baltoy||29|}}
+{{catch/div|volcano|3F (Room 2)}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|262|Mightyena|♂|29|}}
+{{catch/div|volcano|4F}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580|1|343|Baltoy||29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580<br/><small>Potential [[Double Battle]] with the following Grunt</small>|1|322|Numel|♂|29|}}
+{{trainerdiv|volcano}}
+{{trainerentry|Spr RS Team Magma Grunt M.png|Team Magma Grunt||580<br/><small>Potential [[Double Battle]] with the preceding Grunt</small>|1|041|Zubat|♂|29|}}
+{{trainerfooter|volcano|I}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|volcano|no}}
+{{Catch/entry3|074|Geodude|no|no|yes|Cave|27-30|55%|type1=Rock|type2=Ground}}
+{{Catch/entry3|324|Torkoal|no|no|yes|Cave|28, 30|30%|type1=Fire}}
+{{Catch/entry3|075|Graveler|no|no|yes|Cave|30-33|15%|type1=Rock|type2=Ground}}
+{{Catch/footer|volcano}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|volcano}}; {{roundy}}; border: 5px solid #{{locationcolor/light|volcano}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|volcano}}
+{{catch/div|volcano|1F}}
+{{itemlist|Rare Candy|West side of the elevated path, accessible via 2F (Room 2)|E=yes}}
+{{catch/div|volcano|2F (Room 2)}}
+{{itemlist|Full Restore|West of the lava pool|E=yes}}
+{{itemlist|Max Elixir|East of the lava pool|E=yes}}
+{{catch/div|volcano|3F}}
+{{itemlist|Nugget|West side of the lower lava pool|E=yes}}
+{{catch/div|volcano|3F (Room 2)}}
+{{itemlist|PP Max|West side|E=yes}}
+{{catch/div|volcano|4F}}
+{{itemlist|Max Revive|Northwest of Groudon's lava pool|E=yes}}
+{{catch/div|volcano|3F (Room 3)}}
+{{itemlist|Escape Rope|Southwest corner|E=yes}}
+{{itlistfoot|volcano}}
+|}
+
+===Entrance===
+Enter the base, turn the corner, and use {{m|Strength}} to move past the group of boulders. Continue on to battle the Grunt on the east side of the chamber, then take the southeast doorway.
+
+===1F===
+Make your way down the cliffside, battling four more Grunts along the way. After that, head through the mid-level doorway to detour for a handful of items.
+
+===B1F===
+Go north to fight a couple of Grunts in a [[Double Battle]], then collect the [[Full Restore]] just beyond them. Head back south, then turn east to battle another two Grunts and grab the [[Max Elixir]] to the northwest. Continue eastward and head through the northeast doorway.
+
+Back at the entrance, follow the elevated path to the southwest, battling a single Grunt along the way to the path's end, where you find a [[Rare Candy]]. Backtrack through B1F to the southwest doorway to return to 1F.
+
+===1F===
+Continue down the cliffside and go through the doorway at the bottom.
+
+===B2F===
+Head west around the lava pool to battle the first Grunt. Walk down the stairway and go through the doorway to the east.
+
+===B3F===
+Pick up a [[PP Max]] to the northwest and battle the Grunt to the northeast, then return to the previous chamber.
+
+===B2F===
+Walk down the stairway and fight the second Grunt. Go west and collect the [[Nugget]] before heading south through the doorway.
+
+===B4F===
+Head down the stairway and go west, battling three more Grunts along the way. Continue westward and you are stopped by Magma Admin [[Tabitha]]. He tells you that [[Maxie]] is up ahead, and draws you into battle to buy some time for his boss.
+
+====VS Tabitha====
+{{Party
+| walkthrough = yes
+| background = {{omega ruby color}}
+| border = {{omega ruby color dark}}
+| headcolor = {{omega ruby color light}}
+| sprite = Spr RS Tabitha.png
+| prize = {{PDollar}}1320
+| class = Magma Admin
+| name = {{color2|000|Tabitha}}
+| location = Magma Hideout (Jagged Pass)
+| locationname = Magma Hideout
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0322
+| pokemon = Numel
+| gender = male
+| level = 26
+| type1 = Fire
+| type2 = Ground
+| ability = Oblivious
+| move1 = Tackle | move1type = Normal
+| move2 = Ember | move2type = Fire
+| move3 = Magnitude | move3type = Ground
+| move4 = Focus Energy | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 28
+| type1 = Dark
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Odor Sleuth | move2type = Normal
+| move3 = Roar | move3type = Normal
+| move4 = Swagger | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0041
+| pokemon = Zubat
+| gender = male
+| level = 30
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Astonish | move1type = Ghost
+| move2 = Bite | move2type = Dark
+| move3 = Wing Attack | move3type = Flying
+| move4 = Confuse Ray | move4type = Ghost
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0323
+| pokemon = Camerupt
+| gender = male
+| level = 33
+| type1 = Fire
+| type2 = Ground
+| ability = Magma Armor
+| move1 = Focus Energy | move1type = Normal
+| move2 = Take Down | move2type = Normal
+| move3 = Amnesia | move3type = Psychic
+| move4 = Rock Slide | move4type = Rock
+}}
+{{Party/end}}
+
+
+Collect a [[Max Revive]] from the northwest corner, then turn south. Up ahead, you find Maxie standing on the edge of a lava pool, talking to the sleeping form of the super-ancient Pokémon, {{p|Groudon}}. He holds the [[Blue Orb]] high, and its light awakens the ancient beast, which immediately escapes. Maxie blames you, accusing you of some "cheap stunt", and prepares for battle!
+
+====VS Maxie====
+{{Party
+| walkthrough = yes
+| background = {{omega ruby color}}
+| border = {{omega ruby color dark}}
+| headcolor = {{omega ruby color light}}
+| sprite = Spr RS Maxie.png
+| prize = {{PDollar}}3120
+| class = Magma Leader
+| classlink = Maxie
+| name = {{color2|000|Maxie}}
+| location = Magma Hideout (Jagged Pass)
+| locationname = Magma Hideout
+| game = E
+| pokemon = 3
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 37
+| type1 = Dark
+| ability = Intimidate
+| move1 = Roar | move1type = Normal
+| move2 = Swagger | move2type = Normal
+| move3 = Scary Face | move3type = Normal
+| move4 = Take Down | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0169
+| pokemon = Crobat
+| gender = male
+| level = 38
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Bite | move1type = Dark
+| move2 = Wing Attack | move2type = Flying
+| move3 = Confuse Ray | move3type = Ghost
+| move4 = Air Cutter | move4type = Flying
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0323
+| pokemon = Camerupt
+| gender = male
+| level = 39
+| type1 = Fire
+| type2 = Ground
+| ability = Magma Armor
+| move1 = Take Down | move1type = Normal
+| move2 = Amnesia | move2type = Psychic
+| move3 = Rock Slide | move3type = Rock
+| move4 = Earthquake | move4type = Ground
+}}
+{{Party/end}}
+
+
+Defeated, Maxie flees to search for Groudon. Take the south doorway for a shortcut back to the entrance, and collect the [[Escape Rope]] along the way through 5F and the stairs room.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=11
+|prevname=Route 120, Fortree Gym, Route 121, Route 122
+|nextsection=13
+|nextname=Slateport City, Lilycove City, Safari Zone, Aqua Hideout
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|12]]

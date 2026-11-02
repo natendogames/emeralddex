@@ -1,0 +1,348 @@
+==Route 126==
+[[File:Hoenn Route 126 RSE.png|thumb|Route 126]]
+[[File:Hoenn Route 126 underwater RSE.png|thumb|left|Route 126 (underwater)]]
+
+The waters of {{rt|126|Hoenn}} surround a massive crater, inside of which lies [[Sootopolis City]]. There's no way to reach the city from the surface, but an entrance is hidden beneath the waves in the southern area.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Leonardo|272<br><small>Potential [[Double Battle]] with Isobel</small>|1|318|Carvanha|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer F.png|Triathlete|Isobel|1360<br><small>Potential [[Double Battle]] with Leonardo</small>|1|120|Staryu||34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Dean|248|3|318|Carvanha|♂|31||278|Wingull|♂|31||318|Carvanha|♂|31|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Nikki|264|2|183|Marill|♀|33||363|Spheal|♀|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Barry|272|1|130|Gyarados|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Sienna|264<br><small>Potential [[Double Battle]] with Pablo</small>|2|370|Luvdisc|♀|33||370|Luvdisc|♀|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Pablo|1320<br><small>Potential [[Double Battle]] with Sienna</small>|2|120|Staryu||33||120|Staryu||33||38=Nav}}
+{{catch/div|ocean|Requires {{mcolor|Dive|000}}}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Brenda|272|1|118|Goldeen|♀|34|}}
+{{catch/div|ocean|Rematch}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Pablo{{tt|*|First rematch}}|1480|2|120|Staryu||37||120|Staryu||37||38=Nav}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Pablo{{tt|*|Second rematch}}|1560|3|278|Wingull|♂|39||120|Staryu||39||120|Staryu||39||38=Nav}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Pablo{{tt|*|Third rematch}}|1640|3|279|Pelipper|♂|41||120|Staryu||41||120|Staryu||41||38=Nav}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Pablo{{tt|*|Fourth rematch onwards}}|1720|3|279|Pelipper|♂|43||121|Starmie||43||121|Starmie||43||38=Nav}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|Green Shard|Northwest corner of the route, accessible through an underwater passage from Route 124 (requires {{m|Dive}})|E=yes}}
+{{catch/div|underwater|Underwater}}
+{{itemlist|Stardust|Northeast dark spot (hidden)|E=yes}}
+{{itemlist|Ultra Ball|North-central dark spot (hidden)|E=yes}}
+{{itemlist|Heart Scale|Northwest dark spot (hidden)|E=yes}}
+{{itemlist|Yellow Shard|Far western area, in a clearing in a patch of seaweed (hidden)|E=yes}}
+{{itemlist|Pearl|Far western area, in a clearing in a patch of seaweed (hidden)|E=yes|display={{i|Pearl}}}}
+{{itemlist|Iron|Far western area, in a clearing in a patch of seaweed (hidden)|E=yes}}
+{{itemlist|Blue Shard|Very southwest area, in a patch of seaweed (hidden)|E=yes}}
+{{itemlist|Big Pearl|Among the seaweed on the crater's southeast side (hidden)|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+==Sootopolis City (first visit)==
+[[File:Sootopolis City E.png|thumb|left|Sootopolis City]]
+
+[[Sootopolis City]] rises from the crater of an inactive volcano and can only be reached by sea or sky. The [[Sootopolis Gym|final Gym]] in the [[Hoenn League]] is located here, but there are more urgent matters to attend to first. With [[Hoenn]]'s weather becoming increasingly oppressive, you must race to the [[Cave of Origin]] and stop the super-ancient Pokémon from destroying the entire region! A girl named [[Kiri]] lives here and will give you two Berries each day, but she will not give out Berries while {{p|Groudon}} and {{p|Kyogre}} battle. If you visit Sootopolis City before completing [[Seafloor Cavern]], you can collect all items here early (except {{hm|07|Waterfall}}). The Gym will still be closed.
+
+{| class="expandable" style="margin: auto; background: #AFAFAF; {{roundy}}; border: 5px solid #C0C0C0;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|water|no}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|100%|type1=Water}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Super|30-35|80%|type1=Water}}
+{{Catch/entry3|130|Gyarados|no|no|yes|Fish Super|5-45|20%|type1=Water|type2=Flying}}
+{{Catch/footer|water}}
+|}
+Note: No surfing Pokémon can appear during the battle between Groudon and Kyogre.
+
+===A Battle of Legends===
+When you surface inside the crater, you find {{p|Groudon}} and {{p|Kyogre}} locked in battle a short distance ahead. The unending shifts in weather have frightened many of the city's residents into their homes with their doors locked tight, while others brave the elements to witness the super-ancient Pokémon fighting. [[Maxie]] and [[Archie]] stand outside the Gym, which is also closed, begging the two Pokémon to stop their battle, but to no effect.
+
+===Catch Up with Steven===
+Surf westward from the Gym to a grassy shore to meet {{steven}}. He assumes that your presence here means that you're prepared to become involved in this crisis, and has someone he would like you to meet. He leads you around to the north side of the crater and the entrance to the [[Cave of Origin]]. After a word with the guard, he asks you to search the cave for someone named [[Wallace]].
+
+==Cave of Origin==
+[[File:Cave of Origin exterior E.png|x175px|thumb|left|Cave of Origin]]
+[[File:Cave of Origin Entrance E.png|x250px|thumb|Cave of Origin, Entrance]]
+[[File:Cave of Origin 1F E.png|thumb|left|Cave of Origin, 1F]]
+[[File:Cave of Origin B1F E.png|thumb|Cave of Origin, B1F]]
+The [[Cave of Origin]] is said to hold a great source of ancient power. Whatever lies in its uncharted depths, it has drawn the attention of the super-ancient Pokémon. It must be stopped, and only you can save Hoenn from its destructive influence! No wild Pokémon appear in Wallace's room.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|cave|no}}
+{{Catch/div|cave|Entrance}}
+{{Catch/entry3|041|Zubat|no|no|yes|Cave|28-35|90%|type1=Poison|type2=Flying}}
+{{Catch/entry3|042|Golbat|no|no|yes|Cave|33-36|10%|type1=Poison|type2=Flying}}
+{{Catch/div|cave|1F}}
+{{Catch/entry3|041|Zubat|no|no|yes|Cave|30-34|60%|type1=Poison|type2=Flying}}
+{{Catch/entry3|302|Sableye|no|no|yes|Cave|30, 32, 34|30%|type1=Dark|type2=Ghost}}
+{{Catch/entry3|042|Golbat|no|no|yes|Cave|33-36|10%|type1=Poison|type2=Flying}}
+{{Catch/footer|cave}}
+|}
+
+===Entrance===
+There's not a moment to lose! Sprint down the entry hall to reach the cave's interior.
+
+===1F===
+Head in a clockwise direction to reach the ladder in the northeast.
+
+===B1F===
+The lowest floor is lined with sapphires and rubies. Visit the south side of this mist-filled room to meet [[Wallace]]. He was once the [[Sootopolis Gym]] Leader, but something came up that caused him to leave the Gym in the care of his mentor, [[Juan]]. According to Wallace, {{p|Groudon}} and {{p|Kyogre}} are not the only super-ancient Pokémon—there is a third somewhere, named {{p|Rayquaza}}. It's believed that it was Rayquaza that becalmed the two combatants in the distant past, but even Wallace can't be sure where it's located now. He asks if you might know where it is, and after you mention [[Sky Pillar]], he sets off in search of the ancient creature. To follow him, you'll need to trek through the southeast ocean beginning with {{rt|129|Hoenn}}.
+
+Note: the entrance to the Cave of Origin is blocked for the rest of the game after awakening Rayquaza.
+
+==Route 129==
+[[File:Hoenn Route 129 RSE.png|thumb|Route 129]]
+
+{{rt|129|Hoenn}} lies to the south of {{rt|128|Hoenn}}. The several Trainers found here make it a worthwhile place to explore.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Reed|264|2|363|Spheal|♂|33||319|Sharpedo|♂|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Chase|1360|2|278|Wingull|♂|26||120|Staryu||34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer F.png|Triathlete|Allison|1320|2|278|Wingull|♀|27||120|Staryu||33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Clarence|272<br><small>Potential [[Double Battle]] with Tisha</small>|1|319|Sharpedo|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Tisha|272<br><small>Potential [[Double Battle]] with Clarence</small>|1|170|Chinchou|♀|34|}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|4%|type1=Water|type2=Flying}}
+{{Catch/entry3|321|Wailord|no|no|yes|Surf|25-30|1%|type1=Water}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/footer|ocean}}
+|}
+
+{{-}}
+
+==Route 130==
+[[File:Hoenn Route 130 RSE.png|thumb|Route 130]]
+[[File:Hoenn Route 130 Mirage Island RSE.png|thumb|left|Route 130, with Mirage Island]]
+
+{{rt|130|Hoenn}} is a short, straightforward route that links Routes {{rtn|129|Hoenn}} and {{rtn|131|Hoenn}}. The waterway is occasionally occupied by {{gdis|Mirage Island|III}}.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Rodney|272|1|130|Gyarados|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Katie|264<br><small>Potential [[Double Battle]] with Santiago</small>|2|118|Goldeen|♀|33||363|Spheal|♀|33|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Santiago|264<br><small>Potential [[Double Battle]] with Katie</small>|2|073|Tentacruel|♂|33||320|Wailmer|♂|33|}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{catch/div|land|Mirage Island}}
+{{Catch/entry3|360|Wynaut|no|no|yes|Grass|5, 10, 15, 20, 25, 30, 35, 40, 45, 50|100%|type1=Psychic}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|land}}
+{{itemlist|Liechi Berry|Soft soil patch on Mirage Island|E=yes}}
+{{itlistfoot|land}}
+|}
+
+{{-}}
+===Mirage Island===
+While {{rt|130|Hoenn}} usually appears as a simple stretch of ocean, it is sometimes home to a strange island that seems to appear and disappear. This rare island is inhabited only by {{p|Wynaut}}, which range in level from 5 to 50. A soft soil patch on the island's east side holds a single [[Liechi Berry]] tree. This is the best Berry to use in [[Pokéblock]]s, as it will produce Gold Pokéblocks.
+
+==Route 131==
+[[File:Hoenn Route 131 RSE.png|thumb|Route 131]]
+
+{{rt|131|Hoenn}} lies between {{rt|130|Hoenn}} to the east and [[Pacifidlog Town]] to the west. There are no underwater trenches in this stretch of ocean, but several Trainers on the surface are looking to battle. On the route's north side is a large island that is home to the towering [[Sky Pillar]].
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Kevin|272<br><small>Potential [[Double Battle]] with Talia</small>|1|363|Spheal|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Triathlete Swimmer F.png|Triathlete|Talia|1360<br><small>Potential [[Double Battle]] with Kevin</small>|1|120|Staryu||34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Richard|272|1|279|Pelipper|♂|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Kara|272|1|119|Seaking|♀|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Herman|264|2|278|Wingull|♂|33||073|Tentacruel|♂|33|}} 
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Susie|272|1|370|Luvdisc|♀|34|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Reli & Ian|792|2|184|Azumarill|♂|35||278|Wingull|♂|33|}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|25-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|30-35|40%|type1=Water|type2=Dark}}
+{{Catch/footer|ocean}}
+|}
+
+==Pacifidlog Town (optional)==
+[[File:Pacifidlog Town E.png|thumb|Pacifidlog Town]]
+
+After chasing [[Team Aqua]] out of [[Lilycove City]], you can visit [[Pacifidlog Town]] and the three routes to the west anytime you want a rest from the action. This town is a humble community resting on the calm waters of eastern [[Hoenn]]. These floating homes surround a central Pokémon Center, where weary Trainers can catch a break from the waves.
+
+{| class="expandable" style="margin: auto; background: #5B73D0; {{roundy}}; border: 5px solid #6880D0;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Super|30-45|60%|type1=Water}}
+{{Catch/entry3|319|Sharpedo|no|no|yes|Fish Super|25-35|40%|type1=Water|type2=Dark}}
+{{Catch/div|ocean|Special}}
+{{Catch/entry3|116|Horsea|no|no|yes|Trade|tradenum=371|tradename=Bagon|The same as the Traded Pokémon|One|type1=Water}}
+{{Catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #5B73D0; {{roundy}}; border: 5px solid #6880D0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{itemlist|TM Normal|Southwest house, from the Fan Club Chairman's brother if lead Pokémon's [[friendship]] is low (one TM per week)|E=yes|display={{TM|21|Frustration}}}}
+{{itemlist|TM Normal|Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is high (one TM per week)|E=yes|display={{TM|27|Return}}}}
+{{itemlist|Wave Mail|Held by Seasor, the traded {{p|Horsea}}|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+===An Old Legend===
+Visit the northeast house and talk to the girl inside. She tells you a mysterious bit of wisdom passed down from her grandfather: ''Six dots open three doors''. Her father also remembers hearing tales of three Pokémon representing the powers of {{t|Rock}}, {{t|Ice}}, and {{t|Steel}}. It seems that Hoenn still has some secrets to discover!
+
+===Mirage Man===
+The old man in the southeast house spends his time by scanning the horizon for {{gdis|Mirage Island|III}}. Speak with him every day to learn if the island has appeared.
+
+===Move Tutor===
+Visit the Pokémon Center and speak to the young man near the entrance. He offers to teach the move {{m|Explosion}} to a Pokémon, one time only.
+
+===Time for a Trade===
+The boy in the south-central house is having trouble catching different Pokémon around town. He wishes to trade his {{p|Horsea}} for a {{p|Bagon}}. Horsea can be found on Routes {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}} to the west, while Bagon can only be found in [[Meteor Falls]].
+
+===Friendship is Everything===
+Stop by the southwest house to meet the brother of the Pokémon Fan Club chairman. Have him evaluate your relationship with your lead Pokémon, and he'll reward your friendship with {{TM|27|Return}}. If your Pokémon is unfriendly toward you, he'll give you {{TM|21|Frustration}} instead.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=15
+|prevname=Shoal Cave, Route 127, Route 128, Seafloor Cavern
+|nextsection=17
+|nextname=Routes 132, 133, and 134, Desert Ruins, Island Cave, Ancient Tomb, Sky Pillar, Sootopolis City
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|16]]

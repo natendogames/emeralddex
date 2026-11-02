@@ -1,0 +1,722 @@
+==Slateport City==
+When you arrive in {{ci|Slateport}}, head straight for the northeast part of town. Outside Slateport Harbor, you find [[Captain Stern]] wrapping up a TV interview in front of a small crowd. Afterwards, you catch up with him for a little chat where he informs you of his newest discovery. He's found an underwater cavern on {{rt|128|Hoenn}}, and believes it to be the den of a super-ancient Pokémon long though to have been extinct. Just then, you hear a voice booming out from a megaphone. It's [[Archie]], who mocks the captain and thanks him for the [[Submarine Explorer 1|submarine]].
+
+===Slateport Harbor===
+After rushing inside the building, you find [[Archie]] and a Grunt standing near the sub, ready to depart. He accepts that you won't simply leave him to his plans, and wonders if you will visit their hideout in [[Lilycove City]]. But he's come too far to be stopped now, and he and the Grunt quickly escape in the sub.
+
+==Lilycove City==
+[[File:Lilycove City E.png|thumb|300px|Lilycove City]]
+
+A port city, {{ci|Lilycove}} mirrors {{ci|Slateport}} with its impressive size, its scenic lighthouse, and its spacious harbor. The main attraction is the [[Lilycove Department Store]], while the [[Pokémon Contest|Contest Hall]], [[Lilycove Museum]], and [[Cove Lily Motel]] are also located here.
+
+{| class="expandable" style="margin: auto; background: #519EE2; {{roundy}}; border: 5px solid #5CB3FF;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|water|no}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Good|10-30|60%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Good|10-30|20%|type1=Water|type2=Poison}}
+{{Catch/entry3|320|Wailmer|no|no|yes|Fish Good|10-30|20%|type1=Water}}
+{{Catch/footer|water}}
+|}
+{| class="expandable" style="margin: auto; background: #519EE2; {{roundy}}; border: 5px solid #5CB3FF;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{itemlist|Max Repel|On the peninsula in the southeast|E=yes}}
+{{itemlist|TM Psychic|From a man in the easternmost house|E=yes|display={{TM|44|Rest}}}}
+{{itemlist|Poké Ball|On a rock, in the shallow water (hidden)|E=yes|display={{i|Poké Ball}}}}
+{{itemlist|Heart Scale|On a rock, on the southwest part of the beach (hidden)|E=yes}}
+{{itemlist|PP Up|Just outside the Team Aqua Hideout (hidden)|E=yes}}
+{{itemlist|Pokéblock Case|From the left receptionist in the [[Contest Hall]]|E=yes}}
+{{itemlist|Luxury Ball|Prize for winning a Contest with a Pokémon that has won a [[Rank (Contest)|Master Rank]] Contest before and already has a [[Ribbon]] of the won [[Contest condition|category]] and rank|E=yes}}
+{{itlistfoot|road}}
+|}
+
+===Pokémon Trainer Fan Club===
+Members of the [[Pokémon Trainer Fan Club]] discuss popular Pokémon Trainers and Gym Leaders. After entering the [[Hall of Fame]], several members announce themselves as your fans, as well.
+
+===Cove Lily Motel===
+[[File:Lilycovewatershrine.png|thumb|240px|Shrine]]
+Team Aqua's hideout on the edge of town has kept most tourists away, bringing the [[Cove Lily Motel]]'s business to a halt. As a result, there's nothing of interest here at the moment. After resolving the conflict with the villainous team and entering the [[Hall of Fame]], the Game Freak staff will visit the motel during their trip to Hoenn. The Game Designer will give Trainers the Poké [[Diploma]] after completing the [[Hoenn Pokédex]].
+
+[[Scott]] can be found here on the upper level, but he only appears before Team Aqua steals the [[Submarine Explorer 1|submarine]] from Slateport City.
+
+===Pokémon Contest Hall===
+The [[Pokémon Contest|Contest Hall]] stands on the south side of town. This building hosts all four Contest levels—Normal Rank, Super Rank, Hyper Rank, and Master Rank. A receptionist will give you a [[Pokéblock Case]], which lets you enter the {{safari|Hoenn}} north of {{rt|121|Hoenn}}, if you talk to her. Several powerful Pokémon, such as {{p|Girafarig}}, {{p|Pinsir}}, and {{p|Heracross}}, are found in the Safari Zone and nowhere else.
+
+===Pokéblock Master's House===
+The Pokéblock Master's house stands to the north of the harbor. Talk to her and her family to learn tips on crafting potent [[Pokéblock]]s.
+
+===Rival Battle 5 (optional)===
+When you approach the Department Store, you find {{ga|May}}/{{ga|Brendan}} waiting outside blocking the entrance. She/He offers to battle you to determine which Trainer has been doing a better job of raising their Pokémon in a fifth and final battle. 
+
+{{Party
+| caption = {{PlayerChoice|0252|Treecko}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = male
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = male
+| level = 32
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0272
+| pokemon = Ludicolo
+| gender = male
+| level = 32
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 34
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Peck | move1type = Flying
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Bulk Up | move3type = Fighting
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = female
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = female
+| level = 32
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0272
+| pokemon = Ludicolo
+| gender = female
+| level = 32
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0256
+| pokemon = Combusken
+| gender = male
+| level = 34
+| type1 = Fire
+| type2 = Fighting
+| ability = Blaze
+| move1 = Peck | move1type = Flying
+| move2 = Sand-Attack | move2type = Ground
+| move3 = Bulk Up | move3type = Fighting
+| move4 = Quick Attack | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0255|Torchic}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = male
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0272
+| pokemon = Ludicolo
+| gender = male
+| level = 32
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 32
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 34
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Mud Shot | move1type = Ground
+| move2 = Foresight | move2type = Normal
+| move3 = Mud Sport | move3type = Ground
+| move4 = Take Down | move4type = Normal
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = female
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0272
+| pokemon = Ludicolo
+| gender = female
+| level = 32
+| type1 = Water
+| type2 = Grass
+| ability = Swift Swim
+| move1 = Astonish | move1type = Ghost
+| move2 = Growl | move2type = Normal
+| move3 = Absorb | move3type = Grass
+| move4 = Nature Power | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 32
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0259
+| pokemon = Marshtomp
+| gender = male
+| level = 34
+| type1 = Water
+| type2 = Ground
+| ability = Torrent
+| move1 = Mud Shot | move1type = Ground
+| move2 = Foresight | move2type = Normal
+| move3 = Mud Sport | move3type = Ground
+| move4 = Take Down | move4type = Normal
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0258|Mudkip}}
+| walkthrough = yes
+| background = {{ruby color}}
+| border = {{ruby color dark}}
+| headcolor = {{ruby color light}}
+| sprite = Spr E Brendan.png
+| prize = {{Pdollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|Brendan (game)|Brendan}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = male
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = male
+| level = 32
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = male
+| level = 32
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 34
+| type1 = Grass
+| ability = Overgrow
+| move1 = Fury Cutter | move1type = Bug
+| move2 = Pursuit | move2type = Dark
+| move3 = Screech | move3type = Normal
+| move4 = Leaf Blade | move4type = Grass
+}}
+{{Party/end}}
+{{Party
+| walkthrough = yes
+| background = {{sapphire color}}
+| border = {{sapphire color dark}}
+| headcolor = {{sapphire color light}}
+| sprite = Spr E May.png
+| prize = {{PDollar}}2040
+| class = {{PK}}{{MN}} Trainer
+| classlink = Pokémon Trainer
+| name = {{color2|000|May (game)|May}}
+| location = Lilycove City
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0357
+| pokemon = Tropius
+| gender = female
+| level = 31
+| type1 = Grass
+| type2 = Flying
+| ability = Chlorophyll
+| move1 = Stomp | move1type = Normal
+| move2 = Sweet Scent | move2type = Normal
+| move3 = Whirlwind | move3type = Normal
+| move4 = Magical Leaf | move4type = Grass
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0218
+| pokemon = Slugma
+| gender = female
+| level = 32
+| type1 = Fire
+| ability = Magma Armor
+| move1 = Ember | move1type = Fire
+| move2 = Rock Throw | move2type = Rock
+| move3 = Harden | move3type = Normal
+| move4 = Amnesia | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0279
+| pokemon = Pelipper
+| gender = female
+| level = 32
+| type1 = Water
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Wing Attack | move1type = Flying
+| move2 = Supersonic | move2type = Normal
+| move3 = Mist | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0253
+| pokemon = Grovyle
+| gender = male
+| level = 34
+| type1 = Grass
+| ability = Overgrow
+| move1 = Fury Cutter | move1type = Bug
+| move2 = Pursuit | move2type = Dark
+| move3 = Screech | move3type = Normal
+| move4 = Leaf Blade | move4type = Grass
+}}
+{{Party/end}}
+
+
+Once the battle ends, your friend heads back to [[Littleroot Town]] to continue working on her/his Pokédex.
+
+===Lilycove Department Store===
+Welcome to the [[Lilycove Department Store]]! This massive shopping center offers a wide array of merchandise, so Trainers can find almost any item for sale here.
+
+====1F: Service Counter, Lottery Corner====
+The {{DL|Lilycove Department Store|first floor}} is a welcome center. The receptionist on the left greets visitors, while the one on the right runs the [[Loto-ID|Pokémon Lottery Corner]]. Talk to her to draw a random Pokémon Loto Ticket. If the ticket's number matches up with any of your Pokémon's [[Trainer ID number|ID numbers]], you win a prize! You can draw one Loto Ticket per day.
+
+{| style="margin: auto; background: #{{locationcolor/med|building}}; {{roundy}}; border: 2px solid #{{locationcolor/dark|building}};" cellspacing="2" cellpadding="4"
+|-
+! style="background: #{{locationcolor/light|building}}; {{roundytl|5px}};" | Matching Digits
+! colspan="2" style="background: #{{locationcolor/light|building}}; {{roundytr|5px}};" | Prize
+|- style="background: #FFF;"
+| 2 digits || {{bag|PP Up}} || [[PP Up]]
+|- style="background: #FFF;"
+| 3 digits || {{bag|Exp. Share}} || [[Exp. Share]]
+|- style="background: #FFF;"
+| 4 digits || {{bag|Max Revive}} || [[Max Revive]]
+|- style="background: #FFF;"
+| 5 digits || {{bag|Master Ball}} || [[Master Ball]]
+|-
+| colspan="3" style="background: #{{locationcolor/light|building}}; {{roundybottom|5px}};" |
+|}
+
+====2F: Trainers' Zone====
+The {{DL|Lilycove Department Store|second floor}} offers items that are useful during battle. The left clerk sells Poké Balls and items to cure status ailments, while the right clerk sells Potions, Repels, and other items.
+
+====3F: Battle Collection====
+The {{DL|Lilycove Department Store|third floor}} sells stat-enhancing items. The left clerk offers [[Vitamin]]s that permanently boost their respective stat, like [[Protein]]. The right clerk offers [[Battle item]]s that give a temporary boost in battle, like [[X Attack]].
+
+====4F: TM Corner====
+The {{DL|Lilycove Department Store|fourth floor}} offers eight different [[TM]]s for sale. Speak to the left clerk to buy TMs containing offensive moves, and the right clerk for TMs containing defensive moves.
+{{shop|Left cashier (Generation III)}}
+{{shoprow|{{shopitem|TM38|5500|PD||TM Fire|Fire Blast}}|{{shopitem|TM25|5500|PD||TM Electric|Thunder}}}}
+{{shoprow|{{shopitem|TM14|5500|PD||TM Ice|Blizzard}}|{{shopitem|TM15|7500|PD||TM Normal|Hyper Beam}}}}
+{{shopfooter|multiple=yes}}
+{{shop|Right cashier (Generation III)}}
+{{shoprow|{{shopitem|TM17|3000|PD||TM Normal|Protect}}|{{shopitem|TM20|3000|PD||TM Normal|Safeguard}}}}
+{{shoprow|{{shopitem|TM33|3000|PD||TM Psychic|Reflect}}|{{shopitem|TM16|3000|PD||TM Psychic|Light Screen}}}}
+{{shopfooter}}
+
+====5F: Decoration Floor====
+The {{DL|Lilycove Department Store|fifth floor}} is dedicated to [[Secret Base]] fanatics. Here you'll find a wide selection of [[Decoration]]s to deck out your Base, including dolls, mats, posters, and cushions.
+
+====Rooftop Plaza====
+After entering the [[Hall of Fame]], the store occasionally holds a {{DL|Lilycove Department Store|Rooftop Sale|major clearance sale}}. A special selection of Secret Base Decorations are offered, with items listed anywhere from {{pdollar}}200 to {{pdollar}}10,000. Though this sale rarely occurs, many of the items available for purchase cannot be obtained anywhere else.
+
+Also on the rooftop, a girl fantasizes about copying herself and living several different lives. Speak to her, and she offers to teach the move {{m|Substitute}} to a Pokémon, one time only.
+
+===Lilycove Museum===
+The [[Lilycove Museum]] stands in the northwest part of town. The museum's curator initially blocks the stairs to the second floor because the upper level is empty. He is still searching for modern and vibrant artwork to display there, and asks you to search for such artwork. If you happen to win a Master Rank [[Pokémon Contest]] with at least 800 points, an artist will approach you saying that he's done a painting that might even look good in a museum, at which point you direct him to the Lilycove Museum. If you collect one painting for each of the five Contest categories, the curator will reward you with a {{DL|List of decorations in Generation III|Glass Ornament}} for your [[Secret Base]].
+
+===Move Deleter's House===
+The first house to the east of the Department Store is home to the [[Move Deleter]], an absent-minded man with the power to make a Pokémon forget any move. This is the only way for a Pokémon to forget an [[HM]] move. Unlike the [[Move Reminder]] in [[Fallarbor Town]], the Move Deleter's services are free of charge.
+
+===A Berry A Day===
+Speak to the Gentleman to the east of the Move Deleter's house to get one random Berry from a group of ten every day.
+
+{| style="margin: auto; background: #{{berries color}}; {{roundy}}; border: 3px solid #{{berries color dark}};" cellspacing="2" cellpadding="4"
+|-
+! colspan="5" style="background: #{{berries color light}}; {{roundytop|5px}};" | Berry
+|- style="background: #FFF;"
+| {{bag|Cheri Berry}} || [[Cheri Berry]] || {{bag|Chesto Berry}} || [[Chesto Berry]]
+|- style="background: #FFF;"
+| {{bag|Pecha Berry}} || [[Pecha Berry]] || {{bag|Rawst Berry}} || [[Rawst Berry]]
+|- style="background: #FFF;"
+| {{bag|Aspear Berry}} || [[Aspear Berry]] || {{bag|Leppa Berry}} || [[Leppa Berry]]
+|- style="background: #FFF;"
+| {{bag|Oran Berry}} || [[Oran Berry]] || {{bag|Persim Berry}} || [[Persim Berry]]
+|- style="background: #FFF;"
+| {{bag|Lum Berry}} || [[Lum Berry]] || {{bag|Sitrus Berry}} || [[Sitrus Berry]]
+|}
+
+==Aqua Hideout==
+[[File:Aqua Hideout 1F SE.png|thumb|Aqua Hideout, 1F]]
+[[File:Aqua Hideout B1F SE.png|thumb|Aqua Hideout, B1F]]
+[[File:Aqua Hideout B2F SE.png|thumb|Aqua Hideout, submarine room]]
+
+[[Team Aqua]] has been working hard to build [[Team Aqua Hideout|an impressive hideout]] in this spacious cave to the northeast of {{ci|Lilycove}}'s beach. You'll need to storm their hideout in order to retrieve [[Captain Stern]]'s submarine and prevent [[Archie]]'s misguided vision from becoming reality! Bring a party that can handle plenty of battles against them. When choosing your team, remember that Team Aqua often uses {{t|Water}}- and {{type|Dark}} Pokémon. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|water}}
+{{catch/div|water|1F}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640|1|261|Poochyena|♂|32|}}
+{{catch/div|water|B1F (third area)}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||640|1|318|Carvanha|♀|32|}}
+{{trainerdiv|water}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||620<br/><small>Potential [[Double Battle]] with the following Grunt</small>|2|041|Zubat|♂|31||318|Carvanha|♂|31|}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||620<br/><small>Potential [[Double Battle]] with the preceding Grunt</small>|2|261|Poochyena|♀|31||041|Zubat|♀|31|}}
+{{catch/div|water|Submarine room (first area)}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640|1|318|Carvanha|♂|32|}}
+{{catch/div|water|B1F (sixth area)}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640|1|041|Zubat|♂|32|}}
+{{catch/div|water|Submarine room (fourth area)}}
+{{trainerentry|Spr RS Team Aqua Grunt F.png|Team Aqua Grunt||640<br/><small>Potential [[Double Battle]] with the following grunt</small>|1|041|Zubat|♀|32|}}
+{{trainerentry|Spr RS Team Aqua Grunt M.png|Team Aqua Grunt||640<br/><small>Potential [[Double Battle]] with the preceding grunt</small>|1|318|Carvanha|♂|32|}}
+{{trainerfooter|water|I}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|water|no}}
+{{Catch/div|water|Special}}
+{{Catch/entry3|101|Electrode|no|no|yes|Fake|30|Two|type1=Electric}}
+{{Catch/footer|water}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|cave}}; {{roundy}}; border: 5px solid #{{locationcolor/light|cave}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|water}}
+{{catch/div|water|B1F}}
+{{itemlist|Max Elixir|East-central room|E=yes}}
+{{itemlist|Nugget|Archie's office, bottom-left item in the group of four|E=yes}}
+{{itemlist|Master Ball|Archie's office, top-left item in the group of four|E=yes}}
+{{catch/div|water|Submarine room}}
+{{itemlist|Nest Ball|West-central area, accessed via warp in the floor's center|E=yes}}
+{{itlistfoot|water}}
+|}
+
+===1F===
+Climb out of the water and up the stairway. At the top, a single Aqua Grunt patrols around the pool of water. Battle him and head down the stairs to the northeast.
+
+===B1F (west)===
+There are two warp panels in the northeast room; take the eastern panel first to reach the east-central room and a [[Max Elixir]]. Warp back and take the other to reach the northwest panel in the southern room. Ignore the three Aqua Grunts and take the warp panel in the southwest. 
+
+===B1F (east)===
+The previous warp panel leads to a small room with several more. Follow them in the correct order—left, center, left, left—to reach the interior room on B1F. 
+
+===B1F (west)===
+In [[Archie]]'s office, you'll find four items near the far wall. Two of them are actually {{p|Electrode}} in disguise, while the bottom-left item is a [[Nugget]] and the top-left item is a [[Master Ball]]! This type of Poké Ball will catch any wild Pokémon without fail, and is best used on hard-to-catch legendary Pokémon. Backtrack through the warp-filled hallway to B1F's southern room, battle the three Grunts, and step on the southeast warp panel. This transports you to the north-central room; head down the stairs to the submarine room.
+
+===Submarine room===
+Go south and step on the warp panel there to be transported a short distance to the west; collect the [[Nest Ball]] from this enclosed area before warping back. Head northeast past another patrolling Aqua Grunt and take the warp panel there to the northwest room. Climb the stairs back to B1F.
+
+===B1F (west)===
+Battle past the single Aqua Grunt here and head down the stairs to the northeast.
+
+===Submarine room===
+Battle the two Aqua Grunts and step on the warp panel to the southwest; this leads to the southeast corner of the submarine room. Go west to find one of the Aqua Admins, [[Matt]], standing at the water's edge. He's the only thing standing between you and stopping [[Archie]]'s getaway!
+
+{{Party
+| walkthrough = yes
+| background = {{alpha sapphire color}}
+| border = {{alpha sapphire color dark}}
+| headcolor = {{alpha sapphire color light}}
+| sprite = Spr RS Matt.png
+| prize = {{PDollar}}1360
+| class = Aqua Admin
+| name = {{color2|000|Matt}}
+| location = Team Aqua Hideout
+| locationname = Aqua Hideout
+| game = E
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0262
+| pokemon = Mightyena
+| gender = male
+| level = 34
+| type1 = Dark
+| ability = Intimidate
+| move1 = Odor Sleuth | move1type = Normal
+| move2 = Roar | move2type = Normal
+| move3 = Swagger | move3type = Normal
+| move4 = Scary Face | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0042
+| pokemon = Golbat
+| gender = male
+| level = 34
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Astonish | move1type = Ghost
+| move2 = Bite | move2type = Dark
+| move3 = Wing Attack | move3type = Flying
+| move4 = Confuse Ray | move4type = Ghost
+}}
+{{Party/end}}
+
+
+The battle lasted just long enough for Archie to escape in his souped-up submarine. You've got to chase after him to the [[Seafloor Cavern]], but you have no means of diving underwater like he can in his sub. For now, you'll have to keep to the surface. Head south then east and take the warp panel there back to the cave entrance and [[Lilycove City]]. The Grunt and his {{p|Wailmer}} blockade have disappeared from the beach, leaving you free to venture out into the eastern ocean.
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=12
+|prevname=Route 123, Jagged Pass, Magma Hideout
+|nextsection=14
+|nextname=Route 124, Mossdeep City, Space Center, Route 125
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|13]]

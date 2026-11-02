@@ -1,0 +1,173 @@
+{{WalkthroughNotice|FRLG}}
+==Route 2==
+===Viridian Forest===
+[[File:Viridian Forest FRLG.png|thumb|200px|Viridian Forest]]
+
+[[Viridian Forest]] is a sprawling, wooded area located on {{rt|2|Kanto}}. A natural maze, it is easy to get lost inside.
+
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Trainers
+|- 
+| 
+{{Trainerheader|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Rick|72|2|013|Weedle|♂|6|None|010|Caterpie|♂|6|None}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Doug|84|3|013|Weedle|♂|7|None|014|Kakuna|♂|7|None|013|Weedle|♂|7|None}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Anthony|96|2|010|Caterpie|♂|7|None|010|Caterpie|♂|8|None}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Charlie|84|3|011|Metapod|♂|7|None|010|Caterpie|♂|7|None|011|Metapod|♂|7|None}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Sammy|108|1|013|Weedle|♂|9|None}}
+{{Trainerfooter|forest}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Available Pokémon
+|- 
+|
+{{Catch/header|forest|no}}
+{{Catch/entryfl|010|Caterpie|yes|yes|Grass|3-5|40%|type1=bug}}
+{{catch/entryfl|013|Weedle|yes|yes|Grass|3-5|40%|type1=bug|type2=poison}}
+{{catch/entryfl|011|Metapod|no|yes|Grass|4-6|10%|type1=bug}}
+{{catch/entryfl|014|Kakuna|yes|no|Grass|4-6|10%|type1=bug|type2=poison}}
+{{catch/entryfl|011|Metapod|yes|no|Grass|5|5%|type1=bug}}
+{{catch/entryfl|014|Kakuna|no|yes|Grass|5|5%|type1=bug|type2=poison}}
+{{Catch/entryfl|025|Pikachu|yes|yes|Grass|3, 5|5%|type1=electric}}
+{{Catch/footer|forest}}
+|}
+{| class="expandable" align="center" style="background: #{{locationcolor/med|forest}}; {{roundy}}; border: 5px solid #{{locationcolor/light|forest}};"
+|- align="center"
+! Items
+|- 
+|
+{{Itlisth|forest}}
+{{Itemlist|Poké Ball|Dead-end grassy path northwest of the south entrance|FR=yes|LG=yes|display={{i|Poké Ball}}}}
+{{Itemlist|Antidote|
+* West side of the lone tree near the south entrance ''(hidden)''
+* Northeast area of the forest, past a [[Trainer Tips]] sign|FR=yes|LG=yes|display=[[Antidote]] ×2}}
+{{Itemlist|Potion|
+* Tall grass patch, east of the southern entrance
+* Dead-end path southeast of the north exit
+* In front of Bug Catcher Sammy near the north exit ''(hidden)''|FR=yes|LG=yes|display=[[Potion]] ×3}}
+{{Itlistfoot|forest}}
+|}
+
+
+Follow the trail to the northwest to reach a [[Poké Ball]] in the tall grass. Return to the entrance, and this time head eastward to reach a [[Potion]] in the southeastern grass patch. Turn north and battle {{tc|Bug Catcher}} Rick on the east side of the forest. Continue past Bug Catcher Doug to grab the nearby [[Antidote]] and turn west to the tall grass. Zigzag westward through the trees to reach a signpost. Explore the dead-end path to the southeast to get another [[Potion]], then continue westward. Defeat Bug Catcher Sammy to reach the northern edge of the forest. Leave the gate to re-emerge on {{rt|2|Kanto}} and continue north to [[Pewter City]].
+
+{{-}}
+==Pewter City==
+[[File:Pewter City FRLG.png|thumb|300px|Pewter City]]
+
+[[Pewter City]] is a quiet city nestled in the northern mountains between {{rt|2|Kanto}} and {{rt|3|Kanto}}. The [[Pewter Museum of Science]] and the [[Pewter Gym]] are located here.
+
+{| class="expandable" align="center" style="background: #ABAEB0; {{roundy}}; border: 5px solid #C7C9CA;"
+|- align="center"
+! Items
+|- 
+|
+{{itlisth|road}}
+{{itemlist|Poké Ball|West of the Pewter Museum, on the lighter grass ''(hidden)''|FR=yes|LG=yes|display={{i|Poké Ball}}}}
+{{itemlist|TM Rock|From Brock, after defeating him|FR=yes|LG=yes|display={{TM|39|Rock Tomb}}}}
+{{itemlist|Running Shoes|East side of town; from one of {{prof|Oak}}'s [[Professor's assistant|aides]], after defeating Brock|FR=yes|LG=yes}}
+{{catch/div|road|Later visit}}
+{{itemlist|Old Amber|Pewter Museum; from a Scientist in the employee-only section (requires {{m|Cut}})|FR=yes|LG=yes}}
+{{itlistfoot|road}}
+|}
+
+
+===Calling All Challengers===
+The local [[Gym Leader]] is looking for challengers, and the kid blocking the city's east exit will escort you to the Gym if you try to leave.
+
+===Pewter Museum of Science===
+The [[Pewter Museum of Science]] is located on the north side of the city. It hosts a wide range of artifacts and exhibits, with a focus on [[fossil]] excavation and space exploration. Admission to the main building is {{pdollar}}50 for a child's ticket. The smaller building next door is closed to the public.
+
+===Pewter Gym===
+[[File:Pewter Gym FRLG.png|thumb|Pewter Gym]]
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|PEWTER CITY POKéMON GYM<br>LEADER: BROCK}}
+{{sign|FRLG|The Rock-Solid POKéMON Trainer!}}
+{{sign|FRLG|footer}}
+
+The [[Pewter Gym]] specializes in {{type|Rock}} Pokémon. Rock-type moves are super effective against {{t|Bug}}-, {{t|Fire}}-, {{t|Flying}}-, and {{type|Ice}} Pokémon, while Rock-type Pokémon are weak to {{t|Fighting}}-, {{t|Grass}}-, {{t|Ground}}-, {{t|Steel}}-, and {{type|Water}} moves. All of the Pokémon in the Pewter Gym are partly Ground type, as well, leaving them immune to {{t|Electric}} attacks.
+
+Both of [[Brock]]'s Pokémon are part-{{t|Rock}} and part-{{t|Ground}}, so they take massive damage from {{t|Grass}} and {{t|Water}} attacks. Trainers who chose {{p|Bulbasaur}} or {{p|Squirtle}} will likely not have much trouble. Trainers who chose {{p|Charmander}}, however, may have a more difficult time. {{t|Fire}} attacks target the foe's {{stat|Special Defense}}, and despite {{p|Geodude}} and {{p|Onix}} having a low rating in this stat, their type combination resists damage from Fire moves. It may be more useful to raise Charmander to level 13 when it learns {{m|Metal Claw}}, a {{type|Steel}} move that deals serious damage to Rock Pokémon and may raise its physical {{stat|Attack}}. As an alternative, the {{type|Fighting}} {{p|Mankey}} can be found on {{rt|22|Kanto}}, and learns both {{m|Low Kick}} and {{m|Karate Chop}} early on.
+
+{{WalkthroughGym
+| background = {{rock color}}
+| headcolor = {{rock color light}}
+| name = Pewter Gym
+| badge = Boulder Badge
+| image = Boulder Badge.png
+| trainers = 
+{{Trainerheader|Rock}}
+{{Trainerentry|Spr FRLG Camper.png|Camper|Liam|220|2|074|Geodude|♂|10|None|027|Sandshrew|♂|11|None}}
+{{Trainerfooter|Rock|I}}
+| party = 
+{{Party
+| background = {{rock color}}
+| border = {{rock color dark}}
+| headcolor = {{rock color light}}
+| middle = yes
+| sprite = Spr FRLG Brock.png
+| prize = {{PDollar}}1,400
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Brock}}
+| game = FRLG
+| location = Pewter Gym
+| pokemon = 2
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0074
+| pokemon = Geodude
+| level = 12
+| gender = male
+| type1 = Rock
+| type2 = Ground
+| ability = Rock Head
+| move1 = Tackle | move1type = Normal
+| move2 = Defense Curl | move2type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 095
+| pokemon = Onix
+|level = 14
+|gender = male
+|type1 = Rock
+|type2 = Ground
+|ability = Rock Head
+|move1 = Tackle | move1type = Normal
+|move2 = Bind | move2type = Normal
+|move3 = Rock Tomb | move3type = Rock
+}}
+{{Party/end}}
+}}
+
+
+After the battle, [[Brock]] awards you the {{badge|Boulder}}, which gives your Pokémon a slight {{stat|Attack}} boost during battle and enables the use of {{m|Flash}} in the field. He also gives you {{TM|39|Rock Tomb}} as a prize.
+
+===Heading Out on a Hike===
+With the [[Pewter Gym]] defeated, your next destination is [[Cerulean City]] to the east. Visit the Poké Mart for Potions and Poké Balls, and consider getting [[Repel]]s and an [[Escape Rope]] or two for the cave up ahead. Once you are ready, head east to reach {{rt|3|Kanto}}. At the city's edge, you are stopped by one of [[Professor Oak]]'s [[Professor's assistant|aides]], sent here with a delivery from {{ka|Mom}}. Any big adventure requires good footwear, and that is exactly what he has brought along. With the [[Running Shoes]], holding down the B Button allows you to move even faster than normal!
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=2
+|prevname=Route 1, Viridian City, Oak's Lab, Route 2
+|nextsection=4
+|nextname=Route 3, Mt. Moon, Route 4
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|03]]

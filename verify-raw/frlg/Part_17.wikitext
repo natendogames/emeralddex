@@ -1,0 +1,756 @@
+{{WalkthroughNotice|FRLG}}
+==Indigo Plateau==
+[[File:Indigo Plateau Center FRLG.png|thumb|Indigo Plateau]]
+
+The [[Indigo Plateau]] serves as the capital for the [[Pokémon League]] in the [[Kanto]] region. This is where the Trainers who have defeated all eight [[Gym Leader]]s battle against the {{ka|Elite Four}} and the [[Pokémon Champion|Champion]]. The entrance hall houses a Pokémon Center and a Poké Mart, allowing challengers to prepare themselves and their Pokémon for the gauntlet ahead. The {{ka|Elite Four}} is a group of talented Pokémon Trainers second only to the Champion in terms of power, and must be fought in succession with no break. These five battles will not be easy, but challengers who bring their strongest Pokémon and a healthy supply of Potions and Revives may finally find themselves in the [[Hall of Fame]].
+
+{| style="margin: auto;"
+|
+{{shop|Poké Mart}}
+{{shoprow|{{shopitem|Ultra Ball|1200}}|{{shopitem|Great Ball|600}}}}
+{{shoprow|{{shopitem|Full Restore|3000}}|{{shopitem|Max Potion|2500}}}}
+{{shoprow|{{shopitem|Revive|1500}}|{{shopitem|Full Heal|600}}}}
+{{shoprow|{{shopitem|Max Repel|700}}|}}
+{{shopfooter}}
+|}
+
+
+===Elite Four===
+====Battle 1====
+[[File:Lorelei Room FRLG.png|thumb|Lorelei's room]]
+
+The first member of the Elite Four is [[Lorelei]], a master {{type|Ice}} Trainer. Ice-type Pokémon are weak to {{t|Fire}}-, {{t|Rock}}-, and {{type|Fighting}} moves, while Ice-type moves are super effective against {{t|Grass}}-, {{t|Flying}}-, {{t|Ground}}-, and {{type|Dragon}} Pokémon. Her {{p|Jynx}} is notably her only Pokémon that is not {{t|Water}} type. Due to her Pokémon's dual typings, {{t|Electric}} moves are the most useful against Lorelei's frigid forces.
+
+{{Party
+| walkthrough = yes
+| background = {{ice color}}
+| border = {{ice color dark}}
+| headcolor = {{ice color light}}
+| sprite = Spr FRLG Lorelei.png
+| prize = {{PDollar}}5400
+| class = Elite Four
+| name = {{color2|000|Lorelei}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0087
+| pokemon = Dewgong
+| gender = female
+| level = 52
+| type1 = Water
+| type2 = Ice
+| ability = Thick Fat
+| move1 = Surf | move1type = Water
+| move2 = Ice Beam | move2type = Ice
+| move3 = Hail | move3type = Ice
+| move4 = Safeguard | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0091
+| pokemon = Cloyster
+| gender = female
+| level = 51
+| type1 = Water
+| type2 = Ice
+| ability = Shell Armor
+| move1 = Spikes | move1type = Ground
+| move2 = Dive | move2type = Water
+| move3 = Hail | move3type = Ice
+| move4 = Protect | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0080
+| pokemon = Slowbro
+| gender = female
+| level = 52
+| type1 = Water
+| type2 = Psychic
+| ability = Oblivious
+| move1 = Ice Beam | move1type = Ice
+| move2 = Surf | move2type = Water
+| move3 = Amnesia | move3type = Psychic
+| move4 = Yawn | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0124
+| pokemon = Jynx
+| gender = female
+| level = 54
+| type1 = Ice
+| type2 = Psychic
+| ability = Oblivious
+| move1 = DoubleSlap | move1type = Normal
+| move2 = Ice Punch | move2type = Ice
+| move3 = Lovely Kiss | move3type = Normal
+| move4 = Attract | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0131
+| pokemon = Lapras
+| gender = female
+| level = 54
+| type1 = Water
+| type2 = Ice
+| ability = Water Absorb
+| held = Sitrus Berry
+| move1 = Body Slam | move1type = Normal
+| move2 = Confuse Ray | move2type = Ghost
+| move3 = Surf | move3type = Water
+| move4 = Ice Beam | move4type = Ice
+}}
+{{Party/end}}
+
+
+Defeating Lorelei opens the door to the second room.
+
+====Battle 2====
+[[File:Bruno Room FRLG.png|thumb|Bruno's room]]
+
+The second member of the Elite Four is [[Bruno]], a master {{type|Fighting}} Trainer. Fighting-type Pokémon are weak to {{t|Flying}}- and {{type|Psychic}} moves, while Fighting-type moves are super effective against {{t|Normal}}-, {{t|Rock}}-, and {{type|Ice}} Pokémon. A pair of {{p|Onix}} round out his team, so {{t|Grass}} and {{t|Water}} moves are also helpful. {{p|Slowbro}} and {{p|Starmie}} may be especially useful here, as their {{2t|Water|Psychic}} typing helps to counter each opposing Pokémon.
+
+{{Party
+| walkthrough = yes
+| background = {{fighting color}}
+| border = {{fighting color dark}}
+| headcolor = {{fighting color light}}
+| sprite = Spr FRLG Bruno.png
+| prize = {{PDollar}}5600
+| class = Elite Four
+| name = {{color2|000|Bruno}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0095
+| pokemon = Onix
+| gender = male
+| level = 51
+| type1 = Rock
+| type2 = Ground
+| ability = Rock Head
+| move1 = Earthquake | move1type = Ground
+| move2 = Rock Tomb | move2type = Rock
+| move3 = Iron Tail | move3type = Steel
+| move4 = Roar | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0107
+| pokemon = Hitmonchan
+| gender = male
+| level = 53
+| type1 = Fighting
+| ability = Keen Eye
+| move1 = Sky Uppercut | move1type = Fighting
+| move2 = Mach Punch | move2type = Fighting
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Counter | move4type = Fighting
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0106
+| pokemon = Hitmonlee
+| gender = male
+| level = 53
+| type1 = Fighting
+| ability = Limber
+| move1 = Mega Kick | move1type = Normal
+| move2 = Foresight | move2type = Normal
+| move3 = Brick Break | move3type = Fighting
+| move4 = Facade | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0095
+| pokemon = Onix
+| gender = male
+| level = 54
+| type1 = Rock
+| type2 = Ground
+| ability = Rock Head
+| move1 = Double-Edge | move1type = Normal
+| move2 = Iron Tail | move2type = Steel
+| move3 = Earthquake | move3type = Ground
+| move4 = Sand Tomb | move4type = Ground
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0068
+| pokemon = Machamp
+| gender = male
+| level = 56
+| type1 = Fighting
+| ability = Guts
+| held = Sitrus Berry
+| move1 = Bulk Up | move1type = Fighting
+| move2 = Cross Chop | move2type = Fighting
+| move3 = Scary Face | move3type = Normal
+| move4 = Rock Tomb | move4type = Rock
+}}
+{{Party/end}}
+
+
+Defeating Bruno opens the door to the third room.
+
+====Battle 3====
+[[File:Agatha Room FRLG.png|thumb|Agatha's room]]
+
+The third member of the Elite Four is [[Agatha]], a master {{type|Ghost}} Trainer. Ghost-type moves are super effective against Ghost- and {{type|Psychic}} Pokémon, while Ghost-type Pokémon are weak to {{t|Dark}}- and Ghost-type moves. {{t|Normal}}- and {{type|Fighting}} moves will have no effect. Take out her two {{p|Gengar}} as soon as possible, or risk the effects of {{status|Sleep}} and {{status|Poison|Poisoning}}. As all of her Pokémon are also part {{t|Poison}}, {{t|Ground}}- and {{type|Psychic}} attacks are the best ways to calm Agatha's spirits.
+
+{{Party
+| walkthrough = yes
+| background = {{ghost color}}
+| border = {{ghost color dark}}
+| headcolor = {{ghost color light}}
+| sprite = Spr FRLG Agatha.png
+| prize = {{Pdollar}}5800
+| class = Elite Four
+| name = {{color2|000|Agatha}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0094
+| pokemon = Gengar
+| gender = female
+| level = 54
+| type1 = Ghost
+| type2 = Poison
+| ability = Levitate
+| move1 = Confuse Ray | move1type = Ghost
+| move2 = Shadow Punch | move2type = Ghost
+| move3 = Double Team | move3type = Normal
+| move4 = Toxic | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0042
+| pokemon = Golbat
+| gender = female
+| level = 54
+| type1 = Poison
+| type2 = Flying
+| ability = Inner Focus
+| move1 = Confuse Ray | move1type = Ghost
+| move2 = Bite | move2type = Dark
+| move3 = Air Cutter | move3type = Flying
+| move4 = Poison Fang | move4type = Poison
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0093
+| pokemon = Haunter
+| gender = female
+| level = 53
+| type1 = Ghost
+| type2 = Poison
+| ability = Levitate
+| move1 = Mean Look | move1type = Normal
+| move2 = Curse | move2type = ???
+| move3 = Hypnosis | move3type = Psychic
+| move4 = Dream Eater | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0024
+| pokemon = Arbok
+| gender = female
+| level = 56
+| type1 = Poison
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Sludge Bomb | move2type = Poison
+| move3 = Screech | move3type = Normal
+| move4 = Iron Tail | move4type = Steel
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0094
+| pokemon = Gengar
+| gender = female
+| level = 58
+| type1 = Ghost
+| type2 = Poison
+| ability = Levitate
+| held = Sitrus Berry
+| move1 = Shadow Ball | move1type = Ghost
+| move2 = Sludge Bomb | move2type = Poison
+| move3 = Hypnosis | move3type = Psychic
+| move4 = Nightmare | move4type = Ghost
+}}
+{{Party/end}}
+
+
+Defeating Agatha unlocks the door to the fourth room.
+
+====Battle 4====
+[[File:Lance Room FRLG.png|thumb|Lance's room]]
+
+The fourth and final member of the Elite Four is [[Lance]], a master {{type|Dragon}} Trainer and leader of the Elite Four. Dragon-type moves are super effective against Dragon-type Pokémon, while Dragon-type Pokémon are weak to Dragon- and {{type|Ice}} moves. All of Lance's Pokémon have a draconic appearance, but only three are Dragon type. Use moves like {{m|Ice Beam}} and {{m|Dragon Claw}} to tear through his two {{p|Dragonair}} and his {{p|Dragonite}}. Due to its secondary {{t|Flying}} type, his {{p|Aerodactyl}} also takes serious damage from Ice moves, but Water moves are also effective. His {{p|Gyarados}} takes massive damage from {{t|Electric}} moves, so use {{m|Thunderbolt}} to take it down. With their Ice and Electric attacks, {{p|Articuno}} and {{p|Zapdos}} are some of the best choices to help slay Lance's dragons.
+
+{{Party
+| walkthrough = yes
+| background = {{dragon color}}
+| border = {{dragon color dark}}
+| headcolor = {{dragon color light}}
+| sprite = Spr FRLG Lance.png
+| prize = {{PDollar}}6000
+| class = Elite Four
+| name = {{color2|000|Lance}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 5
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 56
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Bite | move1type = Dark
+| move2 = Dragon Rage | move2type = Dragon
+| move3 = Twister | move3type = Dragon
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0148
+| pokemon = Dragonair
+| gender = male
+| level = 54
+| type1 = Dragon
+| ability = Shed Skin
+| move1 = Safeguard | move1type = Normal
+| move2 = Outrage | move2type = Dragon
+| move3 = Dragon Rage | move3type = Dragon
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0148
+| pokemon = Dragonair
+| gender = male
+| level = 54
+| type1 = Dragon
+| ability = Shed Skin
+| move1 = Safeguard | move1type = Normal
+| move2 = Outrage | move2type = Dragon
+| move3 = Thunder Wave | move3type = Electric
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0142
+| pokemon = Aerodactyl
+| gender = male
+| level = 58
+| type1 = Rock
+| type2 = Flying
+| ability = Rock Head
+| move1 = Wing Attack | move1type = Flying
+| move2 = AncientPower | move2type = Rock
+| move3 = Scary Face | move3type = Normal
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0149
+| pokemon = Dragonite
+| gender = male
+| level = 60
+| type1 = Dragon
+| type2 = Flying
+| ability = Inner Focus
+| held = Sitrus Berry
+| move1 = Safeguard | move1type = Normal
+| move2 = Outrage | move2type = Dragon
+| move3 = Wing Attack | move3type = Flying
+| move4 = Hyper Beam | move4type = Normal
+}}
+{{Party/end}}
+
+
+With the Elite Four defeated, the door to the Champion's room is unlocked. Take a moment to prepare your Pokémon now, as you will be drawn into battle immediately upon entering the next room. Only one person stands between you and the title of Champion!
+
+===Champion===
+[[File:Champion Room FRLG.png|thumb|Champion's room]]
+
+{{ga|Blue}} defeated the Elite Four before you even set foot in {{ka|Victory Road}}, and now the title of Indigo League Champion rests with him. The first half of his team will always consist of {{p|Pidgeot}}, {{p|Alakazam}}, and {{p|Rhydon}}. The second half changes depending on his [[First partner Pokémon|first Pokémon]]. {{type|Electric}} attacks terrorize his Pidgeot and {{p|Gyarados}} (or {{p|Blastoise}}), so a crackling {{m|Thunderbolt}} will send them reeling. A strong {{t|Water}} Pokémon can wash away his Rhydon and {{p|Arcanine}} (or {{p|Charizard}}) with {{m|Surf}}. His {{p|Exeggutor}} (or {{p|Venusaur}}) cannot survive long in extreme heat or cold, so hitting it with {{m|Flamethrower}} or {{m|Ice Beam}} will do the trick. The most annoying opponent may be his Alakazam due to its {{m|Recover}} move; its {{stat|Defense}} is fairly low, so hit it with a physical move to put an end to its games.
+
+=====Rival Battle 8=====
+
+{{Party
+| caption = {{PlayerChoice|0001|Bulbasaur}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}6300
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 59
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Aerial Ace | move1type = Flying
+| move2 = FeatherDance | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 57
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Future Sight | move2type = Psychic
+| move3 = Recover | move3type = Normal
+| move4 = Reflect | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0112
+| pokemon = Rhydon
+| gender = male
+| level = 59
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Earthquake | move2type = Ground
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Scary Face | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0103
+| pokemon = Exeggutor
+| gender = male
+| level = 59
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Giga Drain | move1type = Grass
+| move2 = Egg Bomb | move2type = Normal
+| move3 = Sleep Powder | move3type = Grass
+| move4 = Light Screen | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 61
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Hydro Pump | move1type = Water
+| move2 = Dragon Rage | move2type = Dragon
+| move3 = Bite | move3type = Dark
+| move4 = Thrash | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0006
+| pokemon = Charizard
+| gender = male
+| level = 63
+| type1 = Fire
+| type2 = Flying
+| ability = Blaze
+| held = Sitrus Berry
+| move1 = Fire Blast | move1type = Fire
+| move2 = Aerial Ace | move2type = Flying
+| move3 = Slash | move3type = Normal
+| move4 = Fire Spin | move4type = Fire
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0004|Charmander}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}6300
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 59
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Aerial Ace | move1type = Flying
+| move2 = FeatherDance | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 57
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Future Sight | move2type = Psychic
+| move3 = Recover | move3type = Normal
+| move4 = Reflect | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0112
+| pokemon = Rhydon
+| gender = male
+| level = 59
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Earthquake | move2type = Ground
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Scary Face | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0059
+| pokemon = Arcanine
+| gender = male
+| level = 59
+| type1 = Fire
+| ability = Intimidate
+| move1 = ExtremeSpeed | move1type = Normal
+| move2 = Flamethrower | move2type = Fire
+| move3 = Roar | move3type = Normal
+| move4 = Bite | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0103
+| pokemon = Exeggutor
+| gender = male
+| level = 61
+| type1 = Grass
+| type2 = Psychic
+| ability = Chlorophyll
+| move1 = Giga Drain | move1type = Grass
+| move2 = Egg Bomb | move2type = Normal
+| move3 = Sleep Powder | move3type = Grass
+| move4 = Light Screen | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0009
+| pokemon = Blastoise
+| gender = male
+| level = 63
+| type1 = Water
+| ability = Torrent
+| held = Sitrus Berry
+| move1 = Hydro Pump | move1type = Water
+| move2 = Rain Dance | move2type = Water
+| move3 = Skull Bash | move3type = Normal
+| move4 = Bite | move4type = Dark
+}}
+{{Party/end}}
+
+{{Party
+| caption = {{PlayerChoice|0007|Squirtle}}
+| walkthrough = yes
+| background = {{blue color}}
+| border = {{green color dark}}
+| headcolor = {{blue color light}}
+| sprite = Spr FRLG Blue 3.png
+| prize = {{PDollar}}6300
+| class = Champion
+| classlink = Pokémon Champion
+| name = {{color2|000|Blue (game)|Blue}}
+| location = Indigo Plateau
+| game = FRLG
+| pokemon = 6
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0018
+| pokemon = Pidgeot
+| gender = male
+| level = 59
+| type1 = Normal
+| type2 = Flying
+| ability = Keen Eye
+| move1 = Aerial Ace | move1type = Flying
+| move2 = FeatherDance | move2type = Flying
+| move3 = Sand-Attack | move3type = Ground
+| move4 = Whirlwind | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0065
+| pokemon = Alakazam
+| gender = male
+| level = 57
+| type1 = Psychic
+| ability = Synchronize
+| move1 = Psychic | move1type = Psychic
+| move2 = Future Sight | move2type = Psychic
+| move3 = Recover | move3type = Normal
+| move4 = Reflect | move4type = Psychic
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0112
+| pokemon = Rhydon
+| gender = male
+| level = 59
+| type1 = Ground
+| type2 = Rock
+| ability = Lightningrod
+| move1 = Take Down | move1type = Normal
+| move2 = Earthquake | move2type = Ground
+| move3 = Rock Tomb | move3type = Rock
+| move4 = Scary Face | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0130
+| pokemon = Gyarados
+| gender = male
+| level = 59
+| type1 = Water
+| type2 = Flying
+| ability = Intimidate
+| move1 = Hydro Pump | move1type = Water
+| move2 = Dragon Rage | move2type = Dragon
+| move3 = Bite | move3type = Dark
+| move4 = Thrash | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0059
+| pokemon = Arcanine
+| gender = male
+| level = 61
+| type1 = Fire
+| ability = Intimidate
+| move1 = ExtremeSpeed | move1type = Normal
+| move2 = Flamethrower | move2type = Fire
+| move3 = Roar | move3type = Normal
+| move4 = Bite | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0003
+| pokemon = Venusaur
+| gender = male
+| level = 63
+| type1 = Grass
+| type2 = Poison
+| ability = Overgrow
+| held = Sitrus Berry
+| move1 = SolarBeam | move1type = Grass
+| move2 = Synthesis | move2type = Grass
+| move3 = Sunny Day | move3type = Fire
+| move4 = Growth | move4type = Normal
+}}
+{{Party/end}}
+
+
+[[File:Hall of Fame FRLG.png|thumb|Hall of Fame]]
+The eight [[Gym Leader]]s are defeated, the {{ka|Elite Four}} have fallen, and the title of [[Champion]] has been snatched away from your rival! [[Professor Oak]] appears after the battle and leads you to the [[Hall of Fame]] room.
+
+===Hall of Fame===
+It is here where all victorious Trainers and their dedicated Pokémon will be recorded, as a testament to their power and perseverance. Once the professor enters your team's information, the game saves and the credits begin to roll...
+
+But the adventure is not over just yet!
+
+
+
+{{WalkthroughPrevNext
+|game=FireRed
+|game2=LeafGreen
+|gamename=Pokémon FireRed and LeafGreen
+|prevsection=16
+|prevname=Route 22, Route 23, Victory Road
+|nextsection=18
+|nextname=Four Island, Six Island
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:FireRed and LeafGreen walkthrough|17]]

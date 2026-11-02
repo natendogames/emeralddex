@@ -1,0 +1,608 @@
+==Route 111 (desert, optional)==
+[[File:Hoenn Route 111 E.png|thumb|Route 111]]
+
+With the [[Go-Goggles]], you can finally venture into the windswept desert on {{rt|111|Hoenn}}. The powerful sandstorm deters most would-be explorers, so no one has yet claimed the valuable treasures lying among the dunes.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|sand}}
+{{catch/div|sand|Desert (requires Go-Goggles)}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Heidi|352|2|027|Sandshrew|♀|22||343|Baltoy||22|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Camper.png|Camper|Beau|336|3|343|Baltoy||21||027|Sandshrew|♂|21||343|Baltoy||21|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Camper.png|Camper|Drew|368|1|027|Sandshrew|♂|23|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Becky|352|2|027|Sandshrew|♀|22||183|Marill|♀|22|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Dusty|1380|1|028|Sandslash|♂|23||38=Nav}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Picnicker.png|Picnicker|Celia|352<br><small>Potential [[Double Battle]] with Bryan</small>|2|183|Marill|♀|22||271|Lombre|♀|22|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Bryan|1320<br><small>Potential [[Double Battle]] with Celia or Branden</small>|2|027|Sandshrew|♂|22||028|Sandslash|♂|22|}}
+{{trainerdiv|sand}}
+{{trainerentry|Spr RS Camper.png|Camper|Branden|352<br><small>Potential [[Double Battle]] with Bryan</small>|2|276|Taillow|♂|22||274|Nuzleaf|♂|22|}}
+{{catch/div|sand|Rematch}}
+{{trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Dusty|{{tt|1620|First rematch}}/{{tt|1800|Second rematch}}/{{tt|1980|Third rematch}}/{{tt|2160|Fourth rematch onwards}}|1|028|Sandslash|♂|{{tt|27|First rematch}}/{{tt|30|Second rematch}}/{{tt|33|Third rematch}}/{{tt|36|Fourth rematch onwards}}||38=Nav}}
+{{trainerfooter|sand|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|sand|no}}
+{{catch/entry3|027|Sandshrew|no|no|yes|Sand|19-21|35%|type1=Ground}}
+{{catch/entry3|328|Trapinch|no|no|yes|Sand|19-21|35%|type1=Ground}}
+{{catch/entry3|343|Baltoy|no|no|yes|Sand|19-21|24%|type1=Ground|type2=Psychic}}
+{{catch/entry3|331|Cacnea|no|no|yes|Sand|20, 22|6%|type1=Grass}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+{{itemlist|Stardust|
+* North of the desert's southern entrance
+* On a rock, next to Ruin Maniac Dusty (hidden)|E=yes|display=[[Stardust]] ×2}}
+{{itemlist|Protein|Just north of Mirage Tower (hidden)|E=yes}}
+{{itemlist|Rare Candy|On a rock, northeast of Ruin Maniac Dusty and Picnicker Becky (hidden)|E=yes}}
+{{itemlist|TM Ground|Southernmost point, south of the Desert Ruins|E=yes|display={{TM|37|Sandstorm}}}}
+{{itlistfoot|sand}}
+|}
+
+===Desert Ruins===
+The unusual arrangement of stones to the south is known as the [[Desert Ruins]]. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+
+==Mirage Tower (optional)==
+[[File:Mirage Tower 1F E.png|thumb|left|Mirage Tower, 1F]]
+[[File:Mirage Tower 2F E.png|thumb|left|Mirage Tower, 2F]]
+[[File:Mirage Tower 3F E.png|thumb|left|Mirage Tower, 3F]]
+[[File:Mirage Tower 4F E.png|thumb|left|Mirage Tower, 4F]]
+[[Mirage Tower]] is an elusive building located just inside the desert's southern entrance. The tower disappears and reappears as would-be explorers visit and leave the route. The ancient structure shows its age, with unstable floors and fallen rock scattered about. Progressing past these obstacles requires using the [[Mach Bike]] and {{m|Rock Smash}}.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|sand|no}}
+{{catch/div|sand|1F-4F}}
+{{catch/entry3|027|Sandshrew|no|no|yes|1F-4F|20-24|50%|type1=ground}}
+{{catch/entry3|328|Trapinch|no|no|yes|1F-4F|20-24|50%|type1=ground}}
+{{catch/footer|sand}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+|- style="background: #FFFFFF;"
+| align="center" | {{bag|Root Fossil}}<br><br>{{bag|Claw Fossil}}
+| align="center" | [[Root Fossil]]<br>or<br>[[Claw Fossil]]
+| align="left" | 4F; Root Fossil to the left, Claw Fossil to the right
+| align="center" | '''<span style="background: #{{emerald color}}">{{color2|FFF|Pokémon Emerald Version|&nbsp;E&nbsp;}}</span>'''
+{{itlistfoot|sand}}
+|}
+
+====Relic Recovery!====
+The tower's top floor holds two treasures from the ancient past. The [[Root Fossil]] and [[Claw Fossil]] belong to two species that once lived in the primordial ocean. The researchers at [[Devon Corporation]] back in {{ci|Rustboro}} are able to revive any Fossil they receive into a long-lost Pokémon. The Root Fossil becomes the {{2t|Rock|Grass}} {{p|Lileep}}, while the Claw Fossil turns into the {{2t|Rock|Bug}} {{p|Anorith}}. Choose carefully! After removing either one, the tower begins to shake, and you fall from the building, landing just outside the entrance. The tower disappears down into the dunes, and the remaining Fossil falls away into the shifting sands.
+
+==Back to Petalburg City==
+Now that you've claimed your fourth Badge and combed the desert for treasure, your next stop is [[Petalburg City]]. The city is far to the southwest, but there are multiple ways to get there.
+* Head northwest around the volcano to [[Fallarbor Town]], then south through [[Meteor Falls]] to return to Rustboro.
+* Go south from the desert to [[Mauville City]], then west to [[Verdanturf Town]]. Cut through [[Rusturf Tunnel]] to return to Rustboro. 
+* Go further south to [[Slateport City]] and then to {{rt|109|Hoenn}}, and [[Mr. Briney]] will take you to {{rt|104|Hoenn}}.
+
+Once in Rustboro, be sure to stop by [[Devon Corporation]]. Take your Fossil to the second floor of the Devon Corporation building, and give it to a scientist there for him to restore. Exit the room, come back in, and receive your newly resurrected Pokémon.
+
+{| class="expandable" style="margin: auto; background: #725C42; {{roundy}}; border: 5px solid #7D6448;"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{catch/header|road|no}}
+{{catch/div|road|Gift Pokémon}}
+{{Catch/entry3|345|Lileep|no|no|yes|Root|20|One|type1=Rock|type2=Grass}}
+{{Catch/entry3|347|Anorith|no|no|yes|Claw|20|One|type1=Rock|type2=Bug}}
+{{catch/footer|road}}
+|}
+
+{{-}}
+
+==Petalburg City (second visit)==
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{catch/div|water|After defeating the Petalburg Gym}}
+{{itemlist|TM Normal|From Norman upon his defeat|E=yes|display={{TM|42|Facade}}}}
+{{itemlist|HM Water|Obtained from [[Wally]]'s father after defeating Norman |E=yes|display={{HM|03|Surf}}}}
+{{itlistfoot|road}}
+|}
+
+===Petalburg Gym===
+[[File:Petalburg Gym E.png|thumb|Petalburg Gym]]
+
+{{sign|E|header}}
+{{sign|E|title|Petalburg City Pokémon Gym<br>Leader: Norman}}
+{{sign|E|A man in pursuit of power!}}
+{{sign|E|footer}}
+
+The [[Petalburg Gym]], which specializes in {{type|Normal}} Pokémon, is styled as a traditional dojo with multiple rooms. Each room has a single Trainer who uses a certain strategy. The sign on each door gives a clue to the strategy of the Trainer in the room behind it. Rather than relying on items, each Trainer's strategy depends on the moves of their Pokémon. The first two rooms beyond the lobby are labeled "Speed" and "Accuracy". The three rooms farther on are named "Confusion", "Defense", and "Recovery". The final two rooms before the Gym Leader are labeled "Strength" and "One-Hit KO". A minimum of three Gym Trainers must be defeated to reach the Gym Leader. {{t|Fighting}} types like {{p|Combusken}} and {{p|Breloom}} will give you the upper hand here.
+
+In the final room, your father has been waiting for you. Now that you have earned four other Badges, he is ready to accept your challenge. [[Norman]] leads with his {{p|Spinda}}; {{m|Teeter Dance}} allows it to confuse the target. {{t|Fighting}} Pokémon should watch out for its {{m|Psybeam}}! His {{p|Vigoroth}} is so restless that it can't sleep, due to its {{a|Vital Spirit}} Ability. While not a serious threat, it may land a critical hit with {{m|Slash}}. {{p|Linoone}} can be a serious problem, as {{m|Belly Drum}} halves its HP in order to boost its Attack by a whopping 300%! Luckily, the move fails if the user's HP has fallen below 50%. {{p|Slaking}} usually leads with {{m|Yawn}}. Although Slaking can use its extremely dangerous 160 base [[Statistic|Attack stat]] to overpower most Pokémon, its {{a|Truant}} lets you completely shut it down with {{m|Dig}} or {{m|Protect}}. Additionally, if you switch out your Pokémon (possibly to keep Yawn from working), your replacement will be safe for one turn. All four of Norman's Pokémon know {{m|Facade}}, which doubles in power if the user is {{status|Burn}}ed, {{status|Poison}}ed, or {{status|Paralysis|Paralyzed}}, though the {{stat|Attack}} penalty incurred by sustaining a Burn still applies. 
+
+{{WalkthroughGym
+| background = {{normal color}}
+| headcolor = {{normal color light}}
+| name = Petalburg Gym
+| badge = Balance Badge
+| image = Balance Badge.png
+| trainers = 
+{{trainerheader|Normal}}
+{{catch/div|Normal|Speed Room}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Randall|1248|1|277|Swellow|♂|26|}}
+{{catch/div|Normal|Accuracy Room}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Mary|1248|1|301|Delcatty|♀|26|}}
+{{catch/div|Normal|Confusion Room}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Parker|1248|1|327|Spinda|♂|26|}}
+{{catch/div|Normal|Defense Room}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Alexia|1248|1|040|Wigglytuff|♀|26|}}
+{{catch/div|Normal|Recovery Room}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|George|1248|1|287|Slakoth|♂|26|Sitrus Berry}}
+{{catch/div|Normal|Strength Room}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Jody|1248|1|335|Zangoose|♀|26|}}
+{{catch/div|Normal|One-Hit KO Room}}
+{{trainerentry|Spr RS Cooltrainer M.png|Cooltrainer|Berke|1248|1|288|Vigoroth|♂|26|}}
+{{trainerfooter|Normal|I}}
+| party = 
+{{Party
+| background = {{normal color}}
+| border = {{normal color dark}}
+| headcolor = {{normal color light}}
+| middle = yes
+| sprite = Spr RS Norman.png
+| prize = {{PDollar}}3100
+| class = Leader
+| classlink = Gym Leader
+| name = {{color2|000|Norman}}
+| location = Petalburg Gym
+| game = E
+| pokemon = 4
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0327
+| pokemon = Spinda
+| gender = male
+| level = 27
+| type1 = Normal
+| ability = Own Tempo
+| move1 = Teeter Dance | move1type = Normal
+| move2 = Psybeam | move2type = Psychic
+| move3 = Facade | move3type = Normal
+| move4 = Encore | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0288
+| pokemon = Vigoroth
+| gender = male
+| level = 27
+| type1 = Normal
+| ability = Vital Spirit
+| move1 = Slash | move1type = Normal
+| move2 = Facade | move2type = Normal
+| move3 = Encore | move3type = Normal
+| move4 = Faint Attack | move4type = Dark
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0264
+| pokemon = Linoone
+| gender = male
+| level = 29
+| type1 = Normal
+| ability = Pickup
+| move1 = Slash | move1type = Normal
+| move2 = Belly Drum | move2type = Normal
+| move3 = Facade | move3type = Normal
+| move4 = Headbutt | move4type = Normal
+}}
+{{Pokémon
+| walkthrough = yes
+| gen = 3
+| ndex = 0289
+| pokemon = Slaking
+| gender = male
+| level = 31
+| type1 = Normal
+| ability = Truant
+| held = Sitrus Berry
+| move1 = Counter | move1type = Fighting
+| move2 = Yawn | move2type = Normal
+| move3 = Facade | move3type = Normal
+| move4 = Faint Attack | move4type = Dark
+}}
+{{Party/end}}
+}}
+
+===Wally's House===
+Afterwards, your father awards you the {{badge|Balance}}, which boosts your Pokémon's {{stat|Defense}} by 10% and enables the use of {{m|Surf}} in the field. He also hands you {{TM|42|Facade}} as a gift. Just then, [[Wally]]'s father bursts in, claiming that he's got something to give you. He leads you next door to his home, where he apologizes for his hasty behavior. He tells you that living in {{to|Verdanturf}} has done wonders for Wally's health, and he gives you {{HM|03|Surf}} as thanks for helping the young Trainer. In battle, {{m|Surf}} is a strong {{type|Water}} attack; in the field, it allows you to cross bodies of water. If you're not in a hurry, then consider using your new HM move to explore some of the [[water route]]s that Hoenn has to offer.
+
+===Trainers Rematches===
+Starting now, your [[PokéNav]] will start showing that [[List of Trainer's Eye Trainers|some trainers]] want [[rematch]]es with you. They will be marked by a square Poké Ball in the Match Call feature. Note that the more often you travel on the route or cave where any of these unique Trainers are located, the greater chance the trainer in that area will be ready for a rematch.
+
+==Now that you can use Surf (optional)==
+You can meet many new trainers and find many new items by crossing the ponds and seas scattered throughout Hoenn. When you're ready to cross the sea, approach the coastline and use {{m|Surf}}. Hop on your seafaring Pokémon's back to glide across the water. While Surfing, it is impossible to use the field moves {{m|Cut}}, {{m|Strength}}, or {{m|Rock Smash}}; however, {{m|Fly|several}} {{m|Waterfall|other}} {{m|Dive|moves}} are allowed. The Itemfinder can't be used while crossing the waves, but you can use an [[Escape Rope]] or a fishing rod while doing so. 
+
+Also now that you have Surf, Mr. Briney will no longer transport you between his house on Route 104 to Dewford Town, or Route 109, instead you'll have to transport yourself using Surf. 
+
+===Petalburg City===
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|road}}
+{{catch/div|water|Requires Surf}}
+{{itemlist|Max Revive|Across the northeast pond |E=yes}}
+{{itemlist|Ether|Across the southwest pond |E=yes}}
+{{itemlist|Rare Candy|Across the southwest pond (''hidden'') |E=yes}}
+{{itlistfoot|road}}
+|}
+
+===Littleroot Town===
+Now that you have just defeated Norman, if you return home you will receive a small gift from your [[Mom (Hoenn)|mom]].
+
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|land}}
+{{itemlist|Amulet Coin|From the player's mother after defeating [[Norman]]|E=yes}}
+{{Itlistfoot|land}}
+|}
+
+===Route 103===
+Here there are two {{tc|Swimmer}}s in the middle of the river, just waiting to battle you. These trainers use Pokémon of considerably lower levels than the last ones you faced, so they shouldn't be much of a challenge. However, if they look at you at the same time, the battle will turn into a [[Double Battle]].
+
+{| class="expandable" align="center" style="background: #{{emerald color light}}; {{roundy}}; border: 5px solid #{{emerald color}};"
+|- align="center"
+! Trainers
+|- 
+|
+{{trainerheader|land|}}
+{{catch/div|ocean|Requires {{mcolor|Surf|000}}}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer♀|Isabelle|120<br><small>Potential [[Double Battle]] with Pete</small>|1|183|Marill|♀|15|36=ユミコ|37=Yumiko}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer♂|Pete|120<br><small>Potential [[Double Battle]] with Isabelle</small>|1|072|Tentacool|♂|15|36=ヒデヒコ|37=Hidehiko}}
+{{trainerfooter|land|3|}}
+|}
+
+===Route 104 (north)===
+On the north part of this route, just south of [[Rustboro City]], there is a pond you can now cross to get to its eastern shore, where you'll find a PP UP.
+
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|land}}
+{{Itemlist|PP Up|North side, across the pond at a landing on its east shore|E=yes}}
+{{Itlistfoot|land}}
+|}
+
+===Route 110===
+This route has two small islands you can now reach. One of them contains a Rare Candy.
+
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|land}}
+{{Itemlist|Rare Candy|On the small grass island|E=yes}}
+{{Itlistfoot|land}}
+|}
+
+===Route 111 (south)===
+On the south part of the route, you may now cross the pond west of [[Winstrate family]]'s house to get an HP Up.
+
+{| class="expandable" style="margin: auto; background: #A3E59E; {{roundy}}; border: 5px solid #D0F0C0;"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|land}}
+{{itemlist|HP Up|West side of the pond|E=yes}}
+{{Itlistfoot|land}}
+|}
+
+==Route 115 (optional)==
+[[File:Hoenn Route 115 E.png|thumb|Route 115]]
+
+You can now fully explore the route by using {{m|Surf}}. Surf north past Meteor Falls and make landfall at a small beach. Fight a few trainers as you navigate further north through a maze of trees. At the very northwest corner, you can find Route 115's one tiny patch of tall grass. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Trainers
+|-
+|
+{{Trainerheader|mountain}}
+{{catch/div|water|Requires Surf}}
+{{Trainerentry|Spr RS Ninja Boy.png|Ninja Boy|Jaiden|312<br><small>Potential [[Double Battle]] with Timothy</small>|2|291|Ninjask|♂|26||316|Gulpin|♂|26|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RS Expert M.png|Expert|Timothy|1080<br><small>Potential [[Double Battle]] with Jaiden or Kyra</small>|1|297|Hariyama|♂|27||38=Nav}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RS Triathlete Runner F.png|Triathlete|Kyra|1040<br><small>Potential [[Double Battle]] with Timothy or Koichi</small>|2|084|Doduo|♀|26||085|Dodrio|♀|26|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RS Black Belt.png|Black Belt|Koichi|896<br><small>Potential [[Double Battle]] with Kyra</small>|2|066|Machop|♂|24||067|Machoke|♂|28|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RS Battle Girl.png|Battle Girl|Helene|624<br><small>Potential [[Double Battle]] with Alix</small>|2|307|Meditite|♀|26||296|Makuhita|♂|26|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RS Psychic F.png|Psychic|Alix|624<br><small>Potential [[Double Battle]] with Helene</small>|2|064|Kadabra|♂|26||281|Kirlia|♀|26|}}
+{{catch/div|mountain|Rematch}}
+{{trainerentry|Spr RS Expert M.png|Expert|Timothy|{{tt|1320|First rematch}}/{{tt|1440|Second rematch}}/{{tt|1560|Third rematch}}/{{tt|1680|Fourth rematch onwards}}|1|297|Hariyama|♂|{{tt|33|First rematch}}/{{tt|36|Second rematch}}/{{tt|39|Third rematch}}/{{tt|42|Fourth rematch onwards}}||38=Nav}}
+{{Trainerfooter|mountain|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Available Pokémon
+|-
+|
+{{Catch/header|mountain|no}}
+{{Catch/entry3|039|Jigglypuff|no|no|yes|Grass|24-25|10%|type1=Normal}}
+{{Catch/entry3|276|Taillow|no|no|yes|Grass|23-25|40%|type1=Normal|type2=Flying}}
+{{Catch/entry3|277|Swellow|no|no|yes|Grass|25|10%|type1=Normal|type2=Flying}}
+{{Catch/entry3|278|Wingull|no|no|yes|Grass|24-26|10%|type1=Water|type2=Flying}}
+{{Catch/entry3|333|Swablu|no|no|yes|Grass|23, 25|30%|type1=Normal|type2=Flying}}
+{{Catch/div|water|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|water|Fishing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/footer|mountain}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|mountain}}; {{roundy}}; border: 5px solid #{{locationcolor/light|mountain}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|mountain}}
+{{catch/div|water|Requires {{m|Surf}}}}
+{{itemlist|Heal Powder|In the middle of the northwest grove|E=yes}}
+{{itemlist|Kelpsy Berry|From the Berry Trees on the route's north end|E=yes|display=[[Kelpsy Berry]] ×6}}
+{{itemlist|TM Fighting|West of the muddy slope|E=yes|display={{TM|01|Focus Punch}}}}
+{{itemlist|Iron|South of the muddy slope (requires [[Mach Bike]])|E=yes}}
+{{itlistfoot|mountain}}
+|}
+
+==Route 105 (optional)==
+[[File:Hoenn Route 105 E.png|thumb|150px|left|Route 105]]
+
+Another one of the [[water route]]s you can now explore at your own speed is {{rt|105|Hoenn}}, which lies between [[Petalburg City]] and [[Dewford Town]].
+
+Note: The wild Pokémon available are same for routes 105, 106, 107, 108, and 109.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean|3}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Imani|208|1|183|Marill|♀|26||36=マユカ|37=Mayuka}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer M.png|Swimmer|Dominik|208|1|072|Tentacool|♂|26||36=ヒロミ|37=Hiromi}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Foster|1500|2|027|Sandshrew|♂|25||028|Sandslash|♂|25||36=アキヒト|37=Akihito}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer F.png|Swimmer|Beverly|200|2|278|Wingull|♀|25||320|Wailmer|♀|25||36=ナツキ|37=Natsuki}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Ruin Maniac.png|Ruin Maniac|Andres|1500<br><small>{{tt|Potential|Single Battle only if the player has only one Pokémon in their party}} [[Double Battle]] with Josue</small>|2|027|Sandshrew|♂|25||027|Sandshrew|♂|25||36=ダイジロウ|37=Daijirō|38=Nav}}
+{{Trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Josue|800<br><small>{{tt|Potential|Single Battle only if the player has only one Pokémon in their party}} [[Double Battle]] with Andres</small>|2|276|Taillow|♂|25||278|Wingull|♂|25||36=ヤスフミ|37=Yasufumi}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer M.png|Swimmer|Luis|208|1|318|Carvanha|♂|26||36=ヨウヘイ|37=Yōhei}}
+{{Trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+! Available Pokémon
+|-
+|
+{{catch/header|ocean|no}}
+{{Catch/div|ocean|Surfing}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Surf|5-35|60%|type1=Water|type2=Poison}}
+{{Catch/entry3|278|Wingull|no|no|yes|Surf|10-30|35%|type1=Water|type2=Flying}}
+{{Catch/entry3|279|Pelipper|no|no|yes|Surf|25-30|5%|type1=Water|type2=Flying}}
+{{Catch/div|ocean|Fishing}}
+{{Catch/entry3|129|Magikarp|no|no|yes|Fish Old|5-10|70%|type1=Water}}
+{{Catch/entry3|072|Tentacool|no|no|yes|Fish Old|5-10|30%|type1=Water|type2=Poison}}
+{{catch/footer|ocean}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{Itemlist|Iron|On the island closest to southern terminus|E=yes}}
+{{Itemlist|Big Pearl|On the island with {{tc|Bird Keeper}} Josue and {{tc|Ruin Maniac}} Andres ''(hidden)''|E=yes}}
+{{Itemlist|Heart Scale|On northernmost sand-only island ''(hidden)''|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+===Island Cave===
+The unusual arrangement of stones in a corner in the northwest is known as the [[Island Cave]]. It is believed to mark the resting place of a legendary Pokémon. But with the entrance sealed, you won't be able to investigate until later.
+
+==Route 106 (optional)==
+You will return to {{rt|106|Hoenn}} and [[Dewford Town]] if you want to continue east.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean|3}}
+{{catch/div|ocean|Requires {{mcolor|Surf|000}}}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Douglas|192|2|072|Tentacool|♂|24||072|Tentacool|♂|24||36=タツオ|37=Tatsuo}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Kyla|208|1|320|Wailmer|♀|26||36=ミズハ|37=Mizuha}}
+{{trainerfooter|ocean|3}}
+|}
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{Itemlist|Protein|On the far west shore line|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+==Dewford Town (optional)==
+Just a quick drop by in [[Dewford Town]], but be sure to pick up the {{tm|36|Sludge Bomb}} in Dewford Hall.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|sand}}; {{roundy}}; border: 5px solid #{{locationcolor/light|sand}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|sand}}
+{{Itemlist|TM Poison VI|From a {{tc|Collector}} in Dewford Hall after defeating [[Norman]]|E=yes|display={{TM|36|Sludge Bomb}}}}
+{{itlistfoot|sand}}
+|}
+
+==Route 107 (optional)==
+[[File:Hoenn Route 107 E.png|thumb|left|Route 107]]
+
+{{rt|107|Hoenn}} is a short stretch of sea that extends east from Dewford Town. Like Routes {{rtn|105|Hoenn}} and {{rtn|106|Hoenn}}, you can now fully explore Route 107 by {{m|Surf}}ing. 
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean|3}}
+{{catch/div|ocean|Requires {{mcolor|Surf|000}}}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer|Denise|200|2|278|Wingull|♀|25||118|Goldeen|♀|25|}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer M.png|Swimmer|Tony|208|1|318|Carvanha|♂|26||38=Nav}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Sis and Bro.png|Sis and Bro|Lisa & Ray|600|2|118|Goldeen|♂|27||072|Tentacool|♂|25|}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer M.png|Swimmer|Darrin|192|3|072|Tentacool|♂|24||278|Wingull|♂|24||072|Tentacool|♂|24|}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RS Swimmer F.png|Swimmer|Beth|208<br><small>Potential [[Double Battle]] with Camron</small>|1|118|Goldeen|♀|26|}}
+{{Trainerentry|Spr RS Triathlete Swimmer M.png|Triathlete|Camron|1040<br><small>Potential [[Double Battle]] with Beth</small>|1|120|Staryu||26|}}
+{{trainerdiv|ocean|Rematch}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Tony{{tt|*|First and second rematch}}|{{tt|240|First rematch}}/{{tt|264|Second rematch}}|1|319|Sharpedo|♂|{{tt|30|First rematch}}/{{tt|33|Second rematch}}||38=Nav}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Tony{{tt|*|Third rematch}}|288|2|120|Staryu||34||319|Sharpedo|♂|36||38=Nav}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Tony{{tt|*|Fourth rematch onwards}}|312|2|121|Starmie||37||319|Sharpedo|♂|39||38=Nav}}
+{{Trainerfooter|ocean|3}}
+|}
+
+==Route 108 (optional)==
+[[File:Hoenn Route 108 E.png|thumb|Route 108]]
+
+{{rt|108|Hoenn}} lies between [[Dewford Town]] and [[Slateport City]]. From here, you can continue east to {{rt|109|Hoenn}} and eventually to Slateport City, or you can visit what remains of the half-sunken [[Abandoned Ship]].
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{catch/div|ocean|Requires {{mcolor|Surf|000}}}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer♀|Missy|208|1|118|Goldeen|♀|26|}}
+{{trainerdiv|ocean}} 
+{{trainerentry|Spr RS Swimmer M.png|Swimmer|Matthew|208|1|318|Carvanha|♂|26|}}
+{{trainerdiv|ocean}} 
+{{trainerentry|Spr RS Swimmer F.png|Swimmer♀|Tara|200|2|116|Horsea|♀|25||183|Marill|♀|25|}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Cooltrainer F.png|Cooltrainer|Carolina|1152<br><small>Potential [[Double Battle]] with Cory</small>|3|310|Manectric|♀|24||277|Swellow|♀|24||310|Manectric|♀|24|}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Cory|768<br><small>Potential [[Double Battle]] with Carolina</small>|3|278|Wingull|♂|24||066|Machop|♂|24||072|Tentacool|♂|24||38=Nav}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer♂|Jerome|208|1|073|Tentacruel|♂|26|}}
+{{trainerdiv|ocean|Rematch}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Cory{{tt|*|First rematch}}|960|3|278|Wingull|♂|30||066|Machop|♂|30||072|Tentacool|♂|30||38=Nav}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Cory{{tt|*|Second rematch}}|1024|3|279|Pelipper|♂|32||066|Machop|♂|32||072|Tentacool|♂|32||38=Nav}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Cory{{tt|*|Third rematch}}|1088|3|279|Pelipper|♂|34||066|Machop|♂|34||073|Tentacruel|♂|34||38=Nav}}
+{{trainerentry|Spr RS Sailor.png|Sailor|Cory{{tt|*|Fourth rematch onwards}}|1152|3|279|Pelipper|♂|36||067|Machoke|♂|36||073|Tentacruel|♂|36||38=Nav}}
+{{trainerfooter|ocean|3}}
+|}
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{itlisth|ocean}}
+{{Itemlist|Star Piece|On an island past {{tc|Ace Trainer|Cooltrainer}} Carolina and {{tc|Sailor}} Cory|E=yes}}
+{{Itemlist|Rare Candy|On a rock on an island to the southeast of the Abandoned Ship ''(hidden)''|E=yes}}
+{{itlistfoot|ocean}}
+|}
+
+==Route 109 (optional)==
+[[File:Hoenn Route 109 E.png|thumb|left|Route 109]]
+
+Now you can fully explore this route, so be sure to pick up all items and battle the trainers that were inaccessible before.
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Trainers
+|-
+|
+{{trainerheader|ocean}}
+{{catch/div|ocean|Requires {{mcolor|Surf|000}}}}
+{{trainerentry|Spr RS Tuber F.png|Tuber|Austina|104|1|183|Marill|♀|26|no||36=ヒロミ|37=Hiromi}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Tuber F.png|Tuber|Gwen|104|1|183|Marill|♀|26|no||36=ノゾミ|37=Nozomi}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer M.png|Swimmer♂|David|200|2|072|Tentacool|♂|25|no|318|Carvanha|♂|25|no||36=ケンイチ|37=Kenichi}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Swimmer F.png|Swimmer♀|Alice|192|3|118|Goldeen|♀|24|no|278|Wingull|♀|24|no|118|Goldeen|♀|24|no||36=エツコ|37=Etsuko}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Fisherman.png|Fisherman|Carter|1000<br><small>Potential [[Double Battle]] with Elijah</small>|2|320|Wailmer|♂|25|no|073|Tentacruel|♂|25|no||36=タカヒコ|37=Takahiko}}
+{{trainerentry|Spr RS Bird Keeper.png|Bird Keeper|Elijah|800<br><small>Potential [[Double Battle]] with Carter</small>|2|227|Skarmory|♂|25|no|227|Skarmory|♂|25|no||36=トシタカ|37=Toshitaka}}
+{{trainerdiv|ocean}}
+{{trainerentry|Spr RS Young Couple.png|Young Couple|Mel & Paul|1728|2|269|Dustox|♂|27|no|267|Beautifly|♂|27|no||36=シキとリキ|37=Shiki and Riki}}
+{{trainerfooter|ocean|3}}
+|}
+
+{| class="expandable" style="margin: auto; background: #{{locationcolor/med|ocean}}; {{roundy}}; border: 5px solid #{{locationcolor/light|ocean}};"
+|- align="center"
+! Items
+|-
+|
+{{Itlisth|ocean}}
+{{Itemlist|Heart Scale|On the island with {{tc|Young Couple}} Mel & Paul ''(hidden)''|E=yes}}
+{{Itemlist|PP Up|On the eastern empty sandbar|E=yes}}
+{{Itlistfoot|ocean}}
+|}
+
+
+{{WalkthroughPrevNext
+|game=Emerald
+|gamename=Pokémon Emerald
+|prevsection=7
+|prevname=Meteor Falls, Mt. Chimney, Jagged Pass, Lavaridge Town
+|nextsection=9
+|nextname=Abandoned Ship, New Mauville, Route 118
+}}
+
+{{Project Walkthroughs notice}}
+[[Category:Emerald walkthrough|08]]
