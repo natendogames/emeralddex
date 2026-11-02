@@ -1,0 +1,34 @@
+{
+ "_about": "Hand-written review of each mismatch scripts/verify_bulbapedia.py reports, checked against pret/pokeemerald where the two sources disagree.",
+ "mismatches": {
+  "route-118": "Gabby & Ty: the app lists their first battle on Route 111 (data/scripts/gabby_and_ty.inc); the Route 118 and 120 battles are rematches. OK.",
+  "route-120": "Gabby & Ty rematch, see Route 118. OK.",
+  "mossdeep-city": "Bulbapedia puts the Wingull boy's Mental Herb under Mossdeep; the decomp gives it in FortreeCity_House4 (the boy's Wingull carries mail to Mossdeep). App is right.",
+  "dewford-town": "Battle Girl Shauna/Jocelyn is one trainer with a hover name on Bulbapedia; matched as Jocelyn. OK."
+ },
+ "order": {
+  "route-105": "App lists Routes 105-108 where you can Surf them; Bulbapedia mentions them first on Mr. Briney's boat ride. By design.",
+  "route-118": "App lists Route 118 when you can Surf across it; Bulbapedia mentions the west bank earlier. By design.",
+  "lilycove-city": "Safari Zone needs the Pokéblock Case from Lilycove. Added a step saying so.",
+  "route-123": "Optional detour; either order works.",
+  "route-132": "Optional currents after Pacifidlog; either order works.",
+  "desert-underpass": "Post-game optional areas; order is free.",
+  "sealed-chamber": "Post-game optional areas; order is free.",
+  "desert-ruins": "Post-game optional areas; order is free."
+ },
+ "not_covered": "Bulbapedia's Emerald Part 22 (Southern Island, Faraway Island, Birth Island, Navel Rock) doesn't exist on the wiki, so those four event islands stay Draft.",
+ "corrections": [
+  "Hiker Mike in Rusturf Tunnel was missing: build_data.py treated TRAINER_MIKE_2 as a rematch, but MIKE_1 is never battled.",
+  "Gabby & Ty were missing: their battles live in data/scripts/gabby_and_ty.inc, which the map pass didn't read. Now on Route 111.",
+  "TM43 (Secret Power) gift on Route 111 was missing (shared script data/scripts/secret_power_tm.inc).",
+  "Rayquaza is catchable as soon as it returns to Sky Pillar after the Sootopolis event (VAR_SKY_PILLAR_STATE >= 2), not only after the Hall of Fame.",
+  "Sky Pillar: the first climb needs no bike; the Mach Bike is needed when you come back for Rayquaza.",
+  "Cave of Origin: Wallace waits on B1F, and Zubat, Golbat and Sableye live there (the old step said nothing could be caught).",
+  "Route 123: one-way ledges run west to Route 118; the Giga Drain girl checks for a Grass-type in your party, not a Grass move.",
+  "Route 132: the currents are west of Pacifidlog, not east.",
+  "Route 115: you can walk there north from Rustboro.",
+  "Verdanturf: Wally is staying with his cousin Wanda's family.",
+  "Desert Underpass: reached through the Fossil Maniac's cave on Route 114.",
+  "Safari Zone: needs the Pokéblock Case; the extra areas open with the National Pokédex."
+ ]
+}

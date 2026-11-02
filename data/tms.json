@@ -630,6 +630,12 @@
     "how": "buy",
     "where": "Market: TM stall",
     "cost": "₽3,000"
+   },
+   {
+    "loc": "route-111",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Boy by the Secret Base tree"
    }
   ]
  },

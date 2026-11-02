@@ -158,6 +158,12 @@
    "name": "Macho Brace",
    "from": "Victoria (after you beat the Winstrate family)",
    "where": "Winstrate Family's House"
+  },
+  {
+   "id": "item-outside-tm43",
+   "name": "TM43",
+   "from": "Boy by the Secret Base tree",
+   "where": "Outside"
   }
  ],
  "trainers": [
@@ -504,6 +510,69 @@
     }
    ],
    "id": "vicky"
+  },
+  {
+   "class": "Interviewer",
+   "name": "Gabby & Ty",
+   "prize": 1632,
+   "party": [
+    {
+     "dex": 81,
+     "name": "Magnemite",
+     "level": 17,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Thundershock",
+       "type": "Electric",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 293,
+     "name": "Whismur",
+     "level": 17,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "gabby-and-ty"
   },
   {
    "class": "Picnicker",
