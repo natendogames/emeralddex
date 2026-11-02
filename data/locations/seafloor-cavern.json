@@ -1,0 +1,548 @@
+{
+ "id": "seafloor-cavern",
+ "name": "Seafloor Cavern",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "35%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "5%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 1"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 1"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 2"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 2"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 3"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 3"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 4"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 4"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 5"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 5"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "35%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "5%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Room 6"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "35%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "5%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Room 7"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Room 8"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Room 8"
+  }
+ ],
+ "items": [
+  {
+   "id": "room-9-tm26",
+   "name": "TM26",
+   "hidden": false,
+   "where": "Room 9"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 720,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 36,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "grunt-seafloor-cavern",
+   "area": "Room 1"
+  },
+  {
+   "class": "Aqua Admin",
+   "name": "Shelly",
+   "prize": 1480,
+   "party": [
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "shelly-seafloor-cavern",
+   "area": "Room 3"
+  },
+  {
+   "class": "Aqua Leader",
+   "name": "Archie",
+   "prize": 3440,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 41,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 169,
+     "name": "Crobat",
+     "level": 41,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      }
+     ]
+    },
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 43,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion ×2"
+   ],
+   "id": "archie",
+   "area": "Room 9"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

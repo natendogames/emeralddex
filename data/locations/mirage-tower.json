@@ -1,0 +1,106 @@
+{
+ "id": "mirage-tower",
+ "name": "Mirage Tower",
+ "encounters": [
+  {
+   "dex": 27,
+   "name": "Sandshrew",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "1F",
+   "after": "lavaridge-town",
+   "notes": "In the desert (Go-Goggles from Lavaridge Town). Gone once you take a fossil."
+  },
+  {
+   "dex": 328,
+   "name": "Trapinch",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "1F",
+   "after": "lavaridge-town",
+   "notes": "In the desert (Go-Goggles from Lavaridge Town). Gone once you take a fossil."
+  },
+  {
+   "dex": 27,
+   "name": "Sandshrew",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "2F",
+   "after": "lavaridge-town",
+   "notes": "Needs the Mach Bike."
+  },
+  {
+   "dex": 328,
+   "name": "Trapinch",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "2F",
+   "after": "lavaridge-town",
+   "notes": "Needs the Mach Bike."
+  },
+  {
+   "dex": 27,
+   "name": "Sandshrew",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "3F",
+   "after": "lavaridge-town",
+   "notes": "Needs Rock Smash and the Mach Bike."
+  },
+  {
+   "dex": 328,
+   "name": "Trapinch",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "3F",
+   "after": "lavaridge-town",
+   "notes": "Needs Rock Smash and the Mach Bike."
+  },
+  {
+   "dex": 27,
+   "name": "Sandshrew",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "4F",
+   "after": "lavaridge-town",
+   "notes": "Needs Rock Smash and the Mach Bike."
+  },
+  {
+   "dex": 328,
+   "name": "Trapinch",
+   "method": "grass",
+   "levels": "20-24",
+   "rate": "50%",
+   "area": "4F",
+   "after": "lavaridge-town",
+   "notes": "Needs Rock Smash and the Mach Bike."
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-4f-root-fossil",
+   "name": "Root Fossil",
+   "from": "Top of Mirage Tower (choose one)",
+   "where": "4F"
+  },
+  {
+   "id": "item-4f-claw-fossil",
+   "name": "Claw Fossil",
+   "from": "Top of Mirage Tower (choose one)",
+   "where": "4F"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

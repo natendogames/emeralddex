@@ -1,0 +1,417 @@
+{
+ "id": "dewford-town",
+ "name": "Dewford Town",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%",
+   "area": "Outside"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Outside"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-old-rod",
+   "name": "Old Rod",
+   "from": "Fisherman",
+   "where": "Outside"
+  },
+  {
+   "id": "item-gym-tm08",
+   "name": "TM08",
+   "from": "Brawly (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "item-hall-tm36",
+   "name": "TM36",
+   "from": "Man",
+   "where": "Hall"
+  },
+  {
+   "id": "item-house-2-silk-scarf",
+   "name": "Silk Scarf",
+   "from": "Man",
+   "where": "House 2"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Battle Girl",
+   "name": "Laura",
+   "prize": 312,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 13,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      }
+     ]
+    }
+   ],
+   "id": "laura",
+   "area": "Gym"
+  },
+  {
+   "class": "Sailor",
+   "name": "Brenden",
+   "prize": 416,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 13,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "brenden",
+   "area": "Gym"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Cristian",
+   "prize": 416,
+   "party": [
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 13,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "cristian",
+   "area": "Gym"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Lilith",
+   "prize": 312,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 13,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      }
+     ]
+    }
+   ],
+   "id": "lilith",
+   "area": "Gym"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Takao",
+   "prize": 416,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 13,
+     "iv": 15,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "takao",
+   "area": "Gym"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Jocelyn",
+   "prize": 312,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 13,
+     "iv": 15,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      }
+     ]
+    }
+   ],
+   "id": "jocelyn",
+   "area": "Gym"
+  },
+  {
+   "class": "Leader",
+   "name": "Brawly",
+   "prize": 1900,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 16,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Bulk Up",
+       "type": "Fighting"
+      }
+     ]
+    },
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 16,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Punch",
+       "type": "Fighting",
+       "power": 150
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Bulk Up",
+       "type": "Fighting"
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 19,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Reversal",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Bulk Up",
+       "type": "Fighting"
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "uses": [
+    "Super Potion ×2"
+   ],
+   "rewards": [
+    "Knuckle Badge",
+    "TM08"
+   ],
+   "id": "brawly",
+   "area": "Gym"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

@@ -1,0 +1,740 @@
+{
+ "id": "magma-hideout",
+ "name": "Magma Hideout",
+ "encounters": [
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "1F"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "1F"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "1F"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "2F 1R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "2F 1R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "2F 1R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "2F 2R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "2F 2R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "2F 2R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "2F 3R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "2F 3R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "2F 3R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "3F 1R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "3F 1R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "3F 1R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "3F 2R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "3F 2R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "3F 2R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "3F 3R"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "3F 3R"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "3F 3R"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "27-30",
+   "rate": "55%",
+   "area": "4F"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "28-30",
+   "rate": "30%",
+   "area": "4F"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "grass",
+   "levels": "30-33",
+   "rate": "15%",
+   "area": "4F"
+  }
+ ],
+ "items": [
+  {
+   "id": "1f-rare-candy",
+   "name": "Rare Candy",
+   "hidden": false,
+   "where": "1F"
+  },
+  {
+   "id": "2f-2r-max-elixir",
+   "name": "Max Elixir",
+   "hidden": false,
+   "where": "2F 2R"
+  },
+  {
+   "id": "2f-2r-full-restore",
+   "name": "Full Restore",
+   "hidden": false,
+   "where": "2F 2R"
+  },
+  {
+   "id": "3f-1r-nugget",
+   "name": "Nugget",
+   "hidden": false,
+   "where": "3F 1R"
+  },
+  {
+   "id": "3f-2r-pp-max",
+   "name": "PP Max",
+   "hidden": false,
+   "where": "3F 2R"
+  },
+  {
+   "id": "3f-3r-escape-rope",
+   "name": "Escape Rope",
+   "hidden": false,
+   "where": "3F 3R"
+  },
+  {
+   "id": "4f-max-revive",
+   "name": "Max Revive",
+   "hidden": false,
+   "where": "4F"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout",
+   "area": "1F"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-14",
+   "area": "2F 1R"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-15",
+   "area": "2F 2R"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-16",
+   "area": "3F 1R"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-10",
+   "area": "3F 2R"
+  },
+  {
+   "class": "Magma Leader",
+   "name": "Maxie",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 37,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 169,
+     "name": "Crobat",
+     "level": 38,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 39,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Rock Slide",
+       "type": "Rock",
+       "power": 75
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion ×2"
+   ],
+   "id": "maxie-magma-hideout",
+   "area": "4F"
+  },
+  {
+   "class": "Magma Admin",
+   "name": "Tabitha",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 26,
+     "iv": 9,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 28,
+     "iv": 9,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 30,
+     "iv": 9,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 33,
+     "iv": 9,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Rock Slide",
+       "type": "Rock",
+       "power": 75
+      }
+     ]
+    }
+   ],
+   "id": "tabitha-magma-hideout",
+   "area": "4F"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-13",
+   "area": "4F"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-12",
+   "area": "4F"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 580,
+   "party": [
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "grunt-magma-hideout-11",
+   "area": "4F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "id": "route-132",
+ "name": "Route 132",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "30-45",
+   "rate": "45%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  },
+  {
+   "dex": 116,
+   "name": "Horsea",
+   "method": "super-rod",
+   "levels": "25-30",
+   "rate": "15%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-rare-candy",
+   "name": "Rare Candy",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-protein",
+   "name": "Protein",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Fisherman",
+   "name": "Ronald",
+   "prize": 1400,
+   "party": [
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thrash",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 23,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thrash",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thrash",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Dragon Rage",
+       "type": "Dragon",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 30,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thrash",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Dragon Rage",
+       "type": "Dragon",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 35,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Dragon Rage",
+       "type": "Dragon",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Twister",
+       "type": "Dragon",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "ronald"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Darcy",
+   "prize": 1584,
+   "party": [
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Stockpile",
+       "type": "Normal"
+      },
+      {
+       "name": "Swallow",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Rock Slide",
+       "type": "Rock",
+       "power": 75
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "darcy"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Jonathan",
+   "prize": 1584,
+   "party": [
+    {
+     "dex": 352,
+     "name": "Kecleon",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 294,
+     "name": "Loudred",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "jonathan"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Kiyo",
+   "prize": 1088,
+   "party": [
+    {
+     "dex": 297,
+     "name": "Hariyama",
+     "level": 34,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      },
+      {
+       "name": "Smellingsalt",
+       "type": "Normal",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "kiyo"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Gilbert",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "gilbert"
+  },
+  {
+   "class": "Expert",
+   "name": "Paxton",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Endeavor",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 286,
+     "name": "Breloom",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Mach Punch",
+       "type": "Fighting",
+       "power": 40
+      },
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "paxton"
+  },
+  {
+   "class": "Expert",
+   "name": "Makayla",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Magical Leaf",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Grasswhistle",
+       "type": "Grass"
+      },
+      {
+       "name": "Giga Drain",
+       "type": "Grass",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 308,
+     "name": "Medicham",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Hi Jump Kick",
+       "type": "Fighting",
+       "power": 85
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "makayla"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Dana",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 184,
+     "name": "Azumarill",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      }
+     ]
+    }
+   ],
+   "id": "dana"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

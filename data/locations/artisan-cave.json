@@ -1,0 +1,66 @@
+{
+ "id": "artisan-cave",
+ "name": "Artisan Cave",
+ "encounters": [
+  {
+   "dex": 235,
+   "name": "Smeargle",
+   "method": "grass",
+   "levels": "40-50",
+   "rate": "100%",
+   "area": "1F"
+  },
+  {
+   "dex": 235,
+   "name": "Smeargle",
+   "method": "grass",
+   "levels": "40-50",
+   "rate": "100%",
+   "area": "B1F"
+  }
+ ],
+ "items": [
+  {
+   "id": "1f-carbos",
+   "name": "Carbos",
+   "hidden": false,
+   "where": "1F"
+  },
+  {
+   "id": "b1f-hp-up",
+   "name": "HP Up",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "hidden-b1f-zinc",
+   "name": "Zinc",
+   "hidden": true,
+   "where": "B1F"
+  },
+  {
+   "id": "hidden-b1f-calcium",
+   "name": "Calcium",
+   "hidden": true,
+   "where": "B1F"
+  },
+  {
+   "id": "hidden-b1f-protein",
+   "name": "Protein",
+   "hidden": true,
+   "where": "B1F"
+  },
+  {
+   "id": "hidden-b1f-iron",
+   "name": "Iron",
+   "hidden": true,
+   "where": "B1F"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

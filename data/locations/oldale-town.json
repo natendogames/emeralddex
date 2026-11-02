@@ -1,0 +1,19 @@
+{
+ "id": "oldale-town",
+ "name": "Oldale Town",
+ "encounters": [],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-potion",
+   "name": "Potion",
+   "from": "Poké Mart employee",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

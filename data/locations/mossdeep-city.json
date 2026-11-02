@@ -1,0 +1,898 @@
+{
+ "id": "mossdeep-city",
+ "name": "Mossdeep City",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%",
+   "area": "Outside"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%",
+   "area": "Outside"
+  },
+  {
+   "dex": 374,
+   "name": "Beldum",
+   "method": "gift",
+   "area": "Steven's House",
+   "levels": "5",
+   "notes": "Beldum (Lv 5) · Steven's house (after you enter the Hall of Fame)",
+   "after": "pokemon-league"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-net-ball",
+   "name": "Net Ball",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-king-s-rock",
+   "name": "King's Rock",
+   "from": "Boy (trade a Big Pearl)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-gym-tm04",
+   "name": "TM04",
+   "from": "Tate and Liza (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "item-house-3-super-rod",
+   "name": "Super Rod",
+   "from": "Fisherman",
+   "where": "House 3"
+  },
+  {
+   "id": "item-space-center-1f-sun-stone",
+   "name": "Sun Stone",
+   "from": "Scientist",
+   "where": "Space Center 1F"
+  },
+  {
+   "id": "item-steven-s-house-hm08",
+   "name": "HM08",
+   "from": "Steven",
+   "where": "Steven's House"
+  },
+  {
+   "id": "mon-steven-s-house-beldum-lv-5",
+   "name": "Beldum (Lv 5)",
+   "from": "Steven's house (after you enter the Hall of Fame)",
+   "where": "Steven's House"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Gentleman",
+   "name": "Clifford",
+   "prize": 2880,
+   "party": [
+    {
+     "dex": 203,
+     "name": "Girafarig",
+     "level": 36,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "clifford",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Macey",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 177,
+     "name": "Natu",
+     "level": 36,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Wish",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "macey",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Samantha",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 178,
+     "name": "Xatu",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Wish",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "samantha",
+   "area": "Gym"
+  },
+  {
+   "class": "Hex Maniac",
+   "name": "Kathleen",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Recover",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      },
+      {
+       "name": "Role Play",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "kathleen",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Nicholas",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 202,
+     "name": "Wobbuffet",
+     "level": 36,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Mirror Coat",
+       "type": "Psychic",
+       "power": 1
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Destiny Bond",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "id": "nicholas",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Blake",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 203,
+     "name": "Girafarig",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "blake",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Virgil",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Imprison",
+       "type": "Psychic"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "virgil",
+   "area": "Gym"
+  },
+  {
+   "class": "Gentleman",
+   "name": "Nate",
+   "prize": 2880,
+   "party": [
+    {
+     "dex": 325,
+     "name": "Spoink",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Psych Up",
+       "type": "Normal"
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Magic Coat",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "nate",
+   "area": "Gym"
+  },
+  {
+   "class": "Hex Maniac",
+   "name": "Sylvia",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Hi Jump Kick",
+       "type": "Fighting",
+       "power": 85
+      }
+     ]
+    }
+   ],
+   "id": "sylvia",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Hannah",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 281,
+     "name": "Kirlia",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Imprison",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "hannah",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Maura",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Recover",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      },
+      {
+       "name": "Role Play",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "maura",
+   "area": "Gym"
+  },
+  {
+   "class": "Psychic",
+   "name": "Preston",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 281,
+     "name": "Kirlia",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Imprison",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "preston",
+   "area": "Gym"
+  },
+  {
+   "class": "Leader",
+   "name": "Tate & Liza",
+   "prize": 8400,
+   "party": [
+    {
+     "dex": 344,
+     "name": "Claydol",
+     "level": 41,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 178,
+     "name": "Xatu",
+     "level": 41,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 337,
+     "name": "Lunatone",
+     "level": 42,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Hypnosis",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      }
+     ],
+     "item": "Sitrus Berry"
+    },
+    {
+     "dex": 338,
+     "name": "Solrock",
+     "level": 42,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      },
+      {
+       "name": "Solarbeam",
+       "type": "Grass",
+       "power": 120
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Flamethrower",
+       "type": "Fire",
+       "power": 95
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "double": true,
+   "uses": [
+    "Hyper Potion ×4"
+   ],
+   "rewards": [
+    "Mind Badge",
+    "TM04"
+   ],
+   "id": "tate-and-liza",
+   "area": "Gym"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-space-center",
+   "area": "Space Center 1F"
+  },
+  {
+   "class": "Magma Leader",
+   "name": "Maxie",
+   "prize": 3520,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 42,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      }
+     ]
+    },
+    {
+     "dex": 169,
+     "name": "Crobat",
+     "level": 43,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      },
+      {
+       "name": "Mean Look",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 44,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Rock Slide",
+       "type": "Rock",
+       "power": 75
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    }
+   ],
+   "note": "Multi battle: Steven fights alongside you.",
+   "id": "maxie-mossdeep",
+   "area": "Space Center 2F"
+  },
+  {
+   "class": "Magma Admin",
+   "name": "Tabitha",
+   "prize": 1600,
+   "party": [
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 36,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Rock Slide",
+       "type": "Rock",
+       "power": 75
+      }
+     ]
+    },
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 38,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 42,
+     "name": "Golbat",
+     "level": 40,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      }
+     ]
+    }
+   ],
+   "note": "Multi battle: Steven fights alongside you.",
+   "id": "tabitha-mossdeep",
+   "area": "Space Center 2F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

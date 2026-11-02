@@ -1,0 +1,785 @@
+{
+ "id": "meteor-falls",
+ "name": "Meteor Falls",
+ "encounters": [
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "14-20",
+   "rate": "80%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "grass",
+   "levels": "14-18",
+   "rate": "20%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "90%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "10%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "1F 1R"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-40",
+   "rate": "65%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "grass",
+   "levels": "33-39",
+   "rate": "35%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "90%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "10%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 340,
+   "name": "Whiscash",
+   "method": "super-rod",
+   "levels": "30-45",
+   "rate": "20%",
+   "area": "1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-40",
+   "rate": "65%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "grass",
+   "levels": "33-39",
+   "rate": "35%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "90%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "10%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 340,
+   "name": "Whiscash",
+   "method": "super-rod",
+   "levels": "30-45",
+   "rate": "20%",
+   "area": "B1F 1R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-40",
+   "rate": "50%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "grass",
+   "levels": "35-39",
+   "rate": "25%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 371,
+   "name": "Bagon",
+   "method": "grass",
+   "levels": "25-35",
+   "rate": "25%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "90%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "10%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 340,
+   "name": "Whiscash",
+   "method": "super-rod",
+   "levels": "30-45",
+   "rate": "20%",
+   "area": "B1F 2R",
+   "after": "ever-grande-city",
+   "notes": "Needs Waterfall."
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-40",
+   "rate": "65%",
+   "area": "Stevens Cave"
+  },
+  {
+   "dex": 338,
+   "name": "Solrock",
+   "method": "grass",
+   "levels": "33-39",
+   "rate": "35%",
+   "area": "Stevens Cave"
+  }
+ ],
+ "items": [
+  {
+   "id": "1f-1r-tm23",
+   "name": "TM23",
+   "hidden": false,
+   "where": "1F 1R"
+  },
+  {
+   "id": "1f-1r-moon-stone",
+   "name": "Moon Stone",
+   "hidden": false,
+   "where": "1F 1R"
+  },
+  {
+   "id": "1f-1r-full-heal",
+   "name": "Full Heal",
+   "hidden": false,
+   "where": "1F 1R"
+  },
+  {
+   "id": "1f-1r-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "1F 1R"
+  },
+  {
+   "id": "b1f-2r-tm02",
+   "name": "TM02",
+   "hidden": false,
+   "where": "B1F 2R"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Old Couple",
+   "name": "John & Jay",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 308,
+     "name": "Medicham",
+     "level": 39,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Fire Punch",
+       "type": "Fire",
+       "power": 75
+      },
+      {
+       "name": "Psych Up",
+       "type": "Normal"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 297,
+     "name": "Hariyama",
+     "level": 39,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Focus Punch",
+       "type": "Fighting",
+       "power": 150
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Rest",
+       "type": "Psychic"
+      },
+      {
+       "name": "Belly Drum",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "john-and-jay",
+   "area": "1F 2R",
+   "stage": "lilycove-city",
+   "later": true
+  },
+  {
+   "class": "Dragon Tamer",
+   "name": "Nicolas",
+   "prize": 1776,
+   "party": [
+    {
+     "dex": 334,
+     "name": "Altaria",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Dragonbreath",
+       "type": "Dragon",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 334,
+     "name": "Altaria",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Dragonbreath",
+       "type": "Dragon",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "nicolas",
+   "area": "1F 2R",
+   "stage": "fortree-city",
+   "later": true
+  },
+  {
+   "class": "Pokémon Trainer",
+   "name": "Steven",
+   "prize": 4680,
+   "party": [
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 77,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Spikes",
+       "type": "Ground"
+      },
+      {
+       "name": "Steel Wing",
+       "type": "Steel",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 344,
+     "name": "Claydol",
+     "level": 75,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    },
+    {
+     "dex": 306,
+     "name": "Aggron",
+     "level": 76,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Thunder",
+       "type": "Electric",
+       "power": 120
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      },
+      {
+       "name": "Solarbeam",
+       "type": "Grass",
+       "power": 120
+      },
+      {
+       "name": "Dragon Claw",
+       "type": "Dragon",
+       "power": 80
+      }
+     ]
+    },
+    {
+     "dex": 346,
+     "name": "Cradily",
+     "level": 76,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Giga Drain",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      },
+      {
+       "name": "Ingrain",
+       "type": "Grass"
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    },
+    {
+     "dex": 348,
+     "name": "Armaldo",
+     "level": 76,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 376,
+     "name": "Metagross",
+     "level": 78,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Meteor Mash",
+       "type": "Steel",
+       "power": 100
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "uses": [
+    "Full Restore ×4"
+   ],
+   "id": "steven",
+   "area": "Stevens Cave",
+   "stage": "pokemon-league",
+   "later": true
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

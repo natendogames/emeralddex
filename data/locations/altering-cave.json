@@ -1,0 +1,20 @@
+{
+ "id": "altering-cave",
+ "name": "Altering Cave",
+ "encounters": [
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "6-16",
+   "rate": "100%"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

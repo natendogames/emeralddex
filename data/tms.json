@@ -1,0 +1,725 @@
+{
+ "HM01": {
+  "move": "Cut",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "rustboro-city",
+    "how": "gift",
+    "where": "Cutter's House",
+    "from": "Cutter"
+   }
+  ]
+ },
+ "HM02": {
+  "move": "Fly",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "route-119",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Your rival (after battling)"
+   }
+  ]
+ },
+ "HM03": {
+  "move": "Surf",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "petalburg-city",
+    "how": "gift",
+    "where": "Wally's House",
+    "from": "Wally's father (after you beat Norman)"
+   }
+  ]
+ },
+ "HM04": {
+  "move": "Strength",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "rusturf-tunnel",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Wanda's boyfriend (once the tunnel is open)"
+   }
+  ]
+ },
+ "HM05": {
+  "move": "Flash",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "granite-cave",
+    "how": "gift",
+    "where": "1F",
+    "from": "Hiker"
+   }
+  ]
+ },
+ "HM06": {
+  "move": "Rock Smash",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "gift",
+    "where": "House 1",
+    "from": "Rock Smash Guy"
+   }
+  ]
+ },
+ "HM07": {
+  "move": "Waterfall",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "sootopolis-city",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Wallace"
+   }
+  ]
+ },
+ "HM08": {
+  "move": "Dive",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mossdeep-city",
+    "how": "gift",
+    "where": "Steven's House",
+    "from": "Steven"
+   }
+  ]
+ },
+ "TM01": {
+  "move": "Focus Punch",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-115",
+    "how": "found",
+    "where": "Outside"
+   }
+  ]
+ },
+ "TM02": {
+  "move": "Dragon Claw",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "meteor-falls",
+    "how": "found",
+    "where": "B1F 2R"
+   }
+  ]
+ },
+ "TM03": {
+  "move": "Water Pulse",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "sootopolis-city",
+    "how": "gift",
+    "where": "Gym 1F",
+    "from": "Juan (after winning)"
+   }
+  ]
+ },
+ "TM04": {
+  "move": "Calm Mind",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "mossdeep-city",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Tate and Liza (after winning)"
+   }
+  ]
+ },
+ "TM05": {
+  "move": "Roar",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-114",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Gentleman"
+   }
+  ]
+ },
+ "TM06": {
+  "move": "Toxic",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "fiery-path",
+    "how": "found",
+    "where": "Outside"
+   }
+  ]
+ },
+ "TM07": {
+  "move": "Hail",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "shoal-cave",
+    "how": "found",
+    "where": "Low Tide Ice Room"
+   }
+  ]
+ },
+ "TM08": {
+  "move": "Bulk Up",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "dewford-town",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Brawly (after winning)"
+   }
+  ]
+ },
+ "TM09": {
+  "move": "Bullet Seed",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-104",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Boy 2"
+   }
+  ]
+ },
+ "TM10": {
+  "move": "Hidden Power",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "slateport-city",
+    "how": "buy",
+    "where": "Market: TM stall",
+    "cost": "₽3,000"
+   },
+   {
+    "loc": "fortree-city",
+    "how": "gift",
+    "where": "House 2",
+    "from": "Old woman (guess the coin)"
+   }
+  ]
+ },
+ "TM11": {
+  "move": "Sunny Day",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "scorched-slab",
+    "how": "found",
+    "where": "Outside"
+   }
+  ]
+ },
+ "TM12": {
+  "move": "Taunt",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-110",
+    "how": "gift",
+    "where": "Trick House End",
+    "from": "Completed Puzzle 5"
+   },
+   {
+    "loc": "route-110",
+    "how": "gift",
+    "where": "Trick House Entrance",
+    "from": "Gift"
+   }
+  ]
+ },
+ "TM13": {
+  "move": "Ice Beam",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "prize",
+    "where": "Game Corner prize counter",
+    "cost": "4,000 coins"
+   },
+   {
+    "loc": "abandoned-ship",
+    "how": "found",
+    "where": "Room B1F"
+   }
+  ]
+ },
+ "TM14": {
+  "move": "Blizzard",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽5,500"
+   }
+  ]
+ },
+ "TM15": {
+  "move": "Hyper Beam",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽7,500"
+   }
+  ]
+ },
+ "TM16": {
+  "move": "Light Screen",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽3,000"
+   }
+  ]
+ },
+ "TM17": {
+  "move": "Protect",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽3,000"
+   }
+  ]
+ },
+ "TM18": {
+  "move": "Rain Dance",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "abandoned-ship",
+    "how": "found",
+    "where": "Hidden Floor Rooms"
+   }
+  ]
+ },
+ "TM19": {
+  "move": "Giga Drain",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-123",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Girl (if your lead knows a Grass move)"
+   }
+  ]
+ },
+ "TM20": {
+  "move": "Safeguard",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽3,000"
+   }
+  ]
+ },
+ "TM21": {
+  "move": "Frustration",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "pacifidlog-town",
+    "how": "gift",
+    "where": "House 2",
+    "from": "Woman (if your lead Pokémon is unfriendly)"
+   }
+  ]
+ },
+ "TM22": {
+  "move": "Solarbeam",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "safari-zone",
+    "how": "found",
+    "where": "Northwest"
+   }
+  ]
+ },
+ "TM23": {
+  "move": "Iron Tail",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "meteor-falls",
+    "how": "found",
+    "where": "1F 1R"
+   }
+  ]
+ },
+ "TM24": {
+  "move": "Thunderbolt",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Wattson (after you fix New Mauville)"
+   },
+   {
+    "loc": "mauville-city",
+    "how": "prize",
+    "where": "Game Corner prize counter",
+    "cost": "4,000 coins"
+   }
+  ]
+ },
+ "TM25": {
+  "move": "Thunder",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽5,500"
+   }
+  ]
+ },
+ "TM26": {
+  "move": "Earthquake",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "seafloor-cavern",
+    "how": "found",
+    "where": "Room 9"
+   }
+  ]
+ },
+ "TM27": {
+  "move": "Return",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "fallarbor-town",
+    "how": "gift",
+    "where": "Cozmo's House",
+    "from": "Professor Cozmo (return the Meteorite)"
+   },
+   {
+    "loc": "pacifidlog-town",
+    "how": "gift",
+    "where": "House 2",
+    "from": "Woman (if your lead Pokémon is friendly)"
+   }
+  ]
+ },
+ "TM28": {
+  "move": "Dig",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-114",
+    "how": "gift",
+    "where": "Fossil Maniac's House",
+    "from": "Fossil Maniac's brother"
+   }
+  ]
+ },
+ "TM29": {
+  "move": "Psychic",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "prize",
+    "where": "Game Corner prize counter",
+    "cost": "3,500 coins"
+   },
+   {
+    "loc": "victory-road",
+    "how": "found",
+    "where": "B1F"
+   }
+  ]
+ },
+ "TM30": {
+  "move": "Shadow Ball",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "mt-pyre",
+    "how": "found",
+    "where": "6F"
+   }
+  ]
+ },
+ "TM31": {
+  "move": "Brick Break",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "sootopolis-city",
+    "how": "gift",
+    "where": "House 1",
+    "from": "Black Belt"
+   }
+  ]
+ },
+ "TM32": {
+  "move": "Double Team",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "prize",
+    "where": "Game Corner prize counter",
+    "cost": "1,500 coins"
+   },
+   {
+    "loc": "route-113",
+    "how": "found",
+    "where": "Outside"
+   }
+  ]
+ },
+ "TM33": {
+  "move": "Reflect",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽3,000"
+   }
+  ]
+ },
+ "TM34": {
+  "move": "Shock Wave",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Wattson (after winning)"
+   }
+  ]
+ },
+ "TM35": {
+  "move": "Flamethrower",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "mauville-city",
+    "how": "prize",
+    "where": "Game Corner prize counter",
+    "cost": "4,000 coins"
+   }
+  ]
+ },
+ "TM36": {
+  "move": "Sludge Bomb",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "dewford-town",
+    "how": "gift",
+    "where": "Hall",
+    "from": "Man"
+   }
+  ]
+ },
+ "TM37": {
+  "move": "Sandstorm",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "route-111",
+    "how": "found",
+    "where": "Outside"
+   }
+  ]
+ },
+ "TM38": {
+  "move": "Fire Blast",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "buy",
+    "where": "Department Store 4F (TMs)",
+    "cost": "₽5,500"
+   }
+  ]
+ },
+ "TM39": {
+  "move": "Rock Tomb",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "rustboro-city",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Roxanne (after winning)"
+   }
+  ]
+ },
+ "TM40": {
+  "move": "Aerial Ace",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "fortree-city",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Winona (after winning)"
+   }
+  ]
+ },
+ "TM41": {
+  "move": "Torment",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "slateport-city",
+    "how": "gift",
+    "where": "Battle Tent Lobby",
+    "from": "Man"
+   }
+  ]
+ },
+ "TM42": {
+  "move": "Facade",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "petalburg-city",
+    "how": "gift",
+    "where": "Gym",
+    "from": "Norman (after winning)"
+   }
+  ]
+ },
+ "TM43": {
+  "move": "Secret Power",
+  "reusable": true,
+  "sources": [
+   {
+    "loc": "slateport-city",
+    "how": "buy",
+    "where": "Market: TM stall",
+    "cost": "₽3,000"
+   }
+  ]
+ },
+ "TM44": {
+  "move": "Rest",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "lilycove-city",
+    "how": "gift",
+    "where": "House 2",
+    "from": "Fat Man"
+   }
+  ]
+ },
+ "TM45": {
+  "move": "Attract",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "verdanturf-town",
+    "how": "gift",
+    "where": "Battle Tent Lobby",
+    "from": "Woman"
+   }
+  ]
+ },
+ "TM46": {
+  "move": "Thief",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "slateport-city",
+    "how": "gift",
+    "where": "Oceanic Museum 1F",
+    "from": "Aqua Grunt (after you beat him)"
+   }
+  ]
+ },
+ "TM47": {
+  "move": "Steel Wing",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "granite-cave",
+    "how": "gift",
+    "where": "Steven's Room",
+    "from": "Steven"
+   }
+  ]
+ },
+ "TM48": {
+  "move": "Skill Swap",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "mt-pyre",
+    "how": "found",
+    "where": "Exterior"
+   }
+  ]
+ },
+ "TM49": {
+  "move": "Snatch",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "ss-tidal",
+    "how": "gift",
+    "where": "Outside",
+    "from": "Man in the cabin"
+   }
+  ]
+ },
+ "TM50": {
+  "move": "Overheat",
+  "reusable": false,
+  "sources": [
+   {
+    "loc": "lavaridge-town",
+    "how": "gift",
+    "where": "Gym 1F",
+    "from": "Flannery (after winning)"
+   }
+  ]
+ }
+}

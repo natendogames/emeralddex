@@ -1,0 +1,47 @@
+{
+ "id": "battle-frontier",
+ "name": "Battle Frontier",
+ "encounters": [
+  {
+   "dex": 52,
+   "name": "Meowth",
+   "method": "trade",
+   "area": "Lounge 6",
+   "notes": "Trade: give Skitty, get Meowth (\"Meowow\") · Trader"
+  },
+  {
+   "dex": 185,
+   "name": "Sudowoodo",
+   "method": "static",
+   "levels": "40",
+   "area": "Outside East",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "trade-lounge-6-trade-give-skitty-get-meowth-meowow",
+   "name": "Trade: give Skitty, get Meowth (\"Meowow\")",
+   "from": "Trader",
+   "where": "Lounge 6"
+  },
+  {
+   "id": "item-scott-s-house-lansat-berry",
+   "name": "Lansat Berry",
+   "from": "Battle Frontier (all silver symbols)",
+   "where": "Scott's House"
+  },
+  {
+   "id": "item-scott-s-house-starf-berry",
+   "name": "Starf Berry",
+   "from": "Battle Frontier (all gold symbols)",
+   "where": "Scott's House"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

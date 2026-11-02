@@ -1,0 +1,514 @@
+{
+ "id": "mauville-city",
+ "name": "Mauville City",
+ "encounters": [],
+ "items": [
+  {
+   "id": "outside-x-speed",
+   "name": "X Speed",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-basement-key",
+   "name": "Basement Key",
+   "from": "Wattson",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-tm24",
+   "name": "TM24",
+   "from": "Wattson (after you fix New Mauville)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-bike-shop-mach-bike",
+   "name": "Mach Bike",
+   "from": "Rydel (pick the Mach Bike; swap any time)",
+   "where": "Bike Shop"
+  },
+  {
+   "id": "item-bike-shop-acro-bike",
+   "name": "Acro Bike",
+   "from": "Rydel (pick the Acro Bike; swap any time)",
+   "where": "Bike Shop"
+  },
+  {
+   "id": "item-gym-tm34",
+   "name": "TM34",
+   "from": "Wattson (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "item-house-1-hm06",
+   "name": "HM06",
+   "from": "Rock Smash Guy",
+   "where": "House 1"
+  },
+  {
+   "id": "item-house-2-coin-case",
+   "name": "Coin Case",
+   "from": "Trader (Harbor Mail for the Coin Case)",
+   "where": "House 2"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Pokémon Trainer",
+   "name": "Wally",
+   "prize": 960,
+   "party": [
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 16,
+     "iv": 3,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "wally-mauville",
+   "area": "Outside"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Vivian",
+   "prize": 408,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Thunderpunch",
+       "type": "Electric",
+       "power": 75
+      }
+     ]
+    },
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Thunderpunch",
+       "type": "Electric",
+       "power": 75
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "vivian",
+   "area": "Gym"
+  },
+  {
+   "class": "Guitarist",
+   "name": "Kirk",
+   "prize": 544,
+   "party": [
+    {
+     "dex": 309,
+     "name": "Electrike",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 100,
+     "name": "Voltorb",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Charge",
+       "type": "Electric"
+      },
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "kirk",
+   "area": "Gym"
+  },
+  {
+   "class": "Youngster",
+   "name": "Ben",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 17,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Thunderbolt",
+       "type": "Electric",
+       "power": 95
+      }
+     ]
+    },
+    {
+     "dex": 316,
+     "name": "Gulpin",
+     "level": 17,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Yawn",
+       "type": "Normal"
+      },
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "ben",
+   "area": "Gym"
+  },
+  {
+   "class": "Bug Maniac",
+   "name": "Angelo",
+   "prize": 1020,
+   "party": [
+    {
+     "dex": 314,
+     "name": "Illumise",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 313,
+     "name": "Volbeat",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "id": "angelo",
+   "area": "Gym"
+  },
+  {
+   "class": "Guitarist",
+   "name": "Shawn",
+   "prize": 544,
+   "party": [
+    {
+     "dex": 100,
+     "name": "Voltorb",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Charge",
+       "type": "Electric"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 81,
+     "name": "Magnemite",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Thundershock",
+       "type": "Electric",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "shawn",
+   "area": "Gym"
+  },
+  {
+   "class": "Leader",
+   "name": "Wattson",
+   "prize": 2400,
+   "party": [
+    {
+     "dex": 100,
+     "name": "Voltorb",
+     "level": 20,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 309,
+     "name": "Electrike",
+     "level": 20,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 82,
+     "name": "Magneton",
+     "level": 22,
+     "iv": 26,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 24,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "uses": [
+    "Super Potion ×2"
+   ],
+   "rewards": [
+    "Dynamo Badge",
+    "TM34"
+   ],
+   "id": "wattson",
+   "area": "Gym"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

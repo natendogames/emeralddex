@@ -1,0 +1,713 @@
+{
+ "id": "route-117",
+ "name": "Route 117",
+ "encounters": [
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "13-14",
+   "rate": "40%"
+  },
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "13-14",
+   "rate": "30%"
+  },
+  {
+   "dex": 314,
+   "name": "Illumise",
+   "method": "grass",
+   "levels": "13-14",
+   "rate": "18%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "grass",
+   "levels": "13",
+   "rate": "10%"
+  },
+  {
+   "dex": 273,
+   "name": "Seedot",
+   "method": "grass",
+   "levels": "13",
+   "rate": "1%"
+  },
+  {
+   "dex": 313,
+   "name": "Volbeat",
+   "method": "grass",
+   "levels": "13",
+   "rate": "1%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "surf",
+   "levels": "20-30",
+   "rate": "1%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-great-ball",
+   "name": "Great Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-revive",
+   "name": "Revive",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-repel",
+   "name": "Repel",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Sr. and Jr.",
+   "name": "Anna & Meg",
+   "prize": 544,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "anna-and-meg"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Dylan",
+   "prize": 680,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "dylan"
+  },
+  {
+   "class": "Pokémon Breeder",
+   "name": "Isaac",
+   "prize": 440,
+   "party": [
+    {
+     "dex": 293,
+     "name": "Whismur",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 304,
+     "name": "Aron",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      }
+     ]
+    },
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "isaac"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Maria",
+   "prize": 680,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "maria"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Aisha",
+   "prize": 408,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      }
+     ]
+    }
+   ],
+   "id": "aisha"
+  },
+  {
+   "class": "Bug Maniac",
+   "name": "Derek",
+   "prize": 960,
+   "party": [
+    {
+     "dex": 269,
+     "name": "Dustox",
+     "level": 16,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Gust",
+       "type": "Flying",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 267,
+     "name": "Beautifly",
+     "level": 16,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Gust",
+       "type": "Flying",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "derek"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Melina",
+   "prize": 680,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "melina"
+  },
+  {
+   "class": "Psychic",
+   "name": "Brandi",
+   "prize": 408,
+   "party": [
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "brandi"
+  },
+  {
+   "class": "Pokémon Breeder",
+   "name": "Lydia",
+   "prize": 440,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "lydia"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

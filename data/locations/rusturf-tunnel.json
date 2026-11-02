@@ -1,0 +1,79 @@
+{
+ "id": "rusturf-tunnel",
+ "name": "Rusturf Tunnel",
+ "encounters": [
+  {
+   "dex": 293,
+   "name": "Whismur",
+   "method": "grass",
+   "levels": "5-8",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-pok-ball",
+   "name": "Poké Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-max-ether",
+   "name": "Max Ether",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-hm04",
+   "name": "HM04",
+   "from": "Wanda's boyfriend (once the tunnel is open)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-devon-goods",
+   "name": "Devon Goods",
+   "from": "Aqua Grunt (after you beat him)",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 220,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      }
+     ]
+    }
+   ],
+   "rewards": [
+    "Devon Goods"
+   ],
+   "id": "grunt-rusturf-tunnel"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

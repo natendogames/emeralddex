@@ -1,0 +1,504 @@
+{
+ "id": "route-116",
+ "name": "Route 116",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "6-8",
+   "rate": "28%"
+  },
+  {
+   "dex": 276,
+   "name": "Taillow",
+   "method": "grass",
+   "levels": "6-8",
+   "rate": "20%"
+  },
+  {
+   "dex": 290,
+   "name": "Nincada",
+   "method": "grass",
+   "levels": "6-7",
+   "rate": "20%"
+  },
+  {
+   "dex": 293,
+   "name": "Whismur",
+   "method": "grass",
+   "levels": "6",
+   "rate": "20%"
+  },
+  {
+   "dex": 63,
+   "name": "Abra",
+   "method": "grass",
+   "levels": "7",
+   "rate": "10%"
+  },
+  {
+   "dex": 300,
+   "name": "Skitty",
+   "method": "grass",
+   "levels": "7-8",
+   "rate": "2%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-ether",
+   "name": "Ether",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-repel",
+   "name": "Repel",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-hp-up",
+   "name": "HP Up",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-x-special",
+   "name": "X Special",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-potion",
+   "name": "Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-super-potion",
+   "name": "Super Potion",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-blackglasses",
+   "name": "BlackGlasses",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-repeat-ball",
+   "name": "Repeat Ball",
+   "from": "Devon researcher",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Youngster",
+   "name": "Joey",
+   "prize": 144,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 9,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "joey"
+  },
+  {
+   "class": "Bug Catcher",
+   "name": "Jose",
+   "prize": 128,
+   "party": [
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 8,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 290,
+     "name": "Nincada",
+     "level": 8,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Leech Life",
+       "type": "Bug",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "jose"
+  },
+  {
+   "class": "School Kid",
+   "name": "Karen",
+   "prize": 180,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 9,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    }
+   ],
+   "id": "karen"
+  },
+  {
+   "class": "Hiker",
+   "name": "Clark",
+   "prize": 320,
+   "party": [
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      }
+     ]
+    }
+   ],
+   "id": "clark"
+  },
+  {
+   "class": "Youngster",
+   "name": "Johnson",
+   "prize": 128,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "johnson"
+  },
+  {
+   "class": "Hiker",
+   "name": "Devan",
+   "prize": 320,
+   "party": [
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      }
+     ]
+    },
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      }
+     ]
+    }
+   ],
+   "id": "devan"
+  },
+  {
+   "class": "Lady",
+   "name": "Sarah",
+   "prize": 1600,
+   "party": [
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "sarah"
+  },
+  {
+   "class": "School Kid",
+   "name": "Jerry",
+   "prize": 180,
+   "party": [
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 9,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "jerry"
+  },
+  {
+   "class": "Lass",
+   "name": "Janice",
+   "prize": 144,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 9,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "janice"
+  },
+  {
+   "class": "Rich Boy",
+   "name": "Dawson",
+   "prize": 1600,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ],
+     "item": "Nugget"
+    },
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 8,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "dawson"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

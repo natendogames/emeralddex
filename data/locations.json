@@ -1,0 +1,526 @@
+{
+ "locations": [
+  {
+   "id": "littleroot-town",
+   "name": "Littleroot Town",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/littleroot-town.json"
+  },
+  {
+   "id": "route-101",
+   "name": "Route 101",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/route-101.json"
+  },
+  {
+   "id": "oldale-town",
+   "name": "Oldale Town",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/oldale-town.json"
+  },
+  {
+   "id": "route-103",
+   "name": "Route 103",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/route-103.json"
+  },
+  {
+   "id": "route-102",
+   "name": "Route 102",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/route-102.json"
+  },
+  {
+   "id": "petalburg-city",
+   "name": "Petalburg City",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/petalburg-city.json"
+  },
+  {
+   "id": "route-104",
+   "name": "Route 104",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/route-104.json"
+  },
+  {
+   "id": "petalburg-woods",
+   "name": "Petalburg Woods",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/petalburg-woods.json"
+  },
+  {
+   "id": "rustboro-city",
+   "name": "Rustboro City",
+   "region": "Hoenn: Badge 1",
+   "file": "locations/rustboro-city.json"
+  },
+  {
+   "id": "route-116",
+   "name": "Route 116",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/route-116.json"
+  },
+  {
+   "id": "rusturf-tunnel",
+   "name": "Rusturf Tunnel",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/rusturf-tunnel.json"
+  },
+  {
+   "id": "dewford-town",
+   "name": "Dewford Town",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/dewford-town.json"
+  },
+  {
+   "id": "granite-cave",
+   "name": "Granite Cave",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/granite-cave.json"
+  },
+  {
+   "id": "route-109",
+   "name": "Route 109",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/route-109.json"
+  },
+  {
+   "id": "slateport-city",
+   "name": "Slateport City",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/slateport-city.json"
+  },
+  {
+   "id": "route-110",
+   "name": "Route 110",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/route-110.json"
+  },
+  {
+   "id": "mauville-city",
+   "name": "Mauville City",
+   "region": "Hoenn: Badges 2–3",
+   "file": "locations/mauville-city.json"
+  },
+  {
+   "id": "route-117",
+   "name": "Route 117",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-117.json"
+  },
+  {
+   "id": "verdanturf-town",
+   "name": "Verdanturf Town",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/verdanturf-town.json"
+  },
+  {
+   "id": "route-111",
+   "name": "Route 111",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-111.json"
+  },
+  {
+   "id": "route-112",
+   "name": "Route 112",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-112.json"
+  },
+  {
+   "id": "fiery-path",
+   "name": "Fiery Path",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/fiery-path.json"
+  },
+  {
+   "id": "route-113",
+   "name": "Route 113",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-113.json"
+  },
+  {
+   "id": "fallarbor-town",
+   "name": "Fallarbor Town",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/fallarbor-town.json"
+  },
+  {
+   "id": "route-114",
+   "name": "Route 114",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-114.json"
+  },
+  {
+   "id": "meteor-falls",
+   "name": "Meteor Falls",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/meteor-falls.json"
+  },
+  {
+   "id": "route-115",
+   "name": "Route 115",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/route-115.json"
+  },
+  {
+   "id": "mt-chimney",
+   "name": "Mt. Chimney",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/mt-chimney.json"
+  },
+  {
+   "id": "jagged-pass",
+   "name": "Jagged Pass",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/jagged-pass.json"
+  },
+  {
+   "id": "lavaridge-town",
+   "name": "Lavaridge Town",
+   "region": "Hoenn: Badge 4",
+   "file": "locations/lavaridge-town.json"
+  },
+  {
+   "id": "mirage-tower",
+   "name": "Mirage Tower",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/mirage-tower.json"
+  },
+  {
+   "id": "route-105",
+   "name": "Route 105",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-105.json"
+  },
+  {
+   "id": "route-106",
+   "name": "Route 106",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-106.json"
+  },
+  {
+   "id": "route-107",
+   "name": "Route 107",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-107.json"
+  },
+  {
+   "id": "route-108",
+   "name": "Route 108",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-108.json"
+  },
+  {
+   "id": "abandoned-ship",
+   "name": "Abandoned Ship",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/abandoned-ship.json"
+  },
+  {
+   "id": "new-mauville",
+   "name": "New Mauville",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/new-mauville.json"
+  },
+  {
+   "id": "route-118",
+   "name": "Route 118",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-118.json"
+  },
+  {
+   "id": "route-119",
+   "name": "Route 119",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-119.json"
+  },
+  {
+   "id": "fortree-city",
+   "name": "Fortree City",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/fortree-city.json"
+  },
+  {
+   "id": "route-120",
+   "name": "Route 120",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/route-120.json"
+  },
+  {
+   "id": "scorched-slab",
+   "name": "Scorched Slab",
+   "region": "Hoenn: Badges 5–6",
+   "file": "locations/scorched-slab.json"
+  },
+  {
+   "id": "route-121",
+   "name": "Route 121",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/route-121.json"
+  },
+  {
+   "id": "safari-zone",
+   "name": "Safari Zone",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/safari-zone.json"
+  },
+  {
+   "id": "lilycove-city",
+   "name": "Lilycove City",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/lilycove-city.json"
+  },
+  {
+   "id": "route-122",
+   "name": "Route 122",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/route-122.json"
+  },
+  {
+   "id": "mt-pyre",
+   "name": "Mt. Pyre",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/mt-pyre.json"
+  },
+  {
+   "id": "route-123",
+   "name": "Route 123",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/route-123.json"
+  },
+  {
+   "id": "magma-hideout",
+   "name": "Magma Hideout",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/magma-hideout.json"
+  },
+  {
+   "id": "aqua-hideout",
+   "name": "Aqua Hideout",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/aqua-hideout.json"
+  },
+  {
+   "id": "route-124",
+   "name": "Route 124",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/route-124.json"
+  },
+  {
+   "id": "mossdeep-city",
+   "name": "Mossdeep City",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/mossdeep-city.json"
+  },
+  {
+   "id": "route-125",
+   "name": "Route 125",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/route-125.json"
+  },
+  {
+   "id": "shoal-cave",
+   "name": "Shoal Cave",
+   "region": "Hoenn: Badge 7",
+   "file": "locations/shoal-cave.json"
+  },
+  {
+   "id": "route-127",
+   "name": "Route 127",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-127.json"
+  },
+  {
+   "id": "route-128",
+   "name": "Route 128",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-128.json"
+  },
+  {
+   "id": "seafloor-cavern",
+   "name": "Seafloor Cavern",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/seafloor-cavern.json"
+  },
+  {
+   "id": "route-126",
+   "name": "Route 126",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-126.json"
+  },
+  {
+   "id": "sootopolis-city",
+   "name": "Sootopolis City",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/sootopolis-city.json"
+  },
+  {
+   "id": "cave-of-origin",
+   "name": "Cave Of Origin",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/cave-of-origin.json"
+  },
+  {
+   "id": "route-129",
+   "name": "Route 129",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-129.json"
+  },
+  {
+   "id": "route-130",
+   "name": "Route 130",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-130.json"
+  },
+  {
+   "id": "route-131",
+   "name": "Route 131",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-131.json"
+  },
+  {
+   "id": "pacifidlog-town",
+   "name": "Pacifidlog Town",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/pacifidlog-town.json"
+  },
+  {
+   "id": "sky-pillar",
+   "name": "Sky Pillar",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/sky-pillar.json"
+  },
+  {
+   "id": "route-132",
+   "name": "Route 132",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-132.json"
+  },
+  {
+   "id": "route-133",
+   "name": "Route 133",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-133.json"
+  },
+  {
+   "id": "route-134",
+   "name": "Route 134",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/route-134.json"
+  },
+  {
+   "id": "ever-grande-city",
+   "name": "Ever Grande City",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/ever-grande-city.json"
+  },
+  {
+   "id": "victory-road",
+   "name": "Victory Road",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/victory-road.json"
+  },
+  {
+   "id": "pokemon-league",
+   "name": "Pokémon League",
+   "region": "Hoenn: Badge 8 & League",
+   "file": "locations/pokemon-league.json"
+  },
+  {
+   "id": "roaming",
+   "name": "Roaming Legendary",
+   "region": "Post-game",
+   "file": "locations/roaming.json"
+  },
+  {
+   "id": "ss-tidal",
+   "name": "S.S. Tidal",
+   "region": "Post-game",
+   "file": "locations/ss-tidal.json"
+  },
+  {
+   "id": "battle-frontier",
+   "name": "Battle Frontier",
+   "region": "Post-game",
+   "file": "locations/battle-frontier.json"
+  },
+  {
+   "id": "artisan-cave",
+   "name": "Artisan Cave",
+   "region": "Post-game",
+   "file": "locations/artisan-cave.json"
+  },
+  {
+   "id": "desert-underpass",
+   "name": "Desert Underpass",
+   "region": "Post-game",
+   "file": "locations/desert-underpass.json"
+  },
+  {
+   "id": "altering-cave",
+   "name": "Altering Cave",
+   "region": "Post-game",
+   "file": "locations/altering-cave.json"
+  },
+  {
+   "id": "sealed-chamber",
+   "name": "Sealed Chamber",
+   "region": "Post-game",
+   "file": "locations/sealed-chamber.json"
+  },
+  {
+   "id": "desert-ruins",
+   "name": "Desert Ruins",
+   "region": "Post-game",
+   "file": "locations/desert-ruins.json"
+  },
+  {
+   "id": "island-cave",
+   "name": "Island Cave",
+   "region": "Post-game",
+   "file": "locations/island-cave.json"
+  },
+  {
+   "id": "ancient-tomb",
+   "name": "Ancient Tomb",
+   "region": "Post-game",
+   "file": "locations/ancient-tomb.json"
+  },
+  {
+   "id": "marine-cave",
+   "name": "Marine Cave",
+   "region": "Post-game",
+   "file": "locations/marine-cave.json"
+  },
+  {
+   "id": "terra-cave",
+   "name": "Terra Cave",
+   "region": "Post-game",
+   "file": "locations/terra-cave.json"
+  },
+  {
+   "id": "southern-island",
+   "name": "Southern Island",
+   "region": "Event islands",
+   "file": "locations/southern-island.json"
+  },
+  {
+   "id": "faraway-island",
+   "name": "Faraway Island",
+   "region": "Event islands",
+   "file": "locations/faraway-island.json"
+  },
+  {
+   "id": "birth-island",
+   "name": "Birth Island",
+   "region": "Event islands",
+   "file": "locations/birth-island.json"
+  },
+  {
+   "id": "navel-rock",
+   "name": "Navel Rock",
+   "region": "Event islands",
+   "file": "locations/navel-rock.json"
+  }
+ ]
+}

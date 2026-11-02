@@ -1,0 +1,20 @@
+{
+ "id": "ancient-tomb",
+ "name": "Ancient Tomb",
+ "encounters": [
+  {
+   "dex": 379,
+   "name": "Registeel",
+   "method": "static",
+   "levels": "40",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

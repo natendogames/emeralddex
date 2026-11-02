@@ -1,0 +1,53 @@
+{
+ "id": "cave-of-origin",
+ "name": "Cave Of Origin",
+ "encounters": [
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "30-34",
+   "rate": "60%",
+   "area": "1F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "30-34",
+   "rate": "30%",
+   "area": "1F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "28-35",
+   "rate": "90%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "33-36",
+   "rate": "10%",
+   "area": "Entrance"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

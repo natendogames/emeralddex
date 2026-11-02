@@ -1,0 +1,26 @@
+{
+ "id": "fallarbor-town",
+ "name": "Fallarbor Town",
+ "encounters": [],
+ "items": [
+  {
+   "id": "hidden-outside-nugget",
+   "name": "Nugget",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-cozmo-s-house-tm27",
+   "name": "TM27",
+   "from": "Professor Cozmo (return the Meteorite)",
+   "where": "Cozmo's House"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

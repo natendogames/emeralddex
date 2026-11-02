@@ -1,0 +1,12 @@
+{
+ "id": "sealed-chamber",
+ "name": "Sealed Chamber",
+ "encounters": [],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

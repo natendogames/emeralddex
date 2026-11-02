@@ -1,0 +1,387 @@
+{
+ "id": "route-112",
+ "name": "Route 112",
+ "encounters": [
+  {
+   "dex": 322,
+   "name": "Numel",
+   "method": "grass",
+   "levels": "14-16",
+   "rate": "75%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "grass",
+   "levels": "14-16",
+   "rate": "25%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-nugget",
+   "name": "Nugget",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Kindler",
+   "name": "Bryant",
+   "prize": 576,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Yawn",
+       "type": "Normal"
+      },
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "bryant"
+  },
+  {
+   "class": "Aroma Lady",
+   "name": "Shayla",
+   "prize": 720,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "shayla"
+  },
+  {
+   "class": "Camper",
+   "name": "Larry",
+   "prize": 288,
+   "party": [
+    {
+     "dex": 274,
+     "name": "Nuzleaf",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "larry"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Carol",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "carol"
+  },
+  {
+   "class": "Hiker",
+   "name": "Trent",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 16,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 16,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "trent"
+  },
+  {
+   "class": "Hiker",
+   "name": "Brice",
+   "prize": 680,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "brice"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

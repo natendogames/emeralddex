@@ -1,0 +1,387 @@
+{
+ "id": "jagged-pass",
+ "name": "Jagged Pass",
+ "encounters": [
+  {
+   "dex": 322,
+   "name": "Numel",
+   "method": "grass",
+   "levels": "20-22",
+   "rate": "55%"
+  },
+  {
+   "dex": 66,
+   "name": "Machop",
+   "method": "grass",
+   "levels": "20-22",
+   "rate": "25%"
+  },
+  {
+   "dex": 325,
+   "name": "Spoink",
+   "method": "grass",
+   "levels": "20-22",
+   "rate": "20%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-burn-heal",
+   "name": "Burn Heal",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-full-heal",
+   "name": "Full Heal",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-great-ball",
+   "name": "Great Ball",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Camper",
+   "name": "Ethan",
+   "prize": 320,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 20,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 20,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "ethan"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Autumn",
+   "prize": 336,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "autumn"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Julio",
+   "prize": 840,
+   "party": [
+    {
+     "dex": 81,
+     "name": "Magnemite",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thundershock",
+       "type": "Electric",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      }
+     ]
+    }
+   ],
+   "id": "julio"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Diana",
+   "prize": 304,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 43,
+     "name": "Oddish",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Poisonpowder",
+       "type": "Poison"
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Sleep Powder",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "diana"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 440,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 22,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 22,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "grunt-jagged-pass"
+  },
+  {
+   "class": "Hiker",
+   "name": "Eric",
+   "prize": 800,
+   "party": [
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 20,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 20,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    }
+   ],
+   "id": "eric"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

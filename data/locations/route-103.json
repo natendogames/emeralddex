@@ -1,0 +1,540 @@
+{
+ "id": "route-103",
+ "name": "Route 103",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "2-4",
+   "rate": "60%"
+  },
+  {
+   "dex": 263,
+   "name": "Zigzagoon",
+   "method": "grass",
+   "levels": "3-4",
+   "rate": "20%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "grass",
+   "levels": "2-4",
+   "rate": "20%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-guard-spec",
+   "name": "Guard Spec.",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Pete",
+   "prize": 120,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      }
+     ]
+    }
+   ],
+   "id": "pete",
+   "stage": "lavaridge-town",
+   "later": true,
+   "need": "surf"
+  },
+  {
+   "class": "Pokéfan",
+   "name": "Miguel",
+   "prize": 1200,
+   "party": [
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Doubleslap",
+       "type": "Normal",
+       "power": 15
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "miguel",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Twins",
+   "name": "Amy & Liv",
+   "prize": 360,
+   "party": [
+    {
+     "dex": 311,
+     "name": "Plusle",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Helping Hand",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 312,
+     "name": "Minun",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Helping Hand",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "amy-and-liv",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Aroma Lady",
+   "name": "Daisy",
+   "prize": 560,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    }
+   ],
+   "id": "daisy",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Guitarist",
+   "name": "Marcos",
+   "prize": 480,
+   "party": [
+    {
+     "dex": 100,
+     "name": "Voltorb",
+     "level": 15,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Charge",
+       "type": "Electric"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "marcos",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Fisherman",
+   "name": "Andrew",
+   "prize": 600,
+   "party": [
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 5,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 10,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    }
+   ],
+   "id": "andrew",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Swimmer",
+   "name": "Isabelle",
+   "prize": 120,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      }
+     ]
+    }
+   ],
+   "id": "isabelle",
+   "stage": "lavaridge-town",
+   "later": true,
+   "need": "surf"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Rhett",
+   "prize": 480,
+   "party": [
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 15,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "rhett",
+   "stage": "route-110",
+   "later": true
+  },
+  {
+   "class": "Rival",
+   "name": "May or Brendan",
+   "prize": 300,
+   "byStarter": {
+    "Treecko": [
+     {
+      "dex": 255,
+      "name": "Torchic",
+      "level": 5,
+      "iv": 0,
+      "moves": [
+       {
+        "name": "Scratch",
+        "type": "Normal",
+        "power": 40
+       },
+       {
+        "name": "Growl",
+        "type": "Normal"
+       }
+      ]
+     }
+    ],
+    "Torchic": [
+     {
+      "dex": 258,
+      "name": "Mudkip",
+      "level": 5,
+      "iv": 0,
+      "moves": [
+       {
+        "name": "Tackle",
+        "type": "Normal",
+        "power": 35
+       },
+       {
+        "name": "Growl",
+        "type": "Normal"
+       }
+      ]
+     }
+    ],
+    "Mudkip": [
+     {
+      "dex": 252,
+      "name": "Treecko",
+      "level": 5,
+      "iv": 0,
+      "moves": [
+       {
+        "name": "Pound",
+        "type": "Normal",
+        "power": 40
+       },
+       {
+        "name": "Leer",
+        "type": "Normal"
+       }
+      ]
+     }
+    ]
+   },
+   "id": "rival-route-103"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

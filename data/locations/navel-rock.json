@@ -1,0 +1,36 @@
+{
+ "id": "navel-rock",
+ "name": "Navel Rock",
+ "encounters": [
+  {
+   "dex": 249,
+   "name": "Lugia",
+   "method": "static",
+   "levels": "70",
+   "area": "Bottom",
+   "notes": "One chance: save first"
+  },
+  {
+   "dex": 250,
+   "name": "Ho-Oh",
+   "method": "static",
+   "levels": "70",
+   "area": "Top",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [
+  {
+   "id": "hidden-top-sacred-ash",
+   "name": "Sacred Ash",
+   "hidden": true,
+   "where": "Top"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

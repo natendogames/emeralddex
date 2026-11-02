@@ -1,0 +1,571 @@
+{
+ "id": "ss-tidal",
+ "name": "S.S. Tidal",
+ "encounters": [],
+ "items": [
+  {
+   "id": "hidden-outside-leftovers",
+   "name": "Leftovers",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-tm49",
+   "name": "TM49",
+   "from": "Man in the cabin",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Rich Boy",
+   "name": "Garret",
+   "prize": 9000,
+   "party": [
+    {
+     "dex": 184,
+     "name": "Azumarill",
+     "level": 45,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      },
+      {
+       "name": "Rain Dance",
+       "type": "Water"
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "garret"
+  },
+  {
+   "class": "Gentleman",
+   "name": "Micah",
+   "prize": 3520,
+   "party": [
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 44,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 44,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "micah"
+  },
+  {
+   "class": "Pokéfan",
+   "name": "Colton",
+   "prize": 3360,
+   "party": [
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 36,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 40,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 12,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 30,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 301,
+     "name": "Delcatty",
+     "level": 42,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Heal Bell",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "colton"
+  },
+  {
+   "class": "Lady",
+   "name": "Naomi",
+   "prize": 9000,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 45,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Giga Drain",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Ingrain",
+       "type": "Grass"
+      },
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "naomi"
+  },
+  {
+   "class": "Gentleman",
+   "name": "Thomas",
+   "prize": 3600,
+   "party": [
+    {
+     "dex": 335,
+     "name": "Zangoose",
+     "level": 45,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Crush Claw",
+       "type": "Normal",
+       "power": 75
+      },
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      }
+     ]
+    }
+   ],
+   "id": "thomas"
+  },
+  {
+   "class": "Young Couple",
+   "name": "Lea & Jed",
+   "prize": 2880,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 45,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sweet Kiss",
+       "type": "Normal"
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 45,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sweet Kiss",
+       "type": "Normal"
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "lea-and-jed"
+  },
+  {
+   "class": "Sailor",
+   "name": "Phillip",
+   "prize": 1408,
+   "party": [
+    {
+     "dex": 73,
+     "name": "Tentacruel",
+     "level": 44,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Wrap",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Barrier",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 67,
+     "name": "Machoke",
+     "level": 44,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      },
+      {
+       "name": "Revenge",
+       "type": "Fighting",
+       "power": 60
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Submission",
+       "type": "Fighting",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "phillip"
+  },
+  {
+   "class": "Sailor",
+   "name": "Leonard",
+   "prize": 1376,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Submission",
+       "type": "Fighting",
+       "power": 80
+      },
+      {
+       "name": "Cross Chop",
+       "type": "Fighting",
+       "power": 100
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Stockpile",
+       "type": "Normal"
+      },
+      {
+       "name": "Swallow",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 67,
+     "name": "Machoke",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      },
+      {
+       "name": "Revenge",
+       "type": "Fighting",
+       "power": 60
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Submission",
+       "type": "Fighting",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "leonard"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

@@ -1,0 +1,588 @@
+{
+ "id": "route-126",
+ "name": "Route 126",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%",
+   "area": "Outside"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%",
+   "area": "Outside"
+  },
+  {
+   "dex": 366,
+   "name": "Clamperl",
+   "method": "dive",
+   "levels": "20-35",
+   "rate": "65%",
+   "area": "Underwater"
+  },
+  {
+   "dex": 170,
+   "name": "Chinchou",
+   "method": "dive",
+   "levels": "20-30",
+   "rate": "30%",
+   "area": "Underwater"
+  },
+  {
+   "dex": 369,
+   "name": "Relicanth",
+   "method": "dive",
+   "levels": "30-35",
+   "rate": "5%",
+   "area": "Underwater"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-green-shard",
+   "name": "Green Shard",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-underwater-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-ultra-ball",
+   "name": "Ultra Ball",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-stardust",
+   "name": "Stardust",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-pearl",
+   "name": "Pearl",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-iron",
+   "name": "Iron",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-yellow-shard",
+   "name": "Yellow Shard",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-big-pearl",
+   "name": "Big Pearl",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-blue-shard",
+   "name": "Blue Shard",
+   "hidden": true,
+   "where": "Underwater"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Leonardo",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "leonardo",
+   "area": "Outside"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Isobel",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "isobel",
+   "area": "Outside"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Dean",
+   "prize": 248,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "dean",
+   "area": "Outside"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Nikki",
+   "prize": 264,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      }
+     ]
+    },
+    {
+     "dex": 363,
+     "name": "Spheal",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ice Ball",
+       "type": "Ice",
+       "power": 30
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Aurora Beam",
+       "type": "Ice",
+       "power": 65
+      },
+      {
+       "name": "Hail",
+       "type": "Ice"
+      }
+     ]
+    }
+   ],
+   "id": "nikki",
+   "area": "Outside"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Brenda",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "brenda",
+   "area": "Outside"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Barry",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thrash",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Dragon Rage",
+       "type": "Dragon",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "barry",
+   "area": "Outside"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Pablo",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "pablo",
+   "area": "Outside"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Sienna",
+   "prize": 264,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "sienna",
+   "area": "Outside"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

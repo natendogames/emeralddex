@@ -1,0 +1,271 @@
+{
+ "id": "route-102",
+ "name": "Route 102",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "3-4",
+   "rate": "30%"
+  },
+  {
+   "dex": 265,
+   "name": "Wurmple",
+   "method": "grass",
+   "levels": "3-4",
+   "rate": "30%"
+  },
+  {
+   "dex": 270,
+   "name": "Lotad",
+   "method": "grass",
+   "levels": "3-4",
+   "rate": "20%"
+  },
+  {
+   "dex": 263,
+   "name": "Zigzagoon",
+   "method": "grass",
+   "levels": "3-4",
+   "rate": "15%"
+  },
+  {
+   "dex": 280,
+   "name": "Ralts",
+   "method": "grass",
+   "levels": "4",
+   "rate": "4%"
+  },
+  {
+   "dex": 273,
+   "name": "Seedot",
+   "method": "grass",
+   "levels": "3",
+   "rate": "1%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "surf",
+   "levels": "20-30",
+   "rate": "1%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-potion",
+   "name": "Potion",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Youngster",
+   "name": "Calvin",
+   "prize": 80,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 5,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "calvin"
+  },
+  {
+   "class": "Bug Catcher",
+   "name": "Rick",
+   "prize": 64,
+   "party": [
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 4,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    },
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 4,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    }
+   ],
+   "id": "rick"
+  },
+  {
+   "class": "Youngster",
+   "name": "Allen",
+   "prize": 48,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 4,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 3,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "allen"
+  },
+  {
+   "class": "Lass",
+   "name": "Tiana",
+   "prize": 64,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 4,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 4,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    }
+   ],
+   "id": "tiana"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

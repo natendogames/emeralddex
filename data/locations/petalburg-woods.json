@@ -1,0 +1,285 @@
+{
+ "id": "petalburg-woods",
+ "name": "Petalburg Woods",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "5-6",
+   "rate": "30%"
+  },
+  {
+   "dex": 265,
+   "name": "Wurmple",
+   "method": "grass",
+   "levels": "5-6",
+   "rate": "25%"
+  },
+  {
+   "dex": 285,
+   "name": "Shroomish",
+   "method": "grass",
+   "levels": "5-6",
+   "rate": "15%"
+  },
+  {
+   "dex": 266,
+   "name": "Silcoon",
+   "method": "grass",
+   "levels": "5",
+   "rate": "10%"
+  },
+  {
+   "dex": 268,
+   "name": "Cascoon",
+   "method": "grass",
+   "levels": "5",
+   "rate": "10%"
+  },
+  {
+   "dex": 276,
+   "name": "Taillow",
+   "method": "grass",
+   "levels": "5-6",
+   "rate": "5%"
+  },
+  {
+   "dex": 287,
+   "name": "Slakoth",
+   "method": "grass",
+   "levels": "5-6",
+   "rate": "5%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-great-ball",
+   "name": "Great Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-x-attack",
+   "name": "X Attack",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-ether",
+   "name": "Ether",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-parlyz-heal",
+   "name": "Parlyz Heal",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-potion",
+   "name": "Potion",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-tinymushroom",
+   "name": "Tinymushroom",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-tinymushroom-2",
+   "name": "Tinymushroom",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-pok-ball",
+   "name": "Poké Ball",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-great-ball",
+   "name": "Great Ball",
+   "from": "Devon researcher (after you beat the Aqua Grunt)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-miracle-seed",
+   "name": "Miracle Seed",
+   "from": "Girl",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Bug Catcher",
+   "name": "Lyle",
+   "prize": 48,
+   "party": [
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 3,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    },
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 3,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    },
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 3,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    },
+    {
+     "dex": 265,
+     "name": "Wurmple",
+     "level": 3,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "String Shot",
+       "type": "Bug"
+      }
+     ]
+    }
+   ],
+   "id": "lyle"
+  },
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 180,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 9,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      }
+     ]
+    }
+   ],
+   "rewards": [
+    "Great Ball"
+   ],
+   "id": "grunt-petalburg-woods"
+  },
+  {
+   "class": "Bug Catcher",
+   "name": "James",
+   "prize": 96,
+   "party": [
+    {
+     "dex": 290,
+     "name": "Nincada",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Leech Life",
+       "type": "Bug",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 290,
+     "name": "Nincada",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Leech Life",
+       "type": "Bug",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "james"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

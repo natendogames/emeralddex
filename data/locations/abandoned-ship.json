@@ -1,0 +1,597 @@
+{
+ "id": "abandoned-ship",
+ "name": "Abandoned Ship",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 73,
+   "name": "Tentacruel",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "1%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "40%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 73,
+   "name": "Tentacruel",
+   "method": "super-rod",
+   "levels": "20-35",
+   "rate": "20%",
+   "area": "Hidden Floor Corridors",
+   "after": "seafloor-cavern",
+   "notes": "Below deck: needs Dive."
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 73,
+   "name": "Tentacruel",
+   "method": "surf",
+   "levels": "30-35",
+   "rate": "1%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "40%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "Rooms B1F"
+  },
+  {
+   "dex": 73,
+   "name": "Tentacruel",
+   "method": "super-rod",
+   "levels": "20-35",
+   "rate": "20%",
+   "area": "Rooms B1F"
+  }
+ ],
+ "items": [
+  {
+   "id": "captain-s-office-storage-key",
+   "name": "Storage Key",
+   "hidden": false,
+   "where": "Captain's Office"
+  },
+  {
+   "id": "hidden-floor-rooms-luxury-ball",
+   "name": "Luxury Ball",
+   "hidden": false,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-floor-rooms-scanner",
+   "name": "Scanner",
+   "hidden": false,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-floor-rooms-tm18",
+   "name": "TM18",
+   "hidden": false,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-floor-rooms-water-stone",
+   "name": "Water Stone",
+   "hidden": false,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-hidden-floor-rooms-rm-1-key",
+   "name": "Rm. 1 Key",
+   "hidden": true,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-hidden-floor-rooms-rm-2-key",
+   "name": "Rm. 2 Key",
+   "hidden": true,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-hidden-floor-rooms-rm-4-key",
+   "name": "Rm. 4 Key",
+   "hidden": true,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "hidden-hidden-floor-rooms-rm-6-key",
+   "name": "Rm. 6 Key",
+   "hidden": true,
+   "where": "Hidden Floor Rooms"
+  },
+  {
+   "id": "room-b1f-tm13",
+   "name": "TM13",
+   "hidden": false,
+   "where": "Room B1F"
+  },
+  {
+   "id": "rooms-2-1f-revive",
+   "name": "Revive",
+   "hidden": false,
+   "where": "Rooms 2 1F"
+  },
+  {
+   "id": "rooms-2-b1f-dive-ball",
+   "name": "Dive Ball",
+   "hidden": false,
+   "where": "Rooms 2 B1F"
+  },
+  {
+   "id": "rooms-1f-harbor-mail",
+   "name": "Harbor Mail",
+   "hidden": false,
+   "where": "Rooms 1F"
+  },
+  {
+   "id": "rooms-b1f-escape-rope",
+   "name": "Escape Rope",
+   "hidden": false,
+   "where": "Rooms B1F"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Tuber",
+   "name": "Charlie",
+   "prize": 104,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "charlie",
+   "area": "Corridors 1F"
+  },
+  {
+   "class": "Sailor",
+   "name": "Duncan",
+   "prize": 800,
+   "party": [
+    {
+     "dex": 363,
+     "name": "Spheal",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Encore",
+       "type": "Normal"
+      },
+      {
+       "name": "Ice Ball",
+       "type": "Ice",
+       "power": 30
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Aurora Beam",
+       "type": "Ice",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 67,
+     "name": "Machoke",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      },
+      {
+       "name": "Revenge",
+       "type": "Fighting",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "duncan",
+   "area": "Corridors B1F"
+  },
+  {
+   "class": "Beauty",
+   "name": "Thalia",
+   "prize": 2000,
+   "party": [
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 116,
+     "name": "Horsea",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bubble",
+       "type": "Water",
+       "power": 20
+      },
+      {
+       "name": "Smokescreen",
+       "type": "Normal"
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "thalia",
+   "area": "Rooms 1F"
+  },
+  {
+   "class": "Youngster",
+   "name": "Demetrius",
+   "prize": 400,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Pin Missile",
+       "type": "Bug",
+       "power": 14
+      }
+     ]
+    },
+    {
+     "dex": 309,
+     "name": "Electrike",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "demetrius",
+   "area": "Rooms 1F"
+  },
+  {
+   "class": "Young Couple",
+   "name": "Kira & Dan",
+   "prize": 1600,
+   "party": [
+    {
+     "dex": 313,
+     "name": "Volbeat",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Moonlight",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Tail Glow",
+       "type": "Bug"
+      },
+      {
+       "name": "Signal Beam",
+       "type": "Bug",
+       "power": 75
+      }
+     ]
+    },
+    {
+     "dex": 314,
+     "name": "Illumise",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Moonlight",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wish",
+       "type": "Normal"
+      },
+      {
+       "name": "Encore",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "kira-and-dan",
+   "area": "Rooms 2 1F"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Garrison",
+   "prize": 1560,
+   "party": [
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "garrison",
+   "area": "Rooms 2 1F"
+  },
+  {
+   "class": "Tuber",
+   "name": "Jani",
+   "prize": 104,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "jani",
+   "area": "Rooms 2 1F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

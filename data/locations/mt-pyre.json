@@ -1,0 +1,888 @@
+{
+ "id": "mt-pyre",
+ "name": "Mt. Pyre",
+ "encounters": [
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "100%",
+   "area": "1F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "100%",
+   "area": "2F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "100%",
+   "area": "3F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "90%",
+   "area": "4F"
+  },
+  {
+   "dex": 355,
+   "name": "Duskull",
+   "method": "grass",
+   "levels": "25-29",
+   "rate": "10%",
+   "area": "4F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "90%",
+   "area": "5F"
+  },
+  {
+   "dex": 355,
+   "name": "Duskull",
+   "method": "grass",
+   "levels": "25-29",
+   "rate": "10%",
+   "area": "5F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "22-29",
+   "rate": "90%",
+   "area": "6F"
+  },
+  {
+   "dex": 355,
+   "name": "Duskull",
+   "method": "grass",
+   "levels": "25-29",
+   "rate": "10%",
+   "area": "6F"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "60%",
+   "area": "Exterior"
+  },
+  {
+   "dex": 37,
+   "name": "Vulpix",
+   "method": "grass",
+   "levels": "25-29",
+   "rate": "30%",
+   "area": "Exterior"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "grass",
+   "levels": "26-28",
+   "rate": "10%",
+   "area": "Exterior"
+  },
+  {
+   "dex": 353,
+   "name": "Shuppet",
+   "method": "grass",
+   "levels": "24-30",
+   "rate": "85%",
+   "area": "Summit"
+  },
+  {
+   "dex": 355,
+   "name": "Duskull",
+   "method": "grass",
+   "levels": "26-30",
+   "rate": "13%",
+   "area": "Summit"
+  },
+  {
+   "dex": 358,
+   "name": "Chimecho",
+   "method": "grass",
+   "levels": "28",
+   "rate": "2%",
+   "area": "Summit"
+  }
+ ],
+ "items": [
+  {
+   "id": "2f-ultra-ball",
+   "name": "Ultra Ball",
+   "hidden": false,
+   "where": "2F"
+  },
+  {
+   "id": "3f-super-repel",
+   "name": "Super Repel",
+   "hidden": false,
+   "where": "3F"
+  },
+  {
+   "id": "4f-sea-incense",
+   "name": "Sea Incense",
+   "hidden": false,
+   "where": "4F"
+  },
+  {
+   "id": "5f-lax-incense",
+   "name": "Lax Incense",
+   "hidden": false,
+   "where": "5F"
+  },
+  {
+   "id": "6f-tm30",
+   "name": "TM30",
+   "hidden": false,
+   "where": "6F"
+  },
+  {
+   "id": "exterior-max-potion",
+   "name": "Max Potion",
+   "hidden": false,
+   "where": "Exterior"
+  },
+  {
+   "id": "exterior-tm48",
+   "name": "TM48",
+   "hidden": false,
+   "where": "Exterior"
+  },
+  {
+   "id": "hidden-exterior-ultra-ball",
+   "name": "Ultra Ball",
+   "hidden": true,
+   "where": "Exterior"
+  },
+  {
+   "id": "hidden-exterior-max-ether",
+   "name": "Max Ether",
+   "hidden": true,
+   "where": "Exterior"
+  },
+  {
+   "id": "hidden-summit-zinc",
+   "name": "Zinc",
+   "hidden": true,
+   "where": "Summit"
+  },
+  {
+   "id": "hidden-summit-rare-candy",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Summit"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-1f-cleanse-tag",
+   "name": "Cleanse Tag",
+   "from": "Old woman",
+   "where": "1F"
+  },
+  {
+   "id": "item-summit-magma-emblem",
+   "name": "Magma Emblem",
+   "from": "Old couple at the summit (after Team Aqua leaves)",
+   "where": "Summit"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Black Belt",
+   "name": "Zander",
+   "prize": 992,
+   "party": [
+    {
+     "dex": 297,
+     "name": "Hariyama",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "zander",
+   "area": "2F"
+  },
+  {
+   "class": "Hex Maniac",
+   "name": "Leah",
+   "prize": 744,
+   "party": [
+    {
+     "dex": 325,
+     "name": "Spoink",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Psych Up",
+       "type": "Normal"
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Magic Coat",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "leah",
+   "area": "2F"
+  },
+  {
+   "class": "Young Couple",
+   "name": "Dez & Luke",
+   "prize": 1984,
+   "party": [
+    {
+     "dex": 301,
+     "name": "Delcatty",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Doubleslap",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "dez-and-luke",
+   "area": "2F"
+  },
+  {
+   "class": "Poké Maniac",
+   "name": "Mark",
+   "prize": 1860,
+   "party": [
+    {
+     "dex": 111,
+     "name": "Rhyhorn",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Rock Blast",
+       "type": "Rock",
+       "power": 25
+      }
+     ]
+    }
+   ],
+   "id": "mark",
+   "area": "2F"
+  },
+  {
+   "class": "Psychic",
+   "name": "William",
+   "prize": 624,
+   "party": [
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 280,
+     "name": "Ralts",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 281,
+     "name": "Kirlia",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "william",
+   "area": "3F"
+  },
+  {
+   "class": "Pokémon Breeder",
+   "name": "Gabrielle",
+   "prize": 1040,
+   "party": [
+    {
+     "dex": 300,
+     "name": "Skitty",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Doubleslap",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Pin Missile",
+       "type": "Bug",
+       "power": 14
+      }
+     ]
+    },
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 273,
+     "name": "Seedot",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Synthesis",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Endeavor",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "gabrielle",
+   "area": "3F"
+  },
+  {
+   "class": "Psychic",
+   "name": "Kayla",
+   "prize": 624,
+   "party": [
+    {
+     "dex": 202,
+     "name": "Wobbuffet",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Mirror Coat",
+       "type": "Psychic",
+       "power": 1
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Destiny Bond",
+       "type": "Ghost"
+      }
+     ]
+    },
+    {
+     "dex": 177,
+     "name": "Natu",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Disable",
+       "type": "Normal"
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Recover",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "kayla",
+   "area": "3F"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Atsushi",
+   "prize": 1024,
+   "party": [
+    {
+     "dex": 297,
+     "name": "Hariyama",
+     "level": 32,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "atsushi",
+   "area": "4F"
+  },
+  {
+   "class": "Hex Maniac",
+   "name": "Tasha",
+   "prize": 768,
+   "party": [
+    {
+     "dex": 353,
+     "name": "Shuppet",
+     "level": 32,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Curse",
+       "type": "Mystery"
+      },
+      {
+       "name": "Spite",
+       "type": "Ghost"
+      },
+      {
+       "name": "Will-O-Wisp",
+       "type": "Fire"
+      }
+     ]
+    }
+   ],
+   "id": "tasha",
+   "area": "5F"
+  },
+  {
+   "class": "Psychic",
+   "name": "Cedric",
+   "prize": 768,
+   "party": [
+    {
+     "dex": 202,
+     "name": "Wobbuffet",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Destiny Bond",
+       "type": "Ghost"
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Mirror Coat",
+       "type": "Psychic",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "cedric",
+   "area": "6F"
+  },
+  {
+   "class": "Hex Maniac",
+   "name": "Valerie",
+   "prize": 768,
+   "party": [
+    {
+     "dex": 302,
+     "name": "Sableye",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "valerie",
+   "area": "6F"
+  },
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      }
+     ]
+    }
+   ],
+   "id": "grunt-mt-pyre",
+   "area": "Summit"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

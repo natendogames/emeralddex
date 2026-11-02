@@ -1,0 +1,47 @@
+{
+ "id": "desert-underpass",
+ "name": "Desert Underpass",
+ "encounters": [
+  {
+   "dex": 132,
+   "name": "Ditto",
+   "method": "grass",
+   "levels": "38-45",
+   "rate": "50%"
+  },
+  {
+   "dex": 293,
+   "name": "Whismur",
+   "method": "grass",
+   "levels": "35-38",
+   "rate": "34%"
+  },
+  {
+   "dex": 294,
+   "name": "Loudred",
+   "method": "grass",
+   "levels": "38-44",
+   "rate": "16%"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-claw-fossil",
+   "name": "Claw Fossil",
+   "from": "The fossil you left behind (post-game)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-root-fossil",
+   "name": "Root Fossil",
+   "from": "The fossil you left behind (post-game)",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

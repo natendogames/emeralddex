@@ -1,0 +1,1004 @@
+{
+ "id": "route-109",
+ "name": "Route 109",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%",
+   "area": "Outside"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Outside"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-potion",
+   "name": "Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-revive",
+   "name": "Revive",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-great-ball",
+   "name": "Great Ball",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-ether",
+   "name": "Ether",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale-2",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale-3",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-soft-sand",
+   "name": "Soft Sand",
+   "from": "Girl",
+   "where": "Outside"
+  },
+  {
+   "id": "item-seashore-house-soda-pop-6",
+   "name": "Soda Pop ×6",
+   "from": "Seashore House owner (beat the three trainers)",
+   "where": "Seashore House"
+  },
+  {
+   "id": "item-seashore-house-soda-pop",
+   "name": "Soda Pop",
+   "from": "Seashore House",
+   "where": "Seashore House"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Bird Keeper",
+   "name": "Elijah",
+   "prize": 800,
+   "party": [
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "elijah",
+   "area": "Outside"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Carter",
+   "prize": 1000,
+   "party": [
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 25,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 73,
+     "name": "Tentacruel",
+     "level": 25,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "carter",
+   "area": "Outside"
+  },
+  {
+   "class": "Young Couple",
+   "name": "Mel & Paul",
+   "prize": 1728,
+   "party": [
+    {
+     "dex": 269,
+     "name": "Dustox",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Gust",
+       "type": "Flying",
+       "power": 40
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 267,
+     "name": "Beautifly",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Gust",
+       "type": "Flying",
+       "power": 40
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "mel-and-paul",
+   "area": "Outside",
+   "stage": "mauville-city",
+   "later": true
+  },
+  {
+   "class": "Swimmer",
+   "name": "Alice",
+   "prize": 192,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 24,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 24,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 24,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "alice",
+   "area": "Outside",
+   "stage": "lavaridge-town",
+   "later": true,
+   "need": "surf"
+  },
+  {
+   "class": "Swimmer",
+   "name": "David",
+   "prize": 200,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "david",
+   "area": "Outside",
+   "stage": "lavaridge-town",
+   "later": true,
+   "need": "surf"
+  },
+  {
+   "class": "Tuber",
+   "name": "Gwen",
+   "prize": 104,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "gwen",
+   "area": "Outside",
+   "stage": "mauville-city",
+   "later": true
+  },
+  {
+   "class": "Tuber",
+   "name": "Austina",
+   "prize": 104,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "austina",
+   "area": "Outside",
+   "stage": "mauville-city",
+   "later": true
+  },
+  {
+   "class": "Sailor",
+   "name": "Huey",
+   "prize": 384,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 12,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 12,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "huey",
+   "area": "Outside"
+  },
+  {
+   "class": "Tuber",
+   "name": "Hailey",
+   "prize": 52,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 13,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "hailey",
+   "area": "Outside"
+  },
+  {
+   "class": "Sailor",
+   "name": "Edmond",
+   "prize": 416,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 13,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "edmond",
+   "area": "Outside"
+  },
+  {
+   "class": "Tuber",
+   "name": "Ricky",
+   "prize": 52,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 13,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Surf",
+       "type": "Water",
+       "power": 95
+      }
+     ]
+    }
+   ],
+   "id": "ricky",
+   "area": "Outside"
+  },
+  {
+   "class": "Tuber",
+   "name": "Lola",
+   "prize": 48,
+   "party": [
+    {
+     "dex": 298,
+     "name": "Azurill",
+     "level": 12,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Bubble",
+       "type": "Water",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 298,
+     "name": "Azurill",
+     "level": 12,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Bubble",
+       "type": "Water",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "lola",
+   "area": "Outside"
+  },
+  {
+   "class": "Tuber",
+   "name": "Chandler",
+   "prize": 48,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 12,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 12,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      }
+     ]
+    }
+   ],
+   "id": "chandler",
+   "area": "Outside"
+  },
+  {
+   "class": "Beauty",
+   "name": "Johanna",
+   "prize": 1040,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 13,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "johanna",
+   "area": "Seashore House"
+  },
+  {
+   "class": "Tuber",
+   "name": "Simon",
+   "prize": 48,
+   "party": [
+    {
+     "dex": 298,
+     "name": "Azurill",
+     "level": 12,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Bubble",
+       "type": "Water",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 12,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "simon",
+   "area": "Seashore House"
+  },
+  {
+   "class": "Sailor",
+   "name": "Dwayne",
+   "prize": 352,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Low Kick",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 11,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "dwayne",
+   "area": "Seashore House"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

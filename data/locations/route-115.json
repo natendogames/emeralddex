@@ -1,0 +1,708 @@
+{
+ "id": "route-115",
+ "name": "Route 115",
+ "encounters": [
+  {
+   "dex": 276,
+   "name": "Taillow",
+   "method": "grass",
+   "levels": "23-25",
+   "rate": "40%"
+  },
+  {
+   "dex": 333,
+   "name": "Swablu",
+   "method": "grass",
+   "levels": "23-25",
+   "rate": "30%"
+  },
+  {
+   "dex": 39,
+   "name": "Jigglypuff",
+   "method": "grass",
+   "levels": "24-25",
+   "rate": "10%"
+  },
+  {
+   "dex": 277,
+   "name": "Swellow",
+   "method": "grass",
+   "levels": "25",
+   "rate": "10%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "grass",
+   "levels": "24-26",
+   "rate": "10%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-super-potion",
+   "name": "Super Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-tm01",
+   "name": "TM01",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-iron",
+   "name": "Iron",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-great-ball",
+   "name": "Great Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-heal-powder",
+   "name": "Heal Powder",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Collector",
+   "name": "Hector",
+   "prize": 1080,
+   "party": [
+    {
+     "dex": 335,
+     "name": "Zangoose",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Swords Dance",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Cutter",
+       "type": "Bug",
+       "power": 10
+      }
+     ]
+    },
+    {
+     "dex": 336,
+     "name": "Seviper",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Wrap",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Lick",
+       "type": "Ghost",
+       "power": 20
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Poison Tail",
+       "type": "Poison",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "hector"
+  },
+  {
+   "class": "Psychic",
+   "name": "Marlene",
+   "prize": 432,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 325,
+     "name": "Spoink",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Psywave",
+       "type": "Psychic",
+       "power": 1
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "marlene"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Nob",
+   "prize": 608,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 19,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "nob"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Cyndy",
+   "prize": 432,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 18,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 18,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "cyndy"
+  },
+  {
+   "class": "Expert",
+   "name": "Timothy",
+   "prize": 1080,
+   "party": [
+    {
+     "dex": 297,
+     "name": "Hariyama",
+     "level": 27,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "timothy"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Kyra",
+   "prize": 1040,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 85,
+     "name": "Dodrio",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "kyra"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Koichi",
+   "prize": 896,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 24,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 67,
+     "name": "Machoke",
+     "level": 28,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      },
+      {
+       "name": "Revenge",
+       "type": "Fighting",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "koichi"
+  },
+  {
+   "class": "Ninja Boy",
+   "name": "Jaiden",
+   "prize": 312,
+   "party": [
+    {
+     "dex": 291,
+     "name": "Ninjask",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Cutter",
+       "type": "Bug",
+       "power": 10
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Swords Dance",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 316,
+     "name": "Gulpin",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Encore",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "jaiden"
+  },
+  {
+   "class": "Psychic",
+   "name": "Alix",
+   "prize": 624,
+   "party": [
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Disable",
+       "type": "Normal"
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Recover",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 281,
+     "name": "Kirlia",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "id": "alix"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Helene",
+   "prize": 624,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "helene"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

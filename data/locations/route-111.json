@@ -1,0 +1,1279 @@
+{
+ "id": "route-111",
+ "name": "Route 111",
+ "encounters": [
+  {
+   "dex": 27,
+   "name": "Sandshrew",
+   "method": "grass",
+   "levels": "19-21",
+   "rate": "35%",
+   "after": "lavaridge-town",
+   "notes": "The desert needs the Go-Goggles from your rival in Lavaridge Town."
+  },
+  {
+   "dex": 328,
+   "name": "Trapinch",
+   "method": "grass",
+   "levels": "19-21",
+   "rate": "35%",
+   "after": "lavaridge-town",
+   "notes": "The desert needs the Go-Goggles from your rival in Lavaridge Town."
+  },
+  {
+   "dex": 343,
+   "name": "Baltoy",
+   "method": "grass",
+   "levels": "19-21",
+   "rate": "24%",
+   "after": "lavaridge-town",
+   "notes": "The desert needs the Go-Goggles from your rival in Lavaridge Town."
+  },
+  {
+   "dex": 331,
+   "name": "Cacnea",
+   "method": "grass",
+   "levels": "20-22",
+   "rate": "6%",
+   "after": "lavaridge-town",
+   "notes": "The desert needs the Go-Goggles from your rival in Lavaridge Town."
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "surf",
+   "levels": "20-30",
+   "rate": "1%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "rock-smash",
+   "levels": "5-20",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-tm37",
+   "name": "TM37",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-stardust",
+   "name": "Stardust",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-hp-up",
+   "name": "HP Up",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-elixir",
+   "name": "Elixir",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-stardust",
+   "name": "Stardust",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-protein",
+   "name": "Protein",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-rare-candy",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-razz-berry",
+   "name": "Razz Berry",
+   "from": "Girl",
+   "where": "Outside"
+  },
+  {
+   "id": "item-winstrate-family-s-house-macho-brace",
+   "name": "Macho Brace",
+   "from": "Victoria (after you beat the Winstrate family)",
+   "where": "Winstrate Family's House"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Aroma Lady",
+   "name": "Celina",
+   "prize": 720,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "celina"
+  },
+  {
+   "class": "Camper",
+   "name": "Tyron",
+   "prize": 304,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "tyron"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Bianca",
+   "prize": 288,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "bianca"
+  },
+  {
+   "class": "Kindler",
+   "name": "Hayden",
+   "prize": 576,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "hayden"
+  },
+  {
+   "class": "Winstrate",
+   "name": "Victor",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 16,
+     "iv": 3,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 16,
+     "iv": 3,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "victor"
+  },
+  {
+   "class": "Winstrate",
+   "name": "Victoria",
+   "prize": 680,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 17,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "victoria"
+  },
+  {
+   "class": "Winstrate",
+   "name": "Vivi",
+   "prize": 600,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 15,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 15,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 15,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "vivi"
+  },
+  {
+   "class": "Winstrate",
+   "name": "Vicky",
+   "prize": 720,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 18,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Hi Jump Kick",
+       "type": "Fighting",
+       "power": 85
+      },
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      }
+     ]
+    }
+   ],
+   "id": "vicky"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Irene",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      }
+     ]
+    }
+   ],
+   "id": "irene"
+  },
+  {
+   "class": "Camper",
+   "name": "Travis",
+   "prize": 288,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "travis"
+  },
+  {
+   "class": "Camper",
+   "name": "Beau",
+   "prize": 336,
+   "party": [
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rapid Spin",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      }
+     ]
+    },
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rapid Spin",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "beau"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Dusty",
+   "prize": 1380,
+   "party": [
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 23,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "dusty"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Heidi",
+   "prize": 352,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rapid Spin",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      }
+     ]
+    }
+   ],
+   "id": "heidi"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Becky",
+   "prize": 352,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "becky"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Celia",
+   "prize": 352,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "celia"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Bryan",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "bryan"
+  },
+  {
+   "class": "Camper",
+   "name": "Drew",
+   "prize": 368,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 23,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "drew"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Wilton",
+   "prize": 816,
+   "party": [
+    {
+     "dex": 309,
+     "name": "Electrike",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion"
+   ],
+   "id": "wilton"
+  },
+  {
+   "class": "Camper",
+   "name": "Branden",
+   "prize": 352,
+   "party": [
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 274,
+     "name": "Nuzleaf",
+     "level": 22,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "branden"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Daisuke",
+   "prize": 608,
+   "party": [
+    {
+     "dex": 66,
+     "name": "Machop",
+     "level": 19,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Karate Chop",
+       "type": "Fighting",
+       "power": 50
+      },
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "daisuke"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Brooke",
+   "prize": 816,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 17,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion"
+   ],
+   "id": "brooke"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

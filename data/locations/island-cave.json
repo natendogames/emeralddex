@@ -1,0 +1,20 @@
+{
+ "id": "island-cave",
+ "name": "Island Cave",
+ "encounters": [
+  {
+   "dex": 378,
+   "name": "Regice",
+   "method": "static",
+   "levels": "40",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}
