@@ -150,6 +150,42 @@ function locView(loc) {
 }
 const trainerKey = (locId, t) => `${locId}:trainer:${t.id}`;
 
+// Walkthrough steps are text with references to the game data, so a step can't name a gift, trainer or place that
+// isn't there (tests/walkthrough.js checks every one): {gift:id} a gift on this page, {trainer:id} a trainer on this
+// page, {loc:id} another location, {mon:dex} a Pokémon, {item:Name} an item page.
+function walkRef(kind, ref, locId) {
+  const loc = state.locations[locId];
+  if (kind === 'gift') { const g = loc?.gifts.find(x => x.id === ref); return g && { text: g.name.replace(/ \(Lv \d+\)$/, ''), strong: true }; }
+  if (kind === 'trainer') { const t = (loc?.trainers || []).find(x => x.id === ref); return t && { text: t.class === 'Rival' ? 'your rival' : t.name, strong: true }; }
+  if (kind === 'loc') return state.locations[ref] && { text: state.locations[ref].name, href: `#/loc/${ref}` };
+  if (kind === 'mon') return mon(+ref) && { text: mon(+ref).name, href: `#/mon/${ref}` };
+  if (kind === 'item') return state.items?.[ref] && { text: ref, href: `#/item/${encodeURIComponent(ref)}` };
+  return null;
+}
+function walkStep(text, locId) {
+  return text.split(/(\{(?:gift|trainer|loc|mon|item):[^}]+\})/).map((part, i, parts) => {
+    const m = /^\{(\w+):([^}]+)\}$/.exec(part);
+    if (!m) return esc(part);
+    const r = walkRef(m[1], m[2], locId);
+    if (!r) return esc(m[2]);
+    if (/^\s*$|[.!?:]\s*$/.test(parts.slice(0, i).join(''))) r.text = r.text[0].toUpperCase() + r.text.slice(1); // "your rival" starting a sentence
+    return r.href ? `<a href="${r.href}">${esc(r.text)}</a>` : r.strong ? `<b>${esc(r.text)}</b>` : esc(r.text);
+  }).join('');
+}
+// One-time things on this page you could walk past on your first visit: hidden items and gifts not yet ticked
+// (gifts that only come later in the story are left out)
+const LATER_GIFT = /Hall of Fame|post-game|complete the Hoenn|after you (beat|fix|deliver|enter)|return the|choose one|after Rayquaza|after winning|revives|Completed Puzzle|daily/i;
+function beforeYouLeave(loc) {
+  const s = cur();
+  const hidden = loc.items.filter(i => i.hidden && !s.checks[`${loc.id}:item:${i.id}`]);
+  const gifts = locView(loc).gifts.filter(g => !g.after && !LATER_GIFT.test(g.from || '') && !/^Trade/.test(g.name) && !s.checks[`${loc.id}:gift:${g.id}`]);
+  if (!hidden.length && !gifts.length) return '';
+  const parts = [];
+  if (gifts.length) parts.push(gifts.map(g => `<b>${esc(g.name)}</b> (${esc(g.from || 'gift')}${g.where && g.where !== 'Outside' ? `, ${esc(g.where)}` : ''})`).join(', '));
+  if (hidden.length) parts.push(`${hidden.length} hidden item${hidden.length > 1 ? 's' : ''} (${hidden.map(i => esc(i.name)).join(', ')})`);
+  return `<div class="card note"><b>Before you leave:</b> ${parts.join('; and ')}. They're easy to miss on a first visit.</div>`;
+}
+
 const getJSON = url => fetch(url).then(r => { if (!r.ok) throw new Error(url + ' ' + r.status); return r.json(); });
 async function loadData() {
   const [idx, dex, trainers, types, walk, moves, tms, extras, items] = await Promise.all(['data/locations.json', 'data/pokedex.json', 'data/trainers.json', 'data/types.json', 'data/walkthrough.json', 'data/moves.json', 'data/tms.json', 'data/extras.json', 'data/items.json'].map(getJSON));
@@ -357,7 +393,9 @@ function renderLocation(id) {
   let html = '';
   const steps = state.walk[id];
   if (loc.notes) html += `<div class="card note">${esc(loc.notes)}</div>`;
-  if (steps?.length) html += `<h2>Walkthrough</h2><div class="card"><ol class="steps">${steps.map(x => `<li>${esc(x)}</li>`).join('')}</ol></div>`;
+  if (steps?.length) html += `<h2>Walkthrough</h2><div class="card"><ol class="steps">${steps.map(x => `<li>${walkStep(x, id)}</li>`).join('')}</ol>${
+    state.walk._checked?.[id] ? '' : '<p class="note"><span class="tag">Draft</span> Not yet checked against a second source.</p>'}</div>`;
+  html += beforeYouLeave(loc);
 
   const v = locView(loc);
   if (v.choices.length) html += `<h2>Choose one</h2>${v.choices.map(choiceCard).join('')}`;

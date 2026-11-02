@@ -280,7 +280,7 @@ gifts = collections.OrderedDict()  # (lid, kind, name, area, from, species?) -> 
 statics = collections.OrderedDict()
 for name in sorted(maps):
     m = maps[name]
-    if map_skipped(name): continue
+    if map_skipped(name) or name == 'Route110_TrickHouseEntrance': continue  # the entrance only re-offers Trick House prizes your bag had no room for
     f = os.path.join(m['_dir'], 'scripts.inc')
     if not os.path.exists(f): continue
     lid = map_loc(name); area = area_name(name)
@@ -313,11 +313,23 @@ for lid in ('route-119', 'route-120'):
 
 EXTRA_GIFTS = [
     ('route-101', 'mon', 'Starter Pokémon (Treecko, Torchic or Mudkip)', 'Outside', "Professor Birch's bag", None),
-    ('littleroot-town', 'item', 'Pokédex', 'Professor Birchs Lab', 'Professor Birch (after your first rival battle)', None),
+    ('littleroot-town', 'item', 'Pokédex', "Professor Birch's Lab", 'Professor Birch (after your first rival battle)', None),
     ('littleroot-town', 'item', 'Potion (in your PC)', 'Your house 2F', 'Your bedroom PC', None),
+    # gifts from shared scripts (data/scripts/*.inc), which the map pass doesn't see
+    ('littleroot-town', 'item', 'Running Shoes', 'Outside', 'Mom (as you leave with the Pokédex)', None),
+    ('littleroot-town', 'item', 'Amulet Coin', 'Your house 1F', "Mom (once you have Dad's badge, the fifth)", None),
+    ('littleroot-town', 'item', 'S.S. Ticket', 'Your house 1F', 'Dad (after you enter the Hall of Fame)', None),
+    ('lilycove-city', 'item', 'Pokéblock Case', 'Contest Lobby', 'Contest receptionist', None),
+    ('rustboro-city', 'item', 'PokéNav', 'Devon Corp 3F', 'Mr. Stone (return the Devon Goods)', None),
 ]
 for k in EXTRA_GIFTS: gifts[k] = True
-FROM_FIX = {'Accept Trade': 'Trader (Harbor Mail for the Coin Case)', 'Attract Giver': 'Woman', 'Big Seedot': 'Man (show him a big Seedot)', 'Brick Break Black Belt': 'Black Belt',
+FROM_FIX = {'Give Red Scarf': 'Fan Club chairman (lead Pokémon with high Cool)', 'Give Blue Scarf': 'Fan Club chairman (lead Pokémon with high Beauty)',
+    'Give Pink Scarf': 'Fan Club chairman (lead Pokémon with high Cute)', 'Give Green Scarf': 'Fan Club chairman (lead Pokémon with high Smart)',
+    'Give Yellow Scarf': 'Fan Club chairman (lead Pokémon with high Tough)', 'Give Soothe Bell': 'Woman (if your lead Pokémon is very friendly)',
+    **{f'Give {b} Berry': f"Berry Master's wife (tell her \"{p}\")" for b, p in (('Spelon', 'GREAT BATTLE'), ('Pamtre', 'CHALLENGE CONTEST'),
+       ('Watmel', 'OVERWHELMING LATIAS'), ('Durin', 'COOL LATIOS'), ('Belue', 'SUPER HUSTLE'))},
+    'Give Figy Berry': 'Kiri (daily berry)', 'Give Iapapa Berry': 'Kiri (daily berry)', 'Give Waterfall': 'Wallace (after Rayquaza calms Groudon and Kyogre)',
+'Accept Trade': 'Trader (Harbor Mail for the Coin Case)', 'Attract Giver': 'Woman', 'Big Seedot': 'Man (show him a big Seedot)', 'Brick Break Black Belt': 'Black Belt',
     'Buy Soda Pop': 'Seashore House', 'Check Gold Symbols': 'Battle Frontier (all gold symbols)', 'Check Silver Symbols': 'Battle Frontier (all silver symbols)',
     'Claw Fossil': 'Top of Mirage Tower (choose one)', 'Root Fossil': 'Top of Mirage Tower (choose one)', 'Give Claw Fossil': 'The fossil you left behind (post-game)',
     'Give Root Fossil': 'The fossil you left behind (post-game)', 'Clear Tunnel Scene': "Wanda's boyfriend (once the tunnel is open)",

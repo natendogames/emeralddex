@@ -237,12 +237,6 @@
     "how": "gift",
     "where": "Trick House End",
     "from": "Completed Puzzle 5"
-   },
-   {
-    "loc": "route-110",
-    "how": "gift",
-    "where": "Trick House Entrance",
-    "from": "Gift"
    }
   ]
  },

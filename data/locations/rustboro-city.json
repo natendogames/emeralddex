@@ -96,6 +96,12 @@
    "name": "Quick Claw",
    "from": "Teacher",
    "where": "Pokémon School"
+  },
+  {
+   "id": "item-devon-corp-3f-pok-nav",
+   "name": "PokéNav",
+   "from": "Mr. Stone (return the Devon Goods)",
+   "where": "Devon Corp 3F"
   }
  ],
  "trainers": [

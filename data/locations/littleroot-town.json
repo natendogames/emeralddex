@@ -57,16 +57,34 @@
    "where": "Professor Birch's Lab"
   },
   {
-   "id": "item-professor-birchs-lab-pok-dex",
+   "id": "item-professor-birch-s-lab-pok-dex",
    "name": "Pokédex",
    "from": "Professor Birch (after your first rival battle)",
-   "where": "Professor Birchs Lab"
+   "where": "Professor Birch's Lab"
   },
   {
    "id": "item-your-house-2f-potion-in-your-pc",
    "name": "Potion (in your PC)",
    "from": "Your bedroom PC",
    "where": "Your house 2F"
+  },
+  {
+   "id": "item-outside-running-shoes",
+   "name": "Running Shoes",
+   "from": "Mom (as you leave with the Pokédex)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-your-house-1f-amulet-coin",
+   "name": "Amulet Coin",
+   "from": "Mom (once you have Dad's badge, the fifth)",
+   "where": "Your house 1F"
+  },
+  {
+   "id": "item-your-house-1f-s-s-ticket",
+   "name": "S.S. Ticket",
+   "from": "Dad (after you enter the Hall of Fame)",
+   "where": "Your house 1F"
   }
  ],
  "trainers": [],
