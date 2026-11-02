@@ -112,8 +112,8 @@
    "method": "static",
    "levels": "70",
    "area": "Top",
-   "notes": "Asleep at the top until the story wakes it; catchable after you enter the Hall of Fame. Needs the Mach Bike. Save first.",
-   "after": "pokemon-league"
+   "notes": "Asleep at the top until the story wakes it; back at the top and catchable once it has calmed Groudon and Kyogre in Sootopolis. Needs the Mach Bike. Save first.",
+   "after": "sootopolis-city"
   }
  ],
  "items": [],

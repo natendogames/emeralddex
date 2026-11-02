@@ -1,0 +1,8333 @@
+{
+ "_about": "Facts extracted from Bulbapedia walkthrough pages (raw wikitext) by scripts/verify_bulbapedia.py. Source: bulbapedia.bulbagarden.net, CC BY-NC-SA 2.5.",
+ "sections": [
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Introduction",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Home",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Littleroot Town",
+   "items": [
+    {
+     "name": "Potion",
+     "note": "Retrievable from the PC in the player's room",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Professor Birch's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Route 101",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Save the Professor!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Littleroot Town",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Birch's Lab",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Route 101",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Oldale Town",
+   "items": [
+    {
+     "name": "Potion",
+     "note": "From the Poké Mart worker near the exit to Route 101",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Free Potions!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "The Sketch Artist",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Route 103",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Rival Battle 1",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Littleroot Town",
+   "items": [
+    {
+     "name": "Pokédex",
+     "note": "From Professor Birch, after defeating May/Brendan on 103",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "From May/Brendan, after obtaining the Pokédex",
+     "hidden": false
+    },
+    {
+     "name": "Running Shoes",
+     "note": "From Mom, after obtaining the Pokédex",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Birch's Lab",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Meet up with Mom",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Route 102",
+   "items": [
+    {
+     "name": "Oran Berry",
+     "note": "From the soft soil patch",
+     "hidden": false
+    },
+    {
+     "name": "Pecha Berry",
+     "note": "From the soft soil patch",
+     "hidden": false
+    },
+    {
+     "name": "Potion",
+     "note": "Southwest part of the route",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Youngster",
+     "name": "Calvin",
+     "rematch": false
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "Rick",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Allen",
+     "rematch": false
+    },
+    {
+     "class": "Lass",
+     "name": "Tiana",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Calvin*",
+     "rematch": true
+    },
+    {
+     "class": "Youngster",
+     "name": "Calvin*",
+     "rematch": true
+    },
+    {
+     "class": "Youngster",
+     "name": "Calvin*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Soft Soil",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 2,
+   "heading": "Petalburg City (first visit)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "Meet up with Dad",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 1,
+   "level": 3,
+   "heading": "The Man in Sunglasses",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Route 104 (south)",
+   "items": [
+    {
+     "name": "Antidote",
+     "note": "Water's edge, southwest part of the beach (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Heart Scale",
+     "note": "On the beach, southwest of the tall grass (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Potion",
+     "note": "Water's edge, just south of the pier (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Pecha Berry",
+     "note": "In the soft soil patch, north of Mr. Briney's cottage",
+     "hidden": false
+    },
+    {
+     "name": "Oran Berry",
+     "note": "In the soft soil patch, north of Mr. Briney's cottage",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "On the east ledge, accessed via Petalburg Woods",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Youngster",
+     "name": "Billy",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Darian",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Cindy",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Cindy",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Petalburg Woods",
+   "items": [
+    {
+     "name": "Potion",
+     "note": "In the middle of the tall grass patch near the southeast exit (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Parlyz Heal",
+     "note": "Southwest corner, past Bug Catcher Lyle",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "From the Devon Corporation worker, after defeating the Team Aqua Grunt",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "In the corner to the south of the northwest corner (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Ether",
+     "note": "Northwest corner",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bug Catcher",
+     "name": "Lyle",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "James",
+     "rematch": false
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "James*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "James*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "James*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "James*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 4,
+   "heading": "The Scuffle",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Route 104 (north)",
+   "items": [
+    {
+     "name": "TM09",
+     "note": "From a Youngster to the south of the Flower Shop",
+     "hidden": false
+    },
+    {
+     "name": "Oran Berry",
+     "note": "In the soft soil patch in front of the Flower Shop",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "In the tall grass behind the Flower Shop (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Potion",
+     "note": "In the tall grass behind the Flower Shop",
+     "hidden": false
+    },
+    {
+     "name": "Super Potion",
+     "note": "In the tall grass behind the Flower Shop (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Chesto Berry",
+     "note": "From an old woman on the northeast side of the pond",
+     "hidden": false
+    },
+    {
+     "name": "Leppa Berry",
+     "note": "In the soft soil patch, northeast of the pond",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Rich Boy",
+     "name": "Winston",
+     "rematch": false
+    },
+    {
+     "class": "Lass",
+     "name": "Haley",
+     "rematch": false
+    },
+    {
+     "class": "Twins",
+     "name": "Gina & Mia",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Ivan",
+     "rematch": false
+    },
+    {
+     "class": "Rich Boy",
+     "name": "Winston",
+     "rematch": true
+    },
+    {
+     "class": "Lass",
+     "name": "Haley*",
+     "rematch": true
+    },
+    {
+     "class": "Lass",
+     "name": "Haley*",
+     "rematch": true
+    },
+    {
+     "class": "Lass",
+     "name": "Haley*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Pretty Petal Flower Shop",
+   "items": [
+    {
+     "name": "Wailmer Pail",
+     "note": "Inside the Flower Shop, from the owner",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Rustboro City",
+   "items": [
+    {
+     "name": "X Defense",
+     "note": "Outside the fence in the southeast, accessed via Route 104",
+     "hidden": false
+    },
+    {
+     "name": "Premier Ball",
+     "note": "From a boy in the southwest building, 2F",
+     "hidden": false
+    },
+    {
+     "name": "HM01",
+     "note": "From the Cutter in his home west of the Pokémon Center",
+     "hidden": false
+    },
+    {
+     "name": "Quick Claw",
+     "note": "From the teacher in the Pokémon Trainer's School",
+     "hidden": false
+    },
+    {
+     "name": "Chesto Berry",
+     "note": "Held by Dots, the traded Seedot",
+     "hidden": false
+    },
+    {
+     "name": "TM39",
+     "note": "From Roxanne upon her defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Cutter's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Devon Corporation",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Pokémon Trainer's School",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 4,
+   "heading": "The Man in Sunglasses",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Time for a Trade",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Rustboro Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Youngster",
+     "name": "Josh",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Tommy",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Marc",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Stop, Thief!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Now that you can use Cut (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Route 104 (north)",
+   "items": [
+    {
+     "name": "X Accuracy",
+     "note": "North side, by the southeast corner of the pond",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Petalburg Woods",
+   "items": [
+    {
+     "name": "Miracle Seed",
+     "note": "From a girl to the east of the northern exit",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "In the northeastern-most corner",
+     "hidden": false
+    },
+    {
+     "name": "X Attack",
+     "note": "Down the second ledge on the eastern side of the forest and to the west",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Route 116",
+   "items": [
+    {
+     "name": "Repel",
+     "note": "Southwest grass patch, near Bug Catcher Jose",
+     "hidden": false
+    },
+    {
+     "name": "X Special",
+     "note": "On the mountainside, southeast of the tunnel entrance",
+     "hidden": false
+    },
+    {
+     "name": "Potion",
+     "note": "In the trees just west of the Rest House",
+     "hidden": false
+    },
+    {
+     "name": "Super Potion",
+     "note": "In the trees west of the Rest House, western corner of the south ledge (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Ether",
+     "note": "On the ledge, south of the Berry trees",
+     "hidden": false
+    },
+    {
+     "name": "Chesto Berry",
+     "note": "Soft soil patch, northwest of the Rest House",
+     "hidden": false
+    },
+    {
+     "name": "Pinap Berry",
+     "note": "Soft soil patch, northwest of the Rest House",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bug Catcher",
+     "name": "Jose",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Joey",
+     "rematch": false
+    },
+    {
+     "class": "School Kid",
+     "name": "Karen",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Clark",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Johnson",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Devan",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Sarah",
+     "rematch": false
+    },
+    {
+     "class": "Rich Boy",
+     "name": "Dawson",
+     "rematch": false
+    },
+    {
+     "class": "School Kid",
+     "name": "Jerry",
+     "rematch": false
+    },
+    {
+     "class": "Lass",
+     "name": "Janice",
+     "rematch": false
+    },
+    {
+     "class": "School Kid",
+     "name": "Karen*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Karen*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Karen*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Karen*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Jerry*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Jerry*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Jerry*",
+     "rematch": true
+    },
+    {
+     "class": "School Kid",
+     "name": "Jerry*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 3,
+   "heading": "Kidnap!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 2,
+   "level": 2,
+   "heading": "Rusturf Tunnel",
+   "items": [
+    {
+     "name": "Poké Ball",
+     "note": "Northwest part of the cave",
+     "hidden": false
+    },
+    {
+     "name": "Devon Goods",
+     "note": "From the Team Aqua Grunt after defeating him",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "level": 4,
+   "heading": "The Take-Down",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Rustboro City",
+   "items": [
+    {
+     "name": "Great Ball",
+     "note": "Outside the Devon building, from the Devon researcher",
+     "hidden": false
+    },
+    {
+     "name": "Letter",
+     "note": "Devon Corporation, from Mr. Stone in his office",
+     "hidden": false
+    },
+    {
+     "name": "PokéNav",
+     "note": "Devon Corporation, from Mr. Stone in his office",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Devon Corporation",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 4,
+   "heading": "PokéNav",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Rival Battle 2 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Routes 105 and 106",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Checking In",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Dewford Town",
+   "items": [
+    {
+     "name": "Silk Scarf",
+     "note": "From an Ace Trainer in the house at the pier",
+     "hidden": false
+    },
+    {
+     "name": "Old Rod",
+     "note": "From the Fisherman east of the Gym",
+     "hidden": false
+    },
+    {
+     "name": "TM08",
+     "note": "From Brawly upon his defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Dewford Hall",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Hook the Big One!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Dewford Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Battle Girl",
+     "name": "Laura",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Lilith",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Brenden",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Takao",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Cristian",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Jocelyn",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Route 106",
+   "items": [
+    {
+     "name": "Heart Scale",
+     "note": "Water's edge, southeast of Fisherman Ned (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Stardust",
+     "note": "On a rock, northwest of the signpost (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Poké Ball",
+     "note": "Water's edge, northwest of Fisherman Elliot (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Fisherman",
+     "name": "Ned",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Elliot",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Elliot*",
+     "rematch": true
+    },
+    {
+     "class": "Fisherman",
+     "name": "Elliot*",
+     "rematch": true
+    },
+    {
+     "class": "Fisherman",
+     "name": "Elliot*",
+     "rematch": true
+    },
+    {
+     "class": "Fisherman",
+     "name": "Elliot*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Granite Cave",
+   "items": [
+    {
+     "name": "HM05",
+     "note": "From a Hiker near the entrance",
+     "hidden": false
+    },
+    {
+     "name": "Escape Rope",
+     "note": "West of the entrance",
+     "hidden": false
+    },
+    {
+     "name": "TM47",
+     "note": "From Steven, after delivering the Letter to him",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "Dead-end tunnel on the south side",
+     "hidden": false
+    },
+    {
+     "name": "Everstone",
+     "note": "South side; in the rock on the upper platform (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "B2F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "1F (Back)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Dewford Town",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Rustboro City (optional)",
+   "items": [
+    {
+     "name": "Exp. Share",
+     "note": "Reward from Mr. Stone after delivering the Letter to {{Steven}}",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Routes 107 and 108",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 3,
+   "level": 2,
+   "heading": "Route 109",
+   "items": [
+    {
+     "name": "Revive",
+     "note": "Water's edge, west-northwest of Mr. Briney's ship (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Ether",
+     "note": "Southeast part of the beach (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Soft Sand",
+     "note": "From a female Tuber to the northeast of Mr. Briney's ship",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "Under the blue beach towel near the Seashore House (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Soda Pop",
+     "note": "Reward for defeating all three Trainers inside the Seashore House",
+     "hidden": false
+    },
+    {
+     "name": "Potion",
+     "note": "To the left of the old man with the Zigzagoon",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Sailor",
+     "name": "Huey",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Edmond",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Hailey",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Ricky",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Lola",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Chandler",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Simon",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Johanna",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Dwayne",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Ricky",
+     "rematch": true
+    },
+    {
+     "class": "Tuber",
+     "name": "Lola*",
+     "rematch": true
+    },
+    {
+     "class": "Tuber",
+     "name": "Lola*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "level": 3,
+   "heading": "Seashore House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 2,
+   "heading": "Slateport City",
+   "items": [
+    {
+     "name": "List of Ribbons in the games",
+     "note": "From the woman next to the Energy Guru, if the lead Pokémon has 510 EVs",
+     "hidden": false
+    },
+    {
+     "name": "Powder Jar",
+     "note": "From a woman in the northeast corner of Slateport Market",
+     "hidden": false
+    },
+    {
+     "name": "Soothe Bell",
+     "note": "From a woman in the Fan Club, if the lead Pokémon has high friendship",
+     "hidden": false
+    },
+    {
+     "name": "Red Scarf",
+     "note": "From the Fan Club chairman, if the lead Pokémon has max Coolness",
+     "hidden": false
+    },
+    {
+     "name": "Blue Scarf",
+     "note": "From the Fan Club chairman, if the lead Pokémon has max Beauty",
+     "hidden": false
+    },
+    {
+     "name": "Pink Scarf",
+     "note": "From the Fan Club chairman, if the lead Pokémon has max Cuteness",
+     "hidden": false
+    },
+    {
+     "name": "Green Scarf",
+     "note": "From the Fan Club chairman, if the lead Pokémon has max Cleverness",
+     "hidden": false
+    },
+    {
+     "name": "Yellow Scarf",
+     "note": "From the Fan Club chairman, if the lead Pokémon has max Toughness",
+     "hidden": false
+    },
+    {
+     "name": "TM46",
+     "note": "From a Team Aqua Grunt inside the Oceanic Museum",
+     "hidden": false
+    },
+    {
+     "name": "TM41",
+     "note": "From a Sailor in the Battle Tent",
+     "hidden": false
+    },
+    {
+     "name": "Full Heal",
+     "note": "Reward for winning three consecutive battles in the Battle Tent",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Slateport Market",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Pokémon Fan Club",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 4,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Name Rater",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Battle Tent",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Slateport Harbor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Stern's Shipyard",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Oceanic Museum",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "level": 2,
+   "heading": "Route 110",
+   "items": [
+    {
+     "name": "Dire Hit",
+     "note": "East of the Trick House, near Youngster Timmy",
+     "hidden": false
+    },
+    {
+     "name": "Full Heal",
+     "note": "Northeast of Youngster Timmy (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Itemfinder",
+     "note": "From May/Brendan after defeating her/him",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "North of the site of the rival battle (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Revive",
+     "note": "One step north of Collector Edwin and Guitarist Joseph (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Elixir",
+     "note": "Near Psychic Edward and Triathlete Alyssa",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "North of Psychic Edward (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Nanab Berry",
+     "note": "From the Berry Trees near the Mauville City gate",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Pokéfan",
+     "name": "Isabel",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Kaleb",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Timmy",
+     "rematch": false
+    },
+    {
+     "class": "Collector",
+     "name": "Edwin",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Joseph",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Edward",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Alyssa",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Dale",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Isabel*",
+     "rematch": true
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Isabel*",
+     "rematch": true
+    },
+    {
+     "class": "Collector",
+     "name": "Edwin*",
+     "rematch": true
+    },
+    {
+     "class": "Collector",
+     "name": "Edwin*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Meet up with Birch",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Trick House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 4,
+   "heading": "Finding the Trick Master",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 4,
+   "heading": "Inside the Maze",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 4,
+   "heading": "Trick Master's Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 3,
+   "heading": "Rival Battle 3",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 4,
+   "level": 2,
+   "heading": "Route 103 (optional)",
+   "items": [
+    {
+     "name": "PP Up",
+     "note": "In the center of the forest",
+     "hidden": false
+    },
+    {
+     "name": "Cheri Berry",
+     "note": "In the soft soil patch in the forest",
+     "hidden": false
+    },
+    {
+     "name": "Leppa Berry",
+     "note": "In the soft soil patch in the forest",
+     "hidden": false
+    },
+    {
+     "name": "Guard Spec.",
+     "note": "In the western extent of the forest",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Aroma Lady",
+     "name": "Daisy",
+     "rematch": false
+    },
+    {
+     "class": "Twins",
+     "name": "Amy & Liv",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Miguel",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Andrew",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Rhett",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Marcos",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Mauville City",
+   "items": [
+    {
+     "name": "Coin Case",
+     "note": "From the woman in the house next to the Poké Mart, in exchange for a piece of Harbor Mail",
+     "hidden": false
+    },
+    {
+     "name": "X Speed",
+     "note": "Southeast of the Poké Mart, behind the fence",
+     "hidden": false
+    },
+    {
+     "name": "HM06",
+     "note": "From the Scientist in the southeast house",
+     "hidden": false
+    },
+    {
+     "name": "20 Coins",
+     "note": "From a man to the right of the Game Corner's service desk",
+     "hidden": false
+    },
+    {
+     "name": "TM34",
+     "note": "From Wattson upon his defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Rydel's Cycles",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Game Corner",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 4,
+   "heading": "Prizes",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Wally's Challenge",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Mauville Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Battle Girl",
+     "name": "Vivian",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Kirk",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Ben",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Angelo",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Shawn",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Now that you have the Mach Bike and Dynamo Badge (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Route 104 (north)",
+   "items": [
+    {
+     "name": "White Herb",
+     "note": "From a girl in front of the Pretty Petal flower shop, after talking to the woman inside the shop by the door and obtaining the Dynamo",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Granite Cave",
+   "items": [
+    {
+     "name": "Everstone",
+     "note": "In the rock near the Rare Candy (requires Mach Bike) (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Repel",
+     "note": "Beneath the first two sets of cracked floors (requires Mach Bike)",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Down the ladder past the three sets of cracked floors (requires Mach Bike)",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Route 110",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Psychic",
+     "name": "Jaclyn",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Abigail",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Anthony",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Benjamin",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Jasmine",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Jacob",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Abigail*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Abigail*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Benjamin*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Benjamin*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Trick House - Puzzle 2 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Route 117 (optional)",
+   "items": [
+    {
+     "name": "Wepear Berry",
+     "note": "From the Berry Trees on the east side of the route",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "Northwest part of the route (requires Cut)",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "Southwest part of the route",
+     "hidden": false
+    },
+    {
+     "name": "Repel",
+     "note": "Southwest part of the route (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Triathlete",
+     "name": "Dylan",
+     "rematch": false
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Anna & Meg",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Isaac",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Maria",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Derek",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Brandi",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Melina",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Aisha",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Lydia",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Dylan*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Dylan*",
+     "rematch": true
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Anna & Meg*",
+     "rematch": true
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Anna & Meg*",
+     "rematch": true
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Anna & Meg*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Isaac*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Isaac*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Isaac*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Maria*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Maria*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Lydia*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Lydia*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Lydia*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Pokémon Day Care",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Verdanturf Town (optional)",
+   "items": [
+    {
+     "name": "TM45",
+     "note": "From a woman inside the Battle Tent",
+     "hidden": false
+    },
+    {
+     "name": "Nest Ball",
+     "note": "Reward for winning three consecutive battles in the Battle Tent",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Battle Tent",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Wanda's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Friendship Rater",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Rusturf Tunnel",
+   "items": [
+    {
+     "name": "HM04",
+     "note": "From Wanda's boyfriend, after Rock Smash the remaining debris",
+     "hidden": false
+    },
+    {
+     "name": "Max Ether",
+     "note": "Northeast part of the cave",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Hiker",
+     "name": "Mike",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Reunion",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 3,
+   "heading": "Route 116",
+   "items": [
+    {
+     "name": "Repeat Ball",
+     "note": "From the Devon researcher, after delivering the Devon Goods to Captain Stern",
+     "hidden": false
+    },
+    {
+     "name": "Black Glasses",
+     "note": "In the isolated eastern area, accessed via Rusturf Tunnel, by the bottom of the stairs (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "HP Up",
+     "note": "In the isolated eastern area, on the mountainside",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 5,
+   "level": 2,
+   "heading": "Route 118 (optional)",
+   "items": [
+    {
+     "name": "Heart Scale",
+     "note": "On the beach, on a rock near Fisherman Wade (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Aroma Lady",
+     "name": "Rose",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Deandre",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Wade",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Dalton",
+     "rematch": false
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Rose*",
+     "rematch": true
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Rose*",
+     "rematch": true
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Rose*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Dalton*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Dalton*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Dalton*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Dalton*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 111 (south)",
+   "items": [
+    {
+     "name": "Elixir",
+     "note": "Southeast of the Winstrate home",
+     "hidden": false
+    },
+    {
+     "name": "Macho Brace",
+     "note": "Reward for defeating the Winstrate family",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Camper",
+     "name": "Tyron",
+     "rematch": false
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Celina",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Bianca",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Hayden",
+     "rematch": false
+    },
+    {
+     "class": "Interviewer",
+     "name": "Gabby and Ty",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Irene",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Travis",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Winstrate House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Gabby and Ty",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 112 (south)",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Camper",
+     "name": "Larry",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Carol",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Trent",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Brice",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Trent*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Trent*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Trent*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Trent*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Access Denied",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Fiery Path",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 112 (north)",
+   "items": [
+    {
+     "name": "Pecha Berry",
+     "note": "From the Berry Trees near Fiery Path's north exit",
+     "hidden": false
+    },
+    {
+     "name": "Rawst Berry",
+     "note": "From the Berry Trees near Fiery Path's north exit",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Kindler",
+     "name": "Bryant",
+     "rematch": false
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Shayla",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 111 (north)",
+   "items": [
+    {
+     "name": "TM43",
+     "note": "From the boy near the Secret Base tree",
+     "hidden": false
+    },
+    {
+     "name": "Razz Berry",
+     "note": "From the girl near the Berry patch (one per day)",
+     "hidden": false
+    },
+    {
+     "name": "Oran Berry",
+     "note": "From the Berry Trees, north of the Rest Stop",
+     "hidden": false
+    },
+    {
+     "name": "Razz Berry",
+     "note": "From the Berry Trees, north of the Rest Stop",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Cooltrainer",
+     "name": "Wilton",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Brooke",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Daisuke",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Wilton*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Wilton*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Wilton*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Brooke*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Brooke*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Brooke*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "A Secret Power",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 113",
+   "items": [
+    {
+     "name": "Ether",
+     "note": "In a soot pile on the second eastern-most ledge (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Nugget",
+     "note": "In a soot pile on the eastern-most ledge (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Super Repel",
+     "note": "Eastern-most ledge",
+     "hidden": false
+    },
+    {
+     "name": "Max Ether",
+     "note": "Third ledge from the east, north of Parasol Lady Madeline",
+     "hidden": false
+    },
+    {
+     "name": "Soot Sack",
+     "note": "In the Glass Workshop, from the owner",
+     "hidden": false
+    },
+    {
+     "name": "TM32",
+     "note": "In a soot pile, west of the Glass Workshop and beyond the ledge (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Hyper Potion",
+     "note": "West end of the sooty ground, in the trees to the south",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Youngster",
+     "name": "Jaylen",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Lawrence",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Lung",
+     "rematch": false
+    },
+    {
+     "class": "PokéManiac",
+     "name": "Wyatt",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Madeline",
+     "rematch": false
+    },
+    {
+     "class": "Twins",
+     "name": "Tori & Tia",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Lao",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Dillon",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Sophie",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Coby",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Madeline*",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Madeline*",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Madeline*",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Lao*",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Lao*",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Glass Workshop",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Fallarbor Town",
+   "items": [
+    {
+     "name": "Nugget",
+     "note": "In the crater near Professor Cozmo's Lab (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Hyper Potion",
+     "note": "Reward for winning three consecutive battles in the Battle Tent",
+     "hidden": false
+    },
+    {
+     "name": "TM27",
+     "note": "From Professor Cozmo in his home, in exchange for the Meteorite",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Meet Lanette",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Battle Tent",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Move Maniac",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 2,
+   "heading": "Route 114",
+   "items": [
+    {
+     "name": "TM28",
+     "note": "Fossil Maniac's house, from his little brother",
+     "hidden": false
+    },
+    {
+     "name": "TM05",
+     "note": "From the old man and his Poochyena",
+     "hidden": false
+    },
+    {
+     "name": "EnergyPowder",
+     "note": "In the trees to the northeast of the bridge",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "Southwest edge of the lake (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Persim Berry",
+     "note": "In the soft soil patch past Lanette's house",
+     "hidden": false
+    },
+    {
+     "name": "List of decorations in Generation III",
+     "note": "From Lanette, after speaking to her in Fallarbor Town",
+     "hidden": false
+    },
+    {
+     "name": "Carbos",
+     "note": "On a rock, south of the southern grass patch (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Protein",
+     "note": "On the mountain's first level, northwest of PokéManiac Steve (requires Rock Smash)",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Fisherman",
+     "name": "Nolan",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Charlotte",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Kai",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Claude",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Nancy",
+     "rematch": false
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Tyra & Ivy",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Shane",
+     "rematch": false
+    },
+    {
+     "class": "PokéManiac",
+     "name": "Steve",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Bernie",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Lucas",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Angelina",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Lenny",
+     "rematch": false
+    },
+    {
+     "class": "PokéManiac",
+     "name": "Steve*",
+     "rematch": true
+    },
+    {
+     "class": "PokéManiac",
+     "name": "Steve*",
+     "rematch": true
+    },
+    {
+     "class": "PokéManiac",
+     "name": "Steve*",
+     "rematch": true
+    },
+    {
+     "class": "Kindler",
+     "name": "Bernie*",
+     "rematch": true
+    },
+    {
+     "class": "Kindler",
+     "name": "Bernie*",
+     "rematch": true
+    },
+    {
+     "class": "Kindler",
+     "name": "Bernie*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Fossil Maniac",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "Lanette's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 6,
+   "level": 3,
+   "heading": "A Berry A Day",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Meteor Falls",
+   "items": [
+    {
+     "name": "Full Heal",
+     "note": "North of the Route 114 entrance",
+     "hidden": false
+    },
+    {
+     "name": "Moon Stone",
+     "note": "On a hill, northwest of the bridge",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Route 115 (optional)",
+   "items": [
+    {
+     "name": "Super Potion",
+     "note": "On the south end of the beach, near Rustboro City",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "South of Meteor Falls, on a ledge to the east (requires Rock Smash)",
+     "hidden": false
+    },
+    {
+     "name": "Bluk Berry",
+     "note": "From the Berry Trees, south of Meteor Falls",
+     "hidden": false
+    },
+    {
+     "name": "PP Up",
+     "note": "South of Meteor Falls, at the south end of the dirt path",
+     "hidden": false
+    },
+    {
+     "name": "Heart Scale",
+     "note": "On the beach, one step north of Battle Girl Cyndy (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Black Belt",
+     "name": "Nob",
+     "rematch": false
+    },
+    {
+     "class": "Collector",
+     "name": "Hector",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Marlene",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Cyndy",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Nob*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Nob*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Nob*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Nob*",
+     "rematch": true
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Cyndy*",
+     "rematch": true
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Cyndy*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Route 112 (south)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Mt. Chimney",
+   "items": [
+    {
+     "name": "Meteorite",
+     "note": "From Maxie upon his defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Steer Clear of the Grunts",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Spotted!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Challenge Accepted!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 4,
+   "heading": "VS Tabitha",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Battle with the Boss",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 4,
+   "heading": "VS Maxie",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Jagged Pass (first visit)",
+   "items": [
+    {
+     "name": "Full Heal",
+     "note": "In the northwestern ash-covered grass patch (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Burn Heal",
+     "note": "North of a tree in the southeast part of the area",
+     "hidden": false
+    },
+    {
+     "name": "Great Ball",
+     "note": "Northwest of the Route 112 entrance, on the second ledge (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Hiker",
+     "name": "Eric",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Diana",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Autumn",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Julio",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Ethan",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Diana*",
+     "rematch": true
+    },
+    {
+     "class": "Picnicker",
+     "name": "Diana*",
+     "rematch": true
+    },
+    {
+     "class": "Picnicker",
+     "name": "Diana*",
+     "rematch": true
+    },
+    {
+     "class": "Camper",
+     "name": "Ethan*",
+     "rematch": true
+    },
+    {
+     "class": "Camper",
+     "name": "Ethan*",
+     "rematch": true
+    },
+    {
+     "class": "Camper",
+     "name": "Ethan*",
+     "rematch": true
+    },
+    {
+     "class": "Camper",
+     "name": "Ethan*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "It's All Downhill",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Lavaridge Town",
+   "items": [
+    {
+     "name": "Ice Heal",
+     "note": "In the hot spring (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Charcoal",
+     "note": "From an old man in the Herb Shop",
+     "hidden": false
+    },
+    {
+     "name": "TM50",
+     "note": "From Flannery upon her defeat",
+     "hidden": false
+    },
+    {
+     "name": "Go-Goggles",
+     "note": "From May/Brendan outside the Gym",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Pokémon Center and Hot Springs",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Herb Shop",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 3,
+   "heading": "Lavaridge Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Kindler",
+     "name": "Jeff",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Jace",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Eli",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Cole",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Gerald",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Axle",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Keegan",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Danielle",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Route 112",
+   "items": [
+    {
+     "name": "Nugget",
+     "note": "On a ledge, south of Fiery Path (can be accesed from Lavaridge Town)",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Fiery Path (optional)",
+   "items": [
+    {
+     "name": "TM06",
+     "note": "Northwest corner of the cave (requires Strength)",
+     "hidden": false
+    },
+    {
+     "name": "Fire Stone",
+     "note": "Southwest corner of the cave (requires Strength)",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Mt. Chimney (optional)",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Beauty",
+     "name": "Shirley",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Sheila",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Shelby",
+     "rematch": false
+    },
+    {
+     "class": "Hiker",
+     "name": "Sawyer",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Melissa",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Shelby*",
+     "rematch": true
+    },
+    {
+     "class": "Expert",
+     "name": "Shelby*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Sawyer*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Sawyer*",
+     "rematch": true
+    },
+    {
+     "class": "Hiker",
+     "name": "Sawyer*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 7,
+   "level": 2,
+   "heading": "Trick House - Puzzle 3 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 111 (desert, optional)",
+   "items": [
+    {
+     "name": "Protein",
+     "note": "Just north of Mirage Tower (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Rare Candy",
+     "note": "On a rock, northeast of Ruin Maniac Dusty and Picnicker Becky (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "TM37",
+     "note": "Southernmost point, south of the Desert Ruins",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Picnicker",
+     "name": "Heidi",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Beau",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Drew",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Becky",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Dusty",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Celia",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Bryan",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Branden",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Dusty",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Desert Ruins",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Mirage Tower (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 4,
+   "heading": "Relic Recovery!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Back to Petalburg City",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Petalburg City (second visit)",
+   "items": [
+    {
+     "name": "TM42",
+     "note": "From Norman upon his defeat",
+     "hidden": false
+    },
+    {
+     "name": "HM03",
+     "note": "Obtained from Wally's father after defeating Norman",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Petalburg Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Cooltrainer",
+     "name": "Randall",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Mary",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Parker",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Alexia",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "George",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Jody",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Berke",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Wally's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Trainers Rematches",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Now that you can use Surf (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Petalburg City",
+   "items": [
+    {
+     "name": "Max Revive",
+     "note": "Across the northeast pond",
+     "hidden": false
+    },
+    {
+     "name": "Ether",
+     "note": "Across the southwest pond",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Across the southwest pond (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Littleroot Town",
+   "items": [
+    {
+     "name": "Amulet Coin",
+     "note": "From the player's mother after defeating Norman",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Route 103",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Swimmer♀",
+     "name": "Isabelle",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer♂",
+     "name": "Pete",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Route 104 (north)",
+   "items": [
+    {
+     "name": "PP Up",
+     "note": "North side, across the pond at a landing on its east shore",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Route 110",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "On the small grass island",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Route 111 (south)",
+   "items": [
+    {
+     "name": "HP Up",
+     "note": "West side of the pond",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 115 (optional)",
+   "items": [
+    {
+     "name": "Heal Powder",
+     "note": "In the middle of the northwest grove",
+     "hidden": false
+    },
+    {
+     "name": "Kelpsy Berry",
+     "note": "From the Berry Trees on the route's north end",
+     "hidden": false
+    },
+    {
+     "name": "TM01",
+     "note": "West of the muddy slope",
+     "hidden": false
+    },
+    {
+     "name": "Iron",
+     "note": "South of the muddy slope (requires Mach Bike)",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Ninja Boy",
+     "name": "Jaiden",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Timothy",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Kyra",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koichi",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Helene",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Alix",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Timothy",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 105 (optional)",
+   "items": [
+    {
+     "name": "Iron",
+     "note": "On the island closest to southern terminus",
+     "hidden": false
+    },
+    {
+     "name": "Big Pearl",
+     "note": "On the island with Bird Keeper Josue and Ruin Maniac Andres (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Heart Scale",
+     "note": "On northernmost sand-only island (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Imani",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Dominik",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Foster",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Beverly",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Andres",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Josue",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Luis",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 3,
+   "heading": "Island Cave",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 106 (optional)",
+   "items": [
+    {
+     "name": "Protein",
+     "note": "On the far west shore line",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Douglas",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Kyla",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Dewford Town (optional)",
+   "items": [
+    {
+     "name": "TM36",
+     "note": "From a Collector in Dewford Hall after defeating Norman",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 107 (optional)",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Denise",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tony",
+     "rematch": false
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Lisa & Ray",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Darrin",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Beth",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Camron",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tony*",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tony*",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tony*",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 108 (optional)",
+   "items": [
+    {
+     "name": "Star Piece",
+     "note": "On an island past Ace Trainer Carolina and Sailor Cory",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "On a rock on an island to the southeast of the Abandoned Ship (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer♀",
+     "name": "Missy",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Matthew",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer♀",
+     "name": "Tara",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Carolina",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Cory",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer♂",
+     "name": "Jerome",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Cory*",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Cory*",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Cory*",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Cory*",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 8,
+   "level": 2,
+   "heading": "Route 109 (optional)",
+   "items": [
+    {
+     "name": "Heart Scale",
+     "note": "On the island with Young Couple Mel & Paul (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "PP Up",
+     "note": "On the eastern empty sandbar",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Tuber",
+     "name": "Austina",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Gwen",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer♂",
+     "name": "David",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer♀",
+     "name": "Alice",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Carter",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Elijah",
+     "rematch": false
+    },
+    {
+     "class": "Young Couple",
+     "name": "Mel & Paul",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "Abandoned Ship (optional)",
+   "items": [
+    {
+     "name": "Harbor Mail",
+     "note": "East side, northwest room",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "West side, north room",
+     "hidden": false
+    },
+    {
+     "name": "Dive Ball",
+     "note": "In the cabin with the broken door",
+     "hidden": false
+    },
+    {
+     "name": "Escape Rope",
+     "note": "Southwest cabin",
+     "hidden": false
+    },
+    {
+     "name": "TM13",
+     "note": "Northeast room (requires Storage Key)",
+     "hidden": false
+    },
+    {
+     "name": "Storage Key",
+     "note": "Captain's office",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Beauty",
+     "name": "Thalia",
+     "rematch": false
+    },
+    {
+     "class": "Youngster",
+     "name": "Demetrius",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Duncan",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Charlie",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Garrison",
+     "rematch": false
+    },
+    {
+     "class": "Tuber",
+     "name": "Jani",
+     "rematch": false
+    },
+    {
+     "class": "Young Couple",
+     "name": "Kira & Dan",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Thalia*",
+     "rematch": true
+    },
+    {
+     "class": "Beauty",
+     "name": "Thalia*",
+     "rematch": true
+    },
+    {
+     "class": "Beauty",
+     "name": "Thalia*",
+     "rematch": true
+    },
+    {
+     "class": "Young Couple",
+     "name": "Kira & Dan",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "1F (east)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "1F (west)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Captain's Office",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "Trick House - Puzzle 4 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "Mauville City (optional)",
+   "items": [
+    {
+     "name": "Basement Key",
+     "note": "From Wattson, after agreeing to help shut down New Mauville's generator",
+     "hidden": false
+    },
+    {
+     "name": "TM24",
+     "note": "From Wattson, after shutting down New Mauville's generator",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "New Mauville (optional)",
+   "items": [
+    {
+     "name": "Escape Rope",
+     "note": "Near the center of the floor, on a blue switch",
+     "hidden": false
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "East-southeast room, north of the entrance",
+     "hidden": false
+    },
+    {
+     "name": "Parlyz Heal",
+     "note": "Northwest part of the floor, on a green switch",
+     "hidden": false
+    },
+    {
+     "name": "Full Heal",
+     "note": "North-central room, on a green switch",
+     "hidden": false
+    },
+    {
+     "name": "Thunderstone",
+     "note": "East of the generator in the northeast room",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Done",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "Route 118",
+   "items": [
+    {
+     "name": "Good Rod",
+     "note": "From the Fisherman on the north end of the beach",
+     "hidden": false
+    },
+    {
+     "name": "Iron",
+     "note": "On the beach, on a rock to the northwest of Fisherman Barny (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Sitrus Berry",
+     "note": "From the soft soil patch, west of the exit to Route 119",
+     "hidden": false
+    },
+    {
+     "name": "Hyper Potion",
+     "note": "East of Bird Keeper Perry",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Interviewer",
+     "name": "Gabby & Ty",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Barny",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Chester",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Perry",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Get Good with a Good Rod",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Gabby and Ty",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Meet up with Steven",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 2,
+   "heading": "Route 123 (optional)",
+   "items": [
+    {
+     "name": "Ultra Ball",
+     "note": "South of the Berry Master's house",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "North of the Berry Master's garden (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bug Catcher",
+     "name": "Davis",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Jazmyn",
+     "rematch": false
+    },
+    {
+     "class": "Aroma Lady",
+     "name": "Violet",
+     "rematch": false
+    },
+    {
+     "class": "Twins",
+     "name": "Miu & Yuki",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 9,
+   "level": 3,
+   "heading": "Berry Master's House",
+   "items": [
+    {
+     "name": "Grepa Berry",
+     "note": "In the soft soil bed in the Berry Master's garden",
+     "hidden": false
+    },
+    {
+     "name": "Pomeg Berry",
+     "note": "In the soft soil bed in the Berry Master's garden",
+     "hidden": false
+    },
+    {
+     "name": "Qualot Berry",
+     "note": "In the soft soil bed in the Berry Master's garden",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 4,
+   "heading": "Berry Master",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 9,
+   "level": 4,
+   "heading": "Berry Master's Wife",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 2,
+   "heading": "Route 119",
+   "items": [
+    {
+     "name": "Super Repel",
+     "note": "Southernmost grass patch, in a clearing to the northwest",
+     "hidden": false
+    },
+    {
+     "name": "Full Heal",
+     "note": "Southernmost grass patch, in a small 1 tile clearing, to right of Super Repel item (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Zinc",
+     "note": "Northwest of Fisherman Eugene on the river's southern end (requires Surf)",
+     "hidden": false
+    },
+    {
+     "name": "Sitrus Berry",
+     "note": "Soft soil patch under the larger wooden bridge",
+     "hidden": false
+    },
+    {
+     "name": "Leppa Berry",
+     "note": "Soft soil patch under the larger wooden bridge",
+     "hidden": false
+    },
+    {
+     "name": "Calcium",
+     "note": "Pathway to a Secret Base entrance, west of the lower waterfall (hidden, requires Acro Bike)",
+     "hidden": true
+    },
+    {
+     "name": "Elixir",
+     "note": "East of Ninja Boy Takashi and Kindler Dayton",
+     "hidden": false
+    },
+    {
+     "name": "Elixir",
+     "note": "Southeast of the northern bridge",
+     "hidden": false
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "Patch of long grass east of the river, northeast of the lower waterfall (hidden, requires Surf)",
+     "hidden": true
+    },
+    {
+     "name": "Leaf Stone",
+     "note": "Atop the lower waterfall, to the east (requires Surf)",
+     "hidden": false
+    },
+    {
+     "name": "Max Ether",
+     "note": "Tiny strip of land at the base of the upper waterfall (hidden, requires Surf)",
+     "hidden": true
+    },
+    {
+     "name": "HM02",
+     "note": "From May/Brendan outside Fortree City, after being defeated",
+     "hidden": false
+    },
+    {
+     "name": "Pomeg Berry",
+     "note": "In the soft soil near Fortree City",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bug Catcher",
+     "name": "Kent",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Donald",
+     "rematch": false
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "Greg",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Taylor",
+     "rematch": false
+    },
+    {
+     "class": "Bug Catcher",
+     "name": "Doug",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Brent",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Chris",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Catherine",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Jackson",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Rachel",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Phil",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Takashi",
+     "rematch": false
+    },
+    {
+     "class": "Kindler",
+     "name": "Dayton",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Hugh",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fabian",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Yasu",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Hideo",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Catherine*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Catherine*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Jackson*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Jackson*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "The Mimic Circle",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Finding Feebas",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Weather Institute",
+   "items": [
+    {
+     "name": "Mystic Water",
+     "note": "Held by Castform",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 10,
+   "level": 4,
+   "heading": "Rest and Restore Health",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 4,
+   "heading": "Looking for Answers",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 4,
+   "heading": "VS Shelly",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 4,
+   "heading": "The Next Step",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Rival Battle 4",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 2,
+   "heading": "Fortree City",
+   "items": [
+    {
+     "name": "TM10",
+     "note": "From an old woman in the north-northwest house, after clearing her guessing game",
+     "hidden": false
+    },
+    {
+     "name": "Wood Mail",
+     "note": "Northwest house; held by Pluses, the traded Plusle",
+     "hidden": false
+    },
+    {
+     "name": "TM40",
+     "note": "From Winona upon her defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Secret Base Shop",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Running Errands",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Reveal Your Hidden Power",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 10,
+   "level": 3,
+   "heading": "Time for a Trade",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Route 120",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "Dead-end path north of Parasol Lady Clarissa (hidden, requires Cut)",
+     "hidden": true
+    },
+    {
+     "name": "Revive",
+     "note": "Clearing in the northernmost patch of long grass (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Devon Scope",
+     "note": "From {{steven}} on the north bridge, after battling Kecleon",
+     "hidden": false
+    },
+    {
+     "name": "Nest Ball",
+     "note": "North edge of the northern lake (requires Devon Scope)",
+     "hidden": false
+    },
+    {
+     "name": "Aspear Berry",
+     "note": "Soft soil patch, northeast of the puddle-laden area (requires Cut)",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "Puddle-laden area southwest of the northern soft soil patch",
+     "hidden": false
+    },
+    {
+     "name": "Zinc",
+     "note": "Northwest corner of the grass maze (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Nugget",
+     "note": "Southwest corner of the grass maze",
+     "hidden": false
+    },
+    {
+     "name": "Pecha Berry",
+     "note": "Southwestern-most soft soil patch",
+     "hidden": false
+    },
+    {
+     "name": "Nanab Berry",
+     "note": "Soft soil patch near the southwest pond",
+     "hidden": false
+    },
+    {
+     "name": "Pinap Berry",
+     "note": "Soft soil patch near the southwest pond",
+     "hidden": false
+    },
+    {
+     "name": "Wepear Berry",
+     "note": "Soft soil patch near the southwest pond",
+     "hidden": false
+    },
+    {
+     "name": "Razz Berry",
+     "note": "Soft soil patch near the southwest pond",
+     "hidden": false
+    },
+    {
+     "name": "Full Heal",
+     "note": "South side of the southwest pond (requires Surf)",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "South side of the southwest pond (hidden, requires Surf)",
+     "hidden": true
+    },
+    {
+     "name": "Hyper Potion",
+     "note": "North side of the southern-most patch of long grass",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Parasol Lady",
+     "name": "Clarissa",
+     "rematch": false
+    },
+    {
+     "class": "Interviewer",
+     "name": "Gabby & Ty",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Robert",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Colin",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Leonel",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Angelica",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Riley",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Callie",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Jennifer",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Jenna",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Ranger",
+     "name": "Lorenzo",
+     "rematch": false
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Jeffrey",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Keigo",
+     "rematch": false
+    },
+    {
+     "class": "Ruin Maniac",
+     "name": "Chip",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Robert*",
+     "rematch": true
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Robert*",
+     "rematch": true
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Robert*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Jeffrey*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Jeffrey*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Jeffrey*",
+     "rematch": true
+    },
+    {
+     "class": "Bug Maniac",
+     "name": "Jeffrey*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "Gabby and Ty",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "The Unseen Objects",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "Scorched Slab",
+   "items": [
+    {
+     "name": "TM11",
+     "note": "1F, far end of the cave",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "A Berry A Day",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "Ancient Tomb",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Fortree City",
+   "items": [
+    {
+     "name": "TM40",
+     "note": "From Winona upon her defeat",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "Fortree Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Bird Keeper",
+     "name": "Humberto",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Jared",
+     "rematch": false
+    },
+    {
+     "class": "Picnicker",
+     "name": "Ashley",
+     "rematch": false
+    },
+    {
+     "class": "Camper",
+     "name": "Flint",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Edwardo",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Darius",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Trick House - Puzzle 5 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Route 121",
+   "items": [
+    {
+     "name": "Aspear Berry",
+     "note": "Soft soil patch in the northwest",
+     "hidden": false
+    },
+    {
+     "name": "Chesto Berry",
+     "note": "Soft soil patch in the northwest",
+     "hidden": false
+    },
+    {
+     "name": "Persim Berry",
+     "note": "Soft soil patch in the northwest",
+     "hidden": false
+    },
+    {
+     "name": "Rawst Berry",
+     "note": "Soft soil patch in the northwest",
+     "hidden": false
+    },
+    {
+     "name": "HP Up",
+     "note": "South of Beauty Jessica, behind the fence (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Zinc",
+     "note": "South of the Safari Zone entrance",
+     "hidden": false
+    },
+    {
+     "name": "Revive",
+     "note": "Fenced-in area, between Pokémon Breeders Pat and Myles",
+     "hidden": false
+    },
+    {
+     "name": "Carbos",
+     "note": "Fenced-in area, south of Gentleman Walter",
+     "hidden": false
+    },
+    {
+     "name": "Nugget",
+     "note": "Fenced-in area, northwest of Poké Fan Vanessa (hidden, requires Cut)",
+     "hidden": true
+    },
+    {
+     "name": "Full Heal",
+     "note": "Fenced-in area, east of Poké Fan Vanessa (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Max Revive",
+     "note": "Fenced-in area, between Cooltrainers Marcel and Cristin (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Nanab Berry",
+     "note": "Soft soil patch in the southeast",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bug Maniac",
+     "name": "Cale",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Tammy",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Jessica",
+     "rematch": false
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Kate & Joy",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Pat",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Myles",
+     "rematch": false
+    },
+    {
+     "class": "Gentleman",
+     "name": "Walter",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Vanessa",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Marcel",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Cristin",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Jessica",
+     "rematch": true
+    },
+    {
+     "class": "Gentleman",
+     "name": "Walter*",
+     "rematch": true
+    },
+    {
+     "class": "Gentleman",
+     "name": "Walter*",
+     "rematch": true
+    },
+    {
+     "class": "Gentleman",
+     "name": "Walter*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Cristin*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Cristin*",
+     "rematch": true
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Cristin*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "A Sighting",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Lilycove City (briefly)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 3,
+   "heading": "Cove Lily Motel",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 11,
+   "level": 2,
+   "heading": "Route 122",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 2,
+   "heading": "Mt. Pyre",
+   "items": [
+    {
+     "name": "Cleanse Tag",
+     "note": "1F; From the old woman in the northeast corner",
+     "hidden": false
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "2F; Southwest corner",
+     "hidden": false
+    },
+    {
+     "name": "Super Repel",
+     "note": "3F; West wall",
+     "hidden": false
+    },
+    {
+     "name": "Sea Incense",
+     "note": "4F; Southwest corner, accessible by falling from 5F",
+     "hidden": false
+    },
+    {
+     "name": "Lax Incense",
+     "note": "5F; South side, accessible by falling from 6F",
+     "hidden": false
+    },
+    {
+     "name": "TM30",
+     "note": "6F; South side",
+     "hidden": false
+    },
+    {
+     "name": "TM48",
+     "note": "Atop the rock wall near the second grass patch",
+     "hidden": false
+    },
+    {
+     "name": "Max Potion",
+     "note": "Southeast of the Summit entrance",
+     "hidden": false
+    },
+    {
+     "name": "Max Ether",
+     "note": "Southwest of the Summit entrance, on a headstone (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "Northwest corner, on a headstone (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Zinc",
+     "note": "Southwest corner, on a headstone (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Northeast corner, in the tall grass (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Magma Emblem",
+     "note": "From the old woman after Team Aqua flees",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "PokéManiac",
+     "name": "Mark",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Leah",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Zander",
+     "rematch": false
+    },
+    {
+     "class": "Young Couple",
+     "name": "Dez & Luke",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Kayla",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Gabrielle",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "William",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Tasha",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Atsushi",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Valerie",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Cedric",
+     "rematch": false
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Gabrielle*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Gabrielle*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Gabrielle*",
+     "rematch": true
+    },
+    {
+     "class": "Pokémon Breeder",
+     "name": "Gabrielle*",
+     "rematch": true
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Valerie*",
+     "rematch": true
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Valerie*",
+     "rematch": true
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Valerie*",
+     "rematch": true
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "Interior",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "Exterior",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "Summit",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 2,
+   "heading": "Route 123 (optional)",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "East of the pier, near the trees (hidden, requires Cut)",
+     "hidden": true
+    },
+    {
+     "name": "TM19",
+     "note": "From a girl southwest of the pier, if shown a Grass Pokémon",
+     "hidden": false
+    },
+    {
+     "name": "Pecha Berry",
+     "note": "Soft soil patch west of the pier",
+     "hidden": false
+    },
+    {
+     "name": "Rawst Berry",
+     "note": "Soft soil patch west of the pier",
+     "hidden": false
+    },
+    {
+     "name": "Sitrus Berry",
+     "note": "Soft soil patch west of the pier",
+     "hidden": false
+    },
+    {
+     "name": "Hyper Potion",
+     "note": "On a rock, east of Hex Maniac Kindra (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Leppa Berry",
+     "note": "Soft soil patch on the north side",
+     "hidden": false
+    },
+    {
+     "name": "Elixir",
+     "note": "On a ledge, northeast of Cooltrainer Wendy",
+     "hidden": false
+    },
+    {
+     "name": "Super Repel",
+     "note": "In a clearing in a grass patch along the north treeline (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Revival Herb",
+     "note": "South of the rock outcropping, west of Guitarist Fernando",
+     "hidden": false
+    },
+    {
+     "name": "Calcium",
+     "note": "West of the pond",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Hex Maniac",
+     "name": "Kindra",
+     "rematch": false
+    },
+    {
+     "class": "Collector",
+     "name": "Ed",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Wendy",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Braxton",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fernando",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Alberto",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Jacki",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Fredrick",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Cameron",
+     "rematch": false
+    },
+    {
+     "class": "Ninja Boy",
+     "name": "Jonas",
+     "rematch": false
+    },
+    {
+     "class": "Parasol Lady",
+     "name": "Kayley",
+     "rematch": false
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fernando*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fernando*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fernando*",
+     "rematch": true
+    },
+    {
+     "class": "Guitarist",
+     "name": "Fernando*",
+     "rematch": true
+    },
+    {
+     "class": "Psychic",
+     "name": "Jacki*",
+     "rematch": true
+    },
+    {
+     "class": "Psychic",
+     "name": "Jacki*",
+     "rematch": true
+    },
+    {
+     "class": "Psychic",
+     "name": "Cameron*",
+     "rematch": true
+    },
+    {
+     "class": "Psychic",
+     "name": "Cameron*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "level": 2,
+   "heading": "Jagged Pass",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 2,
+   "heading": "Magma Hideout",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "West side of the elevated path, accessible via 2F (Room 2)",
+     "hidden": false
+    },
+    {
+     "name": "Full Restore",
+     "note": "West of the lava pool",
+     "hidden": false
+    },
+    {
+     "name": "Max Elixir",
+     "note": "East of the lava pool",
+     "hidden": false
+    },
+    {
+     "name": "Nugget",
+     "note": "West side of the lower lava pool",
+     "hidden": false
+    },
+    {
+     "name": "PP Max",
+     "note": "West side",
+     "hidden": false
+    },
+    {
+     "name": "Max Revive",
+     "note": "Northwest of Groudon's lava pool",
+     "hidden": false
+    },
+    {
+     "name": "Escape Rope",
+     "note": "Southwest corner",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "B2F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "B3F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "B2F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 3,
+   "heading": "B4F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 4,
+   "heading": "VS Tabitha",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 12,
+   "level": 4,
+   "heading": "VS Maxie",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 2,
+   "heading": "Slateport City",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Slateport Harbor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 2,
+   "heading": "Lilycove City",
+   "items": [
+    {
+     "name": "Max Repel",
+     "note": "On the peninsula in the southeast",
+     "hidden": false
+    },
+    {
+     "name": "TM44",
+     "note": "From a man in the easternmost house",
+     "hidden": false
+    },
+    {
+     "name": "Poké Ball",
+     "note": "On a rock, in the shallow water (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Heart Scale",
+     "note": "On a rock, on the southwest part of the beach (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "PP Up",
+     "note": "Just outside the Team Aqua Hideout (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Pokéblock Case",
+     "note": "From the left receptionist in the Contest Hall",
+     "hidden": false
+    },
+    {
+     "name": "Luxury Ball",
+     "note": "Prize for winning a Contest with a Pokémon that has won a Master Rank Contest before and already has a Ribbon of the won category and rank",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Pokémon Trainer Fan Club",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Cove Lily Motel",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Pokémon Contest Hall",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Pokéblock Master's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Rival Battle 5 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Lilycove Department Store",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "1F: Service Counter, Lottery Corner",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "2F: Trainers' Zone",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "3F: Battle Collection",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "4F: TM Corner",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "5F: Decoration Floor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 4,
+   "heading": "Rooftop Plaza",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Lilycove Museum",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Move Deleter's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "A Berry A Day",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 2,
+   "heading": "Aqua Hideout",
+   "items": [
+    {
+     "name": "Max Elixir",
+     "note": "East-central room",
+     "hidden": false
+    },
+    {
+     "name": "Nugget",
+     "note": "Archie's office, bottom-left item in the group of four",
+     "hidden": false
+    },
+    {
+     "name": "Master Ball",
+     "note": "Archie's office, top-left item in the group of four",
+     "hidden": false
+    },
+    {
+     "name": "Nest Ball",
+     "note": "West-central area, accessed via warp in the floor's center",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "B1F (west)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "B1F (east)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "B1F (west)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Submarine room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "B1F (west)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 13,
+   "level": 3,
+   "heading": "Submarine room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 2,
+   "heading": "Route 124",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Grace",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Declan",
+     "rematch": false
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Lila & Roy",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Spencer",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Jenny",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Chad",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Isabella",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Roland",
+     "rematch": false
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Lila & Roy*",
+     "rematch": true
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Lila & Roy*",
+     "rematch": true
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Lila & Roy*",
+     "rematch": true
+    },
+    {
+     "class": "Swimmer",
+     "name": "Jenny*",
+     "rematch": true
+    },
+    {
+     "class": "Swimmer",
+     "name": "Jenny*",
+     "rematch": true
+    },
+    {
+     "class": "Swimmer",
+     "name": "Jenny*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Treasure Hunter's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 2,
+   "heading": "Mossdeep City",
+   "items": [
+    {
+     "name": "Net Ball",
+     "note": "Southeast corner of the island",
+     "hidden": false
+    },
+    {
+     "name": "King's Rock",
+     "note": "From the boy in front of Steven's house",
+     "hidden": false
+    },
+    {
+     "name": "Super Rod",
+     "note": "From the Fisherman in the house east of the Gym",
+     "hidden": false
+    },
+    {
+     "name": "Sun Stone",
+     "note": "From a Sailor inside the Space Center",
+     "hidden": false
+    },
+    {
+     "name": "TM04",
+     "note": "From Liza and Tate upon their defeat",
+     "hidden": false
+    },
+    {
+     "name": "HM08",
+     "note": "From Steven in his house",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Steven's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Game Corner",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Running Errands",
+   "items": [
+    {
+     "name": "Mental Herb",
+     "note": "From the boy in the northeast house, after finding his Wingull in Mossdeep City",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Score the Super Rod",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Mossdeep Space Center",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Mossdeep Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Psychic",
+     "name": "Preston",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Maura",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Samantha",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Blake",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Macey",
+     "rematch": false
+    },
+    {
+     "class": "Gentleman",
+     "name": "Clifford",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Kathleen",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Nicholas",
+     "rematch": false
+    },
+    {
+     "class": "Gentleman",
+     "name": "Nate",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Virgil",
+     "rematch": false
+    },
+    {
+     "class": "Hex Maniac",
+     "name": "Sylvia",
+     "rematch": false
+    },
+    {
+     "class": "Psychic",
+     "name": "Hannah",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 14,
+   "level": 3,
+   "heading": "Space Center",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Magma Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 14,
+   "level": 4,
+   "heading": "VS Maxie, Tabitha",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 2,
+   "heading": "Trick House - Puzzle 6 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 14,
+   "level": 2,
+   "heading": "Route 125 (optional)",
+   "items": [
+    {
+     "name": "Big Pearl",
+     "note": "Middle island on the east side",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Sailor",
+     "name": "Ernest",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Nolen",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Sharon",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tanya",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Presley",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Auron",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Stan",
+     "rematch": false
+    },
+    {
+     "class": "Sr. and Jr.",
+     "name": "Kim & Iris",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Ernest*",
+     "rematch": true
+    },
+    {
+     "class": "Sailor",
+     "name": "Ernest*",
+     "rematch": true
+    },
+    {
+     "class": "Sailor",
+     "name": "Ernest*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Shoal Cave (optional)",
+   "items": [
+    {
+     "name": "Shell Bell",
+     "note": "Entrance, from the old man after handing over four Shoal Shells and four Shoal Salts",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Second Cavern, east of the central ladder",
+     "hidden": false
+    },
+    {
+     "name": "Big Pearl",
+     "note": "Entrance; northeast ledge, accessible from second cavern",
+     "hidden": false
+    },
+    {
+     "name": "Ice Heal",
+     "note": "Fourth Cavern, southeast corner",
+     "hidden": false
+    },
+    {
+     "name": "Focus Band",
+     "note": "Third Cavern, given by the Black Belt",
+     "hidden": false
+    },
+    {
+     "name": "NeverMeltIce",
+     "note": "Ice Cavern, south end of the central plateau",
+     "hidden": false
+    },
+    {
+     "name": "TM07",
+     "note": "Ice Cavern, atop the ledge",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "High tide",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Second Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Low tide",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Second Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Fourth Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Second Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Third Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Ice Cavern",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Now that you can use Dive (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Route 124",
+   "items": [
+    {
+     "name": "Blue Shard",
+     "note": "Shallow water, accessed by surfacing in the west-southwest Dive spot",
+     "hidden": false
+    },
+    {
+     "name": "Red Shard",
+     "note": "Shallow water, accessed by surfacing in the northwest Dive spot",
+     "hidden": false
+    },
+    {
+     "name": "Yellow Shard",
+     "note": "Shallow water, accessed by surfacing in the northeast Dive spot",
+     "hidden": false
+    },
+    {
+     "name": "Green Shard",
+     "note": "Beneath the smaller Dive spot near Lilycove City, in a clearing in the seaweed patch (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Carbos",
+     "note": "Clearing in the seaweed patch in the S-shaped trench (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Calcium",
+     "note": "In the dark spot directly beneath the north-central Dive spot (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Big Pearl",
+     "note": "In the dark spot directly beneath the larger Dive spot southwest of the Treasure Hunter's house (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Pearl",
+     "note": "In the dark spot directly beneath the second Dive spot north-northwest of the Treasure Hunter's house (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Abandoned Ship",
+   "items": [
+    {
+     "name": "Rm. 1 Key",
+     "note": "Room 3, northeast corner (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Water Stone",
+     "note": "Room 3",
+     "hidden": false
+    },
+    {
+     "name": "Rm. 4 Key",
+     "note": "Room 1, near the west wall (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "TM18",
+     "note": "Room 1",
+     "hidden": false
+    },
+    {
+     "name": "Rm. 6 Key",
+     "note": "Room 4, in the trash can (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Luxury Ball",
+     "note": "Room 6",
+     "hidden": false
+    },
+    {
+     "name": "Rm. 2 Key",
+     "note": "Room 5, three step south of the left-hand trash can (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Scanner",
+     "note": "Room 2",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "Hidden Floor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Slateport City",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Route 127",
+   "items": [
+    {
+     "name": "Zinc",
+     "note": "In the northwestern-most patch of shallow water",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "South side of the tree-covered northwest island",
+     "hidden": false
+    },
+    {
+     "name": "Carbos",
+     "note": "South end of the isolated grove, accessed via Dive spot near the southeast island",
+     "hidden": false
+    },
+    {
+     "name": "Star Piece",
+     "note": "Main area's center-west branch, on a small rock (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Heart Scale",
+     "note": "Main area's center trench, on small rock to the south (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "HP Up",
+     "note": "Main area's center-east branch, on a small rock (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Red Shard",
+     "note": "Isolated eastern trench, on a small rock (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Bird Keeper",
+     "name": "Aidan",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Athena",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Jonah",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Roger",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Henry",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Camden",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koji",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Donny",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koji*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koji*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koji*",
+     "rematch": true
+    },
+    {
+     "class": "Black Belt",
+     "name": "Koji*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Route 128",
+   "items": [
+    {
+     "name": "Protein",
+     "note": "Main area, on a small rock in the middle of the rocky ring (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Pearl",
+     "note": "display=Pearl",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Cooltrainer",
+     "name": "Ruben",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Alexa",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Wayne",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Isaiah",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Katelyn",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Carlee",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Harrison",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Isaiah*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Isaiah*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Katelyn*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Katelyn*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Seafloor Cavern",
+   "items": [
+    {
+     "name": "TM26",
+     "note": "Deepest Room, east of the doorway",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    },
+    {
+     "class": "Team Aqua Grunt",
+     "name": "",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 1",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 2",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 3",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 4",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 5",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 6",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 7",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "VS Shelly",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Room 8",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 3,
+   "heading": "Deepest Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 4,
+   "heading": "VS Archie",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 15,
+   "level": 2,
+   "heading": "Route 128",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Route 126",
+   "items": [
+    {
+     "name": "Green Shard",
+     "note": "Northwest corner of the route, accessible through an underwater passage from Route 124 (requires Dive)",
+     "hidden": false
+    },
+    {
+     "name": "Stardust",
+     "note": "Northeast dark spot (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "North-central dark spot (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Heart Scale",
+     "note": "Northwest dark spot (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Yellow Shard",
+     "note": "Far western area, in a clearing in a patch of seaweed (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Pearl",
+     "note": "Far western area, in a clearing in a patch of seaweed (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Iron",
+     "note": "Far western area, in a clearing in a patch of seaweed (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Blue Shard",
+     "note": "Very southwest area, in a patch of seaweed (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Big Pearl",
+     "note": "Among the seaweed on the crater's southeast side (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Leonardo",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Isobel",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Dean",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Nikki",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Barry",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Sienna",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Pablo",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Brenda",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Pablo*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Pablo*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Pablo*",
+     "rematch": true
+    },
+    {
+     "class": "Triathlete",
+     "name": "Pablo*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Sootopolis City (first visit)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "A Battle of Legends",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Catch Up with Steven",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Cave of Origin",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Route 129",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Reed",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Chase",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Allison",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Clarence",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Tisha",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Route 130",
+   "items": [
+    {
+     "name": "Liechi Berry",
+     "note": "Soft soil patch on Mirage Island",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Rodney",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Katie",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Santiago",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Mirage Island",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Route 131",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Kevin",
+     "rematch": false
+    },
+    {
+     "class": "Triathlete",
+     "name": "Talia",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Richard",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Kara",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Herman",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Susie",
+     "rematch": false
+    },
+    {
+     "class": "Sis and Bro",
+     "name": "Reli & Ian",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 16,
+   "level": 2,
+   "heading": "Pacifidlog Town (optional)",
+   "items": [
+    {
+     "name": "TM21",
+     "note": "Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is low (one TM per week)",
+     "hidden": false
+    },
+    {
+     "name": "TM27",
+     "note": "Southwest house, from the Fan Club Chairman's brother if lead Pokémon's friendship is high (one TM per week)",
+     "hidden": false
+    },
+    {
+     "name": "Wave Mail",
+     "note": "Held by Seasor, the traded Horsea",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "An Old Legend",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Mirage Man",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Time for a Trade",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 16,
+   "level": 3,
+   "heading": "Friendship is Everything",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Routes 132, 133, and 134 (optional)",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "North side of the northwest island",
+     "hidden": false
+    },
+    {
+     "name": "Protein",
+     "note": "On the ring-shaped patch of shallow water in the southwest",
+     "hidden": false
+    },
+    {
+     "name": "Star Piece",
+     "note": "North side of the northwest island",
+     "hidden": false
+    },
+    {
+     "name": "Max Revive",
+     "note": "Among the rocks in the large shallow water patch in the southeast",
+     "hidden": false
+    },
+    {
+     "name": "Big Pearl",
+     "note": "Southern of the two shallows in the northeast",
+     "hidden": false
+    },
+    {
+     "name": "Carbos",
+     "note": "South side of the sandy part of the largest island",
+     "hidden": false
+    },
+    {
+     "name": "Star Piece",
+     "note": "Shallows in the southwest",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Swimmer",
+     "name": "Gilbert",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Dana",
+     "rematch": false
+    },
+    {
+     "class": "Fisherman",
+     "name": "Ronald",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Kiyo",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Paxton",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Darcy",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Makayla",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Jonathan",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Linda",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Beck",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Conor",
+     "rematch": false
+    },
+    {
+     "class": "Expert",
+     "name": "Mollie",
+     "rematch": false
+    },
+    {
+     "class": "Cool Trainer",
+     "name": "Warren",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Debra",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Franklin",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Laurel",
+     "rematch": false
+    },
+    {
+     "class": "Swimmer",
+     "name": "Jack",
+     "rematch": false
+    },
+    {
+     "class": "Black Belt",
+     "name": "Hitoshi",
+     "rematch": false
+    },
+    {
+     "class": "Battle Girl",
+     "name": "Reyna",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Hudson",
+     "rematch": false
+    },
+    {
+     "class": "Dragon Tamer",
+     "name": "Aaron",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Marley",
+     "rematch": false
+    },
+    {
+     "class": "Bird Keeper",
+     "name": "Alex",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Kelvin",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Northern path",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Central path",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "To the Depths",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Sealed Chamber",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 4,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 4,
+   "heading": "Back Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Desert Ruins (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Back Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Island Cave (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Back Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Ancient Tomb (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Back Room",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Sky Pillar",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Exterior",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "1F-5F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Apex",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 2,
+   "heading": "Sootopolis City (second visit)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Rayquaza to the Rescue",
+   "items": [
+    {
+     "name": "HM07",
+     "note": "From Wallace in front of the Gym",
+     "hidden": false
+    },
+    {
+     "name": "TM31",
+     "note": "From the Black Belt in the northwestern-most house",
+     "hidden": false
+    },
+    {
+     "name": "TM03",
+     "note": "From Juan upon his defeat",
+     "hidden": false
+    },
+    {
+     "name": "Decoration",
+     "note": "From the girl in the house east of the Pokémon Center",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Move Tutor",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Sootopolis Gym",
+   "items": [],
+   "trainers": [
+    {
+     "class": "Beauty",
+     "name": "Connie",
+     "rematch": false
+    },
+    {
+     "class": "Lass",
+     "name": "Andrea",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Daphne",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Annika",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Tiffany",
+     "rematch": false
+    },
+    {
+     "class": "Lass",
+     "name": "Crissy",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Bethany",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Olivia",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Brianna",
+     "rematch": false
+    },
+    {
+     "class": "Beauty",
+     "name": "Bridget",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "Competitive brothers",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 17,
+   "level": 3,
+   "heading": "A Berry A Day",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Sky Pillar (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "1F-5F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "Apex",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Trick House - Puzzle 7 (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Now that you can use Waterfall (optional)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "Route 114",
+   "items": [
+    {
+     "name": "Rare Candy",
+     "note": "In the small patch of land west of the top of the waterfall (requires Surf and Waterfall)",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "Route 119",
+   "items": [
+    {
+     "name": "Hondew Berry",
+     "note": "Soft soil patch near the upper waterfall (requires Surf, Waterfall)",
+     "hidden": false
+    },
+    {
+     "name": "Nugget",
+     "note": "Far north past the upper waterfall (requires Acro Bike, Surf, and Waterfall)",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Northwest of the upper waterfall (requires Surf, Waterfall, Acro Bike, Devon Scope)",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Meteor Falls (optional)",
+   "items": [
+    {
+     "name": "TM23",
+     "note": "Northwestern-most hill, accessed via B1F (requires Surf, Waterfall)",
+     "hidden": false
+    },
+    {
+     "name": "PP Up",
+     "note": "Southeastern hill, accessed via B1F (requires Surf, Waterfall)",
+     "hidden": false
+    },
+    {
+     "name": "TM02",
+     "note": "In the dead-end back chamber (requires Surf, Waterfall)",
+     "hidden": false
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Old Couple",
+     "name": "John and Jay",
+     "rematch": false
+    },
+    {
+     "class": "Dragon Tamer",
+     "name": "Nicolas",
+     "rematch": false
+    },
+    {
+     "class": "Old Couple",
+     "name": "John and Jay",
+     "rematch": true
+    },
+    {
+     "class": "Dragon Tamer",
+     "name": "Nicolas*",
+     "rematch": true
+    },
+    {
+     "class": "Dragon Tamer",
+     "name": "Nicolas*",
+     "rematch": true
+    },
+    {
+     "class": "Dragon Tamer",
+     "name": "Nicolas*",
+     "rematch": true
+    }
+   ]
+  },
+  {
+   "part": 18,
+   "level": 4,
+   "heading": "1F (front)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 4,
+   "heading": "1F (back)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 4,
+   "heading": "B1F (front)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Ever Grande City (south)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Victory Road",
+   "items": [
+    {
+     "name": "Max Elixir",
+     "note": "On a ledge on the east side of the floor",
+     "hidden": false
+    },
+    {
+     "name": "PP Up",
+     "note": "On the southeast cliff, accessible via B1F",
+     "hidden": false
+    },
+    {
+     "name": "Ultra Ball",
+     "note": "On the west edge of the southeast cliff, accessible via B1F (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Full Restore",
+     "note": "North of Cooltrainer Samuel (requires Strength, Rock Smash)",
+     "hidden": false
+    },
+    {
+     "name": "TM29",
+     "note": "Isolated northeast cliff, accessible via B2F",
+     "hidden": false
+    },
+    {
+     "name": "Max Repel",
+     "note": "In a nook near the northeast ladder (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Full Heal",
+     "note": "Between the two waterfalls, near Cooltrainer Vito",
+     "hidden": false
+    },
+    {
+     "name": "Elixir",
+     "note": "In a nook atop the eastern waterfall (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Cooltrainer",
+     "name": "Albert",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Hope",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Shannon",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Samuel",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Julie",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Owen",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Dianne",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Felix",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Caroline",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Vito",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Michelle",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Mitchell",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Halle",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Edgar",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Katelynn",
+     "rematch": false
+    },
+    {
+     "class": "Cooltrainer",
+     "name": "Quincy",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 4,
+   "heading": "VS Wally",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "B2F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "B1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 18,
+   "level": 2,
+   "heading": "Ever Grande City (north)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 2,
+   "heading": "Pokémon League",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 3,
+   "heading": "Elite Four",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 4,
+   "heading": "Battle 1: Sidney",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 4,
+   "heading": "Battle 2: Phoebe",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 4,
+   "heading": "Battle 3: Glacia",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 4,
+   "heading": "Battle 4: Drake",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 3,
+   "heading": "Champion",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 19,
+   "level": 3,
+   "heading": "Hall of Fame",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Littleroot Town",
+   "items": [
+    {
+     "name": "S.S. Ticket",
+     "note": "From Norman, after defeating the Elite Four and Champion for the first time",
+     "hidden": false
+    },
+    {
+     "name": "National Pokédex",
+     "note": "From Professor Birch in his lab, after entering the Hall of Fame",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Home",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "The Eon Pokémon",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Professor Birch's Lab",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 4,
+   "heading": "National Pokédex",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 4,
+   "heading": "Johto Starter Pokemon",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Gym Leaders and Wally rematches",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Trick House - Puzzle 8",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Altering Cave",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Trainer Hill",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Desert Underpass",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Route 123",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Safari Zone",
+   "items": [
+    {
+     "name": "Max Revive",
+     "note": "South edge of the southwest pond (requires Surf)",
+     "hidden": false
+    },
+    {
+     "name": "TM22",
+     "note": "Northeast edge of the pond (requires Mach Bike, Surf)",
+     "hidden": false
+    },
+    {
+     "name": "Calcium",
+     "note": "North edge of the northwest grass patch (requires Acro Bike)",
+     "hidden": false
+    },
+    {
+     "name": "PP Up",
+     "note": "South of the southern-most Pokéblock stand (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Full Restore",
+     "note": "North edge of the southeast grass patch (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Big Pearl",
+     "note": "Northeast patch of grass, east of the waterfall (requires Surf)",
+     "hidden": false
+    },
+    {
+     "name": "Rare Candy",
+     "note": "Southeast portion of the area, in a 2×3 patch of light green grass, in the southeastern-most square (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Zinc",
+     "note": "In the first alcove along the rocky patch (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Nugget",
+     "note": "Between two ledges at the end of the rocky path",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Safari Game",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "The Super-Ancient Pokémon",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Weather Institute",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Terra Cave",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Marine Cave",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 2,
+   "heading": "Steven Continues His Training",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Mossdeep City",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 20,
+   "level": 3,
+   "heading": "Meteor Falls",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 2,
+   "heading": "Slateport City/Lilycove City",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 2,
+   "heading": "S.S. Tidal",
+   "items": [
+    {
+     "name": "TM49",
+     "note": "From a man in the top-right cabin",
+     "hidden": false
+    },
+    {
+     "name": "Leftovers",
+     "note": "In the northwest trash can on the basement floor (hidden)",
+     "hidden": true
+    }
+   ],
+   "trainers": [
+    {
+     "class": "Young Couple",
+     "name": "Lea & Jed",
+     "rematch": false
+    },
+    {
+     "class": "Rich Boy",
+     "name": "Garret",
+     "rematch": false
+    },
+    {
+     "class": "Gentleman",
+     "name": "Micah",
+     "rematch": false
+    },
+    {
+     "class": "Pokéfan",
+     "name": "Colton",
+     "rematch": false
+    },
+    {
+     "class": "Lady",
+     "name": "Naomi",
+     "rematch": false
+    },
+    {
+     "class": "Gentleman",
+     "name": "Thomas",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Phillip",
+     "rematch": false
+    },
+    {
+     "class": "Sailor",
+     "name": "Leonard",
+     "rematch": false
+    }
+   ]
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "1F",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Basement",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "The Battle Frontier beckons!",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 2,
+   "heading": "Battle Frontier",
+   "items": [
+    {
+     "name": "Trainer Card (game)",
+     "note": "sprite=Frontier Pass E",
+     "hidden": false
+    },
+    {
+     "name": "1-3 BP",
+     "note": "Gift from Scott when first talked to at his house",
+     "hidden": false
+    },
+    {
+     "name": "Retro Mail",
+     "note": "Held by Meowow, the traded Meowth",
+     "hidden": false
+    },
+    {
+     "name": "List of decorations in Generation III",
+     "note": "From Scott, after winning 50 consecutive battles in the Battle Tower",
+     "hidden": false
+    },
+    {
+     "name": "List of decorations in Generation III",
+     "note": "From Scott, after winning 100 consecutive battles in the Battle Tower",
+     "hidden": false
+    },
+    {
+     "name": "Lansat Berry",
+     "note": "From Scott, after winning all seven Silver Symbols",
+     "hidden": false
+    },
+    {
+     "name": "Starf Berry",
+     "note": "From Scott, after winning all seven Gold Symbols",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Entrance",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Overview",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Restrictions",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Scott's House",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Factory",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Dome",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Tucker (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Tucker (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Pike",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Lucy (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Lucy (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Tower",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Anabel (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Anabel (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Arena",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Greta (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Greta (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Palace",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Spenser (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Spenser (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Battle Pyramid",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Brandon (Silver Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "VS Brandon (Gold Challenge)",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 3,
+   "heading": "Other Areas",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "The Odd Tree",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Artisan Cave",
+   "items": [
+    {
+     "name": "Iron",
+     "note": "Northeast of the entrance, on the northern of two rocks (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "HP Up",
+     "note": "In the southeast pit",
+     "hidden": false
+    },
+    {
+     "name": "Zinc",
+     "note": "On a rock in the eastern pit (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Calcium",
+     "note": "North-northeast area, on the right-most of two rocks near the stairway (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Protein",
+     "note": "Northwest corner, on the north-most of two rocks (hidden)",
+     "hidden": true
+    },
+    {
+     "name": "Carbos",
+     "note": "At the end of the eastern path",
+     "hidden": false
+    }
+   ],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Time for a Trade",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Ranking Hall",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Double or Nothing",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Stats Judge",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Move Tutors",
+   "items": [],
+   "trainers": []
+  },
+  {
+   "part": 21,
+   "level": 4,
+   "heading": "Exchange Service Corner",
+   "items": [],
+   "trainers": []
+  }
+ ]
+}

@@ -320,6 +320,7 @@ EXTRA_GIFTS = [
     ('littleroot-town', 'item', 'Amulet Coin', 'Your house 1F', "Mom (once you have Dad's badge, the fifth)", None),
     ('littleroot-town', 'item', 'S.S. Ticket', 'Your house 1F', 'Dad (after you enter the Hall of Fame)', None),
     ('lilycove-city', 'item', 'Pokéblock Case', 'Contest Lobby', 'Contest receptionist', None),
+    ('route-111', 'item', 'TM43', 'Outside', 'Boy by the Secret Base tree', None),
     ('rustboro-city', 'item', 'PokéNav', 'Devon Corp 3F', 'Mr. Stone (return the Devon Goods)', None),
 ]
 for k in EXTRA_GIFTS: gifts[k] = True
@@ -377,7 +378,7 @@ for sp in ('TREECKO', 'TORCHIC', 'MUDKIP'):
                                             'notes': "Starter: choose one from Professor Birch's bag. Get the other two by trading."})
 STATIC_AFTER = {('route-119', 'KECLEON'): ('route-120', 'Invisible until you have the Devon Scope from Steven on Route 120.'),
                ('route-120', 'KECLEON'): ('route-120', 'Invisible until you have the Devon Scope from Steven on the bridge.'),
-               'RAYQUAZA': ('pokemon-league', 'Asleep at the top until the story wakes it; catchable after you enter the Hall of Fame. Needs the Mach Bike. Save first.')}
+               'RAYQUAZA': ('sootopolis-city', 'Asleep at the top until the story wakes it; back at the top and catchable once it has calmed Groudon and Kyogre in Sootopolis. Needs the Mach Bike. Save first.')}
 for (lid, area, sp, lvl) in statics:
     a = STATIC_AFTER.get((lid, sp)) or STATIC_AFTER.get(sp)
     locs[lid]['encounters'].append({**mon('SPECIES_' + sp), 'method': 'static', 'levels': lvl, 'area': area, 'notes': a[1] if a else 'One chance: save first',
@@ -486,6 +487,15 @@ for f in glob.glob(P('data/maps/*/scripts.inc')):
             label_map[cur_label] = mapname
             continue
         if cur_label: labels[cur_label].append(line.strip())
+# Gabby & Ty's battles live in a shared script; they first battle you on Route 111
+# (later rounds move between Routes 111, 118 and 120 and count as rematches).
+cur_label = None
+for line in open(P('data/scripts/gabby_and_ty.inc'), encoding='utf-8'):
+    lm = re.match(r'(\w+)::', line)
+    if lm:
+        cur_label = lm.group(1); labels[cur_label] = []; label_map[cur_label] = 'Route111'
+        continue
+    if cur_label: labels[cur_label].append(line.strip())
 
 # trainerbattle_single/double/no_intro TRAINER_X, ...  and  trainerbattle TRAINER_BATTLE_<kind>, TRAINER_X, ...
 BATTLE_RE = re.compile(r'trainerbattle(?:_(single|double|no_intro)\s+|\s+TRAINER_BATTLE_(\w+),\s*)(TRAINER_\w+)(.*)')
@@ -515,7 +525,8 @@ RIVAL_RE = re.compile(r'TRAINER_(?:MAY|BRENDAN)_(\w+)_(TREECKO|TORCHIC|MUDKIP)$'
 def is_rematch(c):
     """Later Match Call rematches (TRAINER_ROSE_2..5, TRAINER_WALLY_VR_2..5) aren't first battles."""
     m = re.match(r'(TRAINER_\w+?)_([2-9])$', c)
-    return bool(m and (m.group(1) + '_1') in tdefs)
+    return bool(m and (m.group(1) + '_1') in battled)  # TRAINER_MIKE_2 is a first battle: MIKE_1 is never used
+battled = {b.group(3) for ls in labels.values() for x in ls for b in [BATTLE_RE.match(x)] if b}
 WALK = {'Route101': 'N', 'Route103': 'N', 'Route102': 'W', 'Route104': 'N', 'Route116': 'E', 'Route105': 'S', 'Route106': 'E',
         'Route107': 'E', 'Route108': 'E', 'Route109': 'N', 'Route110': 'N', 'Route117': 'W', 'Route111': 'N', 'Route112': 'W',
         'Route113': 'W', 'Route114': 'N', 'Route115': 'N', 'Route118': 'E', 'Route119': 'N', 'Route120': 'S', 'Route121': 'E',

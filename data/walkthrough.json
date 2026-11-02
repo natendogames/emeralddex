@@ -1,5 +1,5 @@
 {
- "_about": "Story steps per location, in play order. Facts come from the pret/pokeemerald event scripts (story flags and variables, who gives what, which battles happen); references in braces point at the game data and are checked by tests/walkthrough.js. _checked lists locations whose steps were checked against the decomp scripts.",
+ "_about": "Story steps per location, in play order. Facts come from the pret/pokeemerald event scripts (story flags and variables, who gives what, which battles happen); references in braces point at the game data and are checked by tests/walkthrough.js. _checked lists locations whose steps were checked against a second source (decomp event scripts and/or Bulbapedia's walkthrough; see docs/bulbapedia-check.md).",
  "littleroot-town": [
   "You arrive in the moving truck. Go upstairs, set the clock, then watch the TV with Mom: Dad is the new Petalburg Gym Leader.",
   "Visit the house next door and go upstairs to meet Professor Birch's child, your rival (May if you play as Brendan, Brendan if you play as May). Then head north to {loc:route-101}.",
@@ -92,12 +92,13 @@
   "The old man outside holds any Egg your Pokémon make."
  ],
  "verdanturf-town": [
-  "Wally's family has moved here. The Contest Hall is the place to start contests.",
+  "Wally is staying here with his cousin Wanda's family. The Contest Hall is the place to start contests.",
   "The woman in the Battle Tent lobby gives you {gift:item-battle-tent-lobby-tm45}.",
   "{loc:rusturf-tunnel} on the west side joins Rustboro once you Rock Smash the boulders."
  ],
  "route-111": [
   "North of Mauville. A sandstorm keeps you out of the desert until you have the Go-Goggles from {loc:lavaridge-town}.",
+  "Gabby and Ty, the TV crew you met in Slateport, stand along the road and challenge you to a Double Battle: beat {trainer:gabby-and-ty}. Later rematches move between Routes 111, 118 and 120. A boy near the Secret Base tree gives you {gift:item-outside-tm43} (Secret Power).",
   "The Winstrate family in the house battle you one after another; beat them all and Victoria gives you the {gift:item-winstrate-family-s-house-macho-brace}.",
   "Go north past the Winstrates' house to {loc:route-112}."
  ],
@@ -126,7 +127,7 @@
   "The inner rooms need Surf and Waterfall; {mon:371} lives in the back room. Steven's room opens after the Hall of Fame."
  ],
  "route-115": [
-  "North of Rustboro, reached through {loc:meteor-falls}. Most of the beach needs Surf."
+  "Walk north from Rustboro to reach it; {loc:meteor-falls} also opens onto it. Most of the beach needs Surf."
  ],
  "mt-chimney": [
   "Ride the cable car up. Beat {trainer:tabitha-mt-chimney} and then {trainer:maxie-mt-chimney} to stop them using the meteorite on the volcano.",
@@ -188,8 +189,9 @@
   "Team Aqua is heading for {loc:mt-pyre}. The {loc:safari-zone} is on the way to Lilycove."
  ],
  "safari-zone": [
+  "You need the Pokéblock Case from the {loc:lilycove-city} Contest Hall to get in, so pick it up on your first stop in Lilycove.",
   "500 steps and 30 Safari Balls a visit. No battling; a Pokéblock feeder helps keep a Pokémon from running.",
-  "Some areas need the Mach or Acro Bike. Two extra areas open after the Hall of Fame."
+  "Some areas need the Mach or Acro Bike. Two extra areas open once you have the National Pokédex (after the Hall of Fame)."
  ],
  "lilycove-city": [
   "{trainer:rival-lilycove} battles you outside the Department Store. Team Aqua Grunts block the cove for now.",
@@ -205,7 +207,7 @@
   "Take the emblem to {loc:jagged-pass} to open the Magma Hideout."
  ],
  "route-123": [
-  "One-way ledges lead back east to Route 118. A girl gives you {gift:item-outside-tm19} if your lead knows a Grass move.",
+  "One-way ledges run west back to Route 118, so you can't walk east to Route 122 from here. A girl gives you {gift:item-outside-tm19} if you have a Grass-type Pokémon in your party.",
   "The Berry Master gives you a berry every day, and his wife gives rare berries for the right phrases."
  ],
  "magma-hideout": [
@@ -251,7 +253,7 @@
   "A Black Belt gives you {gift:item-house-1-tm31}, and Kiri gives you a berry every day."
  ],
  "cave-of-origin": [
-  "Wallace waits at the entrance during the story. There's nothing to catch here in Emerald."
+  "Wallace waits on B1F, at the bottom of the cave, and asks where Rayquaza might be. Only Zubat, Golbat and Sableye live here: Groudon and Kyogre aren't caught here in Emerald."
  ],
  "route-129": [
   "Open water on the way to Pacifidlog."
@@ -266,11 +268,11 @@
   "A village of floating logs. The woman in one house gives you {gift:item-house-2-tm27} if your lead Pokémon is friendly, or {gift:item-house-2-tm21} if it isn't."
  ],
  "sky-pillar": [
-  "Wallace lets you in. Climb with the Mach Bike to wake Rayquaza, which flies off to stop Groudon and Kyogre.",
-  "After the Hall of Fame, Rayquaza waits at the top (Lv 70)."
+  "Wallace lets you in. Climb to the top (no bike needed this first time) to wake Rayquaza, which flies off to stop Groudon and Kyogre.",
+  "Once Rayquaza has calmed Groudon and Kyogre in Sootopolis, it goes back to the top (Lv 70). The floors have crumbled, so you need the Mach Bike to reach it. Save first."
  ],
  "route-132": [
-  "Strong currents east of Pacifidlog."
+  "Strong currents west of Pacifidlog carry you west toward Slateport."
  ],
  "route-133": [
   "More currents and trainers."
@@ -303,7 +305,7 @@
   "Behind the Battle Frontier. {mon:235} lives here."
  ],
  "desert-underpass": [
-  "West of Route 114, after the Hall of Fame. The fossil you didn't take at Mirage Tower is here."
+  "Through the Fossil Maniac's back cave on Route 114, after the Hall of Fame; it comes out under the Route 111 desert. The fossil you didn't take at Mirage Tower is here."
  ],
  "altering-cave": [
   "On Route 103. Only Zubat appear without an event."
@@ -339,38 +341,88 @@
   "Needs the MysticTicket event item. {mon:249} and {mon:250}."
  ],
  "_checked": {
-  "littleroot-town": "pokeemerald event scripts",
-  "route-101": "pokeemerald event scripts",
-  "oldale-town": "pokeemerald event scripts",
-  "route-103": "pokeemerald event scripts",
-  "petalburg-city": "pokeemerald event scripts",
-  "route-104": "pokeemerald event scripts",
-  "petalburg-woods": "pokeemerald event scripts",
-  "rustboro-city": "pokeemerald event scripts",
-  "route-116": "pokeemerald event scripts",
-  "rusturf-tunnel": "pokeemerald event scripts",
-  "dewford-town": "pokeemerald event scripts",
-  "granite-cave": "pokeemerald event scripts",
-  "route-109": "pokeemerald event scripts",
-  "slateport-city": "pokeemerald event scripts",
-  "route-110": "pokeemerald event scripts",
-  "mauville-city": "pokeemerald event scripts",
-  "lavaridge-town": "pokeemerald event scripts",
-  "mt-chimney": "pokeemerald event scripts",
-  "meteor-falls": "pokeemerald event scripts",
-  "route-119": "pokeemerald event scripts",
-  "route-120": "pokeemerald event scripts",
-  "mt-pyre": "pokeemerald event scripts",
-  "magma-hideout": "pokeemerald event scripts",
-  "aqua-hideout": "pokeemerald event scripts",
-  "mossdeep-city": "pokeemerald event scripts",
-  "seafloor-cavern": "pokeemerald event scripts",
-  "sootopolis-city": "pokeemerald event scripts",
-  "victory-road": "pokeemerald event scripts",
-  "lilycove-city": "pokeemerald event scripts",
-  "fortree-city": "pokeemerald event scripts",
-  "route-111": "pokeemerald event scripts",
-  "jagged-pass": "pokeemerald event scripts",
-  "fallarbor-town": "pokeemerald event scripts"
+  "littleroot-town": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-101": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "oldale-town": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-103": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "petalburg-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-104": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "petalburg-woods": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "rustboro-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-116": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "rusturf-tunnel": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "dewford-town": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "granite-cave": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-109": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "slateport-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-110": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "mauville-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "lavaridge-town": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "mt-chimney": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "meteor-falls": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-119": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-120": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "mt-pyre": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "magma-hideout": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "aqua-hideout": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "mossdeep-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "seafloor-cavern": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "sootopolis-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "victory-road": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "lilycove-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "fortree-city": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-111": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "jagged-pass": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "fallarbor-town": "pokeemerald event scripts + Bulbapedia walkthrough",
+  "route-102": "Bulbapedia walkthrough",
+  "route-117": "Bulbapedia walkthrough",
+  "verdanturf-town": "Bulbapedia walkthrough",
+  "route-112": "Bulbapedia walkthrough",
+  "fiery-path": "Bulbapedia walkthrough",
+  "route-113": "Bulbapedia walkthrough",
+  "route-114": "Bulbapedia walkthrough",
+  "route-115": "Bulbapedia walkthrough",
+  "mirage-tower": "Bulbapedia walkthrough",
+  "route-105": "Bulbapedia walkthrough",
+  "route-106": "Bulbapedia walkthrough",
+  "route-107": "Bulbapedia walkthrough",
+  "route-108": "Bulbapedia walkthrough",
+  "abandoned-ship": "Bulbapedia walkthrough",
+  "new-mauville": "Bulbapedia walkthrough",
+  "route-118": "Bulbapedia walkthrough",
+  "scorched-slab": "Bulbapedia walkthrough",
+  "route-121": "Bulbapedia walkthrough",
+  "safari-zone": "Bulbapedia walkthrough",
+  "route-122": "Bulbapedia walkthrough",
+  "route-123": "Bulbapedia walkthrough",
+  "route-124": "Bulbapedia walkthrough",
+  "route-125": "Bulbapedia walkthrough",
+  "shoal-cave": "Bulbapedia walkthrough",
+  "route-127": "Bulbapedia walkthrough",
+  "route-128": "Bulbapedia walkthrough",
+  "route-126": "Bulbapedia walkthrough",
+  "cave-of-origin": "Bulbapedia walkthrough",
+  "route-129": "Bulbapedia walkthrough",
+  "route-130": "Bulbapedia walkthrough",
+  "route-131": "Bulbapedia walkthrough",
+  "pacifidlog-town": "Bulbapedia walkthrough",
+  "sky-pillar": "Bulbapedia walkthrough",
+  "route-132": "Bulbapedia walkthrough",
+  "route-133": "Bulbapedia walkthrough",
+  "route-134": "Bulbapedia walkthrough",
+  "ever-grande-city": "Bulbapedia walkthrough",
+  "pokemon-league": "Bulbapedia walkthrough",
+  "roaming": "Bulbapedia walkthrough",
+  "ss-tidal": "Bulbapedia walkthrough",
+  "battle-frontier": "Bulbapedia walkthrough",
+  "artisan-cave": "Bulbapedia walkthrough",
+  "desert-underpass": "Bulbapedia walkthrough",
+  "altering-cave": "Bulbapedia walkthrough",
+  "sealed-chamber": "Bulbapedia walkthrough",
+  "desert-ruins": "Bulbapedia walkthrough",
+  "island-cave": "Bulbapedia walkthrough",
+  "ancient-tomb": "Bulbapedia walkthrough",
+  "marine-cave": "Bulbapedia walkthrough",
+  "terra-cave": "Bulbapedia walkthrough"
  }
 }
