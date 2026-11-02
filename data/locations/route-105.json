@@ -1,0 +1,444 @@
+{
+ "id": "route-105",
+ "name": "Route 105",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-iron",
+   "name": "Iron",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-big-pearl",
+   "name": "Big Pearl",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Imani",
+   "prize": 208,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "imani"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Dominik",
+   "prize": 208,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "dominik"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Foster",
+   "prize": 1500,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 25,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 25,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "foster"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Luis",
+   "prize": 208,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "luis"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Andres",
+   "prize": 1500,
+   "party": [
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 25,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 25,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "andres"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Josue",
+   "prize": 800,
+   "party": [
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 25,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 25,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    }
+   ],
+   "id": "josue"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Beverly",
+   "prize": 200,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      }
+     ]
+    }
+   ],
+   "id": "beverly"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

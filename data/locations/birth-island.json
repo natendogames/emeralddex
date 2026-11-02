@@ -1,0 +1,21 @@
+{
+ "id": "birth-island",
+ "name": "Birth Island",
+ "encounters": [
+  {
+   "dex": 386,
+   "name": "Deoxys",
+   "method": "static",
+   "levels": "30",
+   "area": "Exterior",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

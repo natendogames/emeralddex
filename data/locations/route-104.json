@@ -1,0 +1,430 @@
+{
+ "id": "route-104",
+ "name": "Route 104",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "4-5",
+   "rate": "40%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "grass",
+   "levels": "4-5",
+   "rate": "20%"
+  },
+  {
+   "dex": 265,
+   "name": "Wurmple",
+   "method": "grass",
+   "levels": "4",
+   "rate": "20%"
+  },
+  {
+   "dex": 276,
+   "name": "Taillow",
+   "method": "grass",
+   "levels": "4-5",
+   "rate": "10%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "grass",
+   "levels": "3-5",
+   "rate": "10%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "95%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "100%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "100%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-pok-ball",
+   "name": "Poké Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-x-accuracy",
+   "name": "X Accuracy",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-potion",
+   "name": "Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-super-potion",
+   "name": "Super Potion",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-pok-ball",
+   "name": "Poké Ball",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-potion",
+   "name": "Potion",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-antidote",
+   "name": "Antidote",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-chesto-berry",
+   "name": "Chesto Berry",
+   "from": "Woman",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-white-herb",
+   "name": "White Herb",
+   "from": "Florist",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-tm09",
+   "name": "TM09",
+   "from": "Boy 2",
+   "where": "Outside"
+  },
+  {
+   "id": "item-pretty-petal-flower-shop-wailmer-pail",
+   "name": "Wailmer Pail",
+   "from": "Flower shop owner",
+   "where": "Pretty Petal Flower Shop"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Youngster",
+   "name": "Billy",
+   "prize": 112,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 5,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 273,
+     "name": "Seedot",
+     "level": 7,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "billy"
+  },
+  {
+   "class": "Lady",
+   "name": "Cindy",
+   "prize": 1400,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 7,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "cindy"
+  },
+  {
+   "class": "Rich Boy",
+   "name": "Winston",
+   "prize": 1400,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 7,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "winston"
+  },
+  {
+   "class": "Lass",
+   "name": "Haley",
+   "prize": 96,
+   "party": [
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    }
+   ],
+   "id": "haley"
+  },
+  {
+   "class": "Twins",
+   "name": "Gina & Mia",
+   "prize": 144,
+   "party": [
+    {
+     "dex": 273,
+     "name": "Seedot",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "gina-and-mia"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Ivan",
+   "prize": 280,
+   "party": [
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 5,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 6,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 7,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "ivan"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Darian",
+   "prize": 360,
+   "party": [
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 9,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "darian"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

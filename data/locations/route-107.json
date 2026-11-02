@@ -1,0 +1,389 @@
+{
+ "id": "route-107",
+ "name": "Route 107",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Denise",
+   "prize": 200,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "denise"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Tony",
+   "prize": 208,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "tony"
+  },
+  {
+   "class": "Sis and Bro",
+   "name": "Lisa & Ray",
+   "prize": 600,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "lisa-and-ray"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Darrin",
+   "prize": 192,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 24,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 24,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 24,
+     "iv": 1,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "darrin"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Camron",
+   "prize": 1040,
+   "party": [
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rapid Spin",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Recover",
+       "type": "Normal"
+      },
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "camron"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Beth",
+   "prize": 208,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "beth"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

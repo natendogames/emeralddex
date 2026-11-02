@@ -1,0 +1,62 @@
+{
+ "id": "route-101",
+ "name": "Route 101",
+ "encounters": [
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "2-3",
+   "rate": "45%"
+  },
+  {
+   "dex": 265,
+   "name": "Wurmple",
+   "method": "grass",
+   "levels": "2-3",
+   "rate": "45%"
+  },
+  {
+   "dex": 263,
+   "name": "Zigzagoon",
+   "method": "grass",
+   "levels": "2-3",
+   "rate": "10%"
+  },
+  {
+   "dex": 252,
+   "name": "Treecko",
+   "method": "gift",
+   "levels": "5",
+   "notes": "Starter: choose one from Professor Birch's bag. Get the other two by trading."
+  },
+  {
+   "dex": 255,
+   "name": "Torchic",
+   "method": "gift",
+   "levels": "5",
+   "notes": "Starter: choose one from Professor Birch's bag. Get the other two by trading."
+  },
+  {
+   "dex": 258,
+   "name": "Mudkip",
+   "method": "gift",
+   "levels": "5",
+   "notes": "Starter: choose one from Professor Birch's bag. Get the other two by trading."
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "mon-outside-starter-pok-mon-treecko-torchic-or-mudkip",
+   "name": "Starter Pokémon (Treecko, Torchic or Mudkip)",
+   "from": "Professor Birch's bag",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

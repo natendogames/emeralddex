@@ -1,0 +1,684 @@
+{
+ "id": "safari-zone",
+ "name": "Safari Zone",
+ "encounters": [
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "30%",
+   "area": "North"
+  },
+  {
+   "dex": 231,
+   "name": "Phanpy",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "30%",
+   "area": "North"
+  },
+  {
+   "dex": 44,
+   "name": "Gloom",
+   "method": "grass",
+   "levels": "29-31",
+   "rate": "15%",
+   "area": "North"
+  },
+  {
+   "dex": 177,
+   "name": "Natu",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "15%",
+   "area": "North"
+  },
+  {
+   "dex": 178,
+   "name": "Xatu",
+   "method": "grass",
+   "levels": "29-31",
+   "rate": "5%",
+   "area": "North"
+  },
+  {
+   "dex": 214,
+   "name": "Heracross",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "5%",
+   "area": "North"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "rock-smash",
+   "levels": "5-30",
+   "rate": "100%",
+   "area": "North"
+  },
+  {
+   "dex": 190,
+   "name": "Aipom",
+   "method": "grass",
+   "levels": "33-35",
+   "rate": "30%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 216,
+   "name": "Teddiursa",
+   "method": "grass",
+   "levels": "34-36",
+   "rate": "30%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 165,
+   "name": "Ledyba",
+   "method": "grass",
+   "levels": "33",
+   "rate": "10%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 191,
+   "name": "Sunkern",
+   "method": "grass",
+   "levels": "34",
+   "rate": "10%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 163,
+   "name": "Hoothoot",
+   "method": "grass",
+   "levels": "35",
+   "rate": "5%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 204,
+   "name": "Pineco",
+   "method": "grass",
+   "levels": "34",
+   "rate": "5%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 228,
+   "name": "Houndour",
+   "method": "grass",
+   "levels": "36-39",
+   "rate": "5%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 241,
+   "name": "Miltank",
+   "method": "grass",
+   "levels": "37-40",
+   "rate": "5%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 213,
+   "name": "Shuckle",
+   "method": "rock-smash",
+   "levels": "20-40",
+   "rate": "100%",
+   "area": "Northeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "30%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 111,
+   "name": "Rhyhorn",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "30%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 44,
+   "name": "Gloom",
+   "method": "grass",
+   "levels": "29-31",
+   "rate": "15%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 84,
+   "name": "Doduo",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "15%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 85,
+   "name": "Dodrio",
+   "method": "grass",
+   "levels": "29-31",
+   "rate": "5%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 127,
+   "name": "Pinsir",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "5%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 54,
+   "name": "Psyduck",
+   "method": "surf",
+   "levels": "20-35",
+   "rate": "95%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 55,
+   "name": "Golduck",
+   "method": "surf",
+   "levels": "25-40",
+   "rate": "5%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "40%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 119,
+   "name": "Seaking",
+   "method": "super-rod",
+   "levels": "25-40",
+   "rate": "20%",
+   "area": "Northwest"
+  },
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "40%",
+   "area": "South"
+  },
+  {
+   "dex": 203,
+   "name": "Girafarig",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "20%",
+   "area": "South"
+  },
+  {
+   "dex": 84,
+   "name": "Doduo",
+   "method": "grass",
+   "levels": "25",
+   "rate": "10%",
+   "area": "South"
+  },
+  {
+   "dex": 177,
+   "name": "Natu",
+   "method": "grass",
+   "levels": "25",
+   "rate": "10%",
+   "area": "South"
+  },
+  {
+   "dex": 202,
+   "name": "Wobbuffet",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "10%",
+   "area": "South"
+  },
+  {
+   "dex": 25,
+   "name": "Pikachu",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "5%",
+   "area": "South"
+  },
+  {
+   "dex": 44,
+   "name": "Gloom",
+   "method": "grass",
+   "levels": "25",
+   "rate": "5%",
+   "area": "South"
+  },
+  {
+   "dex": 179,
+   "name": "Mareep",
+   "method": "grass",
+   "levels": "34-36",
+   "rate": "30%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 191,
+   "name": "Sunkern",
+   "method": "grass",
+   "levels": "33-35",
+   "rate": "30%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 167,
+   "name": "Spinarak",
+   "method": "grass",
+   "levels": "33",
+   "rate": "10%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 190,
+   "name": "Aipom",
+   "method": "grass",
+   "levels": "34",
+   "rate": "10%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 163,
+   "name": "Hoothoot",
+   "method": "grass",
+   "levels": "35",
+   "rate": "5%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 207,
+   "name": "Gligar",
+   "method": "grass",
+   "levels": "37-40",
+   "rate": "5%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 209,
+   "name": "Snubbull",
+   "method": "grass",
+   "levels": "34",
+   "rate": "5%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 234,
+   "name": "Stantler",
+   "method": "grass",
+   "levels": "36-39",
+   "rate": "5%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 194,
+   "name": "Wooper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "60%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "25-35",
+   "rate": "39%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 195,
+   "name": "Quagsire",
+   "method": "surf",
+   "levels": "35-40",
+   "rate": "1%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "25-30",
+   "rate": "70%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "25-30",
+   "rate": "30%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "25-30",
+   "rate": "60%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "25-30",
+   "rate": "20%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 223,
+   "name": "Remoraid",
+   "method": "good-rod",
+   "levels": "30-35",
+   "rate": "20%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 223,
+   "name": "Remoraid",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "59%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "super-rod",
+   "levels": "25-30",
+   "rate": "40%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 224,
+   "name": "Octillery",
+   "method": "super-rod",
+   "levels": "35-40",
+   "rate": "1%",
+   "area": "Southeast",
+   "after": "pokemon-league",
+   "notes": "Safari Zone expansion: opens after you enter the Hall of Fame."
+  },
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "40%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 203,
+   "name": "Girafarig",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "20%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 84,
+   "name": "Doduo",
+   "method": "grass",
+   "levels": "27",
+   "rate": "10%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 177,
+   "name": "Natu",
+   "method": "grass",
+   "levels": "25",
+   "rate": "10%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 202,
+   "name": "Wobbuffet",
+   "method": "grass",
+   "levels": "27-29",
+   "rate": "10%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 25,
+   "name": "Pikachu",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "5%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 44,
+   "name": "Gloom",
+   "method": "grass",
+   "levels": "25",
+   "rate": "5%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 54,
+   "name": "Psyduck",
+   "method": "surf",
+   "levels": "20-35",
+   "rate": "100%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "40%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "Southwest"
+  },
+  {
+   "dex": 119,
+   "name": "Seaking",
+   "method": "super-rod",
+   "levels": "25-40",
+   "rate": "20%",
+   "area": "Southwest"
+  }
+ ],
+ "items": [
+  {
+   "id": "north-calcium",
+   "name": "Calcium",
+   "hidden": false,
+   "where": "North"
+  },
+  {
+   "id": "northeast-nugget",
+   "name": "Nugget",
+   "hidden": false,
+   "where": "Northeast"
+  },
+  {
+   "id": "hidden-northeast-rare-candy",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Northeast"
+  },
+  {
+   "id": "hidden-northeast-zinc",
+   "name": "Zinc",
+   "hidden": true,
+   "where": "Northeast"
+  },
+  {
+   "id": "northwest-tm22",
+   "name": "TM22",
+   "hidden": false,
+   "where": "Northwest"
+  },
+  {
+   "id": "southeast-big-pearl",
+   "name": "Big Pearl",
+   "hidden": false,
+   "where": "Southeast"
+  },
+  {
+   "id": "hidden-southeast-pp-up",
+   "name": "PP Up",
+   "hidden": true,
+   "where": "Southeast"
+  },
+  {
+   "id": "hidden-southeast-full-restore",
+   "name": "Full Restore",
+   "hidden": true,
+   "where": "Southeast"
+  },
+  {
+   "id": "southwest-max-revive",
+   "name": "Max Revive",
+   "hidden": false,
+   "where": "Southwest"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

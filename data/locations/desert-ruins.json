@@ -1,0 +1,20 @@
+{
+ "id": "desert-ruins",
+ "name": "Desert Ruins",
+ "encounters": [
+  {
+   "dex": 377,
+   "name": "Regirock",
+   "method": "static",
+   "levels": "40",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

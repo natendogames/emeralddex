@@ -1,0 +1,68 @@
+{
+ "id": "fiery-path",
+ "name": "Fiery Path",
+ "encounters": [
+  {
+   "dex": 322,
+   "name": "Numel",
+   "method": "grass",
+   "levels": "15-16",
+   "rate": "30%"
+  },
+  {
+   "dex": 109,
+   "name": "Koffing",
+   "method": "grass",
+   "levels": "15-16",
+   "rate": "25%"
+  },
+  {
+   "dex": 324,
+   "name": "Torkoal",
+   "method": "grass",
+   "levels": "14-16",
+   "rate": "18%"
+  },
+  {
+   "dex": 66,
+   "name": "Machop",
+   "method": "grass",
+   "levels": "15-16",
+   "rate": "15%"
+  },
+  {
+   "dex": 218,
+   "name": "Slugma",
+   "method": "grass",
+   "levels": "15",
+   "rate": "10%"
+  },
+  {
+   "dex": 88,
+   "name": "Grimer",
+   "method": "grass",
+   "levels": "14",
+   "rate": "2%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-tm06",
+   "name": "TM06",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-fire-stone",
+   "name": "Fire Stone",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

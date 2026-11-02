@@ -1,0 +1,565 @@
+{
+ "id": "fortree-city",
+ "name": "Fortree City",
+ "encounters": [
+  {
+   "dex": 311,
+   "name": "Plusle",
+   "method": "trade",
+   "area": "House 1",
+   "notes": "Trade: give Volbeat, get Plusle (\"Pluses\") · Trader"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-gym-tm40",
+   "name": "TM40",
+   "from": "Winona (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "trade-house-1-trade-give-volbeat-get-plusle-pluses",
+   "name": "Trade: give Volbeat, get Plusle (\"Pluses\")",
+   "from": "Trader",
+   "where": "House 1"
+  },
+  {
+   "id": "item-house-2-tm10",
+   "name": "TM10",
+   "from": "Old woman (guess the coin)",
+   "where": "House 2"
+  },
+  {
+   "id": "item-house-4-mental-herb",
+   "name": "Mental Herb",
+   "from": "Girl (after her Wingull delivers the mail)",
+   "where": "House 4"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Bird Keeper",
+   "name": "Humberto",
+   "prize": 960,
+   "party": [
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 30,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      }
+     ]
+    }
+   ],
+   "id": "humberto",
+   "area": "Gym"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Ashley",
+   "prize": 432,
+   "party": [
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "ashley",
+   "area": "Gym"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Jared",
+   "prize": 864,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 357,
+     "name": "Tropius",
+     "level": 27,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Razor Leaf",
+       "type": "Grass",
+       "power": 55
+      },
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "jared",
+   "area": "Gym"
+  },
+  {
+   "class": "Camper",
+   "name": "Flint",
+   "prize": 464,
+   "party": [
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 29,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Endeavor",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 178,
+     "name": "Xatu",
+     "level": 29,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "flint",
+   "area": "Gym"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Edwardo",
+   "prize": 928,
+   "party": [
+    {
+     "dex": 84,
+     "name": "Doduo",
+     "level": 29,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Pursuit",
+       "type": "Dark",
+       "power": 40
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      }
+     ]
+    },
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 29,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "edwardo",
+   "area": "Gym"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Darius",
+   "prize": 960,
+   "party": [
+    {
+     "dex": 357,
+     "name": "Tropius",
+     "level": 30,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Razor Leaf",
+       "type": "Grass",
+       "power": 55
+      },
+      {
+       "name": "Stomp",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "darius",
+   "area": "Gym"
+  },
+  {
+   "class": "Leader",
+   "name": "Winona",
+   "prize": 3300,
+   "party": [
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 29,
+     "iv": 25,
+     "moves": [
+      {
+       "name": "Perish Song",
+       "type": "Normal"
+      },
+      {
+       "name": "Mirror Move",
+       "type": "Flying"
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 357,
+     "name": "Tropius",
+     "level": 29,
+     "iv": 25,
+     "moves": [
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Solarbeam",
+       "type": "Grass",
+       "power": 120
+      },
+      {
+       "name": "Synthesis",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 30,
+     "iv": 25,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 31,
+     "iv": 26,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Steel Wing",
+       "type": "Steel",
+       "power": 70
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 334,
+     "name": "Altaria",
+     "level": 33,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      },
+      {
+       "name": "Dragonbreath",
+       "type": "Dragon",
+       "power": 60
+      },
+      {
+       "name": "Dragon Dance",
+       "type": "Dragon"
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "uses": [
+    "Hyper Potion ×2"
+   ],
+   "rewards": [
+    "Feather Badge",
+    "TM40"
+   ],
+   "id": "winona",
+   "area": "Gym"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

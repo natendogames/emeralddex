@@ -1,0 +1,441 @@
+{
+ "id": "lilycove-city",
+ "name": "Lilycove City",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "85%"
+  },
+  {
+   "dex": 120,
+   "name": "Staryu",
+   "method": "super-rod",
+   "levels": "25-30",
+   "rate": "15%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-max-repel",
+   "name": "Max Repel",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-pp-up",
+   "name": "PP Up",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-pok-ball",
+   "name": "Poké Ball",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-house-2-tm44",
+   "name": "TM44",
+   "from": "Fat Man",
+   "where": "House 2"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Rival",
+   "name": "May or Brendan",
+   "prize": 2040,
+   "byStarter": {
+    "Treecko": [
+     {
+      "dex": 357,
+      "name": "Tropius",
+      "level": 31,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Stomp",
+        "type": "Normal",
+        "power": 65
+       },
+       {
+        "name": "Sweet Scent",
+        "type": "Normal"
+       },
+       {
+        "name": "Whirlwind",
+        "type": "Normal"
+       },
+       {
+        "name": "Magical Leaf",
+        "type": "Grass",
+        "power": 60
+       }
+      ]
+     },
+     {
+      "dex": 279,
+      "name": "Pelipper",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Wing Attack",
+        "type": "Flying",
+        "power": 60
+       },
+       {
+        "name": "Supersonic",
+        "type": "Normal"
+       },
+       {
+        "name": "Mist",
+        "type": "Ice"
+       },
+       {
+        "name": "Protect",
+        "type": "Normal"
+       }
+      ]
+     },
+     {
+      "dex": 272,
+      "name": "Ludicolo",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Astonish",
+        "type": "Ghost",
+        "power": 30
+       },
+       {
+        "name": "Growl",
+        "type": "Normal"
+       },
+       {
+        "name": "Absorb",
+        "type": "Grass",
+        "power": 20
+       },
+       {
+        "name": "Nature Power",
+        "type": "Normal"
+       }
+      ]
+     },
+     {
+      "dex": 256,
+      "name": "Combusken",
+      "level": 34,
+      "iv": 24,
+      "moves": [
+       {
+        "name": "Peck",
+        "type": "Flying",
+        "power": 35
+       },
+       {
+        "name": "Sand-attack",
+        "type": "Ground"
+       },
+       {
+        "name": "Bulk Up",
+        "type": "Fighting"
+       },
+       {
+        "name": "Quick Attack",
+        "type": "Normal",
+        "power": 40
+       }
+      ]
+     }
+    ],
+    "Torchic": [
+     {
+      "dex": 357,
+      "name": "Tropius",
+      "level": 31,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Stomp",
+        "type": "Normal",
+        "power": 65
+       },
+       {
+        "name": "Sweet Scent",
+        "type": "Normal"
+       },
+       {
+        "name": "Whirlwind",
+        "type": "Normal"
+       },
+       {
+        "name": "Magical Leaf",
+        "type": "Grass",
+        "power": 60
+       }
+      ]
+     },
+     {
+      "dex": 272,
+      "name": "Ludicolo",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Astonish",
+        "type": "Ghost",
+        "power": 30
+       },
+       {
+        "name": "Growl",
+        "type": "Normal"
+       },
+       {
+        "name": "Absorb",
+        "type": "Grass",
+        "power": 20
+       },
+       {
+        "name": "Nature Power",
+        "type": "Normal"
+       }
+      ]
+     },
+     {
+      "dex": 218,
+      "name": "Slugma",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Ember",
+        "type": "Fire",
+        "power": 40
+       },
+       {
+        "name": "Rock Throw",
+        "type": "Rock",
+        "power": 50
+       },
+       {
+        "name": "Harden",
+        "type": "Normal"
+       },
+       {
+        "name": "Amnesia",
+        "type": "Psychic"
+       }
+      ]
+     },
+     {
+      "dex": 259,
+      "name": "Marshtomp",
+      "level": 34,
+      "iv": 24,
+      "moves": [
+       {
+        "name": "Mud Shot",
+        "type": "Ground",
+        "power": 55
+       },
+       {
+        "name": "Foresight",
+        "type": "Normal"
+       },
+       {
+        "name": "Mud Sport",
+        "type": "Ground"
+       },
+       {
+        "name": "Take Down",
+        "type": "Normal",
+        "power": 90
+       }
+      ]
+     }
+    ],
+    "Mudkip": [
+     {
+      "dex": 357,
+      "name": "Tropius",
+      "level": 31,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Stomp",
+        "type": "Normal",
+        "power": 65
+       },
+       {
+        "name": "Sweet Scent",
+        "type": "Normal"
+       },
+       {
+        "name": "Whirlwind",
+        "type": "Normal"
+       },
+       {
+        "name": "Magical Leaf",
+        "type": "Grass",
+        "power": 60
+       }
+      ]
+     },
+     {
+      "dex": 218,
+      "name": "Slugma",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Ember",
+        "type": "Fire",
+        "power": 40
+       },
+       {
+        "name": "Rock Throw",
+        "type": "Rock",
+        "power": 50
+       },
+       {
+        "name": "Harden",
+        "type": "Normal"
+       },
+       {
+        "name": "Amnesia",
+        "type": "Psychic"
+       }
+      ]
+     },
+     {
+      "dex": 279,
+      "name": "Pelipper",
+      "level": 32,
+      "iv": 18,
+      "moves": [
+       {
+        "name": "Wing Attack",
+        "type": "Flying",
+        "power": 60
+       },
+       {
+        "name": "Supersonic",
+        "type": "Normal"
+       },
+       {
+        "name": "Mist",
+        "type": "Ice"
+       },
+       {
+        "name": "Protect",
+        "type": "Normal"
+       }
+      ]
+     },
+     {
+      "dex": 253,
+      "name": "Grovyle",
+      "level": 34,
+      "iv": 24,
+      "moves": [
+       {
+        "name": "Fury Cutter",
+        "type": "Bug",
+        "power": 10
+       },
+       {
+        "name": "Pursuit",
+        "type": "Dark",
+        "power": 40
+       },
+       {
+        "name": "Screech",
+        "type": "Normal"
+       },
+       {
+        "name": "Leaf Blade",
+        "type": "Grass",
+        "power": 70
+       }
+      ]
+     }
+    ]
+   },
+   "id": "rival-lilycove"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

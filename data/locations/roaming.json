@@ -1,0 +1,28 @@
+{
+ "id": "roaming",
+ "name": "Roaming Legendary",
+ "encounters": [
+  {
+   "dex": 381,
+   "name": "Latios",
+   "method": "roaming",
+   "levels": "40",
+   "notes": "If you answer \"blue\" about the TV report after the Hall of Fame"
+  },
+  {
+   "dex": 380,
+   "name": "Latias",
+   "method": "roaming",
+   "levels": "40",
+   "notes": "If you answer \"red\" about the TV report after the Hall of Fame"
+  }
+ ],
+ "notes": "After you enter the Hall of Fame, your mom asks what color the Pokémon on the TV was. Your answer decides whether Latias (red) or Latios (blue) roams Hoenn's routes.",
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

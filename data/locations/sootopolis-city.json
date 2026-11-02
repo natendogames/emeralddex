@@ -1,0 +1,830 @@
+{
+ "id": "sootopolis-city",
+ "name": "Sootopolis City",
+ "encounters": [
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "100%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "100%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "80%",
+   "area": "Outside"
+  },
+  {
+   "dex": 130,
+   "name": "Gyarados",
+   "method": "super-rod",
+   "levels": "5-45",
+   "rate": "20%",
+   "area": "Outside"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-figy-berry",
+   "name": "Figy Berry",
+   "from": "Gift",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-iapapa-berry",
+   "name": "Iapapa Berry",
+   "from": "Gift",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-hm07",
+   "name": "HM07",
+   "from": "Wallace",
+   "where": "Outside"
+  },
+  {
+   "id": "item-gym-1f-tm03",
+   "name": "TM03",
+   "from": "Juan (after winning)",
+   "where": "Gym 1F"
+  },
+  {
+   "id": "item-house-1-tm31",
+   "name": "TM31",
+   "from": "Black Belt",
+   "where": "House 1"
+  },
+  {
+   "id": "item-lotad-and-seedot-house-elixir",
+   "name": "Elixir",
+   "from": "Man (show him a big Seedot)",
+   "where": "Lotad And Seedot House"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Leader",
+   "name": "Juan",
+   "prize": 4600,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 41,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sweet Kiss",
+       "type": "Normal"
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 340,
+     "name": "Whiscash",
+     "level": 41,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Rain Dance",
+       "type": "Water"
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    },
+    {
+     "dex": 364,
+     "name": "Sealeo",
+     "level": 43,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Encore",
+       "type": "Normal"
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Aurora Beam",
+       "type": "Ice",
+       "power": 65
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 342,
+     "name": "Crawdaunt",
+     "level": 43,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Crabhammer",
+       "type": "Water",
+       "power": 90
+      },
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 230,
+     "name": "Kingdra",
+     "level": 46,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Ice Beam",
+       "type": "Ice",
+       "power": 95
+      },
+      {
+       "name": "Rest",
+       "type": "Psychic"
+      }
+     ],
+     "item": "Chesto Berry"
+    }
+   ],
+   "uses": [
+    "Hyper Potion ×2"
+   ],
+   "rewards": [
+    "Rain Badge",
+    "TM03"
+   ],
+   "id": "juan",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Beauty",
+   "name": "Connie",
+   "prize": 3200,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 40,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Waterfall",
+       "type": "Water",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "connie",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Lass",
+   "name": "Andrea",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 40,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sweet Kiss",
+       "type": "Normal"
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "andrea",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Pokéfan",
+   "name": "Annika",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 349,
+     "name": "Feebas",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Return",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 349,
+     "name": "Feebas",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Return",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "annika",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Lady",
+   "name": "Daphne",
+   "prize": 7800,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Sweet Kiss",
+       "type": "Normal"
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ],
+     "item": "Nugget"
+    },
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "daphne",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Pokéfan",
+   "name": "Bethany",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 298,
+     "name": "Azurill",
+     "level": 35,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Bubble",
+       "type": "Water",
+       "power": 20
+      },
+      {
+       "name": "Slam",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      },
+      {
+       "name": "Rain Dance",
+       "type": "Water"
+      }
+     ],
+     "item": "Oran Berry"
+    },
+    {
+     "dex": 184,
+     "name": "Azumarill",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      }
+     ],
+     "item": "Oran Berry"
+    }
+   ],
+   "id": "bethany",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Beauty",
+   "name": "Bridget",
+   "prize": 3200,
+   "party": [
+    {
+     "dex": 184,
+     "name": "Azumarill",
+     "level": 40,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      }
+     ]
+    }
+   ],
+   "id": "bridget",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Beauty",
+   "name": "Olivia",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 366,
+     "name": "Clamperl",
+     "level": 35,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Rain Dance",
+       "type": "Water"
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 341,
+     "name": "Corphish",
+     "level": 37,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      },
+      {
+       "name": "Crabhammer",
+       "type": "Water",
+       "power": 90
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "olivia",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Lass",
+   "name": "Crissy",
+   "prize": 624,
+   "party": [
+    {
+     "dex": 118,
+     "name": "Goldeen",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Waterfall",
+       "type": "Water",
+       "power": 80
+      }
+     ]
+    },
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Rest",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "crissy",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Lady",
+   "name": "Brianna",
+   "prize": 8000,
+   "party": [
+    {
+     "dex": 119,
+     "name": "Seaking",
+     "level": 40,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ],
+     "item": "Nugget"
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "brianna",
+   "area": "Gym B1F"
+  },
+  {
+   "class": "Beauty",
+   "name": "Tiffany",
+   "prize": 3120,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 39,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Taunt",
+       "type": "Dark"
+      }
+     ]
+    }
+   ],
+   "id": "tiffany",
+   "area": "Gym B1F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

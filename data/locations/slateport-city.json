@@ -1,0 +1,188 @@
+{
+ "id": "slateport-city",
+ "name": "Slateport City",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%",
+   "area": "Outside"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Outside"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-powder-jar",
+   "name": "Powder Jar",
+   "from": "Berry Powder Clerk",
+   "where": "Outside"
+  },
+  {
+   "id": "item-battle-tent-lobby-tm41",
+   "name": "TM41",
+   "from": "Man",
+   "where": "Battle Tent Lobby"
+  },
+  {
+   "id": "item-harbor-deepseatooth",
+   "name": "DeepSeaTooth",
+   "from": "Captain Stern (choose one; swap later)",
+   "where": "Harbor"
+  },
+  {
+   "id": "item-harbor-deepseascale",
+   "name": "DeepSeaScale",
+   "from": "Captain Stern (choose one; swap later)",
+   "where": "Harbor"
+  },
+  {
+   "id": "item-oceanic-museum-1f-tm46",
+   "name": "TM46",
+   "from": "Aqua Grunt (after you beat him)",
+   "where": "Oceanic Museum 1F"
+  },
+  {
+   "id": "item-pok-mon-fan-club-red-scarf",
+   "name": "Red Scarf",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  },
+  {
+   "id": "item-pok-mon-fan-club-blue-scarf",
+   "name": "Blue Scarf",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  },
+  {
+   "id": "item-pok-mon-fan-club-pink-scarf",
+   "name": "Pink Scarf",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  },
+  {
+   "id": "item-pok-mon-fan-club-green-scarf",
+   "name": "Green Scarf",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  },
+  {
+   "id": "item-pok-mon-fan-club-yellow-scarf",
+   "name": "Yellow Scarf",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  },
+  {
+   "id": "item-pok-mon-fan-club-soothe-bell",
+   "name": "Soothe Bell",
+   "from": "Gift",
+   "where": "Pokémon Fan Club"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 300,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-museum",
+   "area": "Oceanic Museum 2F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

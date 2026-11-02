@@ -1,0 +1,569 @@
+{
+ "id": "route-118",
+ "name": "Route 118",
+ "encounters": [
+  {
+   "dex": 263,
+   "name": "Zigzagoon",
+   "method": "grass",
+   "levels": "24-26",
+   "rate": "30%"
+  },
+  {
+   "dex": 309,
+   "name": "Electrike",
+   "method": "grass",
+   "levels": "24-26",
+   "rate": "30%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "19%"
+  },
+  {
+   "dex": 264,
+   "name": "Linoone",
+   "method": "grass",
+   "levels": "26",
+   "rate": "10%"
+  },
+  {
+   "dex": 310,
+   "name": "Manectric",
+   "method": "grass",
+   "levels": "26",
+   "rate": "10%"
+  },
+  {
+   "dex": 352,
+   "name": "Kecleon",
+   "method": "grass",
+   "levels": "25",
+   "rate": "1%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 318,
+   "name": "Carvanha",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 318,
+   "name": "Carvanha",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "60%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-hyper-potion",
+   "name": "Hyper Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-iron",
+   "name": "Iron",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-good-rod",
+   "name": "Good Rod",
+   "from": "Fisherman",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Youngster",
+   "name": "Deandre",
+   "prize": 224,
+   "party": [
+    {
+     "dex": 263,
+     "name": "Zigzagoon",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      }
+     ]
+    },
+    {
+     "dex": 304,
+     "name": "Aron",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Metal Claw",
+       "type": "Steel",
+       "power": 50
+      }
+     ]
+    },
+    {
+     "dex": 309,
+     "name": "Electrike",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "deandre"
+  },
+  {
+   "class": "Aroma Lady",
+   "name": "Rose",
+   "prize": 560,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 14,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      }
+     ]
+    }
+   ],
+   "id": "rose"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Wade",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 16,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      }
+     ]
+    }
+   ],
+   "id": "wade"
+  },
+  {
+   "class": "Guitarist",
+   "name": "Dalton",
+   "prize": 480,
+   "party": [
+    {
+     "dex": 81,
+     "name": "Magnemite",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Metal Sound",
+       "type": "Steel"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Thundershock",
+       "type": "Electric",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 293,
+     "name": "Whismur",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Howl",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "dalton"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Barny",
+   "prize": 1000,
+   "party": [
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "barny"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Chester",
+   "prize": 800,
+   "party": [
+    {
+     "dex": 276,
+     "name": "Taillow",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "chester"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Perry",
+   "prize": 832,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    }
+   ],
+   "id": "perry"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

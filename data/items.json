@@ -1,0 +1,1279 @@
+{
+"Master Ball": {
+"desc": "The best Ball that catches a Pokémon without fail.",
+"price": 0,
+"pocket": "Poké Balls"
+},
+"Ultra Ball": {
+"desc": "A better Ball with a higher catch rate than a Great Ball.",
+"price": 1200,
+"pocket": "Poké Balls"
+},
+"Great Ball": {
+"desc": "A good Ball with a higher catch rate than a Poké Ball.",
+"price": 600,
+"pocket": "Poké Balls"
+},
+"Poké Ball": {
+"desc": "A tool used for catching wild Pokémon.",
+"price": 200,
+"pocket": "Poké Balls"
+},
+"Safari Ball": {
+"desc": "A special Ball that is used only in the Safari Zone.",
+"price": 0,
+"pocket": "Poké Balls"
+},
+"Net Ball": {
+"desc": "A Ball that works well on Water- and Bug-type Pokémon.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Dive Ball": {
+"desc": "A Ball that works better on Pokémon on the ocean floor.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Nest Ball": {
+"desc": "A Ball that works better on weaker Pokémon.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Repeat Ball": {
+"desc": "A Ball that works better on Pokémon caught before.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Timer Ball": {
+"desc": "A Ball that gains power in battles taking many turns.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Luxury Ball": {
+"desc": "A cozy Ball that makes Pokémon more friendly.",
+"price": 1000,
+"pocket": "Poké Balls"
+},
+"Premier Ball": {
+"desc": "A rare Ball made in commemoration of some event.",
+"price": 200,
+"pocket": "Poké Balls"
+},
+"Potion": {
+"desc": "Restores the HP of a Pokémon by 20 points.",
+"price": 300,
+"pocket": "Items"
+},
+"Antidote": {
+"desc": "Heals a poisoned Pokémon.",
+"price": 100,
+"pocket": "Items"
+},
+"Burn Heal": {
+"desc": "Heals Pokémon of a burn.",
+"price": 250,
+"pocket": "Items"
+},
+"Ice Heal": {
+"desc": "Defrosts a frozen Pokémon.",
+"price": 250,
+"pocket": "Items"
+},
+"Awakening": {
+"desc": "Awakens a sleeping Pokémon.",
+"price": 250,
+"pocket": "Items"
+},
+"Parlyz Heal": {
+"desc": "Heals a paralyzed Pokémon.",
+"price": 200,
+"pocket": "Items"
+},
+"Full Restore": {
+"desc": "Fully restores the HP and status of a Pokémon.",
+"price": 3000,
+"pocket": "Items"
+},
+"Max Potion": {
+"desc": "Fully restores the HP of a Pokémon.",
+"price": 2500,
+"pocket": "Items"
+},
+"Hyper Potion": {
+"desc": "Restores the HP of a Pokémon by 200 points.",
+"price": 1200,
+"pocket": "Items"
+},
+"Super Potion": {
+"desc": "Restores the HP of a Pokémon by 50 points.",
+"price": 700,
+"pocket": "Items"
+},
+"Full Heal": {
+"desc": "Heals all the status problems of one Pokémon.",
+"price": 600,
+"pocket": "Items"
+},
+"Revive": {
+"desc": "Revives a fainted Pokémon with half its HP.",
+"price": 1500,
+"pocket": "Items"
+},
+"Max Revive": {
+"desc": "Revives a fainted Pokémon with all its HP.",
+"price": 4000,
+"pocket": "Items"
+},
+"Fresh Water": {
+"desc": "A mineral water that restores HP by 50 points.",
+"price": 200,
+"pocket": "Items"
+},
+"Soda Pop": {
+"desc": "A fizzy soda drink that restores HP by 60 points.",
+"price": 300,
+"pocket": "Items"
+},
+"Lemonade": {
+"desc": "A very sweet drink that restores HP by 80 points.",
+"price": 350,
+"pocket": "Items"
+},
+"Moomoo Milk": {
+"desc": "A nutritious milk that restores HP by 100 points.",
+"price": 500,
+"pocket": "Items"
+},
+"Energypowder": {
+"desc": "A bitter powder that restores HP by 50 points.",
+"price": 500,
+"pocket": "Items"
+},
+"Energy Root": {
+"desc": "A bitter root that restores HP by 200 points.",
+"price": 800,
+"pocket": "Items"
+},
+"Heal Powder": {
+"desc": "A bitter powder that heals all status problems.",
+"price": 450,
+"pocket": "Items"
+},
+"Revival Herb": {
+"desc": "A very bitter herb that revives a fainted Pokémon.",
+"price": 2800,
+"pocket": "Items"
+},
+"Ether": {
+"desc": "Restores the PP of a selected move by 10.",
+"price": 1200,
+"pocket": "Items"
+},
+"Max Ether": {
+"desc": "Fully restores the PP of a selected move.",
+"price": 2000,
+"pocket": "Items"
+},
+"Elixir": {
+"desc": "Restores the PP of all moves by 10.",
+"price": 3000,
+"pocket": "Items"
+},
+"Max Elixir": {
+"desc": "Fully restores the PP of a Pokémon's moves.",
+"price": 4500,
+"pocket": "Items"
+},
+"Lava Cookie": {
+"desc": "A local specialty that heals all status problems.",
+"price": 200,
+"pocket": "Items"
+},
+"Blue Flute": {
+"desc": "A glass flute that awakens sleeping Pokémon.",
+"price": 100,
+"pocket": "Items"
+},
+"Yellow Flute": {
+"desc": "A glass flute that snaps Pokémon out of confusion.",
+"price": 200,
+"pocket": "Items"
+},
+"Red Flute": {
+"desc": "A glass flute that snaps Pokémon out of attraction.",
+"price": 300,
+"pocket": "Items"
+},
+"Black Flute": {
+"desc": "A glass flute that keeps away wild Pokémon.",
+"price": 400,
+"pocket": "Items"
+},
+"White Flute": {
+"desc": "A glass flute that lures wild Pokémon.",
+"price": 500,
+"pocket": "Items"
+},
+"Berry Juice": {
+"desc": "A 100% pure juice that restores HP by 20 points.",
+"price": 100,
+"pocket": "Items"
+},
+"Sacred Ash": {
+"desc": "Fully revives and restores all fainted Pokémon.",
+"price": 200,
+"pocket": "Items"
+},
+"Shoal Salt": {
+"desc": "Salt obtained from deep inside the Shoal Cave.",
+"price": 20,
+"pocket": "Items"
+},
+"Shoal Shell": {
+"desc": "A seashell found deep inside the Shoal Cave.",
+"price": 20,
+"pocket": "Items"
+},
+"Red Shard": {
+"desc": "A shard from an ancient item. Can be sold cheaply.",
+"price": 200,
+"pocket": "Items"
+},
+"Blue Shard": {
+"desc": "A shard from an ancient item. Can be sold cheaply.",
+"price": 200,
+"pocket": "Items"
+},
+"Yellow Shard": {
+"desc": "A shard from an ancient item. Can be sold cheaply.",
+"price": 200,
+"pocket": "Items"
+},
+"Green Shard": {
+"desc": "A shard from an ancient item. Can be sold cheaply.",
+"price": 200,
+"pocket": "Items"
+},
+"HP Up": {
+"desc": "Raises the base HP of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"Protein": {
+"desc": "Raises the base Attack stat of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"Iron": {
+"desc": "Raises the base Defense stat of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"Carbos": {
+"desc": "Raises the base Speed stat of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"Calcium": {
+"desc": "Raises the base Sp. Atk stat of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"Rare Candy": {
+"desc": "Raises the level of a Pokémon by one.",
+"price": 4800,
+"pocket": "Items"
+},
+"PP Up": {
+"desc": "Raises the maximum PP of a selected move.",
+"price": 9800,
+"pocket": "Items"
+},
+"Zinc": {
+"desc": "Raises the base Sp. Def stat of one Pokémon.",
+"price": 9800,
+"pocket": "Items"
+},
+"PP Max": {
+"desc": "Raises the PP of a move to its maximum points.",
+"price": 9800,
+"pocket": "Items"
+},
+"Guard Spec.": {
+"desc": "Prevents stat reduction when used in battle.",
+"price": 700,
+"pocket": "Items"
+},
+"Dire Hit": {
+"desc": "Raises the critical-hit ratio during one battle.",
+"price": 650,
+"pocket": "Items"
+},
+"X Attack": {
+"desc": "Raises the stat Attack during one battle.",
+"price": 500,
+"pocket": "Items"
+},
+"X Defend": {
+"desc": "Raises the stat Defense during one battle.",
+"price": 550,
+"pocket": "Items"
+},
+"X Speed": {
+"desc": "Raises the stat Speed during one battle.",
+"price": 350,
+"pocket": "Items"
+},
+"X Accuracy": {
+"desc": "Raises accuracy of attack moves during one battle.",
+"price": 950,
+"pocket": "Items"
+},
+"X Special": {
+"desc": "Raises the stat Sp. Atk during one battle.",
+"price": 350,
+"pocket": "Items"
+},
+"Poké Doll": {
+"desc": "Use to flee from any battle with a wild Pokémon.",
+"price": 1000,
+"pocket": "Items"
+},
+"Fluffy Tail": {
+"desc": "Use to flee from any battle with a wild Pokémon.",
+"price": 1000,
+"pocket": "Items"
+},
+"Super Repel": {
+"desc": "Repels weak wild Pokémon for 200 steps.",
+"price": 500,
+"pocket": "Items"
+},
+"Max Repel": {
+"desc": "Repels weak wild Pokémon for 250 steps.",
+"price": 700,
+"pocket": "Items"
+},
+"Escape Rope": {
+"desc": "Use to escape instantly from a cave or a dungeon.",
+"price": 550,
+"pocket": "Items"
+},
+"Repel": {
+"desc": "Repels weak wild Pokémon for 100 steps.",
+"price": 350,
+"pocket": "Items"
+},
+"Sun Stone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 2100,
+"pocket": "Items"
+},
+"Moon Stone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 0,
+"pocket": "Items"
+},
+"Fire Stone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 2100,
+"pocket": "Items"
+},
+"Thunderstone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 2100,
+"pocket": "Items"
+},
+"Water Stone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 2100,
+"pocket": "Items"
+},
+"Leaf Stone": {
+"desc": "Makes certain species of Pokémon evolve.",
+"price": 2100,
+"pocket": "Items"
+},
+"Tinymushroom": {
+"desc": "A plain mushroom that would sell at a cheap price.",
+"price": 500,
+"pocket": "Items"
+},
+"Big Mushroom": {
+"desc": "A rare mushroom that would sell at a high price.",
+"price": 5000,
+"pocket": "Items"
+},
+"Pearl": {
+"desc": "A pretty pearl that would sell at a cheap price.",
+"price": 1400,
+"pocket": "Items"
+},
+"Big Pearl": {
+"desc": "A lovely large pearl that would sell at a high price.",
+"price": 7500,
+"pocket": "Items"
+},
+"Stardust": {
+"desc": "Beautiful red sand. Can be sold at a high price.",
+"price": 2000,
+"pocket": "Items"
+},
+"Star Piece": {
+"desc": "A red gem shard. It would sell for a very high price.",
+"price": 9800,
+"pocket": "Items"
+},
+"Nugget": {
+"desc": "A nugget of pure gold. Can be sold at a high price.",
+"price": 10000,
+"pocket": "Items"
+},
+"Heart Scale": {
+"desc": "A lovely scale. It is coveted by collectors.",
+"price": 100,
+"pocket": "Items"
+},
+"Orange Mail": {
+"desc": "A Zigzagoon-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Harbor Mail": {
+"desc": "A Wingull-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Glitter Mail": {
+"desc": "A Pikachu-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Mech Mail": {
+"desc": "A Magnemite-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Wood Mail": {
+"desc": "A Slakoth-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Wave Mail": {
+"desc": "A Wailmer-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Bead Mail": {
+"desc": "Mail featuring a sketch of the holding Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Shadow Mail": {
+"desc": "A Duskull-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Tropic Mail": {
+"desc": "A Bellossom-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Dream Mail": {
+"desc": "Mail featuring a sketch of the holding Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Fab Mail": {
+"desc": "A gorgeous-print Mail to be held by a Pokémon.",
+"price": 50,
+"pocket": "Items"
+},
+"Retro Mail": {
+"desc": "Mail featuring the drawings of three Pokémon.",
+"price": 0,
+"pocket": "Items"
+},
+"Cheri Berry": {
+"desc": "A hold item that heals paralysis in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures paralysis straight away."
+},
+"Chesto Berry": {
+"desc": "A hold item that awakens Pokémon in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures sleep straight away."
+},
+"Pecha Berry": {
+"desc": "A hold item that heals poisoning in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures poison straight away."
+},
+"Rawst Berry": {
+"desc": "A hold item that heals a burn in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures a burn straight away."
+},
+"Aspear Berry": {
+"desc": "A hold item that defrosts Pokémon in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures freezing straight away."
+},
+"Leppa Berry": {
+"desc": "A hold item that restores 10 PP in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 10 PP to a move that runs out."
+},
+"Oran Berry": {
+"desc": "A hold item that restores 10 HP in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 10 HP once its HP falls below half."
+},
+"Persim Berry": {
+"desc": "A hold item that heals confusion in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures confusion straight away."
+},
+"Lum Berry": {
+"desc": "A hold item that heals any status problem in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: cures any status problem or confusion straight away."
+},
+"Sitrus Berry": {
+"desc": "A hold item that restores 30 HP in battle.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 30 HP once its HP falls below half."
+},
+"Figy Berry": {
+"desc": "A hold item that restores HP but may confuse.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 1/8 of max HP when HP is low, but confuses a Pokémon that dislikes the flavor."
+},
+"Wiki Berry": {
+"desc": "A hold item that restores HP but may confuse.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 1/8 of max HP when HP is low, but confuses a Pokémon that dislikes the flavor."
+},
+"Mago Berry": {
+"desc": "A hold item that restores HP but may confuse.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 1/8 of max HP when HP is low, but confuses a Pokémon that dislikes the flavor."
+},
+"Aguav Berry": {
+"desc": "A hold item that restores HP but may confuse.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 1/8 of max HP when HP is low, but confuses a Pokémon that dislikes the flavor."
+},
+"Iapapa Berry": {
+"desc": "A hold item that restores HP but may confuse.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: restores 1/8 of max HP when HP is low, but confuses a Pokémon that dislikes the flavor."
+},
+"Razz Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Razz.",
+"price": 20,
+"pocket": "Berries"
+},
+"Bluk Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Bluk.",
+"price": 20,
+"pocket": "Berries"
+},
+"Nanab Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Nanab.",
+"price": 20,
+"pocket": "Berries"
+},
+"Wepear Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Wepear.",
+"price": 20,
+"pocket": "Berries"
+},
+"Pinap Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Pinap.",
+"price": 20,
+"pocket": "Berries"
+},
+"Pomeg Berry": {
+"desc": "Makes a Pokémon friendly but lowers base HP.",
+"price": 20,
+"pocket": "Berries"
+},
+"Kelpsy Berry": {
+"desc": "Makes a Pokémon friendly but lowers base Attack.",
+"price": 20,
+"pocket": "Berries"
+},
+"Qualot Berry": {
+"desc": "Makes a Pokémon friendly but lowers base Defense.",
+"price": 20,
+"pocket": "Berries"
+},
+"Hondew Berry": {
+"desc": "Makes a Pokémon friendly but lowers base Sp. Atk.",
+"price": 20,
+"pocket": "Berries"
+},
+"Grepa Berry": {
+"desc": "Makes a Pokémon friendly but lowers base Sp. Def.",
+"price": 20,
+"pocket": "Berries"
+},
+"Tamato Berry": {
+"desc": "Makes a Pokémon friendly but lowers base Speed.",
+"price": 20,
+"pocket": "Berries"
+},
+"Cornn Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Cornn.",
+"price": 20,
+"pocket": "Berries"
+},
+"Magost Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Magost.",
+"price": 20,
+"pocket": "Berries"
+},
+"Rabuta Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Rabuta.",
+"price": 20,
+"pocket": "Berries"
+},
+"Nomel Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Nomel.",
+"price": 20,
+"pocket": "Berries"
+},
+"Spelon Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Spelon.",
+"price": 20,
+"pocket": "Berries"
+},
+"Pamtre Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Pamtre.",
+"price": 20,
+"pocket": "Berries"
+},
+"Watmel Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Watmel.",
+"price": 20,
+"pocket": "Berries"
+},
+"Durin Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Durin.",
+"price": 20,
+"pocket": "Berries"
+},
+"Belue Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow Belue.",
+"price": 20,
+"pocket": "Berries"
+},
+"Liechi Berry": {
+"desc": "A hold item that raises Attack in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises Attack when HP is low."
+},
+"Ganlon Berry": {
+"desc": "A hold item that raises Defense in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises Defense when HP is low."
+},
+"Salac Berry": {
+"desc": "A hold item that raises Speed in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises Speed when HP is low."
+},
+"Petaya Berry": {
+"desc": "A hold item that raises Sp. Atk in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises Sp. Atk when HP is low."
+},
+"Apicot Berry": {
+"desc": "A hold item that raises Sp. Def in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises Sp. Def when HP is low."
+},
+"Lansat Berry": {
+"desc": "A hold item that ups the critical- hit rate in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: raises the critical-hit ratio when HP is low."
+},
+"Starf Berry": {
+"desc": "A hold item that sharply boosts a stat in a pinch.",
+"price": 20,
+"pocket": "Berries",
+"held": "Held in battle: sharply raises a random stat when HP is low."
+},
+"Enigma Berry": {
+"desc": "Pokéblock ingredient. Plant in loamy soil to grow a mystery.",
+"price": 20,
+"pocket": "Berries"
+},
+"BrightPowder": {
+"desc": "A hold item that casts a glare to reduce accuracy.",
+"price": 10,
+"pocket": "Items"
+},
+"White Herb": {
+"desc": "A hold item that restores any lowered stat.",
+"price": 100,
+"pocket": "Items"
+},
+"Macho Brace": {
+"desc": "A hold item that promotes growth, but reduces Speed.",
+"price": 3000,
+"pocket": "Items"
+},
+"Exp. Share": {
+"desc": "A hold item that gets EXP. points from battles.",
+"price": 3000,
+"pocket": "Items"
+},
+"Quick Claw": {
+"desc": "A hold item that occasionally allows the first strike.",
+"price": 100,
+"pocket": "Items"
+},
+"Soothe Bell": {
+"desc": "A hold item that calms spirits and fosters friendship.",
+"price": 100,
+"pocket": "Items"
+},
+"Mental Herb": {
+"desc": "A hold item that snaps Pokémon out of infatuation.",
+"price": 100,
+"pocket": "Items"
+},
+"Choice Band": {
+"desc": "Raises a move's power, but permits only that move.",
+"price": 100,
+"pocket": "Items"
+},
+"King's Rock": {
+"desc": "A hold item that may cause flinching when the foe is hit.",
+"price": 100,
+"pocket": "Items"
+},
+"SilverPowder": {
+"desc": "A hold item that raises the power of Bug-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Amulet Coin": {
+"desc": "Doubles money in battle if the holder takes part.",
+"price": 100,
+"pocket": "Items"
+},
+"Cleanse Tag": {
+"desc": "A hold item that helps repel wild Pokémon.",
+"price": 200,
+"pocket": "Items"
+},
+"Soul Dew": {
+"desc": "Hold item: raises Sp. Atk & Sp. Def of Latios & Latias.",
+"price": 200,
+"pocket": "Items"
+},
+"DeepSeaTooth": {
+"desc": "A hold item that raises the Sp. Atk of Clamperl.",
+"price": 200,
+"pocket": "Items"
+},
+"DeepSeaScale": {
+"desc": "A hold item that raises the Sp. Def of Clamperl.",
+"price": 200,
+"pocket": "Items"
+},
+"Smoke Ball": {
+"desc": "A hold item that assures fleeing from wild Pokémon.",
+"price": 200,
+"pocket": "Items"
+},
+"Everstone": {
+"desc": "A wondrous hold item that prevents evolution.",
+"price": 200,
+"pocket": "Items"
+},
+"Focus Band": {
+"desc": "A hold item that occasionally prevents fainting.",
+"price": 200,
+"pocket": "Items"
+},
+"Lucky Egg": {
+"desc": "A hold item that boosts EXP. points earned in battle.",
+"price": 200,
+"pocket": "Items"
+},
+"Scope Lens": {
+"desc": "A hold item that improves the critical-hit rate.",
+"price": 200,
+"pocket": "Items"
+},
+"Metal Coat": {
+"desc": "A hold item that raises the power of Steel-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Leftovers": {
+"desc": "A hold item that gradually restores HP in battle.",
+"price": 200,
+"pocket": "Items"
+},
+"Dragon Scale": {
+"desc": "A strange scale held by Dragon- type Pokémon.",
+"price": 2100,
+"pocket": "Items"
+},
+"Light Ball": {
+"desc": "A hold item that raises the Sp. Atk of Pikachu.",
+"price": 100,
+"pocket": "Items"
+},
+"Soft Sand": {
+"desc": "A hold item that raises the power of Ground-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Hard Stone": {
+"desc": "A hold item that raises the power of Rock-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Miracle Seed": {
+"desc": "A hold item that raises the power of Grass-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"BlackGlasses": {
+"desc": "A hold item that raises the power of Dark-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Black Belt": {
+"desc": "A hold item that boosts Fighting- type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Magnet": {
+"desc": "A hold item that boosts Electric- type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Mystic Water": {
+"desc": "A hold item that raises the power of Water-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Sharp Beak": {
+"desc": "A hold item that raises the power of Flying-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Poison Barb": {
+"desc": "A hold item that raises the power of Poison-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"NeverMeltIce": {
+"desc": "A hold item that raises the power of Ice-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Spell Tag": {
+"desc": "A hold item that raises the power of Ghost-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"TwistedSpoon": {
+"desc": "A hold item that boosts Psychic- type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Charcoal": {
+"desc": "A hold item that raises the power of Fire-type moves.",
+"price": 9800,
+"pocket": "Items"
+},
+"Dragon Fang": {
+"desc": "A hold item that raises the power of Dragon-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Silk Scarf": {
+"desc": "A hold item that raises the power of Normal-type moves.",
+"price": 100,
+"pocket": "Items"
+},
+"Up-Grade": {
+"desc": "A peculiar box made by Silph Co.",
+"price": 2100,
+"pocket": "Items"
+},
+"Shell Bell": {
+"desc": "A hold item that restores HP upon striking the foe.",
+"price": 200,
+"pocket": "Items"
+},
+"Sea Incense": {
+"desc": "A hold item that slightly boosts Water-type moves.",
+"price": 9600,
+"pocket": "Items"
+},
+"Lax Incense": {
+"desc": "A hold item that slightly lowers the foe's accuracy.",
+"price": 9600,
+"pocket": "Items"
+},
+"Lucky Punch": {
+"desc": "A hold item that raises Chansey's critical-hit rate.",
+"price": 10,
+"pocket": "Items"
+},
+"Metal Powder": {
+"desc": "A hold item that raises Ditto's Defense.",
+"price": 10,
+"pocket": "Items"
+},
+"Thick Club": {
+"desc": "A hold item that  raises Cubone or Marowak's Attack.",
+"price": 500,
+"pocket": "Items"
+},
+"Stick": {
+"desc": "A hold item that raises Farfetch'd's critical-hit ratio.",
+"price": 200,
+"pocket": "Items"
+},
+"Red Scarf": {
+"desc": "A hold item that raises Cool in Contests.",
+"price": 100,
+"pocket": "Items"
+},
+"Blue Scarf": {
+"desc": "A hold item that raises Beauty in Contests.",
+"price": 100,
+"pocket": "Items"
+},
+"Pink Scarf": {
+"desc": "A hold item that raises Cute in Contests.",
+"price": 100,
+"pocket": "Items"
+},
+"Green Scarf": {
+"desc": "A hold item that raises Smart in Contests.",
+"price": 100,
+"pocket": "Items"
+},
+"Yellow Scarf": {
+"desc": "A hold item that raises Tough in Contests.",
+"price": 100,
+"pocket": "Items"
+},
+"Mach Bike": {
+"desc": "A folding bicycle that doubles your speed or better.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Coin Case": {
+"desc": "A case that holds up to 9,999 Coins.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Itemfinder": {
+"desc": "A device that signals an invisible item by sound.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Old Rod": {
+"desc": "Use by any body of water to fish for wild Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Good Rod": {
+"desc": "A decent fishing rod for catching wild Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Super Rod": {
+"desc": "The best fishing rod for catching wild Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"S.S. Ticket": {
+"desc": "The ticket required for sailing on a ferry.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Contest Pass": {
+"desc": "The pass required for entering Pokémon Contests.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Wailmer Pail": {
+"desc": "A tool used for watering Berries and plants.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Devon Goods": {
+"desc": "A package that contains Devon's machine parts.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Soot Sack": {
+"desc": "A sack used to gather and hold volcanic ash.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Basement Key": {
+"desc": "The key for New Mauville beneath Mauville City.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Acro Bike": {
+"desc": "A folding bicycle capable of jumps and wheelies.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Pokéblock Case": {
+"desc": "A case for holding PokéblockS made with a Berry Blender.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Letter": {
+"desc": "A letter to Steven from the President of the Devon Corp.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Eon Ticket": {
+"desc": "The ticket for a ferry to a distant southern island.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Red Orb": {
+"desc": "A red, glowing orb said to contain an ancient power.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Blue Orb": {
+"desc": "A blue, glowing orb said to contain an ancient power.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Scanner": {
+"desc": "A device found inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Go-Goggles": {
+"desc": "Nifty goggles that protect eyes from desert sandstorms.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Meteorite": {
+"desc": "A meteorite found at Meteor Falls.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Rm. 1 Key": {
+"desc": "A key that opens a door inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Rm. 2 Key": {
+"desc": "A key that opens a door inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Rm. 4 Key": {
+"desc": "A key that opens a door inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Rm. 6 Key": {
+"desc": "A key that opens a door inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Storage Key": {
+"desc": "The key to the storage inside the Abandoned Ship.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Root Fossil": {
+"desc": "A fossil of an ancient, seafloor- dwelling Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Claw Fossil": {
+"desc": "A fossil of an ancient, seafloor- dwelling Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Devon Scope": {
+"desc": "A device by Devon that signals any unseeable Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Oak's Parcel": {
+"desc": "A parcel for Prof. Oak from a Pokémon Mart's clerk.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Poké Flute": {
+"desc": "A sweet-sounding flute that awakens Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Secret Key": {
+"desc": "The key to the Cinnabar Island Gym's entrance.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Bike Voucher": {
+"desc": "A voucher for obtaining a bicycle from the Bike Shop.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Gold Teeth": {
+"desc": "Gold dentures lost by the Safari Zone's Warden.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Old Amber": {
+"desc": "A stone containing the genes of an ancient Pokémon.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Card Key": {
+"desc": "A card-type door key used in Silph Co's office.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Lift Key": {
+"desc": "An elevator key used in Team Rocket's Hideout.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Helix Fossil": {
+"desc": "A piece of an ancient marine Pokémon's seashell.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Dome Fossil": {
+"desc": "A piece of an ancient marine Pokémon's shell.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Silph Scope": {
+"desc": "Silph Co's scope makes unseeable Pokémon visible.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Bicycle": {
+"desc": "A folding bicycle that is faster than the Running Shoes.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Town Map": {
+"desc": "Can be viewed anytime. Shows your present location.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Vs Seeker": {
+"desc": "A rechargeable unit that flags battle- ready Trainers.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Fame Checker": {
+"desc": "Stores information on famous people for instant recall.",
+"price": 0,
+"pocket": "Key Items"
+},
+"TM Case": {
+"desc": "A convenient case  that holds TMs and HMs.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Berry Pouch": {
+"desc": "A convenient container that holds Berries.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Teachy TV": {
+"desc": "A TV set tuned to an advice program for Trainers.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Tri-pass": {
+"desc": "A pass for ferries between One, Two, and Three Island.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Rainbow Pass": {
+"desc": "For ferries serving Vermilion and the Sevii Islands.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Tea": {
+"desc": "A thirst-quenching tea prepared by an old lady.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Mysticticket": {
+"desc": "A ticket required to board the ship to Navel Rock.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Auroraticket": {
+"desc": "A ticket required to board the ship to Birth Island.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Powder Jar": {
+"desc": "Stores Berry Powder made using a Berry Crusher.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Ruby": {
+"desc": "An exquisite, red- glowing gem that symbolizes passion.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Sapphire": {
+"desc": "A brilliant blue gem that symbolizes honesty.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Magma Emblem": {
+"desc": "A medal-like item in the same shape as Team Magma's mark.",
+"price": 0,
+"pocket": "Key Items"
+},
+"Old Sea Map": {
+"desc": "A faded sea chart that shows the way to a certain island.",
+"price": 0,
+"pocket": "Key Items"
+}
+}

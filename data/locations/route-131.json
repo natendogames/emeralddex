@@ -1,0 +1,379 @@
+{
+ "id": "route-131",
+ "name": "Route 131",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Kevin",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 363,
+     "name": "Spheal",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ice Ball",
+       "type": "Ice",
+       "power": 30
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Aurora Beam",
+       "type": "Ice",
+       "power": 65
+      },
+      {
+       "name": "Hail",
+       "type": "Ice"
+      }
+     ]
+    }
+   ],
+   "id": "kevin"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Talia",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "talia"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Richard",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Stockpile",
+       "type": "Normal"
+      },
+      {
+       "name": "Swallow",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "richard"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Kara",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 119,
+     "name": "Seaking",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Horn Attack",
+       "type": "Normal",
+       "power": 65
+      },
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "kara"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Herman",
+   "prize": 264,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 73,
+     "name": "Tentacruel",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Wrap",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "herman"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Susie",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 370,
+     "name": "Luvdisc",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "susie"
+  },
+  {
+   "class": "Sis and Bro",
+   "name": "Reli & Ian",
+   "prize": 792,
+   "party": [
+    {
+     "dex": 184,
+     "name": "Azumarill",
+     "level": 35,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      }
+     ]
+    },
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "reli-and-ian"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

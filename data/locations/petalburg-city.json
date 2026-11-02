@@ -1,0 +1,473 @@
+{
+ "id": "petalburg-city",
+ "name": "Petalburg City",
+ "encounters": [
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "100%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Outside"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Outside"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Outside"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Outside"
+  },
+  {
+   "dex": 341,
+   "name": "Corphish",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Outside"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-max-revive",
+   "name": "Max Revive",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-ether",
+   "name": "Ether",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-rare-candy",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-gym-enigma-berry",
+   "name": "Enigma Berry",
+   "from": "Norman (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "item-gym-tm42",
+   "name": "TM42",
+   "from": "Norman (after winning)",
+   "where": "Gym"
+  },
+  {
+   "id": "item-wally-s-house-hm03",
+   "name": "HM03",
+   "from": "Wally's father (after you beat Norman)",
+   "where": "Wally's House"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Cool Trainer",
+   "name": "Mary",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 301,
+     "name": "Delcatty",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Shock Wave",
+       "type": "Electric",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "mary",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Randall",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "randall",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "George",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 287,
+     "name": "Slakoth",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Slack Off",
+       "type": "Normal"
+      },
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "george",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Alexia",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 40,
+     "name": "Wigglytuff",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Double-Edge",
+       "type": "Normal",
+       "power": 120
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "alexia",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Parker",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 327,
+     "name": "Spinda",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Teeter Dance",
+       "type": "Normal"
+      },
+      {
+       "name": "Dizzy Punch",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Focus Punch",
+       "type": "Fighting",
+       "power": 150
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "parker",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Berke",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 288,
+     "name": "Vigoroth",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "berke",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Jody",
+   "prize": 1248,
+   "party": [
+    {
+     "dex": 335,
+     "name": "Zangoose",
+     "level": 26,
+     "iv": 31,
+     "moves": [
+      {
+       "name": "Swords Dance",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "jody",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  },
+  {
+   "class": "Leader",
+   "name": "Norman",
+   "prize": 3100,
+   "party": [
+    {
+     "dex": 327,
+     "name": "Spinda",
+     "level": 27,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Teeter Dance",
+       "type": "Normal"
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Facade",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Encore",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 288,
+     "name": "Vigoroth",
+     "level": 27,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Facade",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Encore",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 264,
+     "name": "Linoone",
+     "level": 29,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Belly Drum",
+       "type": "Normal"
+      },
+      {
+       "name": "Facade",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    },
+    {
+     "dex": 289,
+     "name": "Slaking",
+     "level": 31,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Counter",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Yawn",
+       "type": "Normal"
+      },
+      {
+       "name": "Facade",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ],
+     "item": "Sitrus Berry"
+    }
+   ],
+   "uses": [
+    "Hyper Potion ×2"
+   ],
+   "rewards": [
+    "Balance Badge",
+    "TM42"
+   ],
+   "id": "norman",
+   "area": "Gym",
+   "stage": "lavaridge-town",
+   "later": true
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

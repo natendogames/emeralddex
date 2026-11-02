@@ -1,0 +1,1504 @@
+{
+ "id": "victory-road",
+ "name": "Victory Road",
+ "encounters": [
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "38-40",
+   "rate": "25%",
+   "area": "1F"
+  },
+  {
+   "dex": 297,
+   "name": "Hariyama",
+   "method": "grass",
+   "levels": "38-40",
+   "rate": "25%",
+   "area": "1F"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "36",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 294,
+   "name": "Loudred",
+   "method": "grass",
+   "levels": "40",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 296,
+   "name": "Makuhita",
+   "method": "grass",
+   "levels": "36",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 305,
+   "name": "Lairon",
+   "method": "grass",
+   "levels": "40",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 293,
+   "name": "Whismur",
+   "method": "grass",
+   "levels": "36",
+   "rate": "5%",
+   "area": "1F"
+  },
+  {
+   "dex": 304,
+   "name": "Aron",
+   "method": "grass",
+   "levels": "36",
+   "rate": "5%",
+   "area": "1F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "38-42",
+   "rate": "35%",
+   "area": "B1F"
+  },
+  {
+   "dex": 297,
+   "name": "Hariyama",
+   "method": "grass",
+   "levels": "38-42",
+   "rate": "35%",
+   "area": "B1F"
+  },
+  {
+   "dex": 305,
+   "name": "Lairon",
+   "method": "grass",
+   "levels": "40-42",
+   "rate": "25%",
+   "area": "B1F"
+  },
+  {
+   "dex": 303,
+   "name": "Mawile",
+   "method": "grass",
+   "levels": "38",
+   "rate": "5%",
+   "area": "B1F"
+  },
+  {
+   "dex": 75,
+   "name": "Graveler",
+   "method": "rock-smash",
+   "levels": "30-40",
+   "rate": "70%",
+   "area": "B1F"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "rock-smash",
+   "levels": "30-40",
+   "rate": "30%",
+   "area": "B1F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "40-44",
+   "rate": "35%",
+   "area": "B2F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "40-44",
+   "rate": "35%",
+   "area": "B2F"
+  },
+  {
+   "dex": 305,
+   "name": "Lairon",
+   "method": "grass",
+   "levels": "40-44",
+   "rate": "25%",
+   "area": "B2F"
+  },
+  {
+   "dex": 303,
+   "name": "Mawile",
+   "method": "grass",
+   "levels": "42-44",
+   "rate": "5%",
+   "area": "B2F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "surf",
+   "levels": "25-40",
+   "rate": "100%",
+   "area": "B2F"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "B2F"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "B2F"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "B2F"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B2F"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "B2F"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "25-35",
+   "rate": "80%",
+   "area": "B2F"
+  },
+  {
+   "dex": 340,
+   "name": "Whiscash",
+   "method": "super-rod",
+   "levels": "30-45",
+   "rate": "20%",
+   "area": "B2F"
+  }
+ ],
+ "items": [
+  {
+   "id": "1f-max-elixir",
+   "name": "Max Elixir",
+   "hidden": false,
+   "where": "1F"
+  },
+  {
+   "id": "1f-pp-up",
+   "name": "PP Up",
+   "hidden": false,
+   "where": "1F"
+  },
+  {
+   "id": "hidden-1f-ultra-ball",
+   "name": "Ultra Ball",
+   "hidden": true,
+   "where": "1F"
+  },
+  {
+   "id": "b1f-tm29",
+   "name": "TM29",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b1f-full-restore",
+   "name": "Full Restore",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b2f-full-heal",
+   "name": "Full Heal",
+   "hidden": false,
+   "where": "B2F"
+  },
+  {
+   "id": "hidden-b2f-elixir",
+   "name": "Elixir",
+   "hidden": true,
+   "where": "B2F"
+  },
+  {
+   "id": "hidden-b2f-max-repel",
+   "name": "Max Repel",
+   "hidden": true,
+   "where": "B2F"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Cool Trainer",
+   "name": "Albert",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 82,
+     "name": "Magneton",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Sonicboom",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Lock-On",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 89,
+     "name": "Muk",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Acid Armor",
+       "type": "Poison"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "albert",
+   "area": "1F"
+  },
+  {
+   "class": "Pokémon Trainer",
+   "name": "Wally",
+   "prize": 2700,
+   "party": [
+    {
+     "dex": 334,
+     "name": "Altaria",
+     "level": 44,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Dragonbreath",
+       "type": "Dragon",
+       "power": 60
+      },
+      {
+       "name": "Dragon Dance",
+       "type": "Dragon"
+      }
+     ]
+    },
+    {
+     "dex": 301,
+     "name": "Delcatty",
+     "level": 43,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Assist",
+       "type": "Normal"
+      },
+      {
+       "name": "Charm",
+       "type": "Normal"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 44,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Magical Leaf",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Giga Drain",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      }
+     ]
+    },
+    {
+     "dex": 82,
+     "name": "Magneton",
+     "level": 41,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Thunderbolt",
+       "type": "Electric",
+       "power": 95
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 282,
+     "name": "Gardevoir",
+     "level": 45,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore ×2"
+   ],
+   "id": "wally-vr",
+   "area": "1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Hope",
+   "prize": 2160,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 45,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Giga Drain",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Ingrain",
+       "type": "Grass"
+      },
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "hope",
+   "area": "1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Katelynn",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 282,
+     "name": "Gardevoir",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Skill Swap",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      },
+      {
+       "name": "Thunderbolt",
+       "type": "Electric",
+       "power": 95
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 289,
+     "name": "Slaking",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Brick Break",
+       "type": "Fighting",
+       "power": 75
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "katelynn",
+   "area": "1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Quincy",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 289,
+     "name": "Slaking",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Attract",
+       "type": "Normal"
+      },
+      {
+       "name": "Ice Beam",
+       "type": "Ice",
+       "power": 95
+      },
+      {
+       "name": "Thunderbolt",
+       "type": "Electric",
+       "power": 95
+      },
+      {
+       "name": "Flamethrower",
+       "type": "Fire",
+       "power": 95
+      }
+     ]
+    },
+    {
+     "dex": 356,
+     "name": "Dusclops",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Skill Swap",
+       "type": "Psychic"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Will-O-Wisp",
+       "type": "Fire"
+      },
+      {
+       "name": "Toxic",
+       "type": "Poison"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "quincy",
+   "area": "1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Edgar",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 332,
+     "name": "Cacturne",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Ingrain",
+       "type": "Grass"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Spikes",
+       "type": "Ground"
+      },
+      {
+       "name": "Needle Arm",
+       "type": "Grass",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 279,
+     "name": "Pelipper",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Stockpile",
+       "type": "Normal"
+      },
+      {
+       "name": "Swallow",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "edgar",
+   "area": "1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Shannon",
+   "prize": 2160,
+   "party": [
+    {
+     "dex": 344,
+     "name": "Claydol",
+     "level": 45,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      },
+      {
+       "name": "Sandstorm",
+       "type": "Rock"
+      },
+      {
+       "name": "Hyper Beam",
+       "type": "Normal",
+       "power": 150
+      },
+      {
+       "name": "Cosmic Power",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "shannon",
+   "area": "B1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Samuel",
+   "prize": 2016,
+   "party": [
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Endeavor",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Aerial Ace",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 303,
+     "name": "Mawile",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Baton Pass",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      }
+     ]
+    },
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Recover",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      },
+      {
+       "name": "Role Play",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "samuel",
+   "area": "B1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Michelle",
+   "prize": 2016,
+   "party": [
+    {
+     "dex": 324,
+     "name": "Torkoal",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Protect",
+       "type": "Normal"
+      },
+      {
+       "name": "Flamethrower",
+       "type": "Fire",
+       "power": 95
+      },
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      },
+      {
+       "name": "Amnesia",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 308,
+     "name": "Medicham",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      },
+      {
+       "name": "Hi Jump Kick",
+       "type": "Fighting",
+       "power": 85
+      },
+      {
+       "name": "Psych Up",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 272,
+     "name": "Ludicolo",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "michelle",
+   "area": "B1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Mitchell",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 337,
+     "name": "Lunatone",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Explosion",
+       "type": "Normal",
+       "power": 250
+      },
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 338,
+     "name": "Solrock",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Explosion",
+       "type": "Normal",
+       "power": 250
+      },
+      {
+       "name": "Reflect",
+       "type": "Psychic"
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "id": "mitchell",
+   "area": "B1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Halle",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 302,
+     "name": "Sableye",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ]
+    },
+    {
+     "dex": 359,
+     "name": "Absol",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Swords Dance",
+       "type": "Normal"
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "halle",
+   "area": "B1F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Vito",
+   "prize": 2016,
+   "party": [
+    {
+     "dex": 85,
+     "name": "Dodrio",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Tri Attack",
+       "type": "Normal",
+       "power": 80
+      },
+      {
+       "name": "Rage",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      }
+     ]
+    },
+    {
+     "dex": 64,
+     "name": "Kadabra",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Recover",
+       "type": "Normal"
+      },
+      {
+       "name": "Future Sight",
+       "type": "Psychic",
+       "power": 80
+      },
+      {
+       "name": "Role Play",
+       "type": "Psychic"
+      },
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 101,
+     "name": "Electrode",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 275,
+     "name": "Shiftry",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Pound",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "vito",
+   "area": "B2F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Felix",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 308,
+     "name": "Medicham",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Psychic",
+       "type": "Psychic",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 344,
+     "name": "Claydol",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Skill Swap",
+       "type": "Psychic"
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "felix",
+   "area": "B2F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Caroline",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      },
+      {
+       "name": "Steel Wing",
+       "type": "Steel",
+       "power": 70
+      },
+      {
+       "name": "Spikes",
+       "type": "Ground"
+      }
+     ]
+    },
+    {
+     "dex": 302,
+     "name": "Sableye",
+     "level": 43,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Shadow Ball",
+       "type": "Ghost",
+       "power": 80
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "caroline",
+   "area": "B2F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Dianne",
+   "prize": 2064,
+   "party": [
+    {
+     "dex": 344,
+     "name": "Claydol",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Skill Swap",
+       "type": "Psychic"
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    },
+    {
+     "dex": 171,
+     "name": "Lanturn",
+     "level": 43,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Thunderbolt",
+       "type": "Electric",
+       "power": 95
+      },
+      {
+       "name": "Earthquake",
+       "type": "Ground",
+       "power": 100
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "dianne",
+   "area": "B2F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Julie",
+   "prize": 2016,
+   "party": [
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      }
+     ]
+    },
+    {
+     "dex": 38,
+     "name": "Ninetales",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 357,
+     "name": "Tropius",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      },
+      {
+       "name": "Magical Leaf",
+       "type": "Grass",
+       "power": 60
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Solarbeam",
+       "type": "Grass",
+       "power": 120
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "julie",
+   "area": "B2F"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Owen",
+   "prize": 2016,
+   "party": [
+    {
+     "dex": 352,
+     "name": "Kecleon",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Substitute",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 75,
+     "name": "Graveler",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Rock Blast",
+       "type": "Rock",
+       "power": 25
+      }
+     ]
+    },
+    {
+     "dex": 321,
+     "name": "Wailord",
+     "level": 42,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      },
+      {
+       "name": "Rest",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "owen",
+   "area": "B2F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

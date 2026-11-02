@@ -1,0 +1,100 @@
+{
+ "id": "new-mauville",
+ "name": "New Mauville",
+ "encounters": [
+  {
+   "dex": 81,
+   "name": "Magnemite",
+   "method": "grass",
+   "levels": "22-26",
+   "rate": "50%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 100,
+   "name": "Voltorb",
+   "method": "grass",
+   "levels": "22-26",
+   "rate": "50%",
+   "area": "Entrance"
+  },
+  {
+   "dex": 81,
+   "name": "Magnemite",
+   "method": "grass",
+   "levels": "22-26",
+   "rate": "49%",
+   "area": "Inside"
+  },
+  {
+   "dex": 100,
+   "name": "Voltorb",
+   "method": "grass",
+   "levels": "22-26",
+   "rate": "49%",
+   "area": "Inside"
+  },
+  {
+   "dex": 82,
+   "name": "Magneton",
+   "method": "grass",
+   "levels": "26",
+   "rate": "1%",
+   "area": "Inside"
+  },
+  {
+   "dex": 101,
+   "name": "Electrode",
+   "method": "grass",
+   "levels": "26",
+   "rate": "1%",
+   "area": "Inside"
+  },
+  {
+   "dex": 100,
+   "name": "Voltorb",
+   "method": "static",
+   "levels": "25",
+   "area": "Inside",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [
+  {
+   "id": "inside-ultra-ball",
+   "name": "Ultra Ball",
+   "hidden": false,
+   "where": "Inside"
+  },
+  {
+   "id": "inside-escape-rope",
+   "name": "Escape Rope",
+   "hidden": false,
+   "where": "Inside"
+  },
+  {
+   "id": "inside-thunderstone",
+   "name": "Thunderstone",
+   "hidden": false,
+   "where": "Inside"
+  },
+  {
+   "id": "inside-full-heal",
+   "name": "Full Heal",
+   "hidden": false,
+   "where": "Inside"
+  },
+  {
+   "id": "inside-parlyz-heal",
+   "name": "Parlyz Heal",
+   "hidden": false,
+   "where": "Inside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

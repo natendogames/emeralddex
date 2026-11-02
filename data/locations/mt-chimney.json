@@ -1,0 +1,460 @@
+{
+ "id": "mt-chimney",
+ "name": "Mt. Chimney",
+ "encounters": [],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-outside-lava-cookie",
+   "name": "Lava Cookie",
+   "from": "Lava Cookie seller (₽200)",
+   "where": "Outside"
+  },
+  {
+   "id": "item-outside-meteorite",
+   "name": "Meteorite",
+   "from": "The machine at the summit (after Maxie leaves)",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Beauty",
+   "name": "Shirley",
+   "prize": 1680,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "shirley"
+  },
+  {
+   "class": "Expert",
+   "name": "Shelby",
+   "prize": 840,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 21,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Meditate",
+       "type": "Psychic"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 21,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Arm Thrust",
+       "type": "Fighting",
+       "power": 15
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "shelby"
+  },
+  {
+   "class": "Team Magma",
+   "name": "Grunt",
+   "prize": 400,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 20,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "grunt-mt-chimney"
+  },
+  {
+   "class": "Beauty",
+   "name": "Sheila",
+   "prize": 1680,
+   "party": [
+    {
+     "dex": 285,
+     "name": "Shroomish",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "sheila"
+  },
+  {
+   "class": "Magma Admin",
+   "name": "Tabitha",
+   "prize": 880,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 18,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 20,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Howl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 22,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 22,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "tabitha-mt-chimney"
+  },
+  {
+   "class": "Hiker",
+   "name": "Sawyer",
+   "prize": 840,
+   "party": [
+    {
+     "dex": 74,
+     "name": "Geodude",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mud Sport",
+       "type": "Ground"
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    }
+   ],
+   "id": "sawyer"
+  },
+  {
+   "class": "Magma Leader",
+   "name": "Maxie",
+   "prize": 2000,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 24,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 41,
+     "name": "Zubat",
+     "level": 24,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 25,
+     "iv": 18,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion ×2"
+   ],
+   "id": "maxie-mt-chimney"
+  },
+  {
+   "class": "Beauty",
+   "name": "Melissa",
+   "prize": 1680,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 21,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "melissa"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

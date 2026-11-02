@@ -1,0 +1,341 @@
+{
+ "id": "route-129",
+ "name": "Route 129",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "4%"
+  },
+  {
+   "dex": 321,
+   "name": "Wailord",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "1%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Swimmer",
+   "name": "Reed",
+   "prize": 264,
+   "party": [
+    {
+     "dex": 363,
+     "name": "Spheal",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ice Ball",
+       "type": "Ice",
+       "power": 30
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Aurora Beam",
+       "type": "Ice",
+       "power": 65
+      },
+      {
+       "name": "Hail",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "reed"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Chase",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 34,
+     "iv": 9,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "chase"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Tisha",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 170,
+     "name": "Chinchou",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Flail",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Spark",
+       "type": "Electric",
+       "power": 65
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "id": "tisha"
+  },
+  {
+   "class": "Swimmer",
+   "name": "Clarence",
+   "prize": 272,
+   "party": [
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "clarence"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Allison",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 33,
+     "iv": 29,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "allison"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

@@ -1,0 +1,638 @@
+{
+ "id": "route-113",
+ "name": "Route 113",
+ "encounters": [
+  {
+   "dex": 327,
+   "name": "Spinda",
+   "method": "grass",
+   "levels": "14-16",
+   "rate": "70%"
+  },
+  {
+   "dex": 218,
+   "name": "Slugma",
+   "method": "grass",
+   "levels": "14-16",
+   "rate": "25%"
+  },
+  {
+   "dex": 227,
+   "name": "Skarmory",
+   "method": "grass",
+   "levels": "16",
+   "rate": "5%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-max-ether",
+   "name": "Max Ether",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-super-repel",
+   "name": "Super Repel",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-hyper-potion",
+   "name": "Hyper Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-ether",
+   "name": "Ether",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-tm32",
+   "name": "TM32",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-nugget",
+   "name": "Nugget",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-glass-workshop-soot-sack",
+   "name": "Soot Sack",
+   "from": "Glass Workshop (trade volcanic ash)",
+   "where": "Glass Workshop"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Poké Maniac",
+   "name": "Wyatt",
+   "prize": 1080,
+   "party": [
+    {
+     "dex": 304,
+     "name": "Aron",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Metal Claw",
+       "type": "Steel",
+       "power": 50
+      },
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      }
+     ]
+    },
+    {
+     "dex": 304,
+     "name": "Aron",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Metal Claw",
+       "type": "Steel",
+       "power": 50
+      },
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      }
+     ]
+    }
+   ],
+   "id": "wyatt"
+  },
+  {
+   "class": "Ninja Boy",
+   "name": "Lung",
+   "prize": 216,
+   "party": [
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    },
+    {
+     "dex": 291,
+     "name": "Ninjask",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Leech Life",
+       "type": "Bug",
+       "power": 20
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      }
+     ]
+    }
+   ],
+   "id": "lung"
+  },
+  {
+   "class": "Camper",
+   "name": "Lawrence",
+   "prize": 288,
+   "party": [
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rapid Spin",
+       "type": "Normal",
+       "power": 20
+      },
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Rock Tomb",
+       "type": "Rock",
+       "power": 50
+      }
+     ]
+    },
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 18,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scratch",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "lawrence"
+  },
+  {
+   "class": "Youngster",
+   "name": "Jaylen",
+   "prize": 304,
+   "party": [
+    {
+     "dex": 328,
+     "name": "Trapinch",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "jaylen"
+  },
+  {
+   "class": "Parasol Lady",
+   "name": "Madeline",
+   "prize": 760,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      }
+     ]
+    }
+   ],
+   "id": "madeline"
+  },
+  {
+   "class": "Twins",
+   "name": "Tori & Tia",
+   "prize": 456,
+   "party": [
+    {
+     "dex": 327,
+     "name": "Spinda",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 327,
+     "name": "Spinda",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Uproar",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "double": true,
+   "id": "tori-and-tia"
+  },
+  {
+   "class": "Ninja Boy",
+   "name": "Lao",
+   "prize": 204,
+   "party": [
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    },
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    },
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      }
+     ]
+    }
+   ],
+   "id": "lao"
+  },
+  {
+   "class": "Youngster",
+   "name": "Dillon",
+   "prize": 304,
+   "party": [
+    {
+     "dex": 304,
+     "name": "Aron",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Mud-slap",
+       "type": "Ground",
+       "power": 20
+      },
+      {
+       "name": "Headbutt",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Metal Claw",
+       "type": "Steel",
+       "power": 50
+      },
+      {
+       "name": "Iron Defense",
+       "type": "Steel"
+      }
+     ]
+    }
+   ],
+   "id": "dillon"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Coby",
+   "prize": 608,
+   "party": [
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "coby"
+  },
+  {
+   "class": "Picnicker",
+   "name": "Sophie",
+   "prize": 304,
+   "party": [
+    {
+     "dex": 183,
+     "name": "Marill",
+     "level": 17,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Defense Curl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tail Whip",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 19,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "sophie"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

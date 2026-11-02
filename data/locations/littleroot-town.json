@@ -1,0 +1,77 @@
+{
+ "id": "littleroot-town",
+ "name": "Littleroot Town",
+ "encounters": [
+  {
+   "dex": 155,
+   "name": "Cyndaquil",
+   "method": "gift",
+   "area": "Professor Birch's Lab",
+   "levels": "5",
+   "notes": "Cyndaquil (Lv 5) · Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "after": "pokemon-league"
+  },
+  {
+   "dex": 158,
+   "name": "Totodile",
+   "method": "gift",
+   "area": "Professor Birch's Lab",
+   "levels": "5",
+   "notes": "Totodile (Lv 5) · Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "after": "pokemon-league"
+  },
+  {
+   "dex": 152,
+   "name": "Chikorita",
+   "method": "gift",
+   "area": "Professor Birch's Lab",
+   "levels": "5",
+   "notes": "Chikorita (Lv 5) · Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "after": "pokemon-league"
+  }
+ ],
+ "items": [],
+ "gifts": [
+  {
+   "id": "mon-professor-birch-s-lab-cyndaquil-lv-5",
+   "name": "Cyndaquil (Lv 5)",
+   "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "where": "Professor Birch's Lab"
+  },
+  {
+   "id": "mon-professor-birch-s-lab-totodile-lv-5",
+   "name": "Totodile (Lv 5)",
+   "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "where": "Professor Birch's Lab"
+  },
+  {
+   "id": "mon-professor-birch-s-lab-chikorita-lv-5",
+   "name": "Chikorita (Lv 5)",
+   "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
+   "where": "Professor Birch's Lab"
+  },
+  {
+   "id": "item-professor-birch-s-lab-pok-ball-5",
+   "name": "Poké Ball ×5",
+   "from": "Your rival",
+   "where": "Professor Birch's Lab"
+  },
+  {
+   "id": "item-professor-birchs-lab-pok-dex",
+   "name": "Pokédex",
+   "from": "Professor Birch (after your first rival battle)",
+   "where": "Professor Birchs Lab"
+  },
+  {
+   "id": "item-your-house-2f-potion-in-your-pc",
+   "name": "Potion (in your PC)",
+   "from": "Your bedroom PC",
+   "where": "Your house 2F"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

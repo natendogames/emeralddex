@@ -1,0 +1,143 @@
+{
+ "id": "aqua-hideout",
+ "name": "Aqua Hideout",
+ "encounters": [
+  {
+   "dex": 101,
+   "name": "Electrode",
+   "method": "static",
+   "levels": "30",
+   "area": "B1F",
+   "notes": "One chance: save first"
+  }
+ ],
+ "items": [
+  {
+   "id": "b1f-max-elixir",
+   "name": "Max Elixir",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b1f-master-ball",
+   "name": "Master Ball",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b1f-nugget",
+   "name": "Nugget",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b2f-nest-ball",
+   "name": "Nest Ball",
+   "hidden": false,
+   "where": "B2F"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Team Aqua",
+   "name": "Grunt",
+   "prize": 640,
+   "party": [
+    {
+     "dex": 261,
+     "name": "Poochyena",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "grunt-aqua-hideout",
+   "area": "1F"
+  },
+  {
+   "class": "Aqua Admin",
+   "name": "Matt",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 262,
+     "name": "Mightyena",
+     "level": 34,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Odor Sleuth",
+       "type": "Normal"
+      },
+      {
+       "name": "Roar",
+       "type": "Normal"
+      },
+      {
+       "name": "Swagger",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 42,
+     "name": "Golbat",
+     "level": 34,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Confuse Ray",
+       "type": "Ghost"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Super Potion"
+   ],
+   "id": "matt",
+   "area": "B2F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

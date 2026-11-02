@@ -1,0 +1,495 @@
+{
+ "id": "lavaridge-town",
+ "name": "Lavaridge Town",
+ "encounters": [
+  {
+   "dex": 360,
+   "name": "Wynaut",
+   "method": "gift",
+   "area": "Outside",
+   "levels": "5",
+   "notes": "Wynaut Egg · Old woman by the hot springs"
+  }
+ ],
+ "items": [
+  {
+   "id": "hidden-outside-ice-heal",
+   "name": "Ice Heal",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-go-goggles",
+   "name": "Go-Goggles",
+   "from": "Your rival",
+   "where": "Outside"
+  },
+  {
+   "id": "mon-outside-wynaut-egg",
+   "name": "Wynaut Egg",
+   "from": "Old woman by the hot springs",
+   "where": "Outside"
+  },
+  {
+   "id": "item-gym-1f-tm50",
+   "name": "TM50",
+   "from": "Flannery (after winning)",
+   "where": "Gym 1F"
+  },
+  {
+   "id": "item-herb-shop-charcoal",
+   "name": "Charcoal",
+   "from": "Old Man",
+   "where": "Herb Shop"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Cool Trainer",
+   "name": "Gerald",
+   "prize": 1104,
+   "party": [
+    {
+     "dex": 352,
+     "name": "Kecleon",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Flamethrower",
+       "type": "Fire",
+       "power": 95
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Bind",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "gerald",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Kindler",
+   "name": "Cole",
+   "prize": 736,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "cole",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Kindler",
+   "name": "Axle",
+   "prize": 736,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "axle",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Danielle",
+   "prize": 552,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Bide",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Confusion",
+       "type": "Psychic",
+       "power": 50
+      },
+      {
+       "name": "Fire Punch",
+       "type": "Fire",
+       "power": 75
+      }
+     ]
+    }
+   ],
+   "id": "danielle",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Kindler",
+   "name": "Keegan",
+   "prize": 736,
+   "party": [
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 23,
+     "iv": 14,
+     "moves": [
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "keegan",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Kindler",
+   "name": "Jace",
+   "prize": 736,
+   "party": [
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "jace",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Kindler",
+   "name": "Jeff",
+   "prize": 704,
+   "party": [
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 22,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 22,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Rock Throw",
+       "type": "Rock",
+       "power": 50
+      },
+      {
+       "name": "Harden",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "jeff",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Hiker",
+   "name": "Eli",
+   "prize": 920,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 23,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Ember",
+       "type": "Fire",
+       "power": 40
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      }
+     ]
+    }
+   ],
+   "id": "eli",
+   "area": "Gym 1F"
+  },
+  {
+   "class": "Leader",
+   "name": "Flannery",
+   "prize": 2900,
+   "party": [
+    {
+     "dex": 322,
+     "name": "Numel",
+     "level": 24,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Overheat",
+       "type": "Fire",
+       "power": 140
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      },
+      {
+       "name": "Magnitude",
+       "type": "Ground",
+       "power": 1
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      }
+     ]
+    },
+    {
+     "dex": 218,
+     "name": "Slugma",
+     "level": 24,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Overheat",
+       "type": "Fire",
+       "power": 140
+      },
+      {
+       "name": "Smog",
+       "type": "Poison",
+       "power": 20
+      },
+      {
+       "name": "Light Screen",
+       "type": "Psychic"
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      }
+     ]
+    },
+    {
+     "dex": 323,
+     "name": "Camerupt",
+     "level": 26,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Overheat",
+       "type": "Fire",
+       "power": 140
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 324,
+     "name": "Torkoal",
+     "level": 29,
+     "iv": 30,
+     "moves": [
+      {
+       "name": "Overheat",
+       "type": "Fire",
+       "power": 140
+      },
+      {
+       "name": "Sunny Day",
+       "type": "Fire"
+      },
+      {
+       "name": "Body Slam",
+       "type": "Normal",
+       "power": 85
+      },
+      {
+       "name": "Attract",
+       "type": "Normal"
+      }
+     ],
+     "item": "White Herb"
+    }
+   ],
+   "uses": [
+    "Hyper Potion ×2"
+   ],
+   "rewards": [
+    "Heat Badge",
+    "TM50"
+   ],
+   "id": "flannery",
+   "area": "Gym 1F"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

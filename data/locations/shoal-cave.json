@@ -1,0 +1,353 @@
+{
+ "id": "shoal-cave",
+ "name": "Shoal Cave",
+ "encounters": [
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "50%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "45%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "32",
+   "rate": "5%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "30%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "surf",
+   "levels": "25-35",
+   "rate": "10%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Low Tide Entrance Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "45%",
+   "area": "Low Tide Ice Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "26-30",
+   "rate": "40%",
+   "area": "Low Tide Ice Room"
+  },
+  {
+   "dex": 361,
+   "name": "Snorunt",
+   "method": "grass",
+   "levels": "26-30",
+   "rate": "10%",
+   "area": "Low Tide Ice Room"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "30-32",
+   "rate": "5%",
+   "area": "Low Tide Ice Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "50%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "45%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "32",
+   "rate": "5%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "30%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "surf",
+   "levels": "25-35",
+   "rate": "10%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%",
+   "area": "Low Tide Inner Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "50%",
+   "area": "Low Tide Lower Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "45%",
+   "area": "Low Tide Lower Room"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "32",
+   "rate": "5%",
+   "area": "Low Tide Lower Room"
+  },
+  {
+   "dex": 363,
+   "name": "Spheal",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "50%",
+   "area": "Low Tide Stairs Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "26-32",
+   "rate": "45%",
+   "area": "Low Tide Stairs Room"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "32",
+   "rate": "5%",
+   "area": "Low Tide Stairs Room"
+  }
+ ],
+ "items": [
+  {
+   "id": "low-tide-entrance-room-big-pearl",
+   "name": "Big Pearl",
+   "hidden": false,
+   "where": "Low Tide Entrance Room"
+  },
+  {
+   "id": "low-tide-ice-room-tm07",
+   "name": "TM07",
+   "hidden": false,
+   "where": "Low Tide Ice Room"
+  },
+  {
+   "id": "low-tide-ice-room-nevermeltice",
+   "name": "NeverMeltIce",
+   "hidden": false,
+   "where": "Low Tide Ice Room"
+  },
+  {
+   "id": "low-tide-inner-room-rare-candy",
+   "name": "Rare Candy",
+   "hidden": false,
+   "where": "Low Tide Inner Room"
+  },
+  {
+   "id": "low-tide-stairs-room-ice-heal",
+   "name": "Ice Heal",
+   "hidden": false,
+   "where": "Low Tide Stairs Room"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-low-tide-entrance-room-shell-bell",
+   "name": "Shell Bell",
+   "from": "Old man (bring 4 Shoal Salt and 4 Shoal Shells)",
+   "where": "Low Tide Entrance Room"
+  },
+  {
+   "id": "item-low-tide-inner-room-shoal-shell",
+   "name": "Shoal Shell",
+   "from": "On the ground at low tide",
+   "where": "Low Tide Inner Room"
+  },
+  {
+   "id": "item-low-tide-inner-room-shoal-salt",
+   "name": "Shoal Salt",
+   "from": "On the ground at low tide",
+   "where": "Low Tide Inner Room"
+  },
+  {
+   "id": "item-low-tide-lower-room-shoal-salt",
+   "name": "Shoal Salt",
+   "from": "On the ground at low tide",
+   "where": "Low Tide Lower Room"
+  },
+  {
+   "id": "item-low-tide-lower-room-focus-band",
+   "name": "Focus Band",
+   "from": "Black Belt",
+   "where": "Low Tide Lower Room"
+  },
+  {
+   "id": "item-low-tide-stairs-room-shoal-salt",
+   "name": "Shoal Salt",
+   "from": "On the ground at low tide",
+   "where": "Low Tide Stairs Room"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

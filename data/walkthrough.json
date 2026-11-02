@@ -1,0 +1,329 @@
+{
+ "_about": "Story steps per location, in play order. Written from the game's script order in pret/pokeemerald; Draft until checked in play.",
+ "littleroot-town": [
+  "You arrive in the moving truck. Set the clock in your room upstairs, then visit the house next door to meet your rival's mom.",
+  "Head north to Route 101 and save Professor Birch from a wild Zigzagoon.",
+  "Back at the lab Birch gives you the starter you used, then asks you to meet your rival on Route 103.",
+  "After Route 103 you get the Pokédex, and your mom gives you the Running Shoes on your way out.",
+  "After the Hall of Fame: once you've caught every Hoenn Pokédex entry (Jirachi and Deoxys aren't needed), Birch offers a Johto starter."
+ ],
+ "route-101": [
+  "Birch is being chased by a Zigzagoon. Open his bag and pick Treecko, Torchic or Mudkip.",
+  "Once you have Poké Balls, catch Wurmple, Poochyena and Zigzagoon here."
+ ],
+ "oldale-town": [
+  "A Poké Mart clerk walks you to the mart and gives you a free Potion.",
+  "The path west to Route 102 is blocked by a man sketching footprints until you've been to Route 103."
+ ],
+ "route-103": [
+  "Your rival (May or Brendan) is at the north end. Battle them; their starter is the one weak to yours.",
+  "Go back to Birch's lab for the Pokédex and 5 Poké Balls from your rival.",
+  "The east side is reached from Route 110 (or by Surf later): come back then for the trainers and items there."
+ ],
+ "route-102": [
+  "Head west from Oldale. Four trainers, and Ralts appears here (rarely, 4%). Seedot is here too.",
+  "Pick the berries from the trees here."
+ ],
+ "petalburg-city": [
+  "Visit the Gym: your dad Norman is the leader, but he won't battle you yet.",
+  "Wally comes in and you go with him to Route 102 to help him catch a Ralts. Then head west to Route 104.",
+  "Come back after four badges (after Lavaridge) to challenge Norman."
+ ],
+ "route-104": [
+  "South part: the beach and Mr. Briney's cottage. Go north into Petalburg Woods.",
+  "North part (after the woods): the Pretty Petal Flower Shop gives a Wailmer Pail. More trainers wait near the bridge.",
+  "Later, Mr. Briney sails you from his cottage to Dewford Town once you have the letter from Devon."
+ ],
+ "petalburg-woods": [
+  "Help the Devon researcher: a Team Aqua grunt tries to steal his papers. Beat the grunt and he gives you a Great Ball.",
+  "Shroomish and Slakoth appear here, and Silcoon or Cascoon depending on Wurmple's evolution."
+ ],
+ "rustboro-city": [
+  "Beat Roxanne at the Rustboro Gym (Rock type). Grass or Water moves make it easy; Torchic should learn Double Kick at 16 as Combusken.",
+  "Reward: Stone Badge and TM39 Rock Tomb.",
+  "A Team Aqua grunt steals the Devon Goods: chase him east to Route 116 and Rusturf Tunnel.",
+  "Return the goods to Mr. Stone at Devon Corporation. He gives you the PokéNav and a letter for Steven in Dewford, and asks you to deliver Devon Goods to Slateport.",
+  "Your rival battles you just outside the Devon building after you leave. The Cutter's House gives HM01 Cut."
+ ],
+ "route-116": [
+  "Go east to chase the grunt. Several trainers, and Whismur, Nincada, Abra and Skitty live here.",
+  "Return later with Rock Smash: Rusturf Tunnel then connects to Verdanturf Town."
+ ],
+ "rusturf-tunnel": [
+  "Beat the Team Aqua grunt to get the Devon Goods back and Peeko the Wingull returns to Mr. Briney.",
+  "With Rock Smash (after Mauville) clear the rocks to join Verdanturf Town; the tunnel couple reunite and give you HM04 Strength."
+ ],
+ "dewford-town": [
+  "Mr. Briney's boat brings you here. The fisherman next to the Gym gives you the Old Rod.",
+  "Beat Brawly (Fighting). Flying or Psychic moves help; Machop and Makuhita hit hard.",
+  "Reward: Knuckle Badge and TM08 Bulk Up. Deliver the letter to Steven in Granite Cave first if you like; order is free."
+ ],
+ "granite-cave": [
+  "Get the HM05 Flash from the Hiker at the entrance.",
+  "Find Steven at the back of the cave and give him the letter. He gives TM47 Steel Wing.",
+  "Abra, Makuhita, Zubat, Geodude and Sableye (deeper floors) live here. Aron is common on B1F/B2F."
+ ],
+ "route-109": [
+  "Mr. Briney sails you north to Slateport after Dewford. The beach has trainers and the Seashore House (beat the trainers inside for six Sodas).",
+  "The Super Rod and Surf areas come later."
+ ],
+ "slateport-city": [
+  "Deliver the Devon Goods to Captain Stern at the Oceanic Museum. Team Aqua grunts block the second floor: beat them.",
+  "Visit the Pokémon Fan Club and the Market; the shipyard is where the Submarine is built.",
+  "After the Hall of Fame your dad gives you the S.S. Ticket: the S.S. Tidal then sails from here to Lilycove and the Battle Frontier."
+ ],
+ "route-110": [
+  "Your rival battles you here (north of Slateport, after the Trick House).",
+  "Seaside Cycling Road runs above the route; you need a bike from Mauville. Electrike, Gulpin, Minun and Plusle live here.",
+  "The Trick House challenges continue as you earn more HMs."
+ ],
+ "mauville-city": [
+  "Wally's uncle asks you to battle Wally outside the Gym. Beat him and he heads home.",
+  "Get a free bike (Mach or Acro, you can swap) from Rydel's Cycles.",
+  "Beat Wattson (Electric). Ground types like Geodude or Marshtomp win easily.",
+  "Reward: Dynamo Badge and TM34 Shock Wave. Get HM06 Rock Smash from the house near the Pokémon Center.",
+  "Once you can Surf, Wattson asks you to shut down the generator in New Mauville."
+ ],
+ "route-117": [
+  "West from Mauville. The Pokémon Day Care is here: leave two Pokémon to breed.",
+  "Illumise and Volbeat appear, plus Marill, Oddish and Roselia."
+ ],
+ "verdanturf-town": [
+  "Wally's family lives here. Rock Smash through Rusturf Tunnel to reunite the couple and get HM04 Strength.",
+  "The Contest Hall here is the easiest first contest."
+ ],
+ "route-111": [
+  "North of Mauville. The sand storm blocks the desert until you have Go-Goggles (Lavaridge).",
+  "A family of four trainers in the house near the north end battle you one after another."
+ ],
+ "route-112": [
+  "Team Magma blocks the cable car. Go around through Fiery Path to Route 113."
+ ],
+ "fiery-path": [
+  "A short volcanic cave: Numel, Koffing, Grimer, Slugma, Torkoal and Machop. Strength opens the TM06 Toxic spot."
+ ],
+ "route-113": [
+  "Ash falls here. Get the Soot Sack from the glass maker's house and walk in the ash to collect it.",
+  "Trade ash for flutes and decorations later."
+ ],
+ "fallarbor-town": [
+  "Visit Professor Cozmo's house and learn that Team Magma took a meteorite to Meteor Falls.",
+  "The Move Relearner lives here: one Heart Scale per move."
+ ],
+ "route-114": [
+  "Head west. Lotad, Seviper and Swablu live here. Lanette, who runs the PC storage system, lives here.",
+  "Meteor Falls is at the north end."
+ ],
+ "meteor-falls": [
+  "Team Magma steals the meteorite and Team Aqua chases them. Leave and go back south.",
+  "With Surf and Waterfall, the inner rooms hold Bagon. Steven's cave (after the Hall of Fame) is in the back."
+ ],
+ "route-115": [
+  "North of Rustboro, reached from Meteor Falls. The beach needs Surf for most of it."
+ ],
+ "mt-chimney": [
+  "Take the cable car up from Route 112. Beat Team Magma's Tabitha and then Maxie to stop them using the meteorite on the volcano.",
+  "Archie leaves after the battle. Take the meteorite. Then head down Jagged Pass."
+ ],
+ "jagged-pass": [
+  "Downhill path to Lavaridge. The Magma Hideout entrance is here: open it later with the Magma Emblem (from Mt. Pyre)."
+ ],
+ "lavaridge-town": [
+  "The old lady by the hot springs gives a Wynaut egg. The herb shop sells cheap healing.",
+  "Beat Flannery (Fire). Water and Ground moves win; her Torkoal knows Overheat.",
+  "Reward: Heat Badge and TM50 Overheat. Your rival gives you the Go-Goggles when you leave.",
+  "Now go home to Petalburg to battle your dad."
+ ],
+ "mirage-tower": [
+  "Found in the Route 111 desert (with Go-Goggles). Climb with the Mach Bike over cracked floors and use Rock Smash.",
+  "At the top pick the Root Fossil (Lileep) or the Claw Fossil (Anorith). Taking one sinks the tower. Revive it at Devon in Rustboro."
+ ],
+ "route-105": [
+  "Surf south of Petalburg towards Dewford. Many Swimmers and the Island Cave (Regice, post-game)."
+ ],
+ "route-106": [
+  "The beach west of Dewford with the Granite Cave entrance. Fishermen and swimmers."
+ ],
+ "route-107": [
+  "Open sea between Dewford and Route 108. Swimmers and Tentacool."
+ ],
+ "route-108": [
+  "The Abandoned Ship sits here. Trainers on the open water."
+ ],
+ "abandoned-ship": [
+  "Look around the wreck for items. The Scanner and the TM18 Rain Dance are behind locked rooms: find keys with Dive (after Mossdeep).",
+  "Give the Scanner to Captain Stern in Slateport for a Deep Sea Tooth or Deep Sea Scale."
+ ],
+ "new-mauville": [
+  "Wattson gives you the Basement Key. Surf on Route 110 to the entrance, turn off the generator, and Wattson gives you TM24 Thunderbolt.",
+  "Voltorb, Electrode and Magnemite live here, and some items on the floor are Voltorb in disguise."
+ ],
+ "route-118": [
+  "East of Mauville. Surf across, and the fisherman by the water gives you the Good Rod."
+ ],
+ "route-119": [
+  "Long route through tall grass and rain. Kecleon hides in the path: Steven gives you the Devon Scope after Fortree to reveal them.",
+  "Team Aqua takes over the Weather Institute: beat Shelly and the researchers give you a Castform. Your rival battles you just before Fortree and then gives you HM02 Fly.",
+  "Feebas lives in six random tiles of the river: fish around until you find one."
+ ],
+ "fortree-city": [
+  "A Kecleon blocks the Gym: wait until Route 120 for the Devon Scope.",
+  "Beat Winona (Flying). Electric, Ice and Rock moves win; her Altaria knows Dragon Dance.",
+  "Reward: Feather Badge and TM40 Aerial Ace."
+ ],
+ "route-120": [
+  "Steven uses the Devon Scope on a Kecleon on the bridge and gives you the scope.",
+  "The Scorched Slab entrance needs Surf. Ancient Tomb (Registeel, post-game) is here too."
+ ],
+ "scorched-slab": [
+  "A small cave reached by Surf. TM11 Sunny Day is at the back."
+ ],
+ "route-121": [
+  "Team Aqua heads to Mt. Pyre. The Safari Zone is on the way to Lilycove."
+ ],
+ "safari-zone": [
+  "500 steps and 30 Safari Balls a visit. No battling. Pokéblock feeders help keep a Pokémon from running.",
+  "Some areas need the Mach or Acro Bike. The two extra areas open after the Hall of Fame."
+ ],
+ "lilycove-city": [
+  "Your rival battles you outside the Department Store. Team Aqua's hideout is in the cove but blocked for now.",
+  "The Department Store has everything, including rooftop vending and TMs. The Move Deleter lives here.",
+  "The S.S. Tidal port is here (it sails after the Hall of Fame)."
+ ],
+ "route-122": [
+  "Surf south from Route 121 to Mt. Pyre."
+ ],
+ "mt-pyre": [
+  "Climb the outside to the summit. Team Aqua takes the Red and Blue Orbs, and the old couple there give you the Magma Emblem.",
+  "Shuppet and Duskull live inside."
+ ],
+ "route-123": [
+  "One-way ledges back east to Route 118. The Berry Master's house gives free berries daily."
+ ],
+ "magma-hideout": [
+  "Open it from Jagged Pass with the Magma Emblem. Beat Tabitha and then Maxie as he awakens Groudon, which leaves."
+ ],
+ "aqua-hideout": [
+  "In Lilycove's cove. Beat Matt; Archie has already escaped with the stolen submarine.",
+  "The Master Ball is on B1F."
+ ],
+ "route-124": [
+  "East of Lilycove. Dive spots and the Treasure Hunter's house (shards for stones)."
+ ],
+ "mossdeep-city": [
+  "Beat Tate and Liza (Psychic, double battle). Their Solrock and Lunatone are part Rock, so Water and Grass moves work, as do Dark and Ghost.",
+  "Reward: Mind Badge and TM04 Calm Mind. Team Magma then attacks the Space Center: beat Maxie and Tabitha with Steven as your partner.",
+  "Steven gives you HM08 Dive at his house. Dive on Route 128 to find the Seafloor Cavern."
+ ],
+ "route-125": [
+  "The Shoal Cave is here. Shoal Salt and Shells at low tide make a Shell Bell."
+ ],
+ "shoal-cave": [
+  "The tide changes every 6 hours, opening different rooms. Get the Focus Band and NeverMeltIce. Snorunt and Spheal live here."
+ ],
+ "route-127": [
+  "Open water with Dive spots."
+ ],
+ "route-128": [
+  "Dive here to find the Seafloor Cavern entrance."
+ ],
+ "seafloor-cavern": [
+  "Use Strength and Rock Smash to go through. Beat Archie; he wakes Kyogre and the weather goes wild."
+ ],
+ "route-126": [
+  "Dive near Sootopolis to reach its underwater entrance."
+ ],
+ "sootopolis-city": [
+  "Groudon and Kyogre clash. Steven takes you to Wallace, who sends you to the Sky Pillar.",
+  "After Rayquaza calms them, beat Juan (Water). Grass and Electric moves win, but his Kingdra is only weak to Dragon.",
+  "Reward: Rain Badge and HM07 Waterfall."
+ ],
+ "cave-of-origin": [
+  "You visit with Wallace during the story. There is nothing to catch here in Emerald."
+ ],
+ "route-129": [
+  "Open water south of Route 128. Wailmer and Wingull. Also on the way to Pacifidlog."
+ ],
+ "route-130": [
+  "Mirage Island appears here on some days (Wynaut, Liechi Berry)."
+ ],
+ "route-131": [
+  "The Sky Pillar is here. Trainers on the open water."
+ ],
+ "pacifidlog-town": [
+  "A village of logs. The man in one house gives TM27 Return or TM21 Frustration by your friendship."
+ ],
+ "sky-pillar": [
+  "Climb with the Mach Bike to wake Rayquaza. It stops Groudon and Kyogre and flies off.",
+  "After the Hall of Fame Rayquaza waits at the top to be caught (Lv 70)."
+ ],
+ "route-132": [
+  "Strong currents east of Pacifidlog."
+ ],
+ "route-133": [
+  "Currents and trainers."
+ ],
+ "route-134": [
+  "Currents into Slateport. The Sealed Chamber (Braille puzzles for the Regis) is here."
+ ],
+ "ever-grande-city": [
+  "Waterfall up from Route 128. Heal and head into Victory Road."
+ ],
+ "victory-road": [
+  "Long cave with Strength and Rock Smash puzzles. Wally battles you near the exit with his Gardevoir.",
+  "Strong trainers line the path; heal before the League."
+ ],
+ "pokemon-league": [
+  "Beat Sidney (Dark), Phoebe (Ghost), Glacia (Ice) and Drake (Dragon) in a row, then Champion Wallace (Water).",
+  "Fighting and Bug moves for Sidney, Dark and Ghost for Phoebe, Fire, Fighting or Rock for Glacia, Ice or Dragon for Drake, Electric and Grass for Wallace.",
+  "After the Hall of Fame: the Battle Frontier opens, the Safari Zone extensions open, and the S.S. Tidal sails further."
+ ],
+ "roaming": [
+  "After the Hall of Fame your mom asks about the TV. Pick red for Latias or blue for Latios. It then roams Hoenn's routes."
+ ],
+ "ss-tidal": [
+  "Ferry between Slateport, Lilycove and the Battle Frontier, once your dad gives you the S.S. Ticket after the Hall of Fame. Event tickets take it to the special islands."
+ ],
+ "battle-frontier": [
+  "Seven facilities. Beat the Frontier Brains for symbols. Move tutors here use Battle Points."
+ ],
+ "artisan-cave": [
+  "Behind the Battle Frontier. Smeargle lives here."
+ ],
+ "desert-underpass": [
+  "West of Route 114 after the Hall of Fame. The fossil you didn't take at Mirage Tower is here."
+ ],
+ "altering-cave": [
+  "Route 103. Zubat only in the default game."
+ ],
+ "sealed-chamber": [
+  "Dive on Route 134. Solve the Braille with Wailord and Relicanth in your party to open the three Regi caves."
+ ],
+ "desert-ruins": [
+  "Route 111 desert. Rock Smash for Regirock (Lv 40)."
+ ],
+ "island-cave": [
+  "Route 105. Wait two minutes for Regice (Lv 40)."
+ ],
+ "ancient-tomb": [
+  "Route 120. Use Flash in the middle for Registeel (Lv 40)."
+ ],
+ "marine-cave": [
+  "After the Hall of Fame, the Weather Institute reports odd weather. Marine Cave then appears on Route 105, 125, 127 or 129. Kyogre is inside (Lv 70)."
+ ],
+ "terra-cave": [
+  "After the Hall of Fame, Terra Cave appears on Route 114, 115, 116 or 118 when the Weather Institute reports a drought. Groudon is inside (Lv 70)."
+ ],
+ "southern-island": [
+  "Needs the Eon Ticket event item."
+ ],
+ "faraway-island": [
+  "Needs the Old Sea Map event item. Mew."
+ ],
+ "birth-island": [
+  "Needs the AuroraTicket event item. Deoxys."
+ ],
+ "navel-rock": [
+  "Needs the MysticTicket event item. Ho-Oh and Lugia."
+ ]
+}

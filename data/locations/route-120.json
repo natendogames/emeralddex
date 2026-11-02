@@ -1,0 +1,981 @@
+{
+ "id": "route-120",
+ "name": "Route 120",
+ "encounters": [
+  {
+   "dex": 262,
+   "name": "Mightyena",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "30%"
+  },
+  {
+   "dex": 43,
+   "name": "Oddish",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "25%"
+  },
+  {
+   "dex": 261,
+   "name": "Poochyena",
+   "method": "grass",
+   "levels": "25",
+   "rate": "20%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "15%"
+  },
+  {
+   "dex": 359,
+   "name": "Absol",
+   "method": "grass",
+   "levels": "25-27",
+   "rate": "8%"
+  },
+  {
+   "dex": 273,
+   "name": "Seedot",
+   "method": "grass",
+   "levels": "25",
+   "rate": "1%"
+  },
+  {
+   "dex": 352,
+   "name": "Kecleon",
+   "method": "grass",
+   "levels": "25",
+   "rate": "1%"
+  },
+  {
+   "dex": 183,
+   "name": "Marill",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "99%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "surf",
+   "levels": "20-30",
+   "rate": "1%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 118,
+   "name": "Goldeen",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 339,
+   "name": "Barboach",
+   "method": "super-rod",
+   "levels": "20-45",
+   "rate": "100%"
+  },
+  {
+   "dex": 352,
+   "name": "Kecleon",
+   "method": "static",
+   "levels": "30",
+   "notes": "Invisible until you have the Devon Scope from Steven on the bridge.",
+   "after": "route-120"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-nugget",
+   "name": "Nugget",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-full-heal",
+   "name": "Full Heal",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-nest-ball",
+   "name": "Nest Ball",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-hyper-potion",
+   "name": "Hyper Potion",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-revive",
+   "name": "Revive",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-rare-candy",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-revive",
+   "name": "Revive",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-rare-candy-2",
+   "name": "Rare Candy",
+   "hidden": true,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-outside-zinc",
+   "name": "Zinc",
+   "hidden": true,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-outside-devon-scope",
+   "name": "Devon Scope",
+   "from": "Steven (after the Kecleon on the bridge)",
+   "where": "Outside"
+  }
+ ],
+ "trainers": [
+  {
+   "class": "Parasol Lady",
+   "name": "Clarissa",
+   "prize": 1120,
+   "party": [
+    {
+     "dex": 315,
+     "name": "Roselia",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Stun Spore",
+       "type": "Grass"
+      },
+      {
+       "name": "Mega Drain",
+       "type": "Grass",
+       "power": 40
+      },
+      {
+       "name": "Leech Seed",
+       "type": "Grass"
+      },
+      {
+       "name": "Magical Leaf",
+       "type": "Grass",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "clarissa"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Robert",
+   "prize": 928,
+   "party": [
+    {
+     "dex": 333,
+     "name": "Swablu",
+     "level": 29,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sing",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Safeguard",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    }
+   ],
+   "id": "robert"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Colin",
+   "prize": 896,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 177,
+     "name": "Natu",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Peck",
+       "type": "Flying",
+       "power": 35
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Night Shade",
+       "type": "Ghost",
+       "power": 1
+      },
+      {
+       "name": "Teleport",
+       "type": "Psychic"
+      }
+     ]
+    }
+   ],
+   "id": "colin"
+  },
+  {
+   "class": "Ninja Boy",
+   "name": "Riley",
+   "prize": 336,
+   "party": [
+    {
+     "dex": 290,
+     "name": "Nincada",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Leech Life",
+       "type": "Bug",
+       "power": 20
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      },
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Smokescreen",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "riley"
+  },
+  {
+   "class": "Battle Girl",
+   "name": "Callie",
+   "prize": 672,
+   "party": [
+    {
+     "dex": 307,
+     "name": "Meditite",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Hidden Power",
+       "type": "Normal",
+       "power": 1
+      },
+      {
+       "name": "Mind Reader",
+       "type": "Normal"
+      },
+      {
+       "name": "Calm Mind",
+       "type": "Psychic"
+      }
+     ]
+    },
+    {
+     "dex": 296,
+     "name": "Makuhita",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Whirlwind",
+       "type": "Normal"
+      },
+      {
+       "name": "Knock Off",
+       "type": "Dark",
+       "power": 20
+      }
+     ]
+    }
+   ],
+   "id": "callie"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Leonel",
+   "prize": 1440,
+   "party": [
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 30,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Thunder",
+       "type": "Electric",
+       "power": 120
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "leonel"
+  },
+  {
+   "class": "Parasol Lady",
+   "name": "Angelica",
+   "prize": 1200,
+   "party": [
+    {
+     "dex": 351,
+     "name": "Castform",
+     "level": 30,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Rain Dance",
+       "type": "Water"
+      },
+      {
+       "name": "Weather Ball",
+       "type": "Normal",
+       "power": 50
+      },
+      {
+       "name": "Thunder",
+       "type": "Electric",
+       "power": 120
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "id": "angelica"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Jennifer",
+   "prize": 1440,
+   "party": [
+    {
+     "dex": 302,
+     "name": "Sableye",
+     "level": 30,
+     "iv": 24,
+     "moves": [
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Detect",
+       "type": "Fighting"
+      },
+      {
+       "name": "Faint Attack",
+       "type": "Dark",
+       "power": 60
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "jennifer"
+  },
+  {
+   "class": "Pokémon Ranger",
+   "name": "Jenna",
+   "prize": 1344,
+   "party": [
+    {
+     "dex": 270,
+     "name": "Lotad",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growl",
+       "type": "Normal"
+      },
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      }
+     ]
+    },
+    {
+     "dex": 274,
+     "name": "Nuzleaf",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Torment",
+       "type": "Dark"
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "jenna"
+  },
+  {
+   "class": "Pokémon Ranger",
+   "name": "Lorenzo",
+   "prize": 1344,
+   "party": [
+    {
+     "dex": 273,
+     "name": "Seedot",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Harden",
+       "type": "Normal"
+      },
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Synthesis",
+       "type": "Grass"
+      }
+     ]
+    },
+    {
+     "dex": 274,
+     "name": "Nuzleaf",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Growth",
+       "type": "Normal"
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Torment",
+       "type": "Dark"
+      }
+     ]
+    },
+    {
+     "dex": 271,
+     "name": "Lombre",
+     "level": 28,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Absorb",
+       "type": "Grass",
+       "power": 20
+      },
+      {
+       "name": "Nature Power",
+       "type": "Normal"
+      },
+      {
+       "name": "Fake Out",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Fury Swipes",
+       "type": "Normal",
+       "power": 18
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Full Restore"
+   ],
+   "id": "lorenzo"
+  },
+  {
+   "class": "Ruin Maniac",
+   "name": "Chip",
+   "prize": 1620,
+   "party": [
+    {
+     "dex": 343,
+     "name": "Baltoy",
+     "level": 27,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Psybeam",
+       "type": "Psychic",
+       "power": 65
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Sandstorm",
+       "type": "Rock"
+      },
+      {
+       "name": "Ancientpower",
+       "type": "Rock",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 27,
+     "name": "Sandshrew",
+     "level": 27,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 28,
+     "name": "Sandslash",
+     "level": 27,
+     "iv": 6,
+     "moves": [
+      {
+       "name": "Dig",
+       "type": "Ground",
+       "power": 60
+      },
+      {
+       "name": "Slash",
+       "type": "Normal",
+       "power": 70
+      },
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Poison Sting",
+       "type": "Poison",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "chip"
+  },
+  {
+   "class": "Ninja Boy",
+   "name": "Keigo",
+   "prize": 336,
+   "party": [
+    {
+     "dex": 109,
+     "name": "Koffing",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Poison Gas",
+       "type": "Poison"
+      },
+      {
+       "name": "Selfdestruct",
+       "type": "Normal",
+       "power": 200
+      },
+      {
+       "name": "Sludge",
+       "type": "Poison",
+       "power": 65
+      },
+      {
+       "name": "Smokescreen",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 291,
+     "name": "Ninjask",
+     "level": 28,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Sand-attack",
+       "type": "Ground"
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Fury Cutter",
+       "type": "Bug",
+       "power": 10
+      },
+      {
+       "name": "Swords Dance",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "keigo"
+  },
+  {
+   "class": "Bug Maniac",
+   "name": "Jeffrey",
+   "prize": 1620,
+   "party": [
+    {
+     "dex": 283,
+     "name": "Surskit",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 283,
+     "name": "Surskit",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    },
+    {
+     "dex": 283,
+     "name": "Surskit",
+     "level": 27,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Sweet Scent",
+       "type": "Normal"
+      },
+      {
+       "name": "Water Sport",
+       "type": "Water"
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      }
+     ]
+    }
+   ],
+   "id": "jeffrey"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

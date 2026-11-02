@@ -1,0 +1,126 @@
+{
+ "id": "sky-pillar",
+ "name": "Sky Pillar",
+ "encounters": [
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "34-35",
+   "rate": "30%",
+   "area": "1F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "33-34",
+   "rate": "30%",
+   "area": "1F"
+  },
+  {
+   "dex": 344,
+   "name": "Claydol",
+   "method": "grass",
+   "levels": "36-38",
+   "rate": "25%",
+   "area": "1F"
+  },
+  {
+   "dex": 354,
+   "name": "Banette",
+   "method": "grass",
+   "levels": "37-38",
+   "rate": "15%",
+   "area": "1F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "34-35",
+   "rate": "30%",
+   "area": "3F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "33-34",
+   "rate": "30%",
+   "area": "3F"
+  },
+  {
+   "dex": 344,
+   "name": "Claydol",
+   "method": "grass",
+   "levels": "36-38",
+   "rate": "25%",
+   "area": "3F"
+  },
+  {
+   "dex": 354,
+   "name": "Banette",
+   "method": "grass",
+   "levels": "37-38",
+   "rate": "15%",
+   "area": "3F"
+  },
+  {
+   "dex": 42,
+   "name": "Golbat",
+   "method": "grass",
+   "levels": "34-35",
+   "rate": "30%",
+   "area": "5F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "33-34",
+   "rate": "30%",
+   "area": "5F"
+  },
+  {
+   "dex": 344,
+   "name": "Claydol",
+   "method": "grass",
+   "levels": "36-37",
+   "rate": "19%",
+   "area": "5F"
+  },
+  {
+   "dex": 354,
+   "name": "Banette",
+   "method": "grass",
+   "levels": "37-38",
+   "rate": "15%",
+   "area": "5F"
+  },
+  {
+   "dex": 334,
+   "name": "Altaria",
+   "method": "grass",
+   "levels": "38-39",
+   "rate": "6%",
+   "area": "5F"
+  },
+  {
+   "dex": 384,
+   "name": "Rayquaza",
+   "method": "static",
+   "levels": "70",
+   "area": "Top",
+   "notes": "Asleep at the top until the story wakes it; catchable after you enter the Hall of Fame. Needs the Mach Bike. Save first.",
+   "after": "pokemon-league"
+  }
+ ],
+ "items": [],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

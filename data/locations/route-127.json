@@ -1,0 +1,615 @@
+{
+ "id": "route-127",
+ "name": "Route 127",
+ "encounters": [
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "surf",
+   "levels": "5-35",
+   "rate": "60%"
+  },
+  {
+   "dex": 278,
+   "name": "Wingull",
+   "method": "surf",
+   "levels": "10-30",
+   "rate": "35%"
+  },
+  {
+   "dex": 279,
+   "name": "Pelipper",
+   "method": "surf",
+   "levels": "25-30",
+   "rate": "5%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "70%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "old-rod",
+   "levels": "5-10",
+   "rate": "30%"
+  },
+  {
+   "dex": 129,
+   "name": "Magikarp",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "60%"
+  },
+  {
+   "dex": 72,
+   "name": "Tentacool",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "good-rod",
+   "levels": "10-30",
+   "rate": "20%"
+  },
+  {
+   "dex": 320,
+   "name": "Wailmer",
+   "method": "super-rod",
+   "levels": "25-45",
+   "rate": "60%"
+  },
+  {
+   "dex": 319,
+   "name": "Sharpedo",
+   "method": "super-rod",
+   "levels": "30-35",
+   "rate": "40%"
+  }
+ ],
+ "items": [
+  {
+   "id": "outside-zinc",
+   "name": "Zinc",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-carbos",
+   "name": "Carbos",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "outside-rare-candy",
+   "name": "Rare Candy",
+   "hidden": false,
+   "where": "Outside"
+  },
+  {
+   "id": "hidden-underwater-star-piece",
+   "name": "Star Piece",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-hp-up",
+   "name": "HP Up",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-heart-scale",
+   "name": "Heart Scale",
+   "hidden": true,
+   "where": "Underwater"
+  },
+  {
+   "id": "hidden-underwater-red-shard",
+   "name": "Red Shard",
+   "hidden": true,
+   "where": "Underwater"
+  }
+ ],
+ "gifts": [],
+ "trainers": [
+  {
+   "class": "Fisherman",
+   "name": "Henry",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 318,
+     "name": "Carvanha",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      },
+      {
+       "name": "Take Down",
+       "type": "Normal",
+       "power": 90
+      }
+     ]
+    },
+    {
+     "dex": 73,
+     "name": "Tentacruel",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Wrap",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    }
+   ],
+   "id": "henry"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Roger",
+   "prize": 1400,
+   "party": [
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 15,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    },
+    {
+     "dex": 129,
+     "name": "Magikarp",
+     "level": 25,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Splash",
+       "type": "Normal"
+      },
+      {
+       "name": "Tackle",
+       "type": "Normal",
+       "power": 35
+      }
+     ]
+    },
+    {
+     "dex": 130,
+     "name": "Gyarados",
+     "level": 35,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Bite",
+       "type": "Dark",
+       "power": 60
+      },
+      {
+       "name": "Dragon Rage",
+       "type": "Dragon",
+       "power": 1
+      },
+      {
+       "name": "Leer",
+       "type": "Normal"
+      },
+      {
+       "name": "Twister",
+       "type": "Dragon",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "id": "roger"
+  },
+  {
+   "class": "Fisherman",
+   "name": "Jonah",
+   "prize": 1280,
+   "party": [
+    {
+     "dex": 320,
+     "name": "Wailmer",
+     "level": 30,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Rollout",
+       "type": "Rock",
+       "power": 30
+      },
+      {
+       "name": "Whirlpool",
+       "type": "Water",
+       "power": 15
+      },
+      {
+       "name": "Astonish",
+       "type": "Ghost",
+       "power": 30
+      },
+      {
+       "name": "Water Pulse",
+       "type": "Water",
+       "power": 60
+      }
+     ]
+    },
+    {
+     "dex": 72,
+     "name": "Tentacool",
+     "level": 31,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Constrict",
+       "type": "Normal",
+       "power": 10
+      },
+      {
+       "name": "Acid",
+       "type": "Poison",
+       "power": 40
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Wrap",
+       "type": "Normal",
+       "power": 15
+      }
+     ]
+    },
+    {
+     "dex": 319,
+     "name": "Sharpedo",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Focus Energy",
+       "type": "Normal"
+      },
+      {
+       "name": "Scary Face",
+       "type": "Normal"
+      },
+      {
+       "name": "Crunch",
+       "type": "Dark",
+       "power": 80
+      },
+      {
+       "name": "Screech",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "jonah"
+  },
+  {
+   "class": "Cool Trainer",
+   "name": "Athena",
+   "prize": 1536,
+   "party": [
+    {
+     "dex": 310,
+     "name": "Manectric",
+     "level": 32,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Thunder",
+       "type": "Electric",
+       "power": 120
+      },
+      {
+       "name": "Thunder Wave",
+       "type": "Electric"
+      },
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      }
+     ]
+    },
+    {
+     "dex": 264,
+     "name": "Linoone",
+     "level": 32,
+     "iv": 12,
+     "moves": [
+      {
+       "name": "Surf",
+       "type": "Water",
+       "power": 95
+      },
+      {
+       "name": "Thief",
+       "type": "Dark",
+       "power": 40
+      }
+     ]
+    }
+   ],
+   "uses": [
+    "Hyper Potion"
+   ],
+   "id": "athena"
+  },
+  {
+   "class": "Bird Keeper",
+   "name": "Aidan",
+   "prize": 1024,
+   "party": [
+    {
+     "dex": 277,
+     "name": "Swellow",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Quick Attack",
+       "type": "Normal",
+       "power": 40
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Double Team",
+       "type": "Normal"
+      },
+      {
+       "name": "Endeavor",
+       "type": "Normal",
+       "power": 1
+      }
+     ]
+    },
+    {
+     "dex": 227,
+     "name": "Skarmory",
+     "level": 32,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Agility",
+       "type": "Psychic"
+      },
+      {
+       "name": "Fury Attack",
+       "type": "Normal",
+       "power": 15
+      },
+      {
+       "name": "Air Cutter",
+       "type": "Flying",
+       "power": 55
+      },
+      {
+       "name": "Steel Wing",
+       "type": "Steel",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "aidan"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Camden",
+   "prize": 1320,
+   "party": [
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    },
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 33,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "camden"
+  },
+  {
+   "class": "Black Belt",
+   "name": "Koji",
+   "prize": 1088,
+   "party": [
+    {
+     "dex": 67,
+     "name": "Machoke",
+     "level": 34,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Seismic Toss",
+       "type": "Fighting",
+       "power": 1
+      },
+      {
+       "name": "Foresight",
+       "type": "Normal"
+      },
+      {
+       "name": "Revenge",
+       "type": "Fighting",
+       "power": 60
+      },
+      {
+       "name": "Vital Throw",
+       "type": "Fighting",
+       "power": 70
+      }
+     ]
+    }
+   ],
+   "id": "koji"
+  },
+  {
+   "class": "Triathlete",
+   "name": "Donny",
+   "prize": 1360,
+   "party": [
+    {
+     "dex": 278,
+     "name": "Wingull",
+     "level": 26,
+     "iv": 0,
+     "moves": [
+      {
+       "name": "Water Gun",
+       "type": "Water",
+       "power": 40
+      },
+      {
+       "name": "Supersonic",
+       "type": "Normal"
+      },
+      {
+       "name": "Wing Attack",
+       "type": "Flying",
+       "power": 60
+      },
+      {
+       "name": "Mist",
+       "type": "Ice"
+      }
+     ]
+    },
+    {
+     "dex": 120,
+     "name": "Staryu",
+     "level": 34,
+     "iv": 19,
+     "moves": [
+      {
+       "name": "Camouflage",
+       "type": "Normal"
+      },
+      {
+       "name": "Swift",
+       "type": "Normal",
+       "power": 60
+      },
+      {
+       "name": "Bubblebeam",
+       "type": "Water",
+       "power": 65
+      },
+      {
+       "name": "Minimize",
+       "type": "Normal"
+      }
+     ]
+    }
+   ],
+   "id": "donny"
+  }
+ ],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": "scorched-slab",
+ "name": "Scorched Slab",
+ "encounters": [],
+ "items": [
+  {
+   "id": "outside-tm11",
+   "name": "TM11",
+   "hidden": false,
+   "where": "Outside"
+  }
+ ],
+ "gifts": [],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

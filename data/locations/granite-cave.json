@@ -1,0 +1,215 @@
+{
+ "id": "granite-cave",
+ "name": "Granite Cave",
+ "encounters": [
+  {
+   "dex": 296,
+   "name": "Makuhita",
+   "method": "grass",
+   "levels": "6-10",
+   "rate": "50%",
+   "area": "1F"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "7-8",
+   "rate": "30%",
+   "area": "1F"
+  },
+  {
+   "dex": 63,
+   "name": "Abra",
+   "method": "grass",
+   "levels": "8",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "grass",
+   "levels": "6-9",
+   "rate": "10%",
+   "area": "1F"
+  },
+  {
+   "dex": 304,
+   "name": "Aron",
+   "method": "grass",
+   "levels": "9-11",
+   "rate": "40%",
+   "area": "B1F"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "9-10",
+   "rate": "30%",
+   "area": "B1F"
+  },
+  {
+   "dex": 63,
+   "name": "Abra",
+   "method": "grass",
+   "levels": "9",
+   "rate": "10%",
+   "area": "B1F"
+  },
+  {
+   "dex": 296,
+   "name": "Makuhita",
+   "method": "grass",
+   "levels": "10-11",
+   "rate": "10%",
+   "area": "B1F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "9-11",
+   "rate": "10%",
+   "area": "B1F"
+  },
+  {
+   "dex": 304,
+   "name": "Aron",
+   "method": "grass",
+   "levels": "10-12",
+   "rate": "40%",
+   "area": "B2F"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "10-11",
+   "rate": "30%",
+   "area": "B2F"
+  },
+  {
+   "dex": 302,
+   "name": "Sableye",
+   "method": "grass",
+   "levels": "10-12",
+   "rate": "20%",
+   "area": "B2F"
+  },
+  {
+   "dex": 63,
+   "name": "Abra",
+   "method": "grass",
+   "levels": "10",
+   "rate": "10%",
+   "area": "B2F"
+  },
+  {
+   "dex": 74,
+   "name": "Geodude",
+   "method": "rock-smash",
+   "levels": "5-20",
+   "rate": "70%",
+   "area": "B2F"
+  },
+  {
+   "dex": 299,
+   "name": "Nosepass",
+   "method": "rock-smash",
+   "levels": "10-20",
+   "rate": "30%",
+   "area": "B2F"
+  },
+  {
+   "dex": 296,
+   "name": "Makuhita",
+   "method": "grass",
+   "levels": "6-10",
+   "rate": "50%",
+   "area": "Steven's Room"
+  },
+  {
+   "dex": 41,
+   "name": "Zubat",
+   "method": "grass",
+   "levels": "7-8",
+   "rate": "30%",
+   "area": "Steven's Room"
+  },
+  {
+   "dex": 63,
+   "name": "Abra",
+   "method": "grass",
+   "levels": "8",
+   "rate": "10%",
+   "area": "Steven's Room"
+  },
+  {
+   "dex": 304,
+   "name": "Aron",
+   "method": "grass",
+   "levels": "7-8",
+   "rate": "10%",
+   "area": "Steven's Room"
+  }
+ ],
+ "items": [
+  {
+   "id": "1f-escape-rope",
+   "name": "Escape Rope",
+   "hidden": false,
+   "where": "1F"
+  },
+  {
+   "id": "b1f-pok-ball",
+   "name": "Poké Ball",
+   "hidden": false,
+   "where": "B1F"
+  },
+  {
+   "id": "b2f-repel",
+   "name": "Repel",
+   "hidden": false,
+   "where": "B2F"
+  },
+  {
+   "id": "b2f-rare-candy",
+   "name": "Rare Candy",
+   "hidden": false,
+   "where": "B2F"
+  },
+  {
+   "id": "hidden-b2f-everstone",
+   "name": "Everstone",
+   "hidden": true,
+   "where": "B2F"
+  },
+  {
+   "id": "hidden-b2f-everstone-2",
+   "name": "Everstone",
+   "hidden": true,
+   "where": "B2F"
+  }
+ ],
+ "gifts": [
+  {
+   "id": "item-1f-hm05",
+   "name": "HM05",
+   "from": "Hiker",
+   "where": "1F"
+  },
+  {
+   "id": "item-steven-s-room-tm47",
+   "name": "TM47",
+   "from": "Steven",
+   "where": "Steven's Room"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}

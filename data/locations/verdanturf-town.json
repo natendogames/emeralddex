@@ -1,0 +1,19 @@
+{
+ "id": "verdanturf-town",
+ "name": "Verdanturf Town",
+ "encounters": [],
+ "items": [],
+ "gifts": [
+  {
+   "id": "item-battle-tent-lobby-tm45",
+   "name": "TM45",
+   "from": "Woman",
+   "where": "Battle Tent Lobby"
+  }
+ ],
+ "trainers": [],
+ "verified": true,
+ "sources": [
+  "https://github.com/pret/pokeemerald"
+ ]
+}
