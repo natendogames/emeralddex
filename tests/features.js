@@ -193,6 +193,11 @@ const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
       for (const p of party) for (const x of cs(p, fb(p), bs(t, t.location) + 100, party, 6)) if (L.has(x.c.dex) || L.has(x.f.dex)) fail(`${t.name} vs ${p.name}: suggests legendary ${x.f.dex}`);
     } }
 
+  // every either/or pick points at gift rows that exist, so its options never show up as separate checkboxes
+  for (const c of g('CHOICES')) for (const [loc, id] of [...(c.gifts || []).map(x => [c.loc, x]), ...c.options.flatMap(o => [o.gift && [c.loc, o.gift], ...(o.linked || []).map(l => l.gift && [l.loc, l.gift])])].filter(Boolean))
+    if (!state.locations[loc]?.gifts.some(x => x.id === id)) fail(`choice ${c.id}: no gift ${id} at ${loc}`);
+  { const html = render('#/loc/littleroot-town');
+    for (const m of ['Chikorita', 'Cyndaquil', 'Totodile']) if (html.includes(`data-key="littleroot-town:gift:mon-professor-birch-s-lab-${m.toLowerCase()}-lv-5"`)) fail(`Littleroot Town lists ${m} as a gift checkbox, not a pick`); }
   if (fails.length) { console.log(`FAIL (${fails.length})\n` + fails.slice(0, 60).map(f => ' - ' + f).join('\n')); process.exit(1); }
   console.log('OK: feature pages and data checks passed');
 })().catch(e => { console.error(e); process.exit(1); });
