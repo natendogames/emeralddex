@@ -50,9 +50,9 @@ const CHOICES = [
   { id: 'johto', loc: 'littleroot-town', title: 'Johto starter', where: "Professor Birch's Lab, once your Hoenn Pokédex is complete",
     note: 'Birch lets you take one of the three.',
     options: [
-      { key: 'Chikorita', dex: 152, gift: 'mon-professor-birchs-lab-chikorita-lv-5' },
-      { key: 'Cyndaquil', dex: 155, gift: 'mon-professor-birchs-lab-cyndaquil-lv-5' },
-      { key: 'Totodile', dex: 158, gift: 'mon-professor-birchs-lab-totodile-lv-5' }] },
+      { key: 'Chikorita', dex: 152, gift: 'mon-professor-birch-s-lab-chikorita-lv-5' },
+      { key: 'Cyndaquil', dex: 155, gift: 'mon-professor-birch-s-lab-cyndaquil-lv-5' },
+      { key: 'Totodile', dex: 158, gift: 'mon-professor-birch-s-lab-totodile-lv-5' }] },
   { id: 'eon', loc: 'roaming', title: 'Roaming Latias or Latios', where: 'Your house, after the Hall of Fame',
     note: 'Your mom asks what color the Pokémon on the TV was. Red sends Latias roaming; blue sends Latios.',
     options: [{ key: 'Latias', dex: 380 }, { key: 'Latios', dex: 381 }] }
