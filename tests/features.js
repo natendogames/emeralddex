@@ -226,6 +226,16 @@ const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
     if (names('route-101').some(n => want[n])) fail(`Route 101 Nuzlocke encounter lists the starter: ${names('route-101')}`);
     if (g('areaOptions')('route-103').some(e => e.method !== 'grass')) fail(`Route 103 Nuzlocke encounter offers Surf/Rod Pokémon on the first visit: ${names('route-103')}`);
     if (strip(render('#/loc/littleroot-town')).match(/Nuzlocke encounter/)) fail('Littleroot Town shows a Nuzlocke encounter at the start');
+    // Littleroot Town on the first visit: the Hoenn starter pick is up front, the Johto pick waits under "come back later"
+    { sv.nuz = keep.nuz; sv.picks = {};
+      const html = render('#/loc/littleroot-town'), cut = html.indexOf('<details class="later"><summary><h2>Choose one: come back later');
+      const front = strip(cut < 0 ? html : html.slice(0, cut));
+      for (const m of ['Chikorita', 'Cyndaquil', 'Totodile']) if (front.includes(`${m} Grass`) || front.includes(`${m} Fire`) || front.includes(`${m} Water`)) fail(`Littleroot Town offers ${m} as a pick on the first visit`);
+      for (const m of ['Treecko', 'Torchic', 'Mudkip']) if (!front.includes(m)) fail(`Littleroot Town doesn't show ${m} on the first visit`);
+      if (html.includes('data-pick="starter"')) fail('Littleroot Town has a second starter pick (it belongs on Route 101 only)');
+      if (!render('#/loc/route-101').includes('data-pick="starter"')) fail('Route 101 lost the starter pick');
+      if (cut < 0) fail('Littleroot Town has no come-back-later Johto pick');
+      sv.nuz = { on: true, dupes: true, areas: {} }; }
     sv.here = state.index.find(l => g('stageOf')(l.id) > g('stageOf')('pokemon-league')).id;
     if (names('littleroot-town').sort().join() !== 'Chikorita,Cyndaquil,Totodile') fail(`after the Hall of Fame Littleroot offers ${names('littleroot-town')}`);
     Object.assign(sv, keep); if (!keep.here) delete sv.here;
