@@ -21,7 +21,11 @@
    "id": "outside-max-ether",
    "name": "Max Ether",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)",
+   "after": "mauville-city",
+   "stage": 16.5
   }
  ],
  "gifts": [

@@ -158,49 +158,81 @@
    "id": "hidden-floor-rooms-luxury-ball",
    "name": "Luxury Ball",
    "hidden": false,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-floor-rooms-scanner",
    "name": "Scanner",
    "hidden": false,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-floor-rooms-tm18",
    "name": "TM18",
    "hidden": false,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-floor-rooms-water-stone",
    "name": "Water Stone",
    "hidden": false,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-1-key",
    "name": "Rm. 1 Key",
    "hidden": true,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-2-key",
    "name": "Rm. 2 Key",
    "hidden": true,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-4-key",
    "name": "Rm. 4 Key",
    "hidden": true,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-6-key",
    "name": "Rm. 6 Key",
    "hidden": true,
-   "where": "Hidden Floor Rooms"
+   "where": "Hidden Floor Rooms",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "room-b1f-tm13",

@@ -80,7 +80,11 @@
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-potion",
@@ -122,7 +126,11 @@
    "id": "hidden-outside-heart-scale-3",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   }
  ],
  "gifts": [

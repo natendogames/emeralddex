@@ -1,7 +1,7 @@
 // Offline support: precache the app shell and every data file on install, then serve
 // network-first with the cache as fallback. Bump CACHE when shipping new files or data. The FireRed/LeafGreen app
 // shares this origin, so only this app's own old caches are deleted.
-const CACHE = 'emerald-dex-v6';
+const CACHE = 'emerald-dex-v7';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'features.js', 'tools.js', 'trackers.js', 'modes.js', 'saveimport.js', 'map.js', 'catchplan.js', 'builds.js', 'manifest.webmanifest', 'icons/icon.svg',
   'data/locations.json', 'data/pokedex.json', 'data/trainers.json', 'data/types.json', 'data/walkthrough.json', 'data/moves.json',
   'data/team-plan.json', 'data/tms.json', 'data/extras.json', 'data/save-map.json', 'data/region-map.json', 'data/items.json', 'data/builds.json'];

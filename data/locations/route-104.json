@@ -78,7 +78,11 @@
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-pok-ball",
@@ -90,7 +94,11 @@
    "id": "outside-x-accuracy",
    "name": "X Accuracy",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   },
   {
    "id": "outside-potion",

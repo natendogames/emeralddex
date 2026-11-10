@@ -172,19 +172,31 @@
    "id": "b2f-repel",
    "name": "Repel",
    "hidden": false,
-   "where": "B2F"
+   "where": "B2F",
+   "later": true,
+   "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
+   "after": "mauville-city",
+   "stage": 16
   },
   {
    "id": "b2f-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "B2F"
+   "where": "B2F",
+   "later": true,
+   "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
+   "after": "mauville-city",
+   "stage": 16
   },
   {
    "id": "hidden-b2f-everstone",
    "name": "Everstone",
    "hidden": true,
-   "where": "B2F"
+   "where": "B2F",
+   "later": true,
+   "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
+   "after": "mauville-city",
+   "stage": 16
   },
   {
    "id": "hidden-b2f-everstone-2",

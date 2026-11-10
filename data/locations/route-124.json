@@ -112,61 +112,101 @@
    "id": "outside-red-shard",
    "name": "Red Shard",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "outside-blue-shard",
    "name": "Blue Shard",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "outside-yellow-shard",
    "name": "Yellow Shard",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-carbos",
    "name": "Carbos",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-green-shard",
    "name": "Green Shard",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-pearl",
    "name": "Pearl",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-big-pearl",
    "name": "Big Pearl",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-calcium",
    "name": "Calcium",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "hidden-underwater-heart-scale-2",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "later": true,
+   "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   }
  ],
  "gifts": [],

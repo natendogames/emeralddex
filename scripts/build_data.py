@@ -238,8 +238,10 @@ for line in open(P('data/scripts/item_ball_scripts.inc')):
     if m and cur: balls[cur] = (m.group(1), int(m.group(2) or 1))
 
 item_flags = {}  # checklist key -> the save flag set when you pick it up (for save file import)
-def add_item(loc, name, qty, hidden, where, ident, flag=None):
+item_pos = {}  # (location id, item id) -> where it sits on the map, for the reachability walk
+def add_item(loc, name, qty, hidden, where, ident, flag=None, pos=None):
     loc['items'].append({'id': ident, 'name': name + (f' ×{qty}' if qty > 1 else ''), 'hidden': hidden, 'where': where})
+    if pos: item_pos[(loc['id'], ident)] = pos
     if flag: item_flags[f"{loc['id']}:item:{ident}"] = flag
 
 seen_ids = collections.Counter()
@@ -256,11 +258,12 @@ for name in sorted(maps):
     for ev in m.get('object_events') or []:
         if ev.get('script') in balls:
             it, q = balls[ev['script']]
-            add_item(loc, item_name(it), q, False, area, uid(loc, f'{area}-{item_name(it)}'), ev.get('flag'))
+            add_item(loc, item_name(it), q, False, area, uid(loc, f'{area}-{item_name(it)}'), ev.get('flag'), (name, ev['x'], ev['y'], ev.get('elevation') or 0, False))
     for ev in m.get('bg_events') or []:
         if ev.get('type') == 'hidden_item':
             add_item(loc, item_name(ev['item']), int(ev.get('quantity') or 1), True,
-                     area + (' (underfoot)' if ev.get('underfoot') else ''), uid(loc, f'hidden-{area}-{item_name(ev["item"])}'), ev.get('flag'))
+                     area + (' (underfoot)' if ev.get('underfoot') else ''), uid(loc, f'hidden-{area}-{item_name(ev["item"])}'), ev.get('flag'),
+                     (name, ev['x'], ev['y'], ev.get('elevation') or 0, bool(ev.get('underfoot'))))
 
 # NPC gifts, static encounters, trades
 trades = {}
@@ -785,6 +788,98 @@ for loc in locs.values():
         if 'Swimmer' in t['class'] and order_pos[t.get('stage') or loc['id']] <= SURF_AT:
             t['stage'], t['later'], t['need'] = 'lavaridge-town', order_pos[loc['id']] <= SURF_AT, 'surf'
 
+# ---------- when can you reach each item? ----------
+# A walk over the real map tiles (scripts/reach.py): water, ledges, Cut trees, Rock Smash rocks, Strength boulders,
+# bike slopes and rails, dive spots, warps and boats, with each map opening when the story reaches its location.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import reach
+def stage_after(lid, plus=0.5): return order_pos[lid] + plus
+# Field moves: when the HM and the badge to use it are both in hand (as a stage in the story order)
+ABILITIES = {
+    'cut': (stage_after('rustboro-city'), "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)"),
+    'mach-bike': (stage_after('mauville-city', 0), 'the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)'),
+    'acro-bike': (stage_after('mauville-city', 0), 'the Acro Bike (from Rydel in Mauville City; he swaps it for the Mach Bike any time)'),
+    'rock-smash': (stage_after('mauville-city'), 'Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)'),
+    'strength': (stage_after('lavaridge-town'), 'Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)'),
+    'surf': (stage_after('lavaridge-town'), "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"),
+    'devon-scope': (stage_after('route-120', 0), 'the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon'),
+    'dive': (stage_after('mossdeep-city'), 'Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)'),
+    'waterfall': (stage_after('sky-pillar'), 'Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)'),
+}
+OBSTACLES = {'OBJ_EVENT_GFX_CUTTABLE_TREE': 'cut', 'OBJ_EVENT_GFX_BREAKABLE_ROCK': 'rock-smash',
+             'OBJ_EVENT_GFX_PUSHABLE_BOULDER': 'strength', 'OBJ_EVENT_GFX_KECLEON': 'devon-scope'}
+TILE_NEEDS = {'MB_MUDDY_SLOPE': 'mach-bike', 'MB_CRACKED_FLOOR': 'mach-bike', 'MB_BUMPY_SLOPE': 'acro-bike', 'MB_ISOLATED_VERTICAL_RAIL': 'acro-bike',
+              'MB_ISOLATED_HORIZONTAL_RAIL': 'acro-bike', 'MB_VERTICAL_RAIL': 'acro-bike', 'MB_HORIZONTAL_RAIL': 'acro-bike'}
+# Scripted blockers that live in coord events: the desert's sandstorm turns you back until the Go-Goggles.
+GATES = [('Route111', 'Route111_EventScript_ViciousSandstormTriggerDown', stage_after('lavaridge-town'), 'the Go-Goggles from your rival in Lavaridge Town'),
+         ('Route111', 'Route111_EventScript_ViciousSandstormTriggerLeft', stage_after('lavaridge-town'), 'the Go-Goggles from your rival in Lavaridge Town')]
+# Mr. Briney's boat (Route 104 <-> Dewford <-> Route 109) sails rather than warps; the cable car is code, not script.
+TRANSPORTS = [('Route104_MrBrineysHouse', 'DewfordTown', 12, 8), ('Route104', 'DewfordTown', 12, 8), ('DewfordTown', 'Route104', 12, 54),
+              ('DewfordTown', 'Route109', 21, 26), ('Route109', 'DewfordTown', 12, 8),
+              ('Route112_CableCarStation', 'MtChimney_CableCarStation', 6, 10), ('MtChimney_CableCarStation', 'Route112_CableCarStation', 6, 10),
+              ('Route121_SafariZoneEntrance', 'SafariZone_South', 32, 32)]
+# Maps that open at a different story point from the rest of their location, and why.
+BADGE_AT = {3: stage_after('mauville-city'), 4: stage_after('lavaridge-town'), 5: stage_after('lavaridge-town'),
+            6: stage_after('route-120'), 7: stage_after('mossdeep-city'), 8: stage_after('sky-pillar')}
+BADGE_NAMES = {3: 'Dynamo Badge', 4: 'Heat Badge', 5: 'Balance Badge', 6: 'Feather Badge', 7: 'Mind Badge', 8: 'Rain Badge'}
+MAP_OPEN = {
+    # Granite Cave's entrance is on Route 106's beach, a short walk from Dewford; the rest of Route 106 is open sea.
+    'Route106': (order_pos['dewford-town'], None),
+    'SafariZone_Northeast': (order_pos['pokemon-league'], 'After the Hall of Fame (the Safari Zone expansion opens then)'),
+    'SafariZone_Southeast': (order_pos['pokemon-league'], 'After the Hall of Fame (the Safari Zone expansion opens then)'),
+    'AbandonedShip_HiddenFloorCorridors': (ABILITIES['dive'][0], ABILITIES['dive'][1]),
+    'AbandonedShip_HiddenFloorRooms': (ABILITIES['dive'][0], ABILITIES['dive'][1]),
+}
+# The Trick Master opens puzzle n (n >= 2) once you have badge n + 1 (Route110_TrickHouseEntrance scripts)
+for n in range(2, 9):
+    b = min(n + 1, 8)
+    MAP_OPEN[f'Route110_TrickHousePuzzle{n}'] = (BADGE_AT[b], f'the {BADGE_NAMES[b]} (the Trick Master sets this puzzle once you have it)')
+def map_stage(name):
+    if map_skipped(name) or name not in maps: return None
+    if name in MAP_OPEN: return MAP_OPEN[name][0]
+    lid = map_loc(name)
+    return order_pos.get(lid)
+world = reach.World(SRC, 'emerald', maps, map_stage, ABILITIES, OBSTACLES, GATES, TRANSPORTS, TILE_NEEDS)
+world.solve(('LittlerootTown', 5, 8))
+key_stages = sorted({k[0] for k in keys})
+def first_visit_until(lid):
+    """Everything up to the next key battle at or after a place counts as the first visit (Route 104's north end
+    via Petalburg Woods), so an item is 'later' only when it needs a later story point than that."""
+    here = order_pos[lid]
+    return next((k for k in key_stages if k >= here), here)
+unreachable = []
+def describe(loc, st, kind, what):
+    if kind == 'ability': return ABILITIES[what][1], index[int(ABILITIES[what][0])]['id']
+    if kind == 'gate': return what, index[int(st)]['id']
+    if what in MAP_OPEN and MAP_OPEN[what][1]: return MAP_OPEN[what][1], index[int(st)]['id']
+    via = map_loc(what) if what in maps else what
+    if via != loc['id'] and via in locs: return f"Come in from {locs[via]['name']}", via
+    return f"After {index[int(st)]['name']}", index[int(st)]['id']
+for loc in locs.values():
+    for it in loc['items']:
+        pos = item_pos.get((loc['id'], it['id']))
+        if not pos: continue
+        mapname, x, y, el, under = pos
+        r = world.item_reach(mapname, x, y, el, under)
+        if r is None:
+            # puzzles the walk can't solve (Trick House switches, New Mauville doors, tides): open with the map
+            unreachable.append(f"{loc['id']}: {it['name']} ({mapname} {x},{y})")
+            st = map_stage(mapname)
+            r = (st, ('map', mapname))
+        st, (kind, what) = r
+        if st <= first_visit_until(loc['id']): continue
+        it['later'] = True
+        it['need'], it['after'] = describe(loc, st, kind, what)
+        it['stage'] = st
+# for tests/item_reach.js: when each field move opens, and where a location's first visit ends
+json.dump({'_about': 'Written by scripts/build_data.py from the reachability walk (scripts/reach.py). Read by tests/item_reach.js.',
+           'abilities': {k: {'stage': v[0], 'need': v[1]} for k, v in ABILITIES.items()},
+           'firstVisitUntil': {x['id']: first_visit_until(x['id']) for x in index},
+           'puzzles': unreachable},
+          open(os.path.join(OUT, 'verify', 'item-reach.json'), 'w'), ensure_ascii=False, indent=1)
+if unreachable:
+    print(f'reach: {len(unreachable)} items behind puzzles the walk cannot solve (timed by their map):', *unreachable, sep='\n  ', file=sys.stderr)
+
 # ---------- TMs and HMs ----------
 tm_moves = {TM_ITEM[f'ITEM_TM_{mv}']: move_names[mv] for mv in TM_LIST}
 tm_moves.update({TM_ITEM[f'ITEM_HM_{mv}']: move_names[mv] for mv in HM_LIST})
@@ -800,7 +895,8 @@ for x in index:
             m = re.match(r'((?:TM|HM)\d+)\b', it['name'])
             if m and m.group(1) in tms:
                 tms[m.group(1)]['sources'].append({'loc': x['id'], 'how': 'gift' if kind == 'gifts' else 'found', 'where': it.get('where'),
-                                                   **({'from': it['from']} if it.get('from') else {})})
+                                                   **({'from': it['from']} if it.get('from') else {}),
+                                                   **({'stage': it['stage'], 'need': it['need']} if it.get('later') else {})})
 
 # ---------- shops ----------
 shops = collections.defaultdict(list)

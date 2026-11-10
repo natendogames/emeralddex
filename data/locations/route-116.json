@@ -62,7 +62,11 @@
    "id": "outside-hp-up",
    "name": "HP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)",
+   "after": "mauville-city",
+   "stage": 16.5
   },
   {
    "id": "outside-x-special",
@@ -86,7 +90,11 @@
    "id": "hidden-outside-blackglasses",
    "name": "BlackGlasses",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)",
+   "after": "mauville-city",
+   "stage": 16.5
   }
  ],
  "gifts": [
