@@ -75,7 +75,7 @@ for (const c of CHOICES) {
 const state = { index: [], locations: {}, dex: [], trainers: [], types: {}, walk: {}, found: {}, progress: loadProgress(), dexFilter: { scope: 'hoenn', missing: false, q: '' } };
 
 function freshSave() { return { caught: {}, checks: {}, team: [], picks: {} }; }
-// Saves from before choices existed kept a `starter` setting (always defaulting to Bulbasaur) and separate
+// Saves from before choices existed could keep a `starter` setting and separate
 // checkboxes for each option. Work out each pick from those, and leave it unpicked when the old save is ambiguous.
 function migratePicks(s) {
   const picks = {}, caught = s.caught || {}, checks = s.checks || {};

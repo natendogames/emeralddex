@@ -920,8 +920,15 @@ def held_text(i):
     if e == 'RANDOM_STAT_UP': return 'Held in battle: sharply raises a random stat when HP is low.'
     if e == 'RESTORE_STATS': return 'Held in battle: restores lowered stats.'
     return None
+# items.h keeps a "FireRed/LeafGreen key items" block (Oak's Parcel, Poké Flute, Tri-pass...) that Emerald never hands out.
+# Leave those out of the item pages and search. Emerald does use three items from that block: the two event tickets
+# and the Powder Jar (Berry Crush).
+_ih = read('src/data/items.h')
+_frlg = _ih[_ih.index('// FireRed/LeafGreen key items'):_ih.index('// Emerald-specific key items')]
+FRLG_ONLY_ITEMS = set(re.findall(r'\[(ITEM_\w+)\]\s*=', _frlg)) - {'ITEM_MYSTIC_TICKET', 'ITEM_AURORA_TICKET', 'ITEM_POWDER_JAR'}
 item_info = {}
 for c, i in items.items():
+    if c in FRLG_ONLY_ITEMS: continue
     if c == 'ITEM_NONE' or not i['english'] or '?' in i['english'] or i['pocket'] == 'POCKET_TM_HM': continue
     x = {'desc': desc_text(i['description_english']), 'price': i['price'], 'pocket': POCKET.get(i['pocket'], '')}
     h = held_text(i)

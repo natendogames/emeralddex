@@ -1136,111 +1136,6 @@
 "price": 0,
 "pocket": "Key Items"
 },
-"Oak's Parcel": {
-"desc": "A parcel for Prof. Oak from a Pokémon Mart's clerk.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Poké Flute": {
-"desc": "A sweet-sounding flute that awakens Pokémon.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Secret Key": {
-"desc": "The key to the Cinnabar Island Gym's entrance.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Bike Voucher": {
-"desc": "A voucher for obtaining a bicycle from the Bike Shop.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Gold Teeth": {
-"desc": "Gold dentures lost by the Safari Zone's Warden.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Old Amber": {
-"desc": "A stone containing the genes of an ancient Pokémon.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Card Key": {
-"desc": "A card-type door key used in Silph Co's office.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Lift Key": {
-"desc": "An elevator key used in Team Rocket's Hideout.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Helix Fossil": {
-"desc": "A piece of an ancient marine Pokémon's seashell.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Dome Fossil": {
-"desc": "A piece of an ancient marine Pokémon's shell.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Silph Scope": {
-"desc": "Silph Co's scope makes unseeable Pokémon visible.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Bicycle": {
-"desc": "A folding bicycle that is faster than the Running Shoes.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Town Map": {
-"desc": "Can be viewed anytime. Shows your present location.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Vs Seeker": {
-"desc": "A rechargeable unit that flags battle- ready Trainers.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Fame Checker": {
-"desc": "Stores information on famous people for instant recall.",
-"price": 0,
-"pocket": "Key Items"
-},
-"TM Case": {
-"desc": "A convenient case  that holds TMs and HMs.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Berry Pouch": {
-"desc": "A convenient container that holds Berries.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Teachy TV": {
-"desc": "A TV set tuned to an advice program for Trainers.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Tri-pass": {
-"desc": "A pass for ferries between One, Two, and Three Island.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Rainbow Pass": {
-"desc": "For ferries serving Vermilion and the Sevii Islands.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Tea": {
-"desc": "A thirst-quenching tea prepared by an old lady.",
-"price": 0,
-"pocket": "Key Items"
-},
 "Mysticticket": {
 "desc": "A ticket required to board the ship to Navel Rock.",
 "price": 0,
@@ -1253,16 +1148,6 @@
 },
 "Powder Jar": {
 "desc": "Stores Berry Powder made using a Berry Crusher.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Ruby": {
-"desc": "An exquisite, red- glowing gem that symbolizes passion.",
-"price": 0,
-"pocket": "Key Items"
-},
-"Sapphire": {
-"desc": "A brilliant blue gem that symbolizes honesty.",
 "price": 0,
 "pocket": "Key Items"
 },

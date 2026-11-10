@@ -66,6 +66,7 @@ These are the same suites as the FireRed/LeafGreen app, and GitHub Actions runs 
   - search
   - calculators
 - `node tests/walkthrough.js` checks that every place has walkthrough steps, that every `{gift:}`, `{trainer:}`, `{loc:}`, `{mon:}` and `{item:}` link in a step points at real data on that page, and that pages render cleanly.
+- `node tests/generation.js` checks that nothing from FireRed/LeafGreen leaked in: the Pokédex is the Hoenn dex (202, numbered as in the decomp), the starter and fossil picks are Emerald's, every wild, gift, trainer and Team plan Pokémon is one Emerald has, no FRLG-only items are listed, and no Kanto or Sevii places or people appear in the app's text.
 
 Walkthrough steps live in `data/walkthrough.json`. Places listed in its `_checked` map were checked against the decomp's event scripts; the rest show a Draft tag.
 
