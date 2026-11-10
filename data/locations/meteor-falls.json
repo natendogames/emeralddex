@@ -444,7 +444,11 @@
    "id": "1f-1r-tm23",
    "name": "TM23",
    "hidden": false,
-   "where": "1F 1R"
+   "where": "1F 1R",
+   "later": true,
+   "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "1f-1r-moon-stone",
@@ -462,13 +466,21 @@
    "id": "1f-1r-pp-up",
    "name": "PP Up",
    "hidden": false,
-   "where": "1F 1R"
+   "where": "1F 1R",
+   "later": true,
+   "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "b1f-2r-tm02",
    "name": "TM02",
    "hidden": false,
-   "where": "B1F 2R"
+   "where": "B1F 2R",
+   "later": true,
+   "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
+   "after": "sky-pillar",
+   "stage": 64.5
   }
  ],
  "gifts": [],

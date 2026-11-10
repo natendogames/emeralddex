@@ -99,13 +99,21 @@
    "id": "outside-guard-spec",
    "name": "Guard Spec.",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Come in from Route 110",
+   "after": "route-110",
+   "stage": 15
   },
   {
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Come in from Route 110",
+   "after": "route-110",
+   "stage": 15
   }
  ],
  "gifts": [],

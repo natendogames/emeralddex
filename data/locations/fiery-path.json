@@ -50,13 +50,21 @@
    "id": "outside-tm06",
    "name": "TM06",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-fire-stone",
    "name": "Fire Stone",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   }
  ],
  "gifts": [],

@@ -57,13 +57,21 @@
    "id": "outside-great-ball",
    "name": "Great Ball",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   },
   {
    "id": "outside-x-attack",
    "name": "X Attack",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   },
   {
    "id": "outside-ether",
@@ -87,13 +95,21 @@
    "id": "hidden-outside-tinymushroom",
    "name": "Tinymushroom",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   },
   {
    "id": "hidden-outside-tinymushroom-2",
    "name": "Tinymushroom",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   },
   {
    "id": "hidden-outside-pok-ball",

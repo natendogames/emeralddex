@@ -106,7 +106,11 @@
    "id": "outside-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "outside-protein",

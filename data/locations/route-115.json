@@ -112,13 +112,21 @@
    "id": "outside-tm01",
    "name": "TM01",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-iron",
    "name": "Iron",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-great-ball",
@@ -136,7 +144,11 @@
    "id": "outside-heal-powder",
    "name": "Heal Powder",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "hidden-outside-heart-scale",

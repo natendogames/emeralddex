@@ -630,19 +630,31 @@
    "id": "northeast-nugget",
    "name": "Nugget",
    "hidden": false,
-   "where": "Northeast"
+   "where": "Northeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "hidden-northeast-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
-   "where": "Northeast"
+   "where": "Northeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "hidden-northeast-zinc",
    "name": "Zinc",
    "hidden": true,
-   "where": "Northeast"
+   "where": "Northeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "northwest-tm22",
@@ -654,19 +666,31 @@
    "id": "southeast-big-pearl",
    "name": "Big Pearl",
    "hidden": false,
-   "where": "Southeast"
+   "where": "Southeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "hidden-southeast-pp-up",
    "name": "PP Up",
    "hidden": true,
-   "where": "Southeast"
+   "where": "Southeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "hidden-southeast-full-restore",
    "name": "Full Restore",
    "hidden": true,
-   "where": "Southeast"
+   "where": "Southeast",
+   "later": true,
+   "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
+   "after": "pokemon-league",
+   "stage": 70
   },
   {
    "id": "southwest-max-revive",

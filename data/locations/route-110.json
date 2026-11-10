@@ -142,7 +142,11 @@
    "id": "outside-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-elixir",
@@ -190,49 +194,81 @@
    "id": "trick-house-puzzle-2-wave-mail",
    "name": "Wave Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 2"
+   "where": "Trick House Puzzle 2",
+   "later": true,
+   "need": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "mauville-city",
+   "stage": 16.5
   },
   {
    "id": "trick-house-puzzle-2-harbor-mail",
    "name": "Harbor Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 2"
+   "where": "Trick House Puzzle 2",
+   "later": true,
+   "need": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "mauville-city",
+   "stage": 16.5
   },
   {
    "id": "trick-house-puzzle-3-wood-mail",
    "name": "Wood Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 3"
+   "where": "Trick House Puzzle 3",
+   "later": true,
+   "need": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "trick-house-puzzle-3-shadow-mail",
    "name": "Shadow Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 3"
+   "where": "Trick House Puzzle 3",
+   "later": true,
+   "need": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "trick-house-puzzle-4-mech-mail",
    "name": "Mech Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 4"
+   "where": "Trick House Puzzle 4",
+   "later": true,
+   "need": "the Balance Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "trick-house-puzzle-6-glitter-mail",
    "name": "Glitter Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 6"
+   "where": "Trick House Puzzle 6",
+   "later": true,
+   "need": "the Mind Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   },
   {
    "id": "trick-house-puzzle-7-tropic-mail",
    "name": "Tropic Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 7"
+   "where": "Trick House Puzzle 7",
+   "later": true,
+   "need": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "trick-house-puzzle-8-bead-mail",
    "name": "Bead Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 8"
+   "where": "Trick House Puzzle 8",
+   "later": true,
+   "need": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "after": "sky-pillar",
+   "stage": 64.5
   }
  ],
  "gifts": [

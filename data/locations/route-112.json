@@ -22,7 +22,11 @@
    "id": "outside-nugget",
    "name": "Nugget",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Come in from Jagged Pass",
+   "after": "jagged-pass",
+   "stage": 28
   }
  ],
  "gifts": [],

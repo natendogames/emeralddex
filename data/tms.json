@@ -102,7 +102,9 @@
    {
     "loc": "route-115",
     "how": "found",
-    "where": "Outside"
+    "where": "Outside",
+    "stage": 29.5,
+    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
    }
   ]
  },
@@ -113,7 +115,9 @@
    {
     "loc": "meteor-falls",
     "how": "found",
-    "where": "B1F 2R"
+    "where": "B1F 2R",
+    "stage": 64.5,
+    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)"
    }
   ]
  },
@@ -160,7 +164,9 @@
    {
     "loc": "fiery-path",
     "how": "found",
-    "where": "Outside"
+    "where": "Outside",
+    "stage": 29.5,
+    "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)"
    }
   ]
  },
@@ -312,7 +318,9 @@
    {
     "loc": "abandoned-ship",
     "how": "found",
-    "where": "Hidden Floor Rooms"
+    "where": "Hidden Floor Rooms",
+    "stage": 51.5,
+    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)"
    }
   ]
  },
@@ -370,7 +378,9 @@
    {
     "loc": "meteor-falls",
     "how": "found",
-    "where": "1F 1R"
+    "where": "1F 1R",
+    "stage": 64.5,
+    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)"
    }
   ]
  },
@@ -557,7 +567,9 @@
    {
     "loc": "route-111",
     "how": "found",
-    "where": "Outside"
+    "where": "Outside",
+    "stage": 29.5,
+    "need": "the Go-Goggles from your rival in Lavaridge Town"
    }
   ]
  },

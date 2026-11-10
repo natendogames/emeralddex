@@ -41,6 +41,7 @@ Where the decomp doesn't say when something becomes available, the build script 
 - `AREA_AFTER`, `GIFT_AFTER` and `STATIC_AFTER` cover rooms, gifts and static encounters that open later in the story.
 - `MIN_STAGE` covers Route 103's east side, which you reach from Route 110.
 - Swimmers are placed after Surf.
+- Items are split by when you can reach them. `scripts/reach.py` walks the real map tiles (water, waterfalls, ledges, Cut trees, Rock Smash rocks, Strength boulders, Mach/Acro Bike slopes and rails, dive spots, warps, Mr. Briney's boat, the cable car), with each map opening when the story reaches its location and each field move opening when you have its HM and badge (`ABILITIES` in the build script). An item that needs a later point than the place's first visit is listed under "Items: come back later" with what it needs. `MAP_OPEN` and `GATES` cover the few story blockers the tiles don't show (Trick House puzzles, the desert sandstorm, the Safari Zone expansion). `tests/item_reach.js` checks the result against every Bulbapedia walkthrough note that says an item "requires" a field move.
 - Each trainer is placed at the first key battle whose ace is within five levels of the trainer's own ace.
 
 The file layout is the same as in the FireRed/LeafGreen app. Rows have no `versions`, rival battles add `byStarterBrendan` where Brendan's team differs from May's, and Pokédex rows carry their `hoenn` number.

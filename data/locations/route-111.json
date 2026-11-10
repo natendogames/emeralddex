@@ -107,19 +107,31 @@
    "id": "outside-tm37",
    "name": "TM37",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "the Go-Goggles from your rival in Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-stardust",
    "name": "Stardust",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "the Go-Goggles from your rival in Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-hp-up",
    "name": "HP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "outside-elixir",
@@ -131,19 +143,31 @@
    "id": "hidden-outside-stardust",
    "name": "Stardust",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "the Go-Goggles from your rival in Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "hidden-outside-protein",
    "name": "Protein",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "the Go-Goggles from your rival in Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "hidden-outside-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "the Go-Goggles from your rival in Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29.5
   }
  ],
  "gifts": [
