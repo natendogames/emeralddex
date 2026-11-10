@@ -37,7 +37,7 @@ const val = (id, d = 0) => { const x = parseInt(document.getElementById(id)?.val
 
 // ---------- stats and IVs ----------
 function renderStatsTool(arg) {
-  const t = (state.statTool ||= { dex: parseInt(arg, 10) || cur().team[0] || 25, level: 50, nat: 'Hardy', ev: [0, 0, 0, 0, 0, 0], stat: ['', '', '', '', '', ''] });
+  const t = (state.statTool ||= { dex: parseInt(arg, 10) || cur().team[0] || 252, level: 50, nat: 'Hardy', ev: [0, 0, 0, 0, 0, 0], stat: ['', '', '', '', '', ''] });
   const p = mon(t.dex);
   const rows = STAT_NAMES.map((nm, i) => {
     const lo = statValue(p.stats[i], i, t.level, 0, t.ev[i], t.nat), hi = statValue(p.stats[i], i, t.level, 31, t.ev[i], t.nat);
@@ -60,7 +60,7 @@ function renderStatsTool(arg) {
 
 // ---------- catch odds ----------
 function renderCatchTool(arg) {
-  const t = (state.catchTool ||= { dex: 25, level: 10, hp: 100, status: 1, turns: 1 });
+  const t = (state.catchTool ||= { dex: 263, level: 10, hp: 100, status: 1, turns: 1 });
   if (arg) t.dex = parseInt(arg, 10) || t.dex;
   const p = mon(t.dex), frac = Math.max(1, t.hp) / 100;
   const waterBug = p.types.some(x => x === 'Water' || x === 'Bug');
