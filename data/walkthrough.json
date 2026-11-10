@@ -2,7 +2,7 @@
  "_about": "Story steps per location, in play order. Facts come from the pret/pokeemerald event scripts (story flags and variables, who gives what, which battles happen); references in braces point at the game data and are checked by tests/walkthrough.js. _checked lists locations whose steps were checked against a second source (decomp event scripts and/or Bulbapedia's walkthrough; see docs/bulbapedia-check.md).",
  "littleroot-town": [
   "You arrive in the moving truck. Go upstairs, set the clock, then watch the TV with Mom: Dad is the new Petalburg Gym Leader.",
-  "Visit the house next door and go upstairs to meet Professor Birch's child, your rival (May if you play as Brendan, Brendan if you play as May). Then head north to {loc:route-101}.",
+  "Visit the house next door and go upstairs to meet Professor Birch's child, your rival (May if you play as Brendan, Brendan if you play as May). Then head north to {loc:route-101}, where you save Birch from a wild Zigzagoon and pick your starter from his bag: {mon:252}, {mon:255} or {mon:258}.",
   "After you save Birch, he lets you keep the Pokémon you picked and sends you to find your rival on {loc:route-103}.",
   "Come back after that battle: Birch gives you the {gift:item-professor-birch-s-lab-pok-dex}, your rival gives you {gift:item-professor-birch-s-lab-pok-ball-5}, and Mom stops you on the way out with the {gift:item-outside-running-shoes}.",
   "Your bedroom PC holds a {gift:item-your-house-2f-potion-in-your-pc}.",

@@ -31,13 +31,15 @@ const TRADE_FROM = 'Trade from FireRed/LeafGreen, Ruby/Sapphire, Colosseum or XD
 // Either/or picks: the game lets you take only one option. Each choice counts as a single checklist item on its location,
 // and the options you pass up can then only be had by trading. "linked" entries elsewhere only exist for one option.
 // noCount: a setting rather than a checklist item. later: the other option comes back later, so nothing is lost.
+// pointerAt: pages that link to the pick without a second pick card. after: the pick only opens once you're past that place, so until
+// then its card sits under "come back later" (Littleroot's first visit shows the Hoenn starters, not the Johto ones).
 const STARTER_BASE = { Treecko: 252, Torchic: 255, Mudkip: 258 };
 const RIVAL_OF = { Treecko: 'Torchic', Torchic: 'Mudkip', Mudkip: 'Treecko' };
 const CHOICES = [
   { id: 'player', loc: 'littleroot-town', title: 'Who you play as', where: 'The start of the game', noCount: true,
     note: "Your rival is the other one. Brendan's and May's teams differ by one Pokémon in a few battles.",
     options: [{ key: 'Brendan', label: 'Brendan (your rival is May)' }, { key: 'May', label: 'May (your rival is Brendan)' }] },
-  { id: 'starter', loc: 'route-101', title: 'Starter Pokémon', where: "Professor Birch's bag on Route 101",
+  { id: 'starter', loc: 'route-101', pointerAt: ['littleroot-town'], title: 'Starter Pokémon', where: "Professor Birch's bag on Route 101, just north of Littleroot Town",
     note: 'You can only take one. Your rival takes the one that beats yours.',
     gifts: ['mon-outside-starter-pok-mon-treecko-torchic-or-mudkip'],
     options: [{ key: 'Treecko', dex: 252 }, { key: 'Torchic', dex: 255 }, { key: 'Mudkip', dex: 258 }] },
@@ -47,7 +49,7 @@ const CHOICES = [
       { key: 'Root', label: 'Root Fossil', gift: 'item-4f-root-fossil', becomes: 345, linked: [{ loc: 'desert-underpass', gift: 'item-outside-claw-fossil' }] },
       { key: 'Claw', label: 'Claw Fossil', gift: 'item-4f-claw-fossil', becomes: 347, linked: [{ loc: 'desert-underpass', gift: 'item-outside-root-fossil' }] }],
     linkedNote: { 'desert-underpass': 'The fossil you left at Mirage Tower: pick yours on the Mirage Tower page and the other one shows up here.' } },
-  { id: 'johto', loc: 'littleroot-town', title: 'Johto starter', where: "Professor Birch's Lab, once your Hoenn Pokédex is complete",
+  { id: 'johto', loc: 'littleroot-town', after: 'pokemon-league', title: 'Johto starter (after the Hall of Fame)', where: "Professor Birch's Lab, once your Hoenn Pokédex is complete",
     note: 'Birch lets you take one of the three.',
     options: [
       { key: 'Chikorita', dex: 152, gift: 'mon-professor-birch-s-lab-chikorita-lv-5' },
@@ -398,7 +400,12 @@ function renderLocation(id) {
   html += beforeYouLeave(loc);
 
   const v = locView(loc);
-  if (v.choices.length) html += `<h2>Choose one</h2>${v.choices.map(choiceCard).join('')}`;
+  for (const c of CHOICES.filter(c => c.pointerAt?.includes(id))) html += `<div class="card note">${esc(c.title)}: you pick ${c.options.map(o => esc(o.label)).join(', ').replace(/, ([^,]*)$/, ' or $1')} on <a href="#/loc/${c.loc}">${esc(state.locations[c.loc].name)}</a>${pickOf(c.id) ? ` (you picked ${esc(pickOf(c.id))})` : ''}.</div>`;
+  const shown = CHOICES.filter(c => c.loc === id);
+  const notYet = c => c.after && !pickOf(c.id) && currentStage() <= stageOf(c.after);
+  const nowC = shown.filter(c => !notYet(c)), laterC = shown.filter(notYet);
+  if (nowC.length) html += `<h2>Choose one</h2>${nowC.map(choiceCard).join('')}`;
+  if (laterC.length) html += `<details class="later"><summary><h2>Choose one: come back later (${laterC.length})</h2></summary>${laterC.map(choiceCard).join('')}</details>`;
   for (const c of v.pending) html += `<div class="card note">${esc(c.linkedNote[id])} <a href="#/loc/${c.loc}">Pick it on the ${esc(state.locations[c.loc].name)} page</a> and the right one shows up here.</div>`;
 
   const trs = v.trainers;
