@@ -32,11 +32,16 @@ function nuzBanner() {
   return `<div class="card nuz"><b>Nuzlocke</b> · level cap <b>${c ? c.cap : '—'}</b>${c ? ` <span class="note">(${esc(c.t.name)})</span>` : ''} · ${alive} alive · ${dead} dead <a href="#/nuzlocke">run</a>
     ${over.length ? `<div class="bad">Over the cap: ${over.map(n => esc(mon(n).name)).join(', ')}</div>` : ''}</div>`;
 }
-// Pokémon you can meet first in an area at this point: wild, static or gift encounters in this version
+// Pokémon you can meet first in an area at this point: wild, static or gift encounters in this version that you can
+// reach by now (or on your first visit, for areas ahead of you). Encounters that need Surf, a Rod or a later story
+// point wait until then, so Littleroot Town doesn't offer the post-game Johto starters at the start. The Route 101
+// starter is your own Pokémon, not the area's first encounter, so it isn't listed either.
 function areaOptions(locId) {
-  const loc = state.locations[locId];
+  const loc = state.locations[locId], by = Math.max(currentStage(), stageOf(locId)), mine = cur().nuz?.areas?.[locId]?.dex;
   const seen = new Set();
-  return loc.encounters.filter(e => inVersion(e) && !['trade', 'roaming'].includes(e.method) && !seen.has(e.dex) && seen.add(e.dex));
+  return loc.encounters.filter(e => inVersion(e) && !['trade', 'roaming'].includes(e.method)
+    && (e.dex === mine || (encStage(locId, e) <= by && CHOICE_OF[`${locId}:dex:${e.dex}`]?.c.id !== 'starter'))
+    && !seen.has(e.dex) && seen.add(e.dex));
 }
 function nuzCard(loc) {
   if (!nuzOn() || !areaOptions(loc.id).length) return '';

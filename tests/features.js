@@ -198,6 +198,38 @@ const strip = h => String(h).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
     if (!state.locations[loc]?.gifts.some(x => x.id === id)) fail(`choice ${c.id}: no gift ${id} at ${loc}`);
   { const html = render('#/loc/littleroot-town');
     for (const m of ['Chikorita', 'Cyndaquil', 'Totodile']) if (html.includes(`data-key="littleroot-town:gift:mon-professor-birch-s-lab-${m.toLowerCase()}-lv-5"`)) fail(`Littleroot Town lists ${m} as a gift checkbox, not a pick`); }
+  // the starters are Hoenn's: Treecko, Torchic and Mudkip from Birch's bag on Route 101, with the rival taking the one
+  // that beats yours. The Johto starters stay a separate post-game pick in Littleroot Town.
+  { const SB = g('STARTER_BASE'), RO = g('RIVAL_OF'), want = { Treecko: 252, Torchic: 255, Mudkip: 258 }, beats = { Treecko: 'Torchic', Torchic: 'Mudkip', Mudkip: 'Treecko' };
+    if (JSON.stringify(SB) !== JSON.stringify(want)) fail(`starters are ${JSON.stringify(SB)}, not Treecko/Torchic/Mudkip`);
+    for (const [k, n] of Object.entries(want)) { if (app.get('mon')(n).name !== k) fail(`#${n} is ${app.get('mon')(n).name}, not ${k}`); if (RO[k] !== beats[k]) fail(`rival takes ${RO[k]} against ${k}`); }
+    const st = g('CHOICES').find(c => c.id === 'starter'), jo = g('CHOICES').find(c => c.id === 'johto');
+    if (st.loc !== 'route-101' || st.options.map(o => `${o.key}:${o.dex}`).join() !== 'Treecko:252,Torchic:255,Mudkip:258') fail(`starter pick is ${st.loc} ${st.options.map(o => o.key)}`);
+    if (jo.loc !== 'littleroot-town' || jo.options.map(o => o.key).sort().join() !== 'Chikorita,Cyndaquil,Totodile') fail('Johto starter pick moved or changed');
+    for (const t of state.trainers.filter(t => t.byStarter)) for (const [k, party] of Object.entries(t.byStarter)) {
+      if (!want[k]) fail(`${t.name}: team keyed by ${k}, not a Hoenn starter`);
+      const line = [0, 1, 2].map(i => want[beats[k]] + i);
+      if (!party.some(p => line.includes(p.dex))) fail(`${t.name} vs ${k}: rival has no ${beats[k]} line`);
+    }
+    for (const k of Object.keys(state.teamPlan?.plans || JSON.parse(require('fs').readFileSync(require('path').join(__dirname, '../data/team-plan.json'), 'utf8')).plans)) if (!want[k.split(':')[1]]) fail(`team plan for ${k}`);
+    // the Battle plan team follows the pick
+    const sv = app.cur(), keep = { team: sv.team, picks: sv.picks, nuz: sv.nuz, here: sv.here, checks: sv.checks };
+    sv.team = []; sv.picks = {}; g('setPick')('starter', 'Mudkip');
+    if (sv.team[0] !== 258) fail(`picking Mudkip puts ${sv.team} on the team`);
+    g('setPick')('starter', 'Treecko');
+    if (sv.team.join() !== '252') fail(`switching to Treecko leaves ${sv.team} on the team`);
+    // Nuzlocke: at the start no area offers the Johto starters (or Surf/Rod Pokémon), and the starter isn't Route 101's first encounter
+    sv.nuz = { on: true, dupes: true, areas: {} }; delete sv.here; sv.checks = {};
+    const nz = strip(render('#/nuzlocke'));
+    for (const m of ['Chikorita', 'Cyndaquil', 'Totodile', 'Bulbasaur', 'Charmander', 'Squirtle']) if (nz.includes(m)) fail(`Nuzlocke page offers ${m} at the start of the game`);
+    const names = id => g('areaOptions')(id).map(e => e.name);
+    if (names('route-101').some(n => want[n])) fail(`Route 101 Nuzlocke encounter lists the starter: ${names('route-101')}`);
+    if (g('areaOptions')('route-103').some(e => e.method !== 'grass')) fail(`Route 103 Nuzlocke encounter offers Surf/Rod Pokémon on the first visit: ${names('route-103')}`);
+    if (strip(render('#/loc/littleroot-town')).match(/Nuzlocke encounter/)) fail('Littleroot Town shows a Nuzlocke encounter at the start');
+    sv.here = state.index.find(l => g('stageOf')(l.id) > g('stageOf')('pokemon-league')).id;
+    if (names('littleroot-town').sort().join() !== 'Chikorita,Cyndaquil,Totodile') fail(`after the Hall of Fame Littleroot offers ${names('littleroot-town')}`);
+    Object.assign(sv, keep); if (!keep.here) delete sv.here;
+  }
   if (fails.length) { console.log(`FAIL (${fails.length})\n` + fails.slice(0, 60).map(f => ' - ' + f).join('\n')); process.exit(1); }
   console.log('OK: feature pages and data checks passed');
 })().catch(e => { console.error(e); process.exit(1); });
