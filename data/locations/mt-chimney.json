@@ -51,7 +51,10 @@
      ]
     }
    ],
-   "id": "shirley"
+   "id": "shirley",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "After Lavaridge Town"
   },
   {
    "class": "Expert",
@@ -112,7 +115,10 @@
      ]
     }
    ],
-   "id": "shelby"
+   "id": "shelby",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "After Lavaridge Town"
   },
   {
    "class": "Team Magma",
@@ -181,7 +187,10 @@
      ]
     }
    ],
-   "id": "sheila"
+   "id": "sheila",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "After Lavaridge Town"
   },
   {
    "class": "Magma Admin",
@@ -325,7 +334,10 @@
      ]
     }
    ],
-   "id": "sawyer"
+   "id": "sawyer",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "After Lavaridge Town"
   },
   {
    "class": "Magma Leader",
@@ -450,7 +462,10 @@
      ]
     }
    ],
-   "id": "melissa"
+   "id": "melissa",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "After Lavaridge Town"
   }
  ],
  "verified": true,

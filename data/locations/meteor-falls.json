@@ -546,8 +546,9 @@
    "double": true,
    "id": "john-and-jay",
    "area": "1F 2R",
-   "stage": "lilycove-city",
-   "later": true
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)"
   },
   {
    "class": "Dragon Tamer",
@@ -609,8 +610,9 @@
    ],
    "id": "nicolas",
    "area": "1F 2R",
-   "stage": "fortree-city",
-   "later": true
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)"
   },
   {
    "class": "Pokémon Trainer",

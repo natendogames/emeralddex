@@ -130,20 +130,11 @@
  "puzzles": [
   "route-110: Harbor Mail (Route110_TrickHousePuzzle2 3,13)",
   "route-110: Wood Mail (Route110_TrickHousePuzzle3 1,2)",
-  "abandoned-ship: Luxury Ball (AbandonedShip_HiddenFloorRooms 41,4)",
-  "abandoned-ship: Scanner (AbandonedShip_HiddenFloorRooms 16,10)",
-  "abandoned-ship: TM18 (AbandonedShip_HiddenFloorRooms 5,11)",
-  "abandoned-ship: Water Stone (AbandonedShip_HiddenFloorRooms 31,11)",
-  "abandoned-ship: Rm. 1 Key (AbandonedShip_HiddenFloorRooms 42,10)",
-  "abandoned-ship: Rm. 2 Key (AbandonedShip_HiddenFloorRooms 20,5)",
-  "abandoned-ship: Rm. 4 Key (AbandonedShip_HiddenFloorRooms 1,12)",
-  "abandoned-ship: Rm. 6 Key (AbandonedShip_HiddenFloorRooms 1,2)",
   "new-mauville: Ultra Ball (NewMauville_Inside 32,25)",
   "new-mauville: Escape Rope (NewMauville_Inside 16,22)",
   "new-mauville: Thunderstone (NewMauville_Inside 39,4)",
   "new-mauville: Full Heal (NewMauville_Inside 17,10)",
   "new-mauville: Parlyz Heal (NewMauville_Inside 2,11)",
-  "seafloor-cavern: TM26 (SeafloorCavern_Room9 14,5)",
   "shoal-cave: Big Pearl (ShoalCave_LowTideEntranceRoom 30,3)",
   "shoal-cave: Rare Candy (ShoalCave_LowTideInnerRoom 26,14)"
  ]

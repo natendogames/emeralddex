@@ -15,7 +15,11 @@
    "id": "item-cozmo-s-house-tm27",
    "name": "TM27",
    "from": "Professor Cozmo (return the Meteorite)",
-   "where": "Cozmo's House"
+   "where": "Cozmo's House",
+   "later": true,
+   "need": "After Mt. Chimney",
+   "after": "mt-chimney",
+   "stage": 27
   }
  ],
  "trainers": [],

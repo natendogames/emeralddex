@@ -69,25 +69,41 @@
    "id": "item-outside-hm07",
    "name": "HM07",
    "from": "Wallace",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "After Sky Pillar",
+   "after": "sky-pillar",
+   "stage": 64
   },
   {
    "id": "item-gym-1f-tm03",
    "name": "TM03",
    "from": "Juan (after winning)",
-   "where": "Gym 1F"
+   "where": "Gym 1F",
+   "later": true,
+   "need": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "item-house-1-tm31",
    "name": "TM31",
    "from": "Black Belt",
-   "where": "House 1"
+   "where": "House 1",
+   "later": true,
+   "need": "Rayquaza to calm Groudon and Kyogre: the houses stay locked until then",
+   "after": "sky-pillar",
+   "stage": 64.5
   },
   {
    "id": "item-lotad-and-seedot-house-elixir",
    "name": "Elixir",
    "from": "Man (show him a big Seedot)",
-   "where": "Lotad And Seedot House"
+   "where": "Lotad And Seedot House",
+   "later": true,
+   "need": "Rayquaza to calm Groudon and Kyogre: the houses stay locked until then",
+   "after": "sky-pillar",
+   "stage": 64.5
   }
  ],
  "trainers": [
@@ -237,7 +253,10 @@
     "TM03"
    ],
    "id": "juan",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Beauty",
@@ -274,7 +293,10 @@
     }
    ],
    "id": "connie",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Lass",
@@ -309,7 +331,10 @@
     }
    ],
    "id": "andrea",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Pokéfan",
@@ -374,7 +399,10 @@
     }
    ],
    "id": "annika",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Lady",
@@ -440,7 +468,10 @@
     "Full Restore"
    ],
    "id": "daphne",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Pokéfan",
@@ -534,7 +565,10 @@
     }
    ],
    "id": "bethany",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Beauty",
@@ -571,7 +605,10 @@
     }
    ],
    "id": "bridget",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Beauty",
@@ -656,7 +693,10 @@
     }
    ],
    "id": "olivia",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Lass",
@@ -719,7 +759,10 @@
     }
    ],
    "id": "crissy",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Lady",
@@ -759,7 +802,10 @@
     "Full Restore"
    ],
    "id": "brianna",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   },
   {
    "class": "Beauty",
@@ -820,7 +866,10 @@
     }
    ],
    "id": "tiffany",
-   "area": "Gym B1F"
+   "area": "Gym B1F",
+   "stage": "sky-pillar",
+   "later": true,
+   "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
   }
  ],
  "verified": true,

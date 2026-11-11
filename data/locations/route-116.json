@@ -102,7 +102,11 @@
    "id": "item-outside-repeat-ball",
    "name": "Repeat Ball",
    "from": "Devon researcher",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "After Slateport City",
+   "after": "slateport-city",
+   "stage": 14
   }
  ],
  "trainers": [

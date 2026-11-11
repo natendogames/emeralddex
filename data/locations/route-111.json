@@ -781,7 +781,10 @@
      ]
     }
    ],
-   "id": "beau"
+   "id": "beau",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Ruin Maniac",
@@ -816,7 +819,10 @@
      ]
     }
    ],
-   "id": "dusty"
+   "id": "dusty",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Picnicker",
@@ -879,7 +885,10 @@
      ]
     }
    ],
-   "id": "heidi"
+   "id": "heidi",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Picnicker",
@@ -940,7 +949,10 @@
      ]
     }
    ],
-   "id": "becky"
+   "id": "becky",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Picnicker",
@@ -1001,7 +1013,10 @@
      ]
     }
    ],
-   "id": "celia"
+   "id": "celia",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Ruin Maniac",
@@ -1061,7 +1076,10 @@
      ]
     }
    ],
-   "id": "bryan"
+   "id": "bryan",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Camper",
@@ -1096,7 +1114,10 @@
      ]
     }
    ],
-   "id": "drew"
+   "id": "drew",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Cool Trainer",
@@ -1243,7 +1264,10 @@
      ]
     }
    ],
-   "id": "branden"
+   "id": "branden",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "the Go-Goggles from your rival in Lavaridge Town"
   },
   {
    "class": "Black Belt",

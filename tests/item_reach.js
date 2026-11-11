@@ -17,6 +17,8 @@ const WORDS = { surf: 'surf', cut: 'cut', 'rock smash': 'rock-smash', strength: 
   'mach bike': 'mach-bike', 'acro bike': 'acro-bike', 'devon scope': 'devon-scope', 'poké flute': 'poke-flute', 'poke flute': 'poke-flute' };
 // Bulbapedia items whose "requires" note the app answers differently on purpose (location id:item name -> why)
 const KNOWN = J('tests/item_reach_known.json');
+// Things Nate found listed as first visit that you can only get later (location, kind, name)
+const LATER_CASES = J('tests/later_cases.json');
 
 (async () => {
   const app = await loadApp(FILES);
@@ -34,10 +36,27 @@ const KNOWN = J('tests/item_reach_known.json');
       if (!(i.stage > stageOf(l.id))) fail(`${l.id}: ${i.name} is "come back later" at stage ${i.stage}, not after its own place (${stageOf(l.id)})`);
     }
   }
-  // Nate's report: Route 103's Guard Spec. and PP Up are across the water, reached from Route 110
-  for (const n of ['Guard Spec.', 'PP Up']) {
-    const i = (state.locations['route-103']?.items || []).find(x => x.name === n);
-    if (i && !i.later) fail(`route-103: ${n} should be "come back later" (east side, reached from Route 110 or by Surf)`);
+  // Known case: Route 103's east side is reached from Route 110 (Nate's report)
+  for (const [lid, n] of [['route-103', 'Guard Spec.'], ['route-103', 'PP Up']]) {
+    const i = (state.locations[lid]?.items || []).find(x => x.name === n);
+    if (!i) fail(`${lid}: no ${n}`); else if (!i.later) fail(`${lid}: ${n} should be "come back later"`);
+  }
+  // Everything else on a page that can wait (gifts, shops, move tutors) says what it needs and when
+  for (const l of state.index) {
+    const loc = state.locations[l.id];
+    const things = [...loc.gifts.map(g => ['gift', g]), ...(state.extras.shops[l.id] || []).map(x => ['shop', x]), ...state.extras.tutors.filter(t => t.loc === l.id).map(t => ['tutor', t])];
+    for (const [kind, x] of things) {
+      total++;
+      if (!x.later) continue;
+      later++;
+      if (!x.need || !state.locations[x.after] || !(x.stage > stageOf(l.id))) fail(`${l.id}: ${kind} ${x.name || x.move || x.where} is "come back later" without a reason or a later stage`);
+    }
+  }
+  for (const [lid, kind, name] of LATER_CASES) {
+    const loc = state.locations[lid];
+    const x = kind === 'item' ? loc.items.find(i => i.name === name) : kind === 'gift' ? loc.gifts.find(g => g.name === name)
+      : kind === 'tutor' ? state.extras.tutors.find(t => t.loc === lid && t.move === name) : (loc.trainers || []).find(t => t.name === name);
+    if (!x) fail(`${lid}: no ${kind} ${name}`); else if (!x.later) fail(`${lid}: ${kind} ${name} should be under "come back later"`);
   }
   // Bulbapedia cross-check
   const bp = J(fs.existsSync(path.join(ROOT, 'data/verify/bulbapedia-emerald.json')) ? 'data/verify/bulbapedia-emerald.json' : 'data/verify/bulbapedia-frlg.json');
@@ -74,7 +93,7 @@ const KNOWN = J('tests/item_reach_known.json');
     if (/Guard Spec\.|PP Up/.test(first.slice(first.indexOf('<h2>Items')))) fail('Route 103 lists Guard Spec./PP Up as first-visit items');
   }
   if (fails.length) { console.log(fails.map(f => 'FAIL ' + f).join('\n')); process.exit(1); }
-  console.log(`item reach OK: ${later} of ${total} items are "come back later"; ${checked} Bulbapedia "requires" notes checked; ${reach.puzzles.length} puzzle items timed by their map`);
+  console.log(`item reach OK: ${later} of ${total} items, gifts, shops and tutors are "come back later"; ${checked} Bulbapedia "requires" notes checked; ${reach.puzzles.length} puzzle items timed by their map`);
 })();
 
 // Location ids a Bulbapedia heading names ("Routes 105 and 106" -> two), as in scripts/verify_bulbapedia.py

@@ -213,7 +213,10 @@
     }
    ],
    "id": "elijah",
-   "area": "Outside"
+   "area": "Outside",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
   },
   {
    "class": "Fisherman",
@@ -277,7 +280,10 @@
     }
    ],
    "id": "carter",
-   "area": "Outside"
+   "area": "Outside",
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
   },
   {
    "class": "Young Couple",
@@ -340,8 +346,9 @@
    "double": true,
    "id": "mel-and-paul",
    "area": "Outside",
-   "stage": "mauville-city",
-   "later": true
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
   },
   {
    "class": "Swimmer",
@@ -533,8 +540,9 @@
    ],
    "id": "gwen",
    "area": "Outside",
-   "stage": "mauville-city",
-   "later": true
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
   },
   {
    "class": "Tuber",
@@ -571,8 +579,9 @@
    ],
    "id": "austina",
    "area": "Outside",
-   "stage": "mauville-city",
-   "later": true
+   "stage": "lavaridge-town",
+   "later": true,
+   "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)"
   },
   {
    "class": "Sailor",
