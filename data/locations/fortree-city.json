@@ -16,7 +16,11 @@
    "id": "item-gym-tm40",
    "name": "TM40",
    "from": "Winona (after winning)",
-   "where": "Gym"
+   "where": "Gym",
+   "later": true,
+   "need": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "after": "route-120",
+   "stage": 40
   },
   {
    "id": "trade-house-1-trade-give-volbeat-get-plusle-pluses",
@@ -72,7 +76,10 @@
     }
    ],
    "id": "humberto",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Picnicker",
@@ -159,7 +166,10 @@
     }
    ],
    "id": "ashley",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Bird Keeper",
@@ -248,7 +258,10 @@
     }
    ],
    "id": "jared",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Camper",
@@ -310,7 +323,10 @@
     }
    ],
    "id": "flint",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Bird Keeper",
@@ -372,7 +388,10 @@
     }
    ],
    "id": "edwardo",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Bird Keeper",
@@ -407,7 +426,10 @@
     }
    ],
    "id": "darius",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   },
   {
    "class": "Leader",
@@ -555,7 +577,10 @@
     "TM40"
    ],
    "id": "winona",
-   "area": "Gym"
+   "area": "Gym",
+   "stage": "route-120",
+   "later": true,
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
   }
  ],
  "verified": true,

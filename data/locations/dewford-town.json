@@ -93,7 +93,11 @@
    "id": "item-hall-tm36",
    "name": "TM36",
    "from": "Man",
-   "where": "Hall"
+   "where": "Hall",
+   "later": true,
+   "need": "After Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29
   },
   {
    "id": "item-house-2-silk-scarf",

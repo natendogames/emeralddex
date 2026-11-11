@@ -280,6 +280,10 @@ def who(label, mapname):
     return s
 
 gifts = collections.OrderedDict()  # (lid, kind, name, area, from, species?) -> True
+gift_src = {}  # gift key -> (map, script label) it comes from, to find the giver on the map
+gift_pos = {}  # (location id, gift id) -> (map, script label)
+def add_gift(k, name, label):
+    gifts.setdefault(k, True); gift_src.setdefault(k, (name, label))
 statics = collections.OrderedDict()
 for name in sorted(maps):
     m = maps[name]
@@ -296,20 +300,20 @@ for name in sorted(maps):
         if gm:
             it, q = gm.group(1), int(gm.group(2) or 1)
             nm = item_name(it) + (f' ×{q}' if q > 1 else '')
-            gifts.setdefault((lid, 'item', nm, area, who(label, name)), True); continue
+            add_gift((lid, 'item', nm, area, who(label, name)), name, label); continue
         mm = re.match(r'givemon SPECIES_(\w+), (\d+)', s)
         if mm:
-            gifts.setdefault((lid, 'mon', f'{species_const[mm.group(1)]} (Lv {mm.group(2)})', area, who(label, name), mm.group(1)), True); continue
+            add_gift((lid, 'mon', f'{species_const[mm.group(1)]} (Lv {mm.group(2)})', area, who(label, name), mm.group(1)), name, label); continue
         mm = re.match(r'giveegg SPECIES_(\w+)', s)
         if mm:
-            gifts.setdefault((lid, 'mon', f'{species_const[mm.group(1)]} Egg', area, who(label, name), mm.group(1)), True); continue
+            add_gift((lid, 'mon', f'{species_const[mm.group(1)]} Egg', area, who(label, name), mm.group(1)), name, label); continue
         mm = re.match(r'(?:setwildbattle|seteventmon) SPECIES_(\w+), (\d+)', s)
         if mm:
             statics.setdefault((lid, area, mm.group(1), mm.group(2)), True); continue
         mm = re.match(r'setvar VAR_0x8008, (INGAME_TRADE_\w+)', s)
         if mm:
             get, give, nick = trades[mm.group(1)]
-            gifts.setdefault((lid, 'trade', f'Trade: give {species_const[give]}, get {species_const[get]} ("{title(nick)}")', area, who(label, name), get), True)
+            add_gift((lid, 'trade', f'Trade: give {species_const[give]}, get {species_const[get]} ("{title(nick)}")', area, who(label, name), get), name, label)
 # Kecleon hiding on Routes 119 and 120 share one script in data/scripts/kecleon.inc
 for lid in ('route-119', 'route-120'):
     statics.setdefault((lid, 'Outside', 'KECLEON', '30'), True)
@@ -370,6 +374,7 @@ for k in gifts:
     loc = L(lid)
     frm = FROM_FIX.get(frm) or re.sub(r'^(Give|Receive|Get) .*', 'Gift', frm)
     loc['gifts'].append({'id': uid(loc, f'{kind}-{area}-{nm}'), 'name': nm, 'from': frm, 'where': area})
+    if k in gift_src: gift_pos[(lid, loc['gifts'][-1]['id'])] = gift_src[k]
     if kind in GMETHOD and len(k) > 5 and k[5]:
         lv = re.search(r'Lv (\d+)', nm)
         lvl = lv.group(1) if lv else '5' if 'Egg' in nm else None  # eggs hatch at Lv 5
@@ -629,6 +634,7 @@ def tid_of(key):
     return re.sub(r'[^a-z0-9]+', '-', k.lower()).strip('-')
 
 per_loc = collections.defaultdict(list)
+trainer_src = {}  # (location id, trainer id) -> (map, script labels)
 trainer_consts = {}
 rival_mismatch = []
 for (mapname, key), b in found_battles.items():
@@ -651,6 +657,7 @@ for (mapname, key), b in found_battles.items():
     if rewards: rec['rewards'] = rewards
     rec['id'] = tid_of(key)
     trainer_consts[(lid, rec['id'])] = list(b['consts'].values()) + (trainer_consts_extra if b['rival'] else [])
+    trainer_src[(lid, rec['id'])] = (mapname, b['labels'])
     rec['area'] = area
     st = STAGE.get(mapname)
     if st: rec['stage'] = st
@@ -812,7 +819,12 @@ TILE_NEEDS = {'MB_MUDDY_SLOPE': 'mach-bike', 'MB_CRACKED_FLOOR': 'mach-bike', 'M
               'MB_ISOLATED_HORIZONTAL_RAIL': 'acro-bike', 'MB_VERTICAL_RAIL': 'acro-bike', 'MB_HORIZONTAL_RAIL': 'acro-bike'}
 # Scripted blockers that live in coord events: the desert's sandstorm turns you back until the Go-Goggles.
 GATES = [('Route111', 'Route111_EventScript_ViciousSandstormTriggerDown', stage_after('lavaridge-town'), 'the Go-Goggles from your rival in Lavaridge Town'),
-         ('Route111', 'Route111_EventScript_ViciousSandstormTriggerLeft', stage_after('lavaridge-town'), 'the Go-Goggles from your rival in Lavaridge Town')]
+         ('Route111', 'Route111_EventScript_ViciousSandstormTriggerLeft', stage_after('lavaridge-town'), 'the Go-Goggles from your rival in Lavaridge Town'),
+         # Sootopolis keeps its houses and Gym locked until Rayquaza has calmed Groudon and Kyogre (FLAG_SOOTOPOLIS_ARCHIE_MAXIE_LEAVE)
+         ('SootopolisCity', 'lock:SootopolisCity_EventScript_LockHouseDoors', stage_after('sky-pillar'), 'Rayquaza to calm Groudon and Kyogre: the houses stay locked until then'),
+         ('SootopolisCity', 'lock:SootopolisCity_EventScript_LockGymDoor', stage_after('sky-pillar'), 'Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then'),
+         # Wailmer block the sea east of Lilycove until Team Aqua leaves in their submarine
+         ('LilycoveCity', 'lock:LilycoveCity_EventScript_SetWailmerMetatiles', stage_after('aqua-hideout', 0), 'Team Aqua to leave the Aqua Hideout (Wailmer block the way until then)')]
 # Mr. Briney's boat (Route 104 <-> Dewford <-> Route 109) sails rather than warps; the cable car is code, not script.
 TRANSPORTS = [('Route104_MrBrineysHouse', 'DewfordTown', 12, 8), ('Route104', 'DewfordTown', 12, 8), ('DewfordTown', 'Route104', 12, 54),
               ('DewfordTown', 'Route109', 21, 26), ('Route109', 'DewfordTown', 12, 8),
@@ -830,6 +842,20 @@ MAP_OPEN = {
     'AbandonedShip_HiddenFloorCorridors': (ABILITIES['dive'][0], ABILITIES['dive'][1]),
     'AbandonedShip_HiddenFloorRooms': (ABILITIES['dive'][0], ABILITIES['dive'][1]),
 }
+# Rooms whose battles belong to a later point: Norman waits for four badges, Steven's cave opens after the Hall of Fame
+# (STAGE), and any building whose trainers all come later in the story opens with them.
+MAP_REASON = {'PetalburgCity_Gym': 'four badges: your father won\'t battle you before then',
+              'MeteorFalls_StevensCave': 'the Hall of Fame: the cave opens then'}
+for k, v in STAGE.items():
+    if k in maps: MAP_OPEN.setdefault(k, (order_pos[v], MAP_REASON.get(k)))
+trainers_in_map = collections.defaultdict(list)
+for (lid, tid), (mapname, _) in trainer_src.items():
+    t = next((x for x in locs[lid]['trainers'] if x['id'] == tid), None)
+    if t: trainers_in_map[mapname].append(t)
+for mapname, ts in trainers_in_map.items():
+    if mapname in MAP_OPEN or maps[mapname].get('map_type') != 'MAP_TYPE_INDOOR': continue
+    if all(t.get('later') and t.get('stage') for t in ts):
+        MAP_OPEN[mapname] = (min(order_pos[t['stage']] for t in ts), None)
 # The Trick Master opens puzzle n (n >= 2) once you have badge n + 1 (Route110_TrickHouseEntrance scripts)
 for n in range(2, 9):
     b = min(n + 1, 8)
@@ -849,6 +875,8 @@ def first_visit_until(lid):
     return next((k for k in key_stages if k >= here), here)
 unreachable = []
 def describe(loc, st, kind, what):
+    if kind == 'after':  # someone who only turns up after a story event elsewhere
+        return f"After {index[int(st)]['name']}", index[int(st)]['id']
     if kind == 'ability': return ABILITIES[what][1], index[int(ABILITIES[what][0])]['id']
     if kind == 'gate': return what, index[int(st)]['id']
     if what in MAP_OPEN and MAP_OPEN[what][1]: return MAP_OPEN[what][1], index[int(st)]['id']
@@ -871,6 +899,39 @@ for loc in locs.values():
         it['later'] = True
         it['need'], it['after'] = describe(loc, st, kind, what)
         it['stage'] = st
+# The same for everything else on a place's page: NPC gifts and trainers (where their script's NPC stands)
+scripts_at = reach.Scripts(world)
+map_first = reach.map_reach(world)
+def time_thing(loc, mapname, positions):
+    """(stage, reason) for something at these spots on a map; the map's own opening if it has no spot we can find."""
+    r = scripts_at.reach(mapname, positions) if positions else None
+    if r is None: r = map_first.get(mapname)
+    if r is None and map_stage(mapname) is not None: r = (map_stage(mapname), ('map', mapname))
+    return r
+def mark_later(loc, thing, r):
+    if not r: return False
+    # someone who only turns up after you have been somewhere else is never there on the first trip
+    away = r[1] and r[1][0] == 'after' and map_loc(r[1][1]) != loc['id']
+    if r[0] <= (order_pos[loc['id']] if away else first_visit_until(loc['id'])): return False
+    thing['later'] = True
+    thing['need'], thing['after'] = describe(loc, r[0], *r[1])
+    thing['stage'] = r[0]
+    return True
+for loc in locs.values():
+    for g in loc['gifts']:
+        src = gift_pos.get((loc['id'], g['id']))
+        if src and mark_later(loc, g, time_thing(loc, src[0], scripts_at.positions(src[0], label=src[1]))):
+            # the Pokémon row for a gift or trade waits too (the Pokédex counts it from then)
+            for e in loc['encounters']:
+                if e['method'] in ('gift', 'trade') and (e.get('notes') or '').startswith(g['name']) and not e.get('after'):
+                    e['after'] = g['after']
+    for t in loc['trainers']:
+        src = trainer_src.get((loc['id'], t['id']))
+        if not src: continue
+        r = time_thing(loc, src[0], [p for l in src[1] for p in scripts_at.positions(src[0], label=l)])
+        if r and r[0] > first_visit_until(loc['id']) and (not t.get('stage') or order_pos[t['stage']] < int(r[0])):
+            t['stage'], t['later'] = index[int(r[0])]['id'], True
+            t['reach'] = describe(loc, r[0], *r[1])[0]
 # for tests/item_reach.js: when each field move opens, and where a location's first visit ends
 json.dump({'_about': 'Written by scripts/build_data.py from the reachability walk (scripts/reach.py). Read by tests/item_reach.js.',
            'abilities': {k: {'stage': v[0], 'need': v[1]} for k, v in ABILITIES.items()},
@@ -916,7 +977,9 @@ for name in sorted(maps):
         body = re.search(re.escape(lbl) + r':+(.*?)pokemartlistend', raw, re.S).group(1)
         lst = [{'name': item_name(c), 'price': items[c]['price']} for c in re.findall(r'(ITEM_\w+)', body) if c != 'ITEM_NONE']
         where = SHOP_NOTE.get(lbl) or (area_name(name) if area_name(name) != 'Mart' else 'Poké Mart')
-        shops[map_loc(name)].append({'id': re.sub(r'[^a-z0-9]+', '-', lbl.lower()), 'where': where, 'items': lst})
+        shop = {'id': re.sub(r'[^a-z0-9]+', '-', lbl.lower()), 'where': where, 'items': lst}
+        mark_later(locs[map_loc(name)], shop, time_thing(locs[map_loc(name)], name, scripts_at.positions(name, contains=r'pokemart ' + lbl + r'\b')))
+        shops[map_loc(name)].append(shop)
         for it in lst:
             mm = re.match(r'((?:TM|HM)\d+)$', it['name'])
             if mm:
@@ -970,8 +1033,12 @@ for lbl in re.findall(r'^(\w+_EventScript_\w+Tutor)::', mt_src, re.M):
     mapname = lbl.split('_EventScript_')[0]
     lid = TUTOR_LOC[re.match(r'[A-Z][a-z]+[A-Z][a-z]+', mapname).group(0)]
     mv = re.search(re.escape(lbl) + r'::.*?\bTUTOR_MOVE_(\w+)', mt_src, re.S).group(1)
-    tutors.append({'id': 'tutor-' + mv.lower().replace('_', '-'), 'move': move_names[mv], 'loc': lid, 'where': area_name(mapname),
-                   'learners': [p['dex'] for p in pokedex if move_names[mv] in p.get('tutor', [])], 'note': 'Teaches the move once.'})
+    tutor = {'id': 'tutor-' + mv.lower().replace('_', '-'), 'move': move_names[mv], 'loc': lid, 'where': area_name(mapname),
+             'learners': [p['dex'] for p in pokedex if move_names[mv] in p.get('tutor', [])], 'note': 'Teaches the move once.'}
+    ps = scripts_at.positions(mapname, label=lbl, contains=r'\b' + lbl + r'\b') if mapname in maps else []
+    if not ps: print('tutor without an NPC on the map:', lbl, file=sys.stderr)
+    if mapname in maps: mark_later(locs[lid], tutor, time_thing(locs[lid], mapname, ps))
+    tutors.append(tutor)
 taught = {t['move'] for t in tutors}
 all_tutor = re.findall(r'\[TUTOR_MOVE_\w+\] = MOVE_(\w+)', tutor_src)
 for mv in all_tutor:

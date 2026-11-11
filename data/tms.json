@@ -79,7 +79,9 @@
     "loc": "sootopolis-city",
     "how": "gift",
     "where": "Outside",
-    "from": "Wallace"
+    "from": "Wallace",
+    "stage": 64,
+    "need": "After Sky Pillar"
    }
   ]
  },
@@ -129,7 +131,9 @@
     "loc": "sootopolis-city",
     "how": "gift",
     "where": "Gym 1F",
-    "from": "Juan (after winning)"
+    "from": "Juan (after winning)",
+    "stage": 64.5,
+    "need": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then"
    }
   ]
  },
@@ -392,7 +396,9 @@
     "loc": "mauville-city",
     "how": "gift",
     "where": "Outside",
-    "from": "Wattson (after you fix New Mauville)"
+    "from": "Wattson (after you fix New Mauville)",
+    "stage": 29,
+    "need": "After Lavaridge Town"
    },
    {
     "loc": "mauville-city",
@@ -433,7 +439,9 @@
     "loc": "fallarbor-town",
     "how": "gift",
     "where": "Cozmo's House",
-    "from": "Professor Cozmo (return the Meteorite)"
+    "from": "Professor Cozmo (return the Meteorite)",
+    "stage": 27,
+    "need": "After Mt. Chimney"
    },
    {
     "loc": "pacifidlog-town",
@@ -491,7 +499,9 @@
     "loc": "sootopolis-city",
     "how": "gift",
     "where": "House 1",
-    "from": "Black Belt"
+    "from": "Black Belt",
+    "stage": 64.5,
+    "need": "Rayquaza to calm Groudon and Kyogre: the houses stay locked until then"
    }
   ]
  },
@@ -556,7 +566,9 @@
     "loc": "dewford-town",
     "how": "gift",
     "where": "Hall",
-    "from": "Man"
+    "from": "Man",
+    "stage": 29,
+    "need": "After Lavaridge Town"
    }
   ]
  },
@@ -605,7 +617,9 @@
     "loc": "fortree-city",
     "how": "gift",
     "where": "Gym",
-    "from": "Winona (after winning)"
+    "from": "Winona (after winning)",
+    "stage": 40,
+    "need": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
    }
   ]
  },
@@ -629,7 +643,9 @@
     "loc": "petalburg-city",
     "how": "gift",
     "where": "Gym",
-    "from": "Norman (after winning)"
+    "from": "Norman (after winning)",
+    "stage": 29,
+    "need": "four badges: your father won't battle you before then"
    }
   ]
  },

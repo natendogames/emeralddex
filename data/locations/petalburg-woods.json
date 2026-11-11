@@ -129,7 +129,11 @@
    "id": "item-outside-miracle-seed",
    "name": "Miracle Seed",
    "from": "Girl",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
+   "after": "rustboro-city",
+   "stage": 8.5
   }
  ],
  "trainers": [

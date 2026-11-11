@@ -96,13 +96,21 @@
    "id": "item-gym-enigma-berry",
    "name": "Enigma Berry",
    "from": "Norman (after winning)",
-   "where": "Gym"
+   "where": "Gym",
+   "later": true,
+   "need": "four badges: your father won't battle you before then",
+   "after": "lavaridge-town",
+   "stage": 29
   },
   {
    "id": "item-gym-tm42",
    "name": "TM42",
    "from": "Norman (after winning)",
-   "where": "Gym"
+   "where": "Gym",
+   "later": true,
+   "need": "four badges: your father won't battle you before then",
+   "after": "lavaridge-town",
+   "stage": 29
   },
   {
    "id": "item-wally-s-house-hm03",

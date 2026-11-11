@@ -15,13 +15,21 @@
    "id": "item-outside-basement-key",
    "name": "Basement Key",
    "from": "Wattson",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "After Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29
   },
   {
    "id": "item-outside-tm24",
    "name": "TM24",
    "from": "Wattson (after you fix New Mauville)",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "After Lavaridge Town",
+   "after": "lavaridge-town",
+   "stage": 29
   },
   {
    "id": "item-bike-shop-mach-bike",

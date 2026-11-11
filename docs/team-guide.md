@@ -14,10 +14,20 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - May or Brendan (Route 103), Lv 5 Treecko: Pound
   - Roxanne (Rustboro City), Lv 15 Treecko: Bullet Seed (TM09), Quick Attack
-  - Brawly (Dewford Town), Lv 19 Grovyle: Bullet Seed (TM09), Pursuit, Rock Tomb (TM39), Quick Attack
-  - Juan (Sootopolis City), Lv 46 Sceptile: Leaf Blade, Slam, Rock Tomb (TM39), Pursuit
+  - Brawly (Dewford Town), Lv 19 Grovyle: Bullet Seed (TM09), Pursuit, Quick Attack, Fury Cutter
+  - May or Brendan (Route 110), Lv 20 Grovyle: Hidden Power (TM10), Bullet Seed (TM09), Pursuit, Fury Cutter
+  - Wally (Mauville City), Lv 20 Grovyle: Hidden Power (TM10), Bullet Seed (TM09), Pursuit, Rock Smash (HM06)
+  - Tabitha (Mt. Chimney), Lv 24 Grovyle: Hidden Power (TM10), Bullet Seed (TM09), Pursuit, Dig (TM28)
+  - Flannery (Lavaridge Town), Lv 29 Grovyle: Leaf Blade, Hidden Power (TM10), Pursuit, Dig (TM28)
+  - Maxie (Magma Hideout), Lv 39 Sceptile: Leaf Blade, Hyper Beam (TM15), Pursuit, Dig (TM28)
+  - Maxie (Mossdeep City), Lv 44 Sceptile: Leaf Blade, Slam, Pursuit, Dig (TM28)
+  - Wally (Victory Road), Lv 46 Sceptile: Leaf Blade, Slam, Brick Break (TM31), Pursuit
   - TM09 Bullet Seed: Route 104, from Boy 2 (single use)
-  - TM39 Rock Tomb: Rustboro City (Gym), from Roxanne (after winning) (single use)
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - HM06 Rock Smash: Mauville City (House 1), from Rock Smash Guy
+  - TM28 Dig: Route 114 (Fossil Maniac's House), from Fossil Maniac's brother (single use)
+  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
+  - TM31 Brick Break: Sootopolis City (House 1), from Black Belt (single use)
 
 ### Pelipper (Wingull → Pelipper)
 
@@ -27,11 +37,17 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - when you get it, Lv 5 Wingull: Water Gun
   - Roxanne (Rustboro City), Lv 15 Wingull: Wing Attack, Water Gun
-  - Juan (Sootopolis City), Lv 46 Pelipper: Surf (HM03), Blizzard (TM14), Wing Attack, Secret Power (TM43)
+  - May or Brendan (Route 110), Lv 20 Wingull: Water Gun, Wing Attack, Secret Power (TM43), Thief (TM46)
+  - Wally (Mauville City), Lv 20 Wingull: Ice Beam (TM13), Water Gun, Wing Attack, Secret Power (TM43)
+  - Maxie (Mt. Chimney), Lv 25 Pelipper: Ice Beam (TM13), Water Gun, Wing Attack, Secret Power (TM43)
+  - Shelly (Route 119), Lv 31 Pelipper: Surf (HM03), Ice Beam (TM13), Wing Attack, Secret Power (TM43)
+  - May or Brendan (Lilycove City), Lv 34 Pelipper: Surf (HM03), Blizzard (TM14), Wing Attack, Secret Power (TM43)
   - Sidney (Pokémon League), Lv 49 Pelipper: Surf (HM03), Blizzard (TM14), Spit Up, Wing Attack
+  - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
+  - TM46 Thief: Slateport City (Oceanic Museum 1F), from Aqua Grunt (after you beat him) (single use)
+  - TM13 Ice Beam: Mauville City (Game Corner prize counter), 4,000 coins; or Abandoned Ship (Room B1F) (single use)
   - HM03 Surf: Petalburg City (Wally's House), from Wally's father (after you beat Norman)
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
-  - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
 
 ### Slaking (Slakoth → Vigoroth → Slaking)
 
@@ -42,12 +58,19 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
   - when you get it, Lv 5 Slakoth: Scratch
   - Roxanne (Rustboro City), Lv 15 Slakoth: Cut (HM01)
   - Brawly (Dewford Town), Lv 19 Vigoroth: Fury Swipes
-  - Juan (Sootopolis City), Lv 46 Slaking: Hyper Beam (TM15), Shadow Ball (TM30), Brick Break (TM31), Blizzard (TM14)
+  - May or Brendan (Route 110), Lv 20 Vigoroth: Hidden Power (TM10)
+  - Wally (Mauville City), Lv 20 Vigoroth: Hidden Power (TM10), Flamethrower (TM35)
+  - Norman (Petalburg City), Lv 31 Vigoroth: Slash, Flamethrower (TM35)
+  - May or Brendan (Lilycove City), Lv 34 Vigoroth: Slash, Blizzard (TM14), Flamethrower (TM35), Solarbeam (TM22)
+  - Tabitha (Magma Hideout), Lv 34 Vigoroth: Slash, Blizzard (TM14), Shadow Ball (TM30), Flamethrower (TM35)
+  - Maxie (Magma Hideout), Lv 39 Slaking: Hyper Beam (TM15), Shadow Ball (TM30), Blizzard (TM14), Flamethrower (TM35)
   - HM01 Cut: Rustboro City (Cutter's House), from Cutter
-  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
-  - TM30 Shadow Ball: Mt. Pyre (6F) (single use)
-  - TM31 Brick Break: Sootopolis City (House 1), from Black Belt (single use)
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM35 Flamethrower: Mauville City (Game Corner prize counter), 4,000 coins (single use)
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
+  - TM22 Solarbeam: Safari Zone (Northwest) (single use)
+  - TM30 Shadow Ball: Mt. Pyre (6F) (single use)
+  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
 ### Kadabra (Abra → Kadabra)
 
@@ -57,7 +80,11 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - when you get it, Lv 15 Abra: Teleport
   - Brawly (Dewford Town), Lv 19 Kadabra: Confusion
-  - Juan (Sootopolis City), Lv 46 Kadabra: Psychic, Facade (TM42)
+  - May or Brendan (Route 110), Lv 20 Kadabra: Confusion, Secret Power (TM43)
+  - Wally (Mauville City), Lv 20 Kadabra: Psychic (TM29), Secret Power (TM43)
+  - Shelly (Route 119), Lv 31 Kadabra: Psychic (TM29), Facade (TM42)
+  - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
+  - TM29 Psychic: Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F) (single use)
   - TM42 Facade: Petalburg City (Gym), from Norman (after winning) (single use)
 
 ### Gyarados (Magikarp → Gyarados)
@@ -67,10 +94,17 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
 - HMs it can carry: Surf, Strength, Rock Smash, Waterfall, Dive
 - Moves over the game:
   - when you get it, Lv 15 Magikarp: Tackle
-  - Juan (Sootopolis City), Lv 46 Gyarados: Return (TM27), Earthquake (TM26), Hydro Pump, Blizzard (TM14)
+  - May or Brendan (Route 110), Lv 20 Gyarados: Hidden Power (TM10), Bite
+  - Tabitha (Mt. Chimney), Lv 24 Gyarados: Return (TM27), Bite
+  - Maxie (Mt. Chimney), Lv 25 Gyarados: Return (TM27), Bite, Dragon Rage
+  - May or Brendan (Lilycove City), Lv 34 Gyarados: Return (TM27), Blizzard (TM14), Fire Blast (TM38), Bite
+  - Tate & Liza (Mossdeep City), Lv 42 Gyarados: Return (TM27), Hydro Pump, Blizzard (TM14), Fire Blast (TM38)
+  - Shelly (Seafloor Cavern), Lv 44 Gyarados: Return (TM27), Earthquake (TM26), Hydro Pump, Blizzard (TM14)
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
   - TM27 Return: Fallarbor Town (Cozmo's House), from Professor Cozmo (return the Meteorite); or Pacifidlog Town (House 2), from Woman (if your lead Pokémon is friendly) (single use)
-  - TM26 Earthquake: Seafloor Cavern (Room 9) (single use)
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
+  - TM38 Fire Blast: Lilycove City (Department Store 4F (TMs)), ₽5,500
+  - TM26 Earthquake: Seafloor Cavern (Room 9) (single use)
 
 ### Manectric (Electrike → Manectric)
 
@@ -79,8 +113,14 @@ Answers 862 of 868 trainer Pokémon (99%) one-on-one; key battles 99 of 103.
 - HMs it can carry: Strength, Flash
 - Moves over the game:
   - when you get it, Lv 19 Electrike: Hidden Power (TM10)
-  - Juan (Sootopolis City), Lv 46 Manectric: Thunder, Bite, Hyper Beam (TM15)
+  - May or Brendan (Route 110), Lv 20 Electrike: Spark, Hidden Power (TM10)
+  - Wally (Mauville City), Lv 20 Electrike: Thunderbolt (TM24), Hidden Power (TM10)
+  - Flannery (Lavaridge Town), Lv 29 Manectric: Thunderbolt (TM24), Hidden Power (TM10)
+  - May or Brendan (Lilycove City), Lv 34 Manectric: Thunder (TM25), Hyper Beam (TM15)
+  - Maxie (Magma Hideout), Lv 39 Manectric: Thunder (TM25), Bite, Hyper Beam (TM15)
   - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM24 Thunderbolt: Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins (single use)
+  - TM25 Thunder: Lilycove City (Department Store 4F (TMs)), ₽5,500
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
 Key battles (best lead per Pokémon):
@@ -117,7 +157,7 @@ Key battles (best lead per Pokémon):
 
 Not answered one-on-one: Torchic 5 (Rival, Route 103); Shroomish 6 (Lass Haley, Route 104); Manectric 24 (Leader Wattson, Mauville City); Slaking 31 (Leader Norman, Petalburg City); Manectric 30 (Cool Trainer Leonel, Route 120); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Tentacruel for Gyarados (−1.3); Manectric for Manectric (−2.7); Graveler for Kadabra (−3.6); Swellow for Pelipper (−1.2); Graveler for Slaking (−1.6)
+Closest alternative for each slot: Tentacruel for Gyarados (−1.4); Manectric for Manectric (−3.0); Graveler for Kadabra (−2.9); Swellow for Pelipper (−1.2); Graveler for Slaking (−1.3)
 
 ## Emerald, Torchic
 
@@ -131,9 +171,13 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - May or Brendan (Route 103), Lv 5 Torchic: Scratch
   - Roxanne (Rustboro City), Lv 15 Torchic: Ember, Scratch
-  - Brawly (Dewford Town), Lv 19 Combusken: Double Kick, Ember, Rock Tomb (TM39), Scratch
-  - Juan (Sootopolis City), Lv 46 Blaziken: Overheat (TM50), Double Kick, Hyper Beam (TM15), Rock Tomb (TM39)
-  - TM39 Rock Tomb: Rustboro City (Gym), from Roxanne (after winning) (single use)
+  - Brawly (Dewford Town), Lv 19 Combusken: Double Kick, Ember, Scratch, Peck
+  - May or Brendan (Route 110), Lv 20 Combusken: Double Kick, Hidden Power (TM10), Ember, Peck
+  - Wally (Mauville City), Lv 20 Combusken: Flamethrower (TM35), Double Kick, Hidden Power (TM10), Peck
+  - Shelly (Route 119), Lv 31 Combusken: Overheat (TM50), Double Kick, Hidden Power (TM10), Peck
+  - Maxie (Magma Hideout), Lv 39 Blaziken: Overheat (TM50), Double Kick, Hyper Beam (TM15), Peck
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM35 Flamethrower: Mauville City (Game Corner prize counter), 4,000 coins (single use)
   - TM50 Overheat: Lavaridge Town (Gym 1F), from Flannery (after winning) (single use)
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
@@ -145,11 +189,17 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - when you get it, Lv 5 Wingull: Water Gun
   - Roxanne (Rustboro City), Lv 15 Wingull: Wing Attack, Water Gun
-  - Juan (Sootopolis City), Lv 46 Pelipper: Surf (HM03), Wing Attack, Secret Power (TM43), Thief (TM46)
-  - Sidney (Pokémon League), Lv 49 Pelipper: Surf (HM03), Spit Up, Wing Attack, Thief (TM46)
-  - HM03 Surf: Petalburg City (Wally's House), from Wally's father (after you beat Norman)
+  - May or Brendan (Route 110), Lv 20 Wingull: Water Gun, Wing Attack, Secret Power (TM43), Thief (TM46)
+  - Wally (Mauville City), Lv 20 Wingull: Ice Beam (TM13), Water Gun, Wing Attack, Secret Power (TM43)
+  - Maxie (Mt. Chimney), Lv 25 Pelipper: Ice Beam (TM13), Water Gun, Wing Attack, Secret Power (TM43)
+  - Shelly (Route 119), Lv 31 Pelipper: Surf (HM03), Ice Beam (TM13), Wing Attack, Secret Power (TM43)
+  - May or Brendan (Lilycove City), Lv 34 Pelipper: Surf (HM03), Ice Beam (TM13), Wing Attack, Hyper Beam (TM15)
+  - Sidney (Pokémon League), Lv 49 Pelipper: Surf (HM03), Ice Beam (TM13), Spit Up, Wing Attack
   - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
   - TM46 Thief: Slateport City (Oceanic Museum 1F), from Aqua Grunt (after you beat him) (single use)
+  - TM13 Ice Beam: Mauville City (Game Corner prize counter), 4,000 coins; or Abandoned Ship (Room B1F) (single use)
+  - HM03 Surf: Petalburg City (Wally's House), from Wally's father (after you beat Norman)
+  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
 ### Ludicolo (Lotad → Lombre → Ludicolo)
 
@@ -159,12 +209,19 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - when you get it, Lv 5 Lotad: Astonish
   - Roxanne (Rustboro City), Lv 15 Lombre: Bullet Seed (TM09), Astonish
+  - May or Brendan (Route 110), Lv 20 Lombre: Hidden Power (TM10), Bullet Seed (TM09), Astonish
+  - May or Brendan (Lilycove City), Lv 34 Lombre: Blizzard (TM14), Hidden Power (TM10), Bullet Seed (TM09), Astonish
+  - Tabitha (Magma Hideout), Lv 34 Lombre: Blizzard (TM14), Giga Drain (TM19), Hidden Power (TM10), Astonish
+  - Maxie (Magma Hideout), Lv 39 Lombre: Blizzard (TM14), Giga Drain (TM19), Hidden Power (TM10), Thief
+  - Tate & Liza (Mossdeep City), Lv 42 Ludicolo: Blizzard (TM14), Giga Drain (TM19), Hyper Beam (TM15), Dive (HM08)
   - Juan (Sootopolis City), Lv 46 Ludicolo: Waterfall (HM07), Blizzard (TM14), Giga Drain (TM19), Hyper Beam (TM15)
   - TM09 Bullet Seed: Route 104, from Boy 2 (single use)
-  - HM07 Waterfall: Sootopolis City, from Wallace
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
   - TM19 Giga Drain: Route 123, from Girl (if your lead knows a Grass move) (single use)
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
+  - HM08 Dive: Mossdeep City (Steven's House), from Steven
+  - HM07 Waterfall: Sootopolis City, from Wallace
 
 ### Slaking (Slakoth → Vigoroth → Slaking)
 
@@ -175,11 +232,18 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
   - when you get it, Lv 5 Slakoth: Scratch
   - Roxanne (Rustboro City), Lv 15 Slakoth: Cut (HM01)
   - Brawly (Dewford Town), Lv 19 Vigoroth: Fury Swipes
-  - Juan (Sootopolis City), Lv 46 Slaking: Hyper Beam (TM15), Shadow Ball (TM30), Blizzard (TM14), Faint Attack
+  - May or Brendan (Route 110), Lv 20 Vigoroth: Hidden Power (TM10)
+  - Norman (Petalburg City), Lv 31 Vigoroth: Slash
+  - May or Brendan (Lilycove City), Lv 34 Vigoroth: Slash, Solarbeam (TM22)
+  - Tabitha (Magma Hideout), Lv 34 Vigoroth: Slash, Shadow Ball (TM30), Solarbeam (TM22)
+  - Maxie (Magma Hideout), Lv 39 Slaking: Hyper Beam (TM15), Shadow Ball (TM30), Faint Attack, Solarbeam (TM22)
+  - Shelly (Seafloor Cavern), Lv 44 Slaking: Hyper Beam (TM15), Earthquake (TM26), Shadow Ball (TM30), Faint Attack
   - HM01 Cut: Rustboro City (Cutter's House), from Cutter
-  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM22 Solarbeam: Safari Zone (Northwest) (single use)
   - TM30 Shadow Ball: Mt. Pyre (6F) (single use)
-  - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
+  - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
+  - TM26 Earthquake: Seafloor Cavern (Room 9) (single use)
 
 ### Kadabra (Abra → Kadabra)
 
@@ -189,7 +253,11 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
 - Moves over the game:
   - when you get it, Lv 15 Abra: Teleport
   - Brawly (Dewford Town), Lv 19 Kadabra: Confusion
-  - Juan (Sootopolis City), Lv 46 Kadabra: Psychic, Facade (TM42)
+  - May or Brendan (Route 110), Lv 20 Kadabra: Confusion, Secret Power (TM43)
+  - Wally (Mauville City), Lv 20 Kadabra: Psychic (TM29), Secret Power (TM43)
+  - Shelly (Route 119), Lv 31 Kadabra: Psychic (TM29), Facade (TM42)
+  - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
+  - TM29 Psychic: Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F) (single use)
   - TM42 Facade: Petalburg City (Gym), from Norman (after winning) (single use)
 
 ### Manectric (Electrike → Manectric)
@@ -199,26 +267,33 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
 - HMs it can carry: Strength, Flash
 - Moves over the game:
   - when you get it, Lv 19 Electrike: Hidden Power (TM10)
-  - Juan (Sootopolis City), Lv 46 Manectric: Thunder, Return (TM27), Bite
+  - May or Brendan (Route 110), Lv 20 Electrike: Spark, Hidden Power (TM10)
+  - Wally (Mauville City), Lv 20 Electrike: Thunderbolt (TM24), Hidden Power (TM10)
+  - Tabitha (Mt. Chimney), Lv 24 Electrike: Thunderbolt (TM24), Return (TM27)
+  - Flannery (Lavaridge Town), Lv 29 Manectric: Thunderbolt (TM24), Return (TM27)
+  - May or Brendan (Lilycove City), Lv 34 Manectric: Thunder (TM25), Return (TM27)
+  - Maxie (Magma Hideout), Lv 39 Manectric: Thunder (TM25), Return (TM27), Bite
   - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM24 Thunderbolt: Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins (single use)
   - TM27 Return: Fallarbor Town (Cozmo's House), from Professor Cozmo (return the Meteorite); or Pacifidlog Town (House 2), from Woman (if your lead Pokémon is friendly) (single use)
+  - TM25 Thunder: Lilycove City (Department Store 4F (TMs)), ₽5,500
 
 Key battles (best lead per Pokémon):
 
 - May or Brendan (Route 103): Mudkip 5 → Torchic (no clean win) Scratch
 - Roxanne (Rustboro City): Geodude 12 → Lombre Bullet Seed; Geodude 12 → Lombre Bullet Seed; Nosepass 15 → Lombre Bullet Seed
 - May or Brendan (Rustboro City): Torkoal 13 → Wingull Water Gun; Mudkip 15 → Lombre Bullet Seed
-- Brawly (Dewford Town): Machop 16 → Kadabra Confusion; Meditite 16 → Vigoroth Fury Swipes; Makuhita 19 → Kadabra Confusion
-- May or Brendan (Route 110): Lombre 18 → Combusken Double Kick; Slugma 18 → Combusken Rock Tomb; Marshtomp 20 → Lombre Bullet Seed
+- Brawly (Dewford Town): Machop 16 → Kadabra Confusion; Meditite 16 → Combusken Peck; Makuhita 19 → Kadabra Confusion
+- May or Brendan (Route 110): Lombre 18 → Combusken Double Kick; Slugma 18 → Combusken Double Kick; Marshtomp 20 → Lombre Bullet Seed
 - Wally (Mauville City): Ralts 16 → Kadabra Psychic
 - Wattson (Mauville City): Voltorb 20 → Kadabra Psychic; Electrike 20 → Combusken Flamethrower; Magneton 22 → Combusken Flamethrower; Manectric 24 → Kadabra (no clean win) Psychic
-- Tabitha (Mt. Chimney): Numel 18 → Kadabra Psychic; Poochyena 20 → Combusken Double Kick; Numel 22 → Wingull Water Gun; Zubat 22 → Vigoroth Ice Beam
-- Maxie (Mt. Chimney): Mightyena 24 → Combusken Flamethrower; Zubat 24 → Electrike Thunderbolt; Camerupt 25 → Pelipper Water Gun
+- Tabitha (Mt. Chimney): Numel 18 → Kadabra Psychic; Poochyena 20 → Combusken Double Kick; Numel 22 → Wingull Water Gun; Zubat 22 → Electrike Thunderbolt
+- Maxie (Mt. Chimney): Mightyena 24 → Combusken Flamethrower; Zubat 24 → Pelipper Ice Beam; Camerupt 25 → Pelipper Water Gun
 - Flannery (Lavaridge Town): Numel 24 → Pelipper Water Gun; Slugma 24 → Kadabra Psychic; Camerupt 26 → Pelipper Water Gun; Torkoal 29 → Pelipper Water Gun
 - Norman (Petalburg City): Spinda 27 → Manectric Thunderbolt; Vigoroth 27 → Combusken Double Kick; Linoone 29 → Combusken Double Kick; Slaking 31 → Manectric (no clean win) Thunderbolt
 - Shelly (Route 119): Carvanha 28 → Combusken Double Kick; Mightyena 28 → Combusken Overheat
 - May or Brendan (Route 119): Lombre 29 → Vigoroth Slash; Slugma 29 → Pelipper Surf; Marshtomp 31 → Kadabra Psychic
-- Winona (Fortree City): Swablu 29 → Manectric Thunderbolt; Tropius 29 → Combusken Overheat; Pelipper 30 → Manectric Thunderbolt; Skarmory 31 → Manectric Thunderbolt; Altaria 33 → Vigoroth Ice Beam
+- Winona (Fortree City): Swablu 29 → Manectric Thunderbolt; Tropius 29 → Pelipper Ice Beam; Pelipper 30 → Manectric Thunderbolt; Skarmory 31 → Manectric Thunderbolt; Altaria 33 → Pelipper Ice Beam
 - May or Brendan (Lilycove City): Tropius 31 → Combusken Overheat; Ludicolo 32 → Combusken Overheat; Slugma 32 → Pelipper Surf; Marshtomp 34 → Vigoroth Solarbeam
 - Tabitha (Magma Hideout): Numel 26 → Pelipper Surf; Mightyena 28 → Combusken Overheat; Zubat 30 → Manectric Thunder; Camerupt 33 → Pelipper Surf
 - Maxie (Magma Hideout): Mightyena 37 → Blaziken Overheat; Crobat 38 → Slaking Hyper Beam; Camerupt 39 → Slaking Hyper Beam
@@ -228,16 +303,16 @@ Key battles (best lead per Pokémon):
 - Shelly (Seafloor Cavern): Sharpedo 37 → Blaziken Double Kick; Mightyena 37 → Slaking Hyper Beam
 - Archie (Seafloor Cavern): Mightyena 41 → Blaziken Overheat; Crobat 41 → Slaking Hyper Beam; Sharpedo 43 → Slaking Hyper Beam
 - Juan (Sootopolis City): Luvdisc 41 → Slaking Hyper Beam; Whiscash 41 → Slaking Hyper Beam; Sealeo 43 → Slaking Hyper Beam; Crawdaunt 43 → Slaking Hyper Beam; Kingdra 46 → Manectric Thunder
-- Wally (Victory Road): Altaria 44 → Slaking Blizzard; Delcatty 43 → Blaziken Overheat; Roselia 44 → Blaziken Overheat; Magneton 41 → Blaziken Overheat; Gardevoir 45 → Slaking Hyper Beam
+- Wally (Victory Road): Altaria 44 → Slaking Hyper Beam; Delcatty 43 → Blaziken Overheat; Roselia 44 → Blaziken Overheat; Magneton 41 → Slaking Earthquake; Gardevoir 45 → Slaking Hyper Beam
 - Sidney (Pokémon League): Mightyena 46 → Blaziken Overheat; Shiftry 48 → Slaking Hyper Beam; Cacturne 46 → Blaziken Overheat; Crawdaunt 48 → Slaking Hyper Beam; Absol 49 → Slaking Hyper Beam
 - Phoebe (Pokémon League): Dusclops 48 → Blaziken Overheat; Banette 49 → Blaziken Overheat; Sableye 50 → Blaziken Overheat; Banette 49 → Blaziken Overheat; Dusclops 51 → Slaking Shadow Ball
 - Glacia (Pokémon League): Sealeo 50 → Slaking Hyper Beam; Glalie 50 → Blaziken Overheat; Sealeo 52 → Slaking Hyper Beam; Glalie 52 → Blaziken (no clean win) Overheat; Walrein 53 → Manectric Thunder
-- Drake (Pokémon League): Shelgon 52 → Slaking Blizzard; Altaria 54 → Slaking Blizzard; Kingdra 53 → Manectric Thunder; Flygon 53 → Slaking Blizzard; Salamence 55 → Ludicolo Blizzard
+- Drake (Pokémon League): Shelgon 52 → Ludicolo Blizzard; Altaria 54 → Ludicolo Blizzard; Kingdra 53 → Manectric Thunder; Flygon 53 → Slaking Hyper Beam; Salamence 55 → Ludicolo Blizzard
 - Wallace (Pokémon League): Wailord 57 → Manectric Thunder; Tentacruel 55 → Slaking Hyper Beam; Ludicolo 56 → Slaking Hyper Beam; Whiscash 56 → Ludicolo Giga Drain; Gyarados 56 → Manectric Thunder; Milotic 58 → Manectric Thunder
 
 Not answered one-on-one: Mudkip 5 (Rival, Route 103); Manectric 24 (Leader Wattson, Mauville City); Slaking 31 (Leader Norman, Petalburg City); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Swellow for Slaking (−2.0); Starmie for Ludicolo (−0.6); Gardevoir for Kadabra (−2.4); Manectric for Manectric (−3.5); Azumarill for Pelipper (−7.3)
+Closest alternative for each slot: Swellow for Slaking (−1.4); Starmie for Ludicolo (−0.5); Golbat for Kadabra (−2.3); Manectric for Manectric (−3.7); Azumarill for Pelipper (−7.0)
 
 ## Emerald, Mudkip
 
@@ -251,11 +326,17 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
 - Moves over the game:
   - May or Brendan (Route 103), Lv 5 Mudkip: Tackle
   - Roxanne (Rustboro City), Lv 15 Mudkip: Water Gun, Tackle, Mud-slap
-  - Brawly (Dewford Town), Lv 19 Marshtomp: Mud Shot, Rock Tomb (TM39), Water Gun, Tackle
-  - Juan (Sootopolis City), Lv 46 Swampert: Earthquake (TM26), Muddy Water, Blizzard (TM14), Take Down
-  - TM39 Rock Tomb: Rustboro City (Gym), from Roxanne (after winning) (single use)
-  - TM26 Earthquake: Seafloor Cavern (Room 9) (single use)
+  - Brawly (Dewford Town), Lv 19 Marshtomp: Mud Shot, Water Gun, Tackle
+  - May or Brendan (Route 110), Lv 20 Marshtomp: Mud Shot, Hidden Power (TM10), Water Gun
+  - Wally (Mauville City), Lv 20 Marshtomp: Mud Shot, Hidden Power (TM10), Water Gun, Rock Smash (HM06)
+  - Norman (Petalburg City), Lv 31 Marshtomp: Take Down, Mud Shot, Water Gun, Rock Smash (HM06)
+  - May or Brendan (Lilycove City), Lv 34 Marshtomp: Take Down, Blizzard (TM14), Mud Shot, Water Gun
+  - Maxie (Magma Hideout), Lv 39 Swampert: Muddy Water, Blizzard (TM14), Take Down, Mud Shot
+  - Shelly (Seafloor Cavern), Lv 44 Swampert: Earthquake (TM26), Muddy Water, Blizzard (TM14), Take Down
+  - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - HM06 Rock Smash: Mauville City (House 1), from Rock Smash Guy
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
+  - TM26 Earthquake: Seafloor Cavern (Room 9) (single use)
 
 ### Shiftry (Seedot → Nuzleaf → Shiftry)
 
@@ -266,7 +347,9 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
   - when you get it, Lv 5 Seedot: Bide, Harden
   - Roxanne (Rustboro City), Lv 15 Nuzleaf: Bullet Seed (TM09)
   - Brawly (Dewford Town), Lv 19 Nuzleaf: Strength (HM04), Bullet Seed (TM09)
-  - Juan (Sootopolis City), Lv 46 Shiftry: Faint Attack, Giga Drain (TM19), Strength (HM04), Shadow Ball (TM30)
+  - Norman (Petalburg City), Lv 31 Nuzleaf: Strength (HM04), Faint Attack, Bullet Seed (TM09)
+  - Shelly (Route 119), Lv 31 Shiftry: Faint Attack, Strength (HM04), Bullet Seed (TM09)
+  - Tabitha (Magma Hideout), Lv 34 Shiftry: Faint Attack, Giga Drain (TM19), Strength (HM04), Shadow Ball (TM30)
   - TM09 Bullet Seed: Route 104, from Boy 2 (single use)
   - HM04 Strength: Rusturf Tunnel, from Wanda's boyfriend (once the tunnel is open)
   - TM19 Giga Drain: Route 123, from Girl (if your lead knows a Grass move) (single use)
@@ -280,7 +363,13 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
 - Moves over the game:
   - when you get it, Lv 7 Taillow: Peck
   - Roxanne (Rustboro City), Lv 15 Taillow: Wing Attack, Quick Attack
-  - Juan (Sootopolis City), Lv 46 Swellow: Hyper Beam (TM15), Aerial Ace
+  - May or Brendan (Route 110), Lv 20 Taillow: Secret Power (TM43), Wing Attack
+  - Wattson (Mauville City), Lv 24 Swellow: Secret Power (TM43), Wing Attack
+  - Shelly (Route 119), Lv 31 Swellow: Facade (TM42), Wing Attack
+  - May or Brendan (Lilycove City), Lv 34 Swellow: Hyper Beam (TM15), Wing Attack
+  - Maxie (Magma Hideout), Lv 39 Swellow: Hyper Beam (TM15), Aerial Ace
+  - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
+  - TM42 Facade: Petalburg City (Gym), from Norman (after winning) (single use)
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
 ### Kadabra (Abra → Kadabra)
@@ -291,8 +380,10 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
 - Moves over the game:
   - when you get it, Lv 15 Abra: Teleport
   - Brawly (Dewford Town), Lv 19 Kadabra: Confusion
-  - Juan (Sootopolis City), Lv 46 Kadabra: Psychic, Secret Power (TM43)
+  - May or Brendan (Route 110), Lv 20 Kadabra: Confusion, Secret Power (TM43)
+  - Wally (Mauville City), Lv 20 Kadabra: Psychic (TM29), Secret Power (TM43)
   - TM43 Secret Power: Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree
+  - TM29 Psychic: Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F) (single use)
 
 ### Gyarados (Magikarp → Gyarados)
 
@@ -301,7 +392,17 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
 - HMs it can carry: Surf, Strength, Rock Smash, Waterfall, Dive
 - Moves over the game:
   - when you get it, Lv 15 Magikarp: Tackle
-  - Juan (Sootopolis City), Lv 46 Gyarados: Hydro Pump, Thrash, Blizzard (TM14), Fire Blast (TM38)
+  - May or Brendan (Route 110), Lv 20 Gyarados: Strength (HM04), Bite
+  - Wally (Mauville City), Lv 20 Gyarados: Strength (HM04), Bite, Rock Smash (HM06)
+  - Tabitha (Mt. Chimney), Lv 24 Gyarados: Return (TM27), Bite, Rock Smash (HM06)
+  - Maxie (Mt. Chimney), Lv 25 Gyarados: Return (TM27), Bite, Dragon Rage, Rock Smash (HM06)
+  - Shelly (Route 119), Lv 31 Gyarados: Return (TM27), Surf (HM03), Bite, Dragon Rage
+  - May or Brendan (Lilycove City), Lv 34 Gyarados: Return (TM27), Surf (HM03), Blizzard (TM14), Fire Blast (TM38)
+  - Tate & Liza (Mossdeep City), Lv 42 Gyarados: Return (TM27), Hydro Pump, Blizzard (TM14), Fire Blast (TM38)
+  - HM04 Strength: Rusturf Tunnel, from Wanda's boyfriend (once the tunnel is open)
+  - HM06 Rock Smash: Mauville City (House 1), from Rock Smash Guy
+  - TM27 Return: Fallarbor Town (Cozmo's House), from Professor Cozmo (return the Meteorite); or Pacifidlog Town (House 2), from Woman (if your lead Pokémon is friendly) (single use)
+  - HM03 Surf: Petalburg City (Wally's House), from Wally's father (after you beat Norman)
   - TM14 Blizzard: Lilycove City (Department Store 4F (TMs)), ₽5,500
   - TM38 Fire Blast: Lilycove City (Department Store 4F (TMs)), ₽5,500
 
@@ -312,8 +413,14 @@ Answers 865 of 868 trainer Pokémon (100%) one-on-one; key battles 101 of 103.
 - HMs it can carry: Strength, Flash
 - Moves over the game:
   - when you get it, Lv 19 Electrike: Hidden Power (TM10)
-  - Juan (Sootopolis City), Lv 46 Manectric: Thunder, Bite, Hyper Beam (TM15)
+  - May or Brendan (Route 110), Lv 20 Electrike: Spark, Hidden Power (TM10)
+  - Wally (Mauville City), Lv 20 Electrike: Thunderbolt (TM24), Hidden Power (TM10)
+  - Flannery (Lavaridge Town), Lv 29 Manectric: Thunderbolt (TM24), Hidden Power (TM10)
+  - May or Brendan (Lilycove City), Lv 34 Manectric: Thunder (TM25), Hyper Beam (TM15)
+  - Maxie (Magma Hideout), Lv 39 Manectric: Thunder (TM25), Bite, Hyper Beam (TM15)
   - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
+  - TM24 Thunderbolt: Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins (single use)
+  - TM25 Thunder: Lilycove City (Department Store 4F (TMs)), ₽5,500
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
 
 Key battles (best lead per Pokémon):
@@ -325,12 +432,12 @@ Key battles (best lead per Pokémon):
 - May or Brendan (Route 110): Wingull 18 → Gyarados Strength; Slugma 18 → Marshtomp Mud Shot; Grovyle 20 → Gyarados Strength
 - Wally (Mauville City): Ralts 16 → Nuzleaf Strength
 - Wattson (Mauville City): Voltorb 20 → Marshtomp Mud Shot; Electrike 20 → Marshtomp Mud Shot; Magneton 22 → Marshtomp Mud Shot; Manectric 24 → Marshtomp Mud Shot
-- Tabitha (Mt. Chimney): Numel 18 → Gyarados Thrash; Poochyena 20 → Gyarados Thrash; Numel 22 → Marshtomp Water Gun; Zubat 22 → Gyarados Thrash
-- Maxie (Mt. Chimney): Mightyena 24 → Gyarados Dragon Rage; Zubat 24 → Electrike Thunderbolt; Camerupt 25 → Gyarados Dragon Rage
-- Flannery (Lavaridge Town): Numel 24 → Marshtomp Water Gun; Slugma 24 → Marshtomp Mud Shot; Camerupt 26 → Gyarados Dragon Rage; Torkoal 29 → Gyarados Dragon Rage
-- Norman (Petalburg City): Spinda 27 → Gyarados Thrash; Vigoroth 27 → Manectric Thunderbolt; Linoone 29 → Manectric Thunderbolt; Slaking 31 → Manectric (no clean win) Thunderbolt
+- Tabitha (Mt. Chimney): Numel 18 → Gyarados Return; Poochyena 20 → Gyarados Return; Numel 22 → Marshtomp Water Gun; Zubat 22 → Gyarados Return
+- Maxie (Mt. Chimney): Mightyena 24 → Gyarados Dragon Rage; Zubat 24 → Gyarados Return; Camerupt 25 → Gyarados Dragon Rage
+- Flannery (Lavaridge Town): Numel 24 → Marshtomp Water Gun; Slugma 24 → Gyarados Return; Camerupt 26 → Gyarados Dragon Rage; Torkoal 29 → Gyarados Dragon Rage
+- Norman (Petalburg City): Spinda 27 → Gyarados Return; Vigoroth 27 → Manectric Thunderbolt; Linoone 29 → Manectric Thunderbolt; Slaking 31 → Manectric (no clean win) Thunderbolt
 - Shelly (Route 119): Carvanha 28 → Shiftry Bullet Seed; Mightyena 28 → Gyarados Surf
-- May or Brendan (Route 119): Slugma 29 → Marshtomp Mud Shot; Lombre 29 → Gyarados Thrash; Grovyle 31 → Swellow Wing Attack
+- May or Brendan (Route 119): Slugma 29 → Marshtomp Mud Shot; Lombre 29 → Gyarados Return; Grovyle 31 → Gyarados Return
 - Winona (Fortree City): Swablu 29 → Manectric Thunderbolt; Tropius 29 → Swellow Wing Attack; Pelipper 30 → Manectric Thunderbolt; Skarmory 31 → Manectric Thunderbolt; Altaria 33 → Gyarados Dragon Rage
 - May or Brendan (Lilycove City): Tropius 31 → Gyarados Blizzard; Slugma 32 → Marshtomp Mud Shot; Pelipper 32 → Manectric Thunder; Grovyle 34 → Swellow Hyper Beam
 - Tabitha (Magma Hideout): Numel 26 → Gyarados Surf; Mightyena 28 → Manectric Thunder; Zubat 30 → Gyarados Blizzard; Camerupt 33 → Gyarados Surf
@@ -350,4 +457,4 @@ Key battles (best lead per Pokémon):
 
 Not answered one-on-one: Shroomish 4 (Lass Tiana, Route 102); Slaking 31 (Leader Norman, Petalburg City); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Manectric for Manectric (−1.8); Pelipper for Swellow (−0.8); Pelipper for Gyarados (−1.9); Slaking for Shiftry (−2.3); Slaking for Kadabra (−2.0)
+Closest alternative for each slot: Manectric for Manectric (−1.9); Pelipper for Gyarados (−1.3); Breloom for Shiftry (−2.6); Pelipper for Swellow (−0.8); Slaking for Kadabra (−2.3)

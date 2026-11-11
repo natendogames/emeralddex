@@ -127,7 +127,10 @@
      ]
     }
    ],
-   "id": "mike-2"
+   "id": "mike-2",
+   "stage": "mauville-city",
+   "later": true,
+   "reach": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)"
   },
   {
    "class": "Team Aqua",

@@ -93,13 +93,21 @@
    "id": "item-harbor-deepseatooth",
    "name": "DeepSeaTooth",
    "from": "Captain Stern (choose one; swap later)",
-   "where": "Harbor"
+   "where": "Harbor",
+   "later": true,
+   "need": "After Magma Hideout",
+   "after": "magma-hideout",
+   "stage": 48
   },
   {
    "id": "item-harbor-deepseascale",
    "name": "DeepSeaScale",
    "from": "Captain Stern (choose one; swap later)",
-   "where": "Harbor"
+   "where": "Harbor",
+   "later": true,
+   "need": "After Magma Hideout",
+   "after": "magma-hideout",
+   "stage": 48
   },
   {
    "id": "item-oceanic-museum-1f-tm46",
