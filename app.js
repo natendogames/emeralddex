@@ -172,6 +172,21 @@ function walkStep(text, locId) {
     return r.href ? `<a href="${r.href}">${esc(r.text)}</a>` : r.strong ? `<b>${esc(r.text)}</b>` : esc(r.text);
   }).join('');
 }
+// A walkthrough step split into its first-visit part and its come-back-later part: a sentence is for later when
+// every gift and trainer it names is one you can't get on your first visit; a sentence naming neither goes with the
+// one before it ("Beat Winona. Electric moves win."). Returns [now text, later text].
+function stepSplit(text, locId) {
+  const loc = state.locations[locId];
+  const parts = text.split(/(?<=[.!?])(?<!\b(?:Mr|Ms|Mrs|Dr|Lt|St|No|vs)\.)\s+(?=[A-Z{])/);
+  let prev = false;
+  const now = [], later = [];
+  for (const p of parts) {
+    const refs = [...p.matchAll(/\{(gift|trainer):([^}]+)\}/g)].map(([, k, r]) => (k === 'gift' ? loc?.gifts : loc?.trainers || []).find(x => x.id === r));
+    if (refs.length) prev = refs.every(x => x && x.later);
+    (prev ? later : now).push(p);
+  }
+  return [now.join(' '), later.join(' ')];
+}
 // One-time things on this page you could walk past on your first visit: hidden items and gifts not yet ticked
 // (gifts that only come later in the story are left out)
 const LATER_GIFT = /Hall of Fame|post-game|complete the Hoenn|after you (beat|fix|deliver|enter)|return the|choose one|after Rayquaza|after winning|revives|Completed Puzzle|daily/i;
@@ -407,8 +422,15 @@ function renderLocation(id) {
   let html = '';
   const steps = state.walk[id];
   if (loc.notes) html += `<div class="card note">${esc(loc.notes)}</div>`;
-  if (steps?.length) html += `<h2>Walkthrough</h2><div class="card"><ol class="steps">${steps.map(x => `<li>${walkStep(x, id)}</li>`).join('')}</ol>${
-    state.walk._checked?.[id] ? '' : '<p class="note"><span class="tag">Draft</span> Not yet checked against a second source.</p>'}</div>`;
+  if (steps?.length) {
+    // the parts of steps about things you can't get yet (a gift behind a Cut tree) wait under "come back later"
+    const split = steps.map(x => stepSplit(x, id));
+    const nowSteps = split.map(x => x[0]).filter(Boolean), laterSteps = split.map(x => x[1]).filter(Boolean);
+    const ol = list => `<ol class="steps">${list.map(x => `<li>${walkStep(x, id)}</li>`).join('')}</ol>`;
+    html += `<h2>Walkthrough</h2><div class="card">${nowSteps.length ? ol(nowSteps) : '<div class="empty">Nothing to do on your first visit.</div>'}${
+      state.walk._checked?.[id] ? '' : '<p class="note"><span class="tag">Draft</span> Not yet checked against a second source.</p>'}</div>`;
+    if (laterSteps.length) html += `<details class="later"><summary><h2>Walkthrough: come back later (${laterSteps.length})</h2></summary><div class="card">${ol(laterSteps)}</div></details>`;
+  }
   html += beforeYouLeave(loc);
 
   const v = locView(loc);

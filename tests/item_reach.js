@@ -92,6 +92,19 @@ const LATER_CASES = J('tests/later_cases.json');
     const first = html.slice(0, cut);
     if (/Guard Spec\.|PP Up/.test(first.slice(first.indexOf('<h2>Items')))) fail('Route 103 lists Guard Spec./PP Up as first-visit items');
   }
+  // gift and trade Pokémon wait with their giver, and walkthrough sentences about only later things wait too
+  for (const l of state.index) {
+    const loc = state.locations[l.id];
+    for (const g of loc.gifts.filter(g => g.later))
+      for (const e of loc.encounters.filter(e => ['gift', 'trade'].includes(e.method) && (e.notes || '').startsWith(g.name)))
+        if (app.encStage(l.id, e) <= stageOf(l.id)) fail(`${l.id}: ${e.name} (${g.name}) is a first-visit Pokémon row but its giver is "come back later"`);
+  }
+  {
+    app.ctx.location.hash = '#/loc/route-116'; app.route();
+    const page = app.view.innerHTML || '', cut = page.indexOf('Walkthrough: come back later');
+    if (cut < 0 || /Repeat Ball/.test(page.slice(0, cut).split('<h2>Walkthrough</h2>')[1] || '')) fail('Route 116 walkthrough shows the Devon researcher\'s Repeat Ball (after Slateport) as first visit');
+    if (cut >= 0 && !/Rusturf Tunnel/.test(page.slice(0, cut))) fail('Route 116 walkthrough lost its first-visit step (chase the Grunt into Rusturf Tunnel)');
+  }
   if (fails.length) { console.log(fails.map(f => 'FAIL ' + f).join('\n')); process.exit(1); }
   console.log(`item reach OK: ${later} of ${total} items, gifts, shops and tutors are "come back later"; ${checked} Bulbapedia "requires" notes checked; ${reach.puzzles.length} puzzle items timed by their map`);
 })();
