@@ -8,13 +8,25 @@
    "id": "item-outside-lava-cookie",
    "name": "Lava Cookie",
    "from": "Lava Cookie seller (₽200)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "item-outside-meteorite",
    "name": "Meteorite",
    "from": "The machine at the summit (after Maxie leaves)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -55,7 +67,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "After Lavaridge Town",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Expert",
@@ -120,7 +137,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "After Lavaridge Town",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Team Magma",
@@ -156,7 +178,12 @@
     }
    ],
    "id": "grunt-mt-chimney",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Beauty",
@@ -194,7 +221,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "After Lavaridge Town",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Magma Admin",
@@ -304,7 +336,12 @@
     }
    ],
    "id": "tabitha-mt-chimney",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Hiker",
@@ -343,7 +380,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "After Lavaridge Town",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Magma Leader",
@@ -434,7 +476,12 @@
     "Super Potion ×2"
    ],
    "id": "maxie-mt-chimney",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Beauty",
@@ -473,7 +520,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "After Lavaridge Town",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   }
  ],
  "mapCount": 1,

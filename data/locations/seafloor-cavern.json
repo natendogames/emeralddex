@@ -353,7 +353,12 @@
    "name": "TM26",
    "hidden": false,
    "where": "Room 9",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -391,7 +396,12 @@
    ],
    "id": "grunt-seafloor-cavern",
    "area": "Room 1",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Aqua Admin",
@@ -452,7 +462,12 @@
    ],
    "id": "shelly-seafloor-cavern",
    "area": "Room 3",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Aqua Leader",

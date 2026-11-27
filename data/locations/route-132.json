@@ -86,14 +86,24 @@
    "name": "Rare Candy",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "outside-protein",
    "name": "Protein",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -235,7 +245,12 @@
     }
    ],
    "id": "ronald",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Cool Trainer",
@@ -297,7 +312,12 @@
     "Hyper Potion"
    ],
    "id": "darcy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Cool Trainer",
@@ -362,7 +382,12 @@
     "Hyper Potion"
    ],
    "id": "jonathan",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Black Belt",
@@ -398,7 +423,12 @@
     }
    ],
    "id": "kiyo",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Swimmer",
@@ -433,7 +463,12 @@
     }
    ],
    "id": "gilbert",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Expert",
@@ -497,7 +532,12 @@
     }
    ],
    "id": "paxton",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Expert",
@@ -561,7 +601,12 @@
     "Hyper Potion"
    ],
    "id": "makayla",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Swimmer",
@@ -598,7 +643,12 @@
     }
    ],
    "id": "dana",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   }
  ],
  "mapCount": 1,

@@ -121,70 +121,120 @@
    "name": "Calcium",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "outside-ultra-ball",
    "name": "Ultra Ball",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-elixir",
    "name": "Elixir",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "outside-revival-herb",
    "name": "Revival Herb",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "10"
   },
   {
    "id": "hidden-outside-super-repel",
    "name": "Super Repel",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-outside-revive",
    "name": "Revive",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-hyper-potion",
    "name": "Hyper Potion",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "8"
   },
   {
    "id": "hidden-outside-pp-up",
    "name": "PP Up",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "9"
   },
   {
    "id": "hidden-outside-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "11"
   }
  ],
  "gifts": [
@@ -192,37 +242,73 @@
    "id": "item-outside-tm19",
    "name": "TM19",
    "from": "Girl (if your lead knows a Grass move)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "item-berry-master-s-house-spelon-berry",
    "name": "Spelon Berry",
    "from": "Berry Master's wife (tell her \"GREAT BATTLE\")",
-   "where": "Berry Master's House"
+   "where": "Berry Master's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-berry-master-s-house-pamtre-berry",
    "name": "Pamtre Berry",
    "from": "Berry Master's wife (tell her \"CHALLENGE CONTEST\")",
-   "where": "Berry Master's House"
+   "where": "Berry Master's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-berry-master-s-house-watmel-berry",
    "name": "Watmel Berry",
    "from": "Berry Master's wife (tell her \"OVERWHELMING LATIAS\")",
-   "where": "Berry Master's House"
+   "where": "Berry Master's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-berry-master-s-house-durin-berry",
    "name": "Durin Berry",
    "from": "Berry Master's wife (tell her \"COOL LATIOS\")",
-   "where": "Berry Master's House"
+   "where": "Berry Master's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-berry-master-s-house-belue-berry",
    "name": "Belue Berry",
    "from": "Berry Master's wife (tell her \"SUPER HUSTLE\")",
-   "where": "Berry Master's House"
+   "where": "Berry Master's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -314,7 +400,12 @@
     "Full Restore"
    ],
    "id": "wendy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Guitarist",
@@ -375,7 +466,12 @@
     }
    ],
    "id": "fernando",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    11
+   ],
+   "lbl": "L"
   },
   {
    "class": "Bird Keeper",
@@ -435,7 +531,12 @@
     }
    ],
    "id": "alberto",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    15
+   ],
+   "lbl": "P"
   },
   {
    "class": "Cool Trainer",
@@ -582,7 +683,12 @@
     "Hyper Potion"
    ],
    "id": "braxton",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Psychic",
@@ -644,7 +750,12 @@
     }
    ],
    "id": "jacki",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "K"
   },
   {
    "class": "Expert",
@@ -707,7 +818,12 @@
     }
    ],
    "id": "fredrick",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    14
+   ],
+   "lbl": "O"
   },
   {
    "class": "Twins",
@@ -769,7 +885,12 @@
    ],
    "double": true,
    "id": "miu-and-yuki",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Aroma Lady",
@@ -829,7 +950,12 @@
     }
    ],
    "id": "violet",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Bug Catcher",
@@ -865,7 +991,12 @@
     }
    ],
    "id": "davis",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Cooltrainer",
@@ -904,7 +1035,12 @@
     "Hyper Potion"
    ],
    "id": "jazmyn",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Parasol Lady",
@@ -940,7 +1076,12 @@
     }
    ],
    "id": "kayley",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    12
+   ],
+   "lbl": "M"
   },
   {
    "class": "Ninja Boy",
@@ -976,7 +1117,12 @@
     }
    ],
    "id": "jonas",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Psychic",
@@ -1012,7 +1158,12 @@
     }
    ],
    "id": "cameron",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Collector",
@@ -1074,7 +1225,12 @@
     }
    ],
    "id": "ed",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    13
+   ],
+   "lbl": "N"
   },
   {
    "class": "Hex Maniac",
@@ -1134,10 +1290,15 @@
     }
    ],
    "id": "kindra",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   }
  ],
- "mapCount": 1,
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

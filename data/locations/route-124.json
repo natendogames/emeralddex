@@ -117,7 +117,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "outside-blue-shard",
@@ -128,7 +133,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-yellow-shard",
@@ -139,7 +149,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-underwater-carbos",
@@ -150,7 +165,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-underwater-green-shard",
@@ -161,7 +181,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-underwater-pearl",
@@ -172,7 +197,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-underwater-big-pearl",
@@ -183,7 +213,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-underwater-heart-scale",
@@ -194,7 +229,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-underwater-calcium",
@@ -205,7 +245,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-underwater-heart-scale-2",
@@ -216,7 +261,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "4"
   }
  ],
  "gifts": [],
@@ -257,7 +307,12 @@
    ],
    "id": "grace",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Swimmer",
@@ -294,7 +349,12 @@
    ],
    "id": "declan",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Swimmer",
@@ -358,7 +418,12 @@
    ],
    "id": "spencer",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Sis and Bro",
@@ -422,7 +487,12 @@
    "double": true,
    "id": "lila-and-roy",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Swimmer",
@@ -459,7 +529,12 @@
    ],
    "id": "jenny",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Swimmer",
@@ -524,7 +599,12 @@
    ],
    "id": "chad",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Swimmer",
@@ -560,7 +640,12 @@
    ],
    "id": "roland",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Triathlete",
@@ -596,7 +681,12 @@
    ],
    "id": "isabella",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   }
  ],
  "mapCount": 2,

@@ -30,13 +30,25 @@
    "id": "item-outside-claw-fossil",
    "name": "Claw Fossil",
    "from": "The fossil you left behind (post-game)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-outside-root-fossil",
    "name": "Root Fossil",
    "from": "The fossil you left behind (post-game)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],

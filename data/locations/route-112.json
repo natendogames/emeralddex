@@ -27,7 +27,12 @@
    "need": "Come in from Jagged Pass",
    "after": "jagged-pass",
    "stage": 28,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -88,7 +93,12 @@
     }
    ],
    "id": "bryant",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Aroma Lady",
@@ -149,7 +159,12 @@
     }
    ],
    "id": "shayla",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Camper",
@@ -183,7 +198,12 @@
     }
    ],
    "id": "larry",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Picnicker",
@@ -244,7 +264,12 @@
     }
    ],
    "id": "carol",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Hiker",
@@ -331,7 +356,12 @@
     }
    ],
    "id": "trent",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Hiker",
@@ -388,7 +418,12 @@
     }
    ],
    "id": "brice",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   }
  ],
  "mapCount": 1,

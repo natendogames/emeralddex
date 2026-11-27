@@ -449,21 +449,36 @@
    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
    "after": "sky-pillar",
    "stage": 64.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "1f-1r-moon-stone",
    "name": "Moon Stone",
    "hidden": false,
    "where": "1F 1R",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "1f-1r-full-heal",
    "name": "Full Heal",
    "hidden": false,
    "where": "1F 1R",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "1f-1r-pp-up",
@@ -474,7 +489,12 @@
    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
    "after": "sky-pillar",
    "stage": 64.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "b1f-2r-tm02",
@@ -485,7 +505,12 @@
    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
    "after": "sky-pillar",
    "stage": 64.5,
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -554,7 +579,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Dragon Tamer",
@@ -619,7 +649,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Pokémon Trainer",
@@ -797,7 +832,12 @@
    "area": "Stevens Cave",
    "stage": "pokemon-league",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 4,

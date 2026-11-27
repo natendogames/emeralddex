@@ -8,7 +8,12 @@
    "name": "Nugget",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [
@@ -20,11 +25,17 @@
    "later": true,
    "need": "After Mt. Chimney",
    "after": "mt-chimney",
-   "stage": 27
+   "stage": 27,
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],
- "mapCount": 1,
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

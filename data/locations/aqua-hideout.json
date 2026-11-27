@@ -17,28 +17,48 @@
    "name": "Max Elixir",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "b1f-master-ball",
    "name": "Master Ball",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "b1f-nugget",
    "name": "Nugget",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "b2f-nest-ball",
    "name": "Nest Ball",
    "hidden": false,
    "where": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -75,7 +95,12 @@
    ],
    "id": "grunt-aqua-hideout",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Aqua Admin",
@@ -139,7 +164,12 @@
    ],
    "id": "matt",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 3,

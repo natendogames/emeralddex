@@ -24,22 +24,41 @@
    "id": "trade-lounge-6-trade-give-skitty-get-meowth-meowow",
    "name": "Trade: give Skitty, get Meowth (\"Meowow\")",
    "from": "Trader",
-   "where": "Lounge 6"
+   "where": "Lounge 6",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-scott-s-house-lansat-berry",
    "name": "Lansat Berry",
    "from": "Battle Frontier (all silver symbols)",
-   "where": "Scott's House"
+   "where": "Scott's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-scott-s-house-starf-berry",
    "name": "Starf Berry",
    "from": "Battle Frontier (all gold symbols)",
-   "where": "Scott's House"
+   "where": "Scott's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

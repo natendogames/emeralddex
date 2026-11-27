@@ -107,7 +107,12 @@
    "name": "Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -136,7 +141,12 @@
     }
    ],
    "id": "calvin",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Bug Catcher",
@@ -179,7 +189,12 @@
     }
    ],
    "id": "rick",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Youngster",
@@ -222,7 +237,12 @@
     }
    ],
    "id": "allen",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Lass",
@@ -266,7 +286,12 @@
     }
    ],
    "id": "tiana",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   }
  ],
  "mapCount": 1,

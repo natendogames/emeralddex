@@ -113,63 +113,108 @@
    "name": "Green Shard",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-underwater-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-underwater-ultra-ball",
    "name": "Ultra Ball",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-underwater-stardust",
    "name": "Stardust",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-underwater-pearl",
    "name": "Pearl",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-underwater-iron",
    "name": "Iron",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-underwater-yellow-shard",
    "name": "Yellow Shard",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-underwater-big-pearl",
    "name": "Big Pearl",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-underwater-blue-shard",
    "name": "Blue Shard",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    7
+   ],
+   "lbl": "8"
   }
  ],
  "gifts": [],
@@ -208,7 +253,12 @@
    ],
    "id": "leonardo",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Triathlete",
@@ -244,7 +294,12 @@
    ],
    "id": "isobel",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Swimmer",
@@ -332,7 +387,12 @@
    ],
    "id": "dean",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Swimmer",
@@ -397,7 +457,12 @@
    ],
    "id": "nikki",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Swimmer",
@@ -434,7 +499,12 @@
    ],
    "id": "brenda",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Swimmer",
@@ -471,7 +541,12 @@
    ],
    "id": "barry",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Triathlete",
@@ -533,7 +608,12 @@
    ],
    "id": "pablo",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Swimmer",
@@ -595,7 +675,12 @@
    ],
    "id": "sienna",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   }
  ],
  "mapCount": 2,

@@ -79,28 +79,48 @@
    "name": "Max Repel",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-pp-up",
    "name": "PP Up",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [
@@ -108,7 +128,13 @@
    "id": "item-house-2-tm44",
    "name": "TM44",
    "from": "Fat Man",
-   "where": "House 2"
+   "where": "House 2",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-contest-lobby-pok-block-case",
@@ -442,10 +468,15 @@
     ]
    },
    "id": "rival-lilycove",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   }
  ],
- "mapCount": 1,
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

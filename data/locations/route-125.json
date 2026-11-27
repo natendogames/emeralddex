@@ -79,7 +79,12 @@
    "name": "Big Pearl",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -119,7 +124,12 @@
     }
    ],
    "id": "nolen",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Sr. and Jr.",
@@ -182,7 +192,12 @@
    ],
    "double": true,
    "id": "kim-and-iris",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Sailor",
@@ -244,7 +259,12 @@
     }
    ],
    "id": "ernest",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Swimmer",
@@ -280,7 +300,12 @@
     }
    ],
    "id": "sharon",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Swimmer",
@@ -315,7 +340,12 @@
     }
    ],
    "id": "tanya",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Bird Keeper",
@@ -376,7 +406,12 @@
     }
    ],
    "id": "presley",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Swimmer",
@@ -411,7 +446,12 @@
     }
    ],
    "id": "stan",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Expert",
@@ -473,7 +513,12 @@
     }
    ],
    "id": "auron",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   }
  ],
  "mapCount": 1,

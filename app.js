@@ -438,6 +438,11 @@ function laterLast(html) {
   keep.push(html.slice(from));
   return keep.join('') + (later.length ? `<h2 class="laterhead">Come back later</h2>${later.join('')}` : '');
 }
+// Lists on a place page follow its map: which map (in the order the map page shows them), then the map's own numbers
+// (things to collect) or letters (trainers), worked out at build time (scripts/mapdraw.py). Anything not on a map goes last.
+const byMap = list => [...list].sort((a, b) => (a.mo ? a.mo[0] : 1e9) - (b.mo ? b.mo[0] : 1e9) || (a.mo ? a.mo[1] : 0) - (b.mo ? b.mo[1] : 0));
+const mapLbl = (x, trainer) => x && x.lbl ? `<b class="spotnum${trainer ? ' trainer' : ''}">${esc(x.lbl)}</b> ` : '';
+const giftSpot = (locId, g) => typeof spotLink === 'function' ? spotLink(locId, { id: 'gift:' + g.id, map: g.map }) : '';
 function renderLocation(id) {
   const loc = state.locations[id];
   if (!loc) return renderHome();
@@ -471,7 +476,7 @@ function renderLocation(id) {
     html += `<h2>Trainers (${trs.filter(t => s.checks[trainerKey(id, t)]).length}/${trs.length})</h2>${teamHint()}`;
     const cards = list => Object.entries(groupBy(list, t => t.area)).map(([area, grp]) =>
       (area ? `<div class="area">${esc(area)}</div>` : '') + grp.map(t => trainerCard(t, battleStage(t, id), { loc: id, open: !t.later })).join('')).join('');
-    const firstVisit = trs.filter(t => !t.later), laterTrs = trs.filter(t => t.later);
+    const firstVisit = byMap(trs.filter(t => !t.later)), laterTrs = byMap(trs.filter(t => t.later));
     html += cards(firstVisit);
     // Trainers you only fight later in the story: collapsed, planned with what you can have caught by then
     for (const [stg, list] of Object.entries(groupBy(laterTrs, t => t.need ? 'need:' + t.need : t.stage)))
@@ -503,11 +508,12 @@ function renderLocation(id) {
   if (later.length) html += `<details class="later" data-sect><summary><h2>Pokémon: come back later (${new Set(later.map(e => e.dex)).size})</h2></summary><div class="card"><p class="note">You can't fish, Surf, Dive or Rock Smash here on your first visit, or this part isn't open yet. These open up later in the story.</p>${encList(later, true)}</div></details>`;
 
   const section = (title, list, kind, subFn) => {
+    list = byMap(list);
     html += `<h2>${title} (${list.filter(x => s.checks[`${loc.id}:${kind}:${x.id}`]).length}/${list.length})</h2><div class="card">`;
     if (!list.length) html += `<div class="empty">${kind === 'item' && loc.items.some(i => i.later) ? 'None on your first visit.' : 'None.'}</div>`;
     for (const [area, grp] of Object.entries(groupBy(list, x => x.where))) {
       if (area && kind === 'item') html += `<div class="area">${esc(area)}</div>`;
-      html += grp.map(x => { const k = `${loc.id}:${kind}:${x.id}`; return checkRow(k, s.checks[k], esc(x.name), subFn(x), (typeof itemInfoLink === 'function' ? itemInfoLink(x.name) : '') + (x.hidden !== undefined && typeof spotLink === 'function' ? spotLink(loc.id, x) : '')); }).join('');
+      html += grp.map(x => { const k = `${loc.id}:${kind}:${x.id}`; return checkRow(k, s.checks[k], mapLbl(x) + esc(x.name), subFn(x), (typeof itemInfoLink === 'function' ? itemInfoLink(x.name) : '') + (x.hidden !== undefined && typeof spotLink === 'function' ? spotLink(loc.id, x) : '') + (kind === 'gift' ? giftSpot(loc.id, x) : '')); }).join('');
     }
     html += `</div>`;
   };
@@ -515,10 +521,10 @@ function renderLocation(id) {
   // later story point (worked out from the map tiles at build time: scripts/reach.py) wait in "come back later".
   section('Items', loc.items.filter(i => !i.hidden && !i.later), 'item', () => 'On the ground');
   section('Hidden items', loc.items.filter(i => i.hidden && !i.later), 'item', () => 'Hidden: use the Itemfinder');
-  html += laterSection('Items', loc.items.filter(i => i.later), x => { const k = `${loc.id}:item:${x.id}`; return checkRow(k, s.checks[k], esc(x.name), [x.hidden ? 'Hidden: use the Itemfinder' : 'On the ground', x.where && x.where !== 'Outside' ? esc(x.where) : ''].filter(Boolean).join(' · '), (typeof itemInfoLink === 'function' ? itemInfoLink(x.name) : '') + (x.hidden !== undefined && typeof spotLink === 'function' ? spotLink(loc.id, x) : '')); }, x => s.checks[`${loc.id}:item:${x.id}`]);
+  html += laterSection('Items', byMap(loc.items.filter(i => i.later)), x => { const k = `${loc.id}:item:${x.id}`; return checkRow(k, s.checks[k], mapLbl(x) + esc(x.name), [x.hidden ? 'Hidden: use the Itemfinder' : 'On the ground', x.where && x.where !== 'Outside' ? esc(x.where) : ''].filter(Boolean).join(' · '), (typeof itemInfoLink === 'function' ? itemInfoLink(x.name) : '') + (x.hidden !== undefined && typeof spotLink === 'function' ? spotLink(loc.id, x) : '')); }, x => s.checks[`${loc.id}:item:${x.id}`]);
   const giftSub = g => [g.from && esc(g.from), esc(g.where)].filter(Boolean).join(' · ');
   section('NPC gifts &amp; trades', v.gifts.filter(g => !g.later), 'gift', giftSub);
-  html += laterSection('NPC gifts &amp; trades', v.gifts.filter(g => g.later), g => { const k = `${loc.id}:gift:${g.id}`; return checkRow(k, s.checks[k], esc(g.name), giftSub(g)); }, g => s.checks[`${loc.id}:gift:${g.id}`]);
+  html += laterSection('NPC gifts &amp; trades', byMap(v.gifts.filter(g => g.later)), g => { const k = `${loc.id}:gift:${g.id}`; return checkRow(k, s.checks[k], mapLbl(g) + esc(g.name), giftSub(g), giftSpot(loc.id, g)); }, g => s.checks[`${loc.id}:gift:${g.id}`]);
   for (const f of LOC_SECTIONS) html += f(loc);
   view.innerHTML = laterLast(html);
 }
@@ -981,7 +987,7 @@ function trainerCard(t, stage, opts = {}) {
   const who = pickOf('player') === 'May' ? 'Brendan' : pickOf('player') === 'Brendan' ? 'May' : 'May (or Brendan if you play as May)';
   const rival = t.byStarter ? (mine ? `<p class="note">You picked ${esc(mine)}, so your rival ${esc(who)} has ${esc(RIVAL_OF[mine])}. <a href="#/loc/route-101">Change it on Route 101</a>.${t.byStarterBrendan && !pickOf('player') ? ' Brendan has one different Pokémon here: <a href="#/loc/littleroot-town">say who you play as</a>.' : ''}</p>`
     : `<p class="note"><b>Pick your starter to see this team.</b> Your rival takes the one that beats yours. Which did you choose from Professor Birch's bag?</p>${starterChips()}`) : '';
-  return `<details class="card trainer ${done ? 'checked' : ''}"${opts.open === false ? '' : ' open'}><summary><input type="checkbox" class="tcheck" data-key="${esc(key)}" ${done ? 'checked' : ''} aria-label="Defeated ${esc(head)}"><span class="tname">${esc(head)}</span> <span class="note">· ${esc(meta)}</span>${t.double ? ' <span class="tag">Double</span>' : ''}${t.rewards ? ' <span class="tag">Reward</span>' : ''}</summary>
+  return `<details class="card trainer ${done ? 'checked' : ''}"${opts.open === false ? '' : ' open'}><summary><input type="checkbox" class="tcheck" data-key="${esc(key)}" ${done ? 'checked' : ''} aria-label="Defeated ${esc(head)}"><span class="tname">${opts.loc ? mapLbl(t, true) : ''}${esc(head)}</span> <span class="note">· ${esc(meta)}</span>${t.double ? ' <span class="tag">Double</span>' : ''}${t.rewards ? ' <span class="tag">Reward</span>' : ''}</summary>
     ${info ? `<p class="note">${info}</p>` : ''}
     ${opts.loc && t.map && typeof spotLink === 'function' ? `<p>${spotLink(opts.loc, { id: 'trainer:' + t.id, map: true })}</p>` : ''}
     ${t.note && !t.byStarter ? `<p class="note">${esc(t.note)}</p>` : ''}${rival}${party ? opts.extra?.(party) || '' : ''}

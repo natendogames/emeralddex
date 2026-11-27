@@ -217,56 +217,96 @@
    "name": "Max Elixir",
    "hidden": false,
    "where": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "1f-pp-up",
    "name": "PP Up",
    "hidden": false,
    "where": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-1f-ultra-ball",
    "name": "Ultra Ball",
    "hidden": true,
    "where": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "b1f-tm29",
    "name": "TM29",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "b1f-full-restore",
    "name": "Full Restore",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "b2f-full-heal",
    "name": "Full Heal",
    "hidden": false,
    "where": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-b2f-elixir",
    "name": "Elixir",
    "hidden": true,
    "where": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-b2f-max-repel",
    "name": "Max Repel",
    "hidden": true,
    "where": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "3"
   }
  ],
  "gifts": [],
@@ -333,7 +373,12 @@
    ],
    "id": "albert",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Pokémon Trainer",
@@ -512,7 +557,12 @@
    ],
    "id": "hope",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Cool Trainer",
@@ -579,7 +629,12 @@
    ],
    "id": "katelynn",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Cool Trainer",
@@ -643,7 +698,12 @@
    ],
    "id": "quincy",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Cool Trainer",
@@ -706,7 +766,12 @@
    ],
    "id": "edgar",
    "area": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Cool Trainer",
@@ -745,7 +810,12 @@
    ],
    "id": "shannon",
    "area": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Cool Trainer",
@@ -837,7 +907,12 @@
    ],
    "id": "samuel",
    "area": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Cool Trainer",
@@ -926,7 +1001,12 @@
    ],
    "id": "michelle",
    "area": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Cool Trainer",
@@ -988,7 +1068,12 @@
    ],
    "id": "mitchell",
    "area": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Cool Trainer",
@@ -1054,7 +1139,12 @@
    ],
    "id": "halle",
    "area": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Cool Trainer",
@@ -1173,7 +1263,12 @@
    ],
    "id": "vito",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Cool Trainer",
@@ -1216,7 +1311,12 @@
    ],
    "id": "felix",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Cool Trainer",
@@ -1283,7 +1383,12 @@
    ],
    "id": "caroline",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Cool Trainer",
@@ -1331,7 +1436,12 @@
    ],
    "id": "dianne",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Cool Trainer",
@@ -1425,7 +1535,12 @@
    ],
    "id": "julie",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Cool Trainer",
@@ -1518,7 +1633,12 @@
    ],
    "id": "owen",
    "area": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    5
+   ],
+   "lbl": "F"
   }
  ],
  "mapCount": 3,

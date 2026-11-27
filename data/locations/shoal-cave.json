@@ -281,35 +281,60 @@
    "name": "Big Pearl",
    "hidden": false,
    "where": "Low Tide Entrance Room",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "low-tide-ice-room-tm07",
    "name": "TM07",
    "hidden": false,
    "where": "Low Tide Ice Room",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "low-tide-ice-room-nevermeltice",
    "name": "NeverMeltIce",
    "hidden": false,
    "where": "Low Tide Ice Room",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "low-tide-inner-room-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
    "where": "Low Tide Inner Room",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "low-tide-stairs-room-ice-heal",
    "name": "Ice Heal",
    "hidden": false,
    "where": "Low Tide Stairs Room",
-   "map": true
+   "map": true,
+   "mo": [
+    4,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [
@@ -317,41 +342,77 @@
    "id": "item-low-tide-entrance-room-shell-bell",
    "name": "Shell Bell",
    "from": "Old man (bring 4 Shoal Salt and 4 Shoal Shells)",
-   "where": "Low Tide Entrance Room"
+   "where": "Low Tide Entrance Room",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-low-tide-inner-room-shoal-shell",
    "name": "Shoal Shell",
    "from": "On the ground at low tide",
-   "where": "Low Tide Inner Room"
+   "where": "Low Tide Inner Room",
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "item-low-tide-inner-room-shoal-salt",
    "name": "Shoal Salt",
    "from": "On the ground at low tide",
-   "where": "Low Tide Inner Room"
+   "where": "Low Tide Inner Room",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-low-tide-lower-room-shoal-salt",
    "name": "Shoal Salt",
    "from": "On the ground at low tide",
-   "where": "Low Tide Lower Room"
+   "where": "Low Tide Lower Room",
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-low-tide-lower-room-focus-band",
    "name": "Focus Band",
    "from": "Black Belt",
-   "where": "Low Tide Lower Room"
+   "where": "Low Tide Lower Room",
+   "map": true,
+   "mo": [
+    3,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "item-low-tide-stairs-room-shoal-salt",
    "name": "Shoal Salt",
    "from": "On the ground at low tide",
-   "where": "Low Tide Stairs Room"
+   "where": "Low Tide Stairs Room",
+   "map": true,
+   "mo": [
+    4,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],
- "mapCount": 4,
+ "mapCount": 5,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

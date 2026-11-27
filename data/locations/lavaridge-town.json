@@ -17,7 +17,12 @@
    "name": "Ice Heal",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [
@@ -31,19 +36,37 @@
    "id": "mon-outside-wynaut-egg",
    "name": "Wynaut Egg",
    "from": "Old woman by the hot springs",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-gym-1f-tm50",
    "name": "TM50",
    "from": "Flannery (after winning)",
-   "where": "Gym 1F"
+   "where": "Gym 1F",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-herb-shop-charcoal",
    "name": "Charcoal",
    "from": "Old Man",
-   "where": "Herb Shop"
+   "where": "Herb Shop",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -86,7 +109,12 @@
    ],
    "id": "gerald",
    "area": "Gym 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Kindler",
@@ -123,7 +151,12 @@
    ],
    "id": "cole",
    "area": "Gym 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Kindler",
@@ -160,7 +193,12 @@
    ],
    "id": "axle",
    "area": "Gym 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Battle Girl",
@@ -197,7 +235,12 @@
    ],
    "id": "danielle",
    "area": "Gym 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Kindler",
@@ -491,10 +534,15 @@
    ],
    "id": "flannery",
    "area": "Gym 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "B"
   }
  ],
- "mapCount": 2,
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

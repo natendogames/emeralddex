@@ -89,16 +89,29 @@
    "id": "item-4f-root-fossil",
    "name": "Root Fossil",
    "from": "Top of Mirage Tower (choose one)",
-   "where": "4F"
+   "where": "4F",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-4f-claw-fossil",
    "name": "Claw Fossil",
    "from": "Top of Mirage Tower (choose one)",
-   "where": "4F"
+   "where": "4F",
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "trainers": [],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

@@ -104,7 +104,12 @@
    "need": "Come in from Route 110",
    "after": "route-110",
    "stage": 15,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-pp-up",
@@ -115,7 +120,12 @@
    "need": "Come in from Route 110",
    "after": "route-110",
    "stage": 15,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [],
@@ -152,7 +162,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "need": "surf",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Pokéfan",
@@ -189,7 +204,12 @@
    "id": "miguel",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Twins",
@@ -251,7 +271,12 @@
    "id": "amy-and-liv",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Aroma Lady",
@@ -314,7 +339,12 @@
    "id": "daisy",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Guitarist",
@@ -351,7 +381,12 @@
    "id": "marcos",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Fisherman",
@@ -408,7 +443,12 @@
    "id": "andrew",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Swimmer",
@@ -446,7 +486,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "need": "surf",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Black Belt",
@@ -483,7 +528,12 @@
    "id": "rhett",
    "stage": "route-110",
    "later": true,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Rival",
@@ -549,7 +599,12 @@
     ]
    },
    "id": "rival-route-103",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 1,

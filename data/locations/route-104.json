@@ -83,14 +83,24 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "11"
   },
   {
    "id": "outside-pok-ball",
    "name": "Poké Ball",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "10"
   },
   {
    "id": "outside-x-accuracy",
@@ -101,49 +111,84 @@
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
    "stage": 8.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    11
+   ],
+   "lbl": "12"
   },
   {
    "id": "outside-potion",
    "name": "Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-outside-super-potion",
    "name": "Super Potion",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-outside-potion",
    "name": "Potion",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-antidote",
    "name": "Antidote",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   }
  ],
  "gifts": [
@@ -151,25 +196,49 @@
    "id": "item-outside-chesto-berry",
    "name": "Chesto Berry",
    "from": "Woman",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "item-outside-white-herb",
    "name": "White Herb",
    "from": "Florist",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "8"
   },
   {
    "id": "item-outside-tm09",
    "name": "TM09",
    "from": "Boy 2",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "9"
   },
   {
    "id": "item-pretty-petal-flower-shop-wailmer-pail",
    "name": "Wailmer Pail",
    "from": "Flower shop owner",
-   "where": "Pretty Petal Flower Shop"
+   "where": "Pretty Petal Flower Shop",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -222,7 +291,12 @@
     }
    ],
    "id": "billy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Lady",
@@ -256,7 +330,12 @@
     "Full Restore"
    ],
    "id": "cindy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Rich Boy",
@@ -290,7 +369,12 @@
     "Full Restore"
    ],
    "id": "winston",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Lass",
@@ -334,7 +418,12 @@
     }
    ],
    "id": "haley",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Twins",
@@ -378,7 +467,12 @@
    ],
    "double": true,
    "id": "gina-and-mia",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Fisherman",
@@ -423,7 +517,12 @@
     }
    ],
    "id": "ivan",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Fisherman",
@@ -444,10 +543,15 @@
     }
    ],
    "id": "darian",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   }
  ],
- "mapCount": 1,
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

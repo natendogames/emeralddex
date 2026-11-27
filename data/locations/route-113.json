@@ -30,42 +30,72 @@
    "name": "Max Ether",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "outside-super-repel",
    "name": "Super Repel",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "outside-hyper-potion",
    "name": "Hyper Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-outside-ether",
    "name": "Ether",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-tm32",
    "name": "TM32",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-outside-nugget",
    "name": "Nugget",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   }
  ],
  "gifts": [
@@ -73,7 +103,13 @@
    "id": "item-glass-workshop-soot-sack",
    "name": "Soot Sack",
    "from": "Glass Workshop (trade volcanic ash)",
-   "where": "Glass Workshop"
+   "where": "Glass Workshop",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -138,7 +174,12 @@
     }
    ],
    "id": "wyatt",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Ninja Boy",
@@ -200,7 +241,12 @@
     }
    ],
    "id": "lung",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Camper",
@@ -263,7 +309,12 @@
     }
    ],
    "id": "lawrence",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "K"
   },
   {
    "class": "Youngster",
@@ -294,7 +345,12 @@
     }
    ],
    "id": "jaylen",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Parasol Lady",
@@ -330,7 +386,12 @@
     }
    ],
    "id": "madeline",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Twins",
@@ -396,7 +457,12 @@
    ],
    "double": true,
    "id": "tori-and-tia",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Ninja Boy",
@@ -486,7 +552,12 @@
     }
    ],
    "id": "lao",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Youngster",
@@ -522,7 +593,12 @@
     }
    ],
    "id": "dillon",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Bird Keeper",
@@ -583,7 +659,12 @@
     }
    ],
    "id": "coby",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Picnicker",
@@ -644,10 +725,15 @@
     }
    ],
    "id": "sophie",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   }
  ],
- "mapCount": 1,
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

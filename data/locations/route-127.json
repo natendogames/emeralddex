@@ -79,49 +79,84 @@
    "name": "Zinc",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-carbos",
    "name": "Carbos",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-underwater-star-piece",
    "name": "Star Piece",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-underwater-hp-up",
    "name": "HP Up",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-underwater-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-underwater-red-shard",
    "name": "Red Shard",
    "hidden": true,
    "where": "Underwater",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [],
@@ -187,7 +222,12 @@
     }
    ],
    "id": "henry",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Fisherman",
@@ -257,7 +297,12 @@
     }
    ],
    "id": "roger",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Fisherman",
@@ -347,7 +392,12 @@
     }
    ],
    "id": "jonah",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Cool Trainer",
@@ -399,7 +449,12 @@
     "Hyper Potion"
    ],
    "id": "athena",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Bird Keeper",
@@ -462,7 +517,12 @@
     }
    ],
    "id": "aidan",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Triathlete",
@@ -523,7 +583,12 @@
     }
    ],
    "id": "camden",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Black Belt",
@@ -559,7 +624,12 @@
     }
    ],
    "id": "koji",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Triathlete",
@@ -620,7 +690,12 @@
     }
    ],
    "id": "donny",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   }
  ],
  "mapCount": 2,

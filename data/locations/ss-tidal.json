@@ -8,7 +8,12 @@
    "name": "Leftovers",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [
@@ -16,7 +21,13 @@
    "id": "item-outside-tm49",
    "name": "TM49",
    "from": "Man in the cabin",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -58,7 +69,12 @@
     "Full Restore"
    ],
    "id": "garret",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Gentleman",
@@ -119,7 +135,12 @@
     }
    ],
    "id": "micah",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Pokéfan",
@@ -284,7 +305,12 @@
     }
    ],
    "id": "colton",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Lady",
@@ -322,7 +348,12 @@
     "Full Restore"
    ],
    "id": "naomi",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Gentleman",
@@ -358,7 +389,12 @@
     }
    ],
    "id": "thomas",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Young Couple",
@@ -420,7 +456,12 @@
    ],
    "double": true,
    "id": "lea-and-jed",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Sailor",
@@ -483,7 +524,12 @@
     }
    ],
    "id": "phillip",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Sailor",
@@ -570,7 +616,12 @@
     }
    ],
    "id": "leonard",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "B"
   }
  ],
  "mapCount": 3,

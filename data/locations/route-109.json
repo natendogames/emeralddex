@@ -85,49 +85,84 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "9"
   },
   {
    "id": "outside-potion",
    "name": "Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-outside-revive",
    "name": "Revive",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-outside-great-ball",
    "name": "Great Ball",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-outside-ether",
    "name": "Ether",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-heart-scale-2",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-outside-heart-scale-3",
@@ -138,7 +173,12 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "8"
   }
  ],
  "gifts": [
@@ -146,19 +186,37 @@
    "id": "item-outside-soft-sand",
    "name": "Soft Sand",
    "from": "Girl",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "item-seashore-house-soda-pop-6",
    "name": "Soda Pop ×6",
    "from": "Seashore House owner (beat the three trainers)",
-   "where": "Seashore House"
+   "where": "Seashore House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-seashore-house-soda-pop",
    "name": "Soda Pop",
    "from": "Seashore House",
-   "where": "Seashore House"
+   "where": "Seashore House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -225,7 +283,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    12
+   ],
+   "lbl": "M"
   },
   {
    "class": "Fisherman",
@@ -293,7 +356,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    13
+   ],
+   "lbl": "N"
   },
   {
    "class": "Young Couple",
@@ -359,7 +427,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "K"
   },
   {
    "class": "Swimmer",
@@ -450,7 +523,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "need": "surf",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Swimmer",
@@ -516,7 +594,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "need": "surf",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Tuber",
@@ -556,7 +639,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Tuber",
@@ -596,7 +684,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Sailor",
@@ -648,7 +741,12 @@
    ],
    "id": "huey",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Tuber",
@@ -684,7 +782,12 @@
    ],
    "id": "hailey",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Sailor",
@@ -720,7 +823,12 @@
    ],
    "id": "edmond",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Tuber",
@@ -756,7 +864,12 @@
    ],
    "id": "ricky",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Tuber",
@@ -816,7 +929,12 @@
    ],
    "id": "lola",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Tuber",
@@ -870,7 +988,12 @@
    ],
    "id": "chandler",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Beauty",
@@ -905,7 +1028,12 @@
    ],
    "id": "johanna",
    "area": "Seashore House",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Tuber",
@@ -966,7 +1094,12 @@
    ],
    "id": "simon",
    "area": "Seashore House",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Sailor",
@@ -1035,7 +1168,12 @@
    ],
    "id": "dwayne",
    "area": "Seashore House",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "C"
   }
  ],
  "mapCount": 2,

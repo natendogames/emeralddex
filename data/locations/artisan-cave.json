@@ -25,42 +25,72 @@
    "name": "Carbos",
    "hidden": false,
    "where": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "b1f-hp-up",
    "name": "HP Up",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-b1f-zinc",
    "name": "Zinc",
    "hidden": true,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-b1f-calcium",
    "name": "Calcium",
    "hidden": true,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-b1f-protein",
    "name": "Protein",
    "hidden": true,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-b1f-iron",
    "name": "Iron",
    "hidden": true,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
