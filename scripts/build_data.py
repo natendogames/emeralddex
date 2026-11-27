@@ -910,6 +910,17 @@ def time_thing(loc, mapname, positions):
     if r is None: r = map_first.get(mapname)
     if r is None and map_stage(mapname) is not None: r = (map_stage(mapname), ('map', mapname))
     return r
+# Gifts that wait on a story flag set somewhere else: (place, gift) -> (place whose story point it waits for, why)
+GIFT_LATER = {
+    ('petalburg-city', 'HM03'): ('lavaridge-town', "After you beat Norman (Wally's father thanks you for Wally)"),
+    ('rusturf-tunnel', 'HM04'): ('mauville-city', 'Rock Smash, to break the rock in the tunnel so Wanda and her boyfriend meet'),
+    ('rustboro-city', 'Exp. Share'): ('granite-cave', "After you deliver Mr. Stone's letter to Steven in Granite Cave"),
+    ('fortree-city', 'Mental Herb'): ('mossdeep-city', 'After you visit the Wingull in a Mossdeep City house (it carries the mail back)'),
+    ('littleroot-town', 'Amulet Coin'): ('lavaridge-town', "Norman's Balance Badge (your fifth)"),
+    ('littleroot-town', 'S.S. Ticket'): ('pokemon-league', 'After the Hall of Fame'),
+}
+_gl_missing = [k for k in GIFT_LATER if not any(g['name'] == k[1] for g in locs[k[0]]['gifts'])]
+assert not _gl_missing, f'GIFT_LATER names no gift: {_gl_missing}'
 def mark_later(loc, thing, r):
     if not r: return False
     # someone who only turns up after you have been somewhere else is never there on the first trip
@@ -935,6 +946,14 @@ for loc in locs.values():
             if not g.get('later') and (e.get('notes') or '').startswith(g['name']):
                 g.update({'later': True, 'need': GIFT_NEED.get(e['after'], f"After {index[order_pos[e['after']]]['name']}"),
                           'after': e['after'], 'stage': order_pos[e['after']] + 0.5})
+    # gifts whose script waits on a story flag set somewhere else, which the map walk can't see (checked in the decomp
+    # scripts): later if that story point comes after this place's first trip
+    for g in loc['gifts']:
+        gl = GIFT_LATER.get((loc['id'], g['name']))
+        if not gl or g.get('later'): continue
+        st = order_pos[gl[0]] + 0.5
+        if st <= (order_pos[loc['id']] if gl[0] != loc['id'] else first_visit_until(loc['id'])): continue
+        g.update({'later': True, 'need': gl[1], 'after': gl[0], 'stage': st})
     for t in loc['trainers']:
         src = trainer_src.get((loc['id'], t['id']))
         if not src: continue

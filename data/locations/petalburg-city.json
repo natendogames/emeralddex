@@ -116,7 +116,11 @@
    "id": "item-wally-s-house-hm03",
    "name": "HM03",
    "from": "Wally's father (after you beat Norman)",
-   "where": "Wally's House"
+   "where": "Wally's House",
+   "later": true,
+   "need": "After you beat Norman (Wally's father thanks you for Wally)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   }
  ],
  "trainers": [

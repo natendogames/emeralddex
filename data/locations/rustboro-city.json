@@ -79,7 +79,11 @@
    "id": "item-devon-corp-3f-exp-share",
    "name": "Exp. Share",
    "from": "Mr. Stone (after you deliver the letter)",
-   "where": "Devon Corp 3F"
+   "where": "Devon Corp 3F",
+   "later": true,
+   "need": "After you deliver Mr. Stone's letter to Steven in Granite Cave",
+   "after": "granite-cave",
+   "stage": 12.5
   },
   {
    "id": "item-flat-2-2f-premier-ball",

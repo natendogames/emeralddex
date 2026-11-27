@@ -90,13 +90,21 @@
    "id": "item-your-house-1f-amulet-coin",
    "name": "Amulet Coin",
    "from": "Mom (once you have Dad's badge, the fifth)",
-   "where": "Your house 1F"
+   "where": "Your house 1F",
+   "later": true,
+   "need": "Norman's Balance Badge (your fifth)",
+   "after": "lavaridge-town",
+   "stage": 29.5
   },
   {
    "id": "item-your-house-1f-s-s-ticket",
    "name": "S.S. Ticket",
    "from": "Dad (after you enter the Hall of Fame)",
-   "where": "Your house 1F"
+   "where": "Your house 1F",
+   "later": true,
+   "need": "After the Hall of Fame",
+   "after": "pokemon-league",
+   "stage": 70.5
   }
  ],
  "trainers": [],
