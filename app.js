@@ -203,16 +203,14 @@ function stepSplit(text, locId) {
 // One-time things on this page you could walk past on your first visit: hidden items and gifts not yet ticked
 // (gifts that only come later in the story are left out)
 const LATER_GIFT = /Hall of Fame|post-game|complete the Hoenn|after you (beat|fix|deliver|enter)|return the|choose one|after Rayquaza|after winning|revives|Completed Puzzle|daily/i;
+// Gifts that are easy to walk past (hidden items have their own section, with checkboxes and map buttons)
 function beforeYouLeave(loc) {
   const s = cur();
-  const hidden = loc.items.filter(i => i.hidden && !i.later && !s.checks[`${loc.id}:item:${i.id}`]);
   const gifts = locView(loc).gifts.filter(g => !g.later && !g.after && !LATER_GIFT.test(g.from || '') && !/^Trade/.test(g.name) && !s.checks[`${loc.id}:gift:${g.id}`]);
-  if (!hidden.length && !gifts.length) return '';
+  if (!gifts.length) return '';
   const parts = [];
   if (gifts.length) parts.push(gifts.map(g => `<b>${esc(g.name)}</b> (${esc(g.from || 'gift')}${g.where && g.where !== 'Outside' ? `, ${esc(g.where)}` : ''})`).join(', '));
-  if (hidden.length) parts.push(`${hidden.length} hidden item${hidden.length > 1 ? 's' : ''} (${hidden.map(i => esc(i.name)).join(', ')})`);
-  const maps = typeof spotLink === 'function' ? hidden.map(i => spotLink(loc.id, { ...i, id: i.id }).replace('Show on map', `${esc(i.name)} on the map`)).join('') : '';
-  return `<div class="card note yleave"><b>Before you leave:</b> ${parts.join('; and ')}. They're easy to miss on a first visit.${maps ? `<div>${maps}</div>` : ''}</div>`;
+  return `<div class="card note yleave"><b>Before you leave:</b> ${parts.join('; and ')}. They're easy to miss on a first visit.</div>`;
 }
 
 // "Come back later" note for items: what you need first ("Needs Surf (HM03 ...)."), the side you have to come in from
