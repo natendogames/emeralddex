@@ -365,6 +365,7 @@ FROM_FIX = {'Give Red Scarf': 'Fan Club chairman (lead Pokémon with high Cool)'
     'Soft Sand Girl': 'Girl', 'White Herb Florist': 'Florist', 'Rock Smash Dude': 'Rock Smash Guy', 'Glass Worker': 'Glass Workshop (trade volcanic ash)'}
 GIFT_AFTER = {'CHIKORITA': 'pokemon-league', 'CYNDAQUIL': 'pokemon-league', 'TOTODILE': 'pokemon-league', 'BELDUM': 'pokemon-league',
               'LILEEP': 'mirage-tower', 'ANORITH': 'mirage-tower'}
+GIFT_NEED = {'pokemon-league': 'After the Hall of Fame', 'mirage-tower': 'After you bring a fossil from Mirage Tower'}
 GMETHOD = {'mon': 'gift', 'trade': 'trade'}
 seen_gift = set()
 for k in gifts:
@@ -925,6 +926,14 @@ for loc in locs.values():
             for e in loc['encounters']:
                 if e['method'] in ('gift', 'trade') and (e.get('notes') or '').startswith(g['name']) and not e.get('after'):
                     e['after'] = g['after']
+    # and the other way round: a gift Pokémon that only comes later (GIFT_AFTER: the Johto starters, Beldum, the
+    # revived fossils) keeps its gift row under "come back later" too
+    for e in loc['encounters']:
+        if e['method'] != 'gift' or not e.get('after') or order_pos[e['after']] <= first_visit_until(loc['id']): continue
+        for g in loc['gifts']:
+            if not g.get('later') and (e.get('notes') or '').startswith(g['name']):
+                g.update({'later': True, 'need': GIFT_NEED.get(e['after'], f"After {index[order_pos[e['after']]]['name']}"),
+                          'after': e['after'], 'stage': order_pos[e['after']] + 0.5})
     for t in loc['trainers']:
         src = trainer_src.get((loc['id'], t['id']))
         if not src: continue
