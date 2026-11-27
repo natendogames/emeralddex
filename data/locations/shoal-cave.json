@@ -280,31 +280,36 @@
    "id": "low-tide-entrance-room-big-pearl",
    "name": "Big Pearl",
    "hidden": false,
-   "where": "Low Tide Entrance Room"
+   "where": "Low Tide Entrance Room",
+   "map": true
   },
   {
    "id": "low-tide-ice-room-tm07",
    "name": "TM07",
    "hidden": false,
-   "where": "Low Tide Ice Room"
+   "where": "Low Tide Ice Room",
+   "map": true
   },
   {
    "id": "low-tide-ice-room-nevermeltice",
    "name": "NeverMeltIce",
    "hidden": false,
-   "where": "Low Tide Ice Room"
+   "where": "Low Tide Ice Room",
+   "map": true
   },
   {
    "id": "low-tide-inner-room-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "Low Tide Inner Room"
+   "where": "Low Tide Inner Room",
+   "map": true
   },
   {
    "id": "low-tide-stairs-room-ice-heal",
    "name": "Ice Heal",
    "hidden": false,
-   "where": "Low Tide Stairs Room"
+   "where": "Low Tide Stairs Room",
+   "map": true
   }
  ],
  "gifts": [
@@ -346,6 +351,7 @@
   }
  ],
  "trainers": [],
+ "mapCount": 4,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

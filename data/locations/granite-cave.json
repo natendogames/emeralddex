@@ -160,13 +160,15 @@
    "id": "1f-escape-rope",
    "name": "Escape Rope",
    "hidden": false,
-   "where": "1F"
+   "where": "1F",
+   "map": true
   },
   {
    "id": "b1f-pok-ball",
    "name": "Poké Ball",
    "hidden": false,
-   "where": "B1F"
+   "where": "B1F",
+   "map": true
   },
   {
    "id": "b2f-repel",
@@ -176,7 +178,8 @@
    "later": true,
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
-   "stage": 16
+   "stage": 16,
+   "map": true
   },
   {
    "id": "b2f-rare-candy",
@@ -186,7 +189,8 @@
    "later": true,
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
-   "stage": 16
+   "stage": 16,
+   "map": true
   },
   {
    "id": "hidden-b2f-everstone",
@@ -196,13 +200,15 @@
    "later": true,
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
-   "stage": 16
+   "stage": 16,
+   "map": true
   },
   {
    "id": "hidden-b2f-everstone-2",
    "name": "Everstone",
    "hidden": true,
-   "where": "B2F"
+   "where": "B2F",
+   "map": true
   }
  ],
  "gifts": [
@@ -220,6 +226,7 @@
   }
  ],
  "trainers": [],
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

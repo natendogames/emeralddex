@@ -624,7 +624,8 @@
    "id": "north-calcium",
    "name": "Calcium",
    "hidden": false,
-   "where": "North"
+   "where": "North",
+   "map": true
   },
   {
    "id": "northeast-nugget",
@@ -634,7 +635,8 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "hidden-northeast-rare-candy",
@@ -644,7 +646,8 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "hidden-northeast-zinc",
@@ -654,13 +657,15 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "northwest-tm22",
    "name": "TM22",
    "hidden": false,
-   "where": "Northwest"
+   "where": "Northwest",
+   "map": true
   },
   {
    "id": "southeast-big-pearl",
@@ -670,7 +675,8 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "hidden-southeast-pp-up",
@@ -680,7 +686,8 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "hidden-southeast-full-restore",
@@ -690,17 +697,20 @@
    "later": true,
    "need": "After the Hall of Fame (the Safari Zone expansion opens then)",
    "after": "pokemon-league",
-   "stage": 70
+   "stage": 70,
+   "map": true
   },
   {
    "id": "southwest-max-revive",
    "name": "Max Revive",
    "hidden": false,
-   "where": "Southwest"
+   "where": "Southwest",
+   "map": true
   }
  ],
  "gifts": [],
  "trainers": [],
+ "mapCount": 5,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

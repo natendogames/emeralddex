@@ -7,7 +7,8 @@
    "id": "hidden-outside-leftovers",
    "name": "Leftovers",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -56,7 +57,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "garret"
+   "id": "garret",
+   "map": true
   },
   {
    "class": "Gentleman",
@@ -116,7 +118,8 @@
      ]
     }
    ],
-   "id": "micah"
+   "id": "micah",
+   "map": true
   },
   {
    "class": "Pokéfan",
@@ -280,7 +283,8 @@
      "item": "Oran Berry"
     }
    ],
-   "id": "colton"
+   "id": "colton",
+   "map": true
   },
   {
    "class": "Lady",
@@ -317,7 +321,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "naomi"
+   "id": "naomi",
+   "map": true
   },
   {
    "class": "Gentleman",
@@ -352,7 +357,8 @@
      ]
     }
    ],
-   "id": "thomas"
+   "id": "thomas",
+   "map": true
   },
   {
    "class": "Young Couple",
@@ -413,7 +419,8 @@
     }
    ],
    "double": true,
-   "id": "lea-and-jed"
+   "id": "lea-and-jed",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -475,7 +482,8 @@
      ]
     }
    ],
-   "id": "phillip"
+   "id": "phillip",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -561,9 +569,11 @@
      ]
     }
    ],
-   "id": "leonard"
+   "id": "leonard",
+   "map": true
   }
  ],
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

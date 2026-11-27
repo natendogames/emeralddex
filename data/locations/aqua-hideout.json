@@ -16,25 +16,29 @@
    "id": "b1f-max-elixir",
    "name": "Max Elixir",
    "hidden": false,
-   "where": "B1F"
+   "where": "B1F",
+   "map": true
   },
   {
    "id": "b1f-master-ball",
    "name": "Master Ball",
    "hidden": false,
-   "where": "B1F"
+   "where": "B1F",
+   "map": true
   },
   {
    "id": "b1f-nugget",
    "name": "Nugget",
    "hidden": false,
-   "where": "B1F"
+   "where": "B1F",
+   "map": true
   },
   {
    "id": "b2f-nest-ball",
    "name": "Nest Ball",
    "hidden": false,
-   "where": "B2F"
+   "where": "B2F",
+   "map": true
   }
  ],
  "gifts": [],
@@ -70,7 +74,8 @@
     }
    ],
    "id": "grunt-aqua-hideout",
-   "area": "1F"
+   "area": "1F",
+   "map": true
   },
   {
    "class": "Aqua Admin",
@@ -133,9 +138,11 @@
     "Super Potion"
    ],
    "id": "matt",
-   "area": "B2F"
+   "area": "B2F",
+   "map": true
   }
  ],
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

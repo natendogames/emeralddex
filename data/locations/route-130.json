@@ -117,7 +117,8 @@
      ]
     }
    ],
-   "id": "rodney"
+   "id": "rodney",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -179,7 +180,8 @@
      ]
     }
    ],
-   "id": "katie"
+   "id": "katie",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -242,9 +244,11 @@
      ]
     }
    ],
-   "id": "santiago"
+   "id": "santiago",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

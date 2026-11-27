@@ -83,7 +83,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Picnicker",
@@ -173,7 +174,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -265,7 +267,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Camper",
@@ -330,7 +333,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -395,7 +399,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -433,7 +438,8 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   },
   {
    "class": "Leader",
@@ -584,9 +590,11 @@
    "area": "Gym",
    "stage": "route-120",
    "later": true,
-   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon"
+   "reach": "the Devon Scope (from Steven on the Route 120 bridge) to reveal the hidden Kecleon",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

@@ -71,13 +71,15 @@
    "id": "outside-star-piece",
    "name": "Star Piece",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -114,7 +116,8 @@
      ]
     }
    ],
-   "id": "missy"
+   "id": "missy",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -148,7 +151,8 @@
      ]
     }
    ],
-   "id": "matthew"
+   "id": "matthew",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -209,7 +213,8 @@
      ]
     }
    ],
-   "id": "tara"
+   "id": "tara",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -298,7 +303,8 @@
    "uses": [
     "Hyper Potion"
    ],
-   "id": "carolina"
+   "id": "carolina",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -385,7 +391,8 @@
      ]
     }
    ],
-   "id": "cory"
+   "id": "cory",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -420,9 +427,11 @@
      ]
     }
    ],
-   "id": "jerome"
+   "id": "jerome",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

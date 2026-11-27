@@ -7,11 +7,13 @@
    "id": "outside-tm11",
    "name": "TM11",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
  "trainers": [],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

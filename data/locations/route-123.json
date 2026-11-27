@@ -120,61 +120,71 @@
    "id": "outside-calcium",
    "name": "Calcium",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-ultra-ball",
    "name": "Ultra Ball",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-elixir",
    "name": "Elixir",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-revival-herb",
    "name": "Revival Herb",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-super-repel",
    "name": "Super Repel",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-revive",
    "name": "Revive",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-hyper-potion",
    "name": "Hyper Potion",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-pp-up",
    "name": "PP Up",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -303,7 +313,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "wendy"
+   "id": "wendy",
+   "map": true
   },
   {
    "class": "Guitarist",
@@ -363,7 +374,8 @@
      ]
     }
    ],
-   "id": "fernando"
+   "id": "fernando",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -422,7 +434,8 @@
      ]
     }
    ],
-   "id": "alberto"
+   "id": "alberto",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -568,7 +581,8 @@
    "uses": [
     "Hyper Potion"
    ],
-   "id": "braxton"
+   "id": "braxton",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -629,7 +643,8 @@
      ]
     }
    ],
-   "id": "jacki"
+   "id": "jacki",
+   "map": true
   },
   {
    "class": "Expert",
@@ -691,7 +706,8 @@
      ]
     }
    ],
-   "id": "fredrick"
+   "id": "fredrick",
+   "map": true
   },
   {
    "class": "Twins",
@@ -752,7 +768,8 @@
     }
    ],
    "double": true,
-   "id": "miu-and-yuki"
+   "id": "miu-and-yuki",
+   "map": true
   },
   {
    "class": "Aroma Lady",
@@ -811,7 +828,8 @@
      ]
     }
    ],
-   "id": "violet"
+   "id": "violet",
+   "map": true
   },
   {
    "class": "Bug Catcher",
@@ -846,7 +864,8 @@
      ]
     }
    ],
-   "id": "davis"
+   "id": "davis",
+   "map": true
   },
   {
    "class": "Cooltrainer",
@@ -884,7 +903,8 @@
    "uses": [
     "Hyper Potion"
    ],
-   "id": "jazmyn"
+   "id": "jazmyn",
+   "map": true
   },
   {
    "class": "Parasol Lady",
@@ -919,7 +939,8 @@
      ]
     }
    ],
-   "id": "kayley"
+   "id": "kayley",
+   "map": true
   },
   {
    "class": "Ninja Boy",
@@ -954,7 +975,8 @@
      ]
     }
    ],
-   "id": "jonas"
+   "id": "jonas",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -989,7 +1011,8 @@
      ]
     }
    ],
-   "id": "cameron"
+   "id": "cameron",
+   "map": true
   },
   {
    "class": "Collector",
@@ -1050,7 +1073,8 @@
      ]
     }
    ],
-   "id": "ed"
+   "id": "ed",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -1109,9 +1133,11 @@
      ]
     }
    ],
-   "id": "kindra"
+   "id": "kindra",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

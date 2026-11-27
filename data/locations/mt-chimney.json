@@ -54,7 +54,8 @@
    "id": "shirley",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "After Lavaridge Town"
+   "reach": "After Lavaridge Town",
+   "map": true
   },
   {
    "class": "Expert",
@@ -118,7 +119,8 @@
    "id": "shelby",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "After Lavaridge Town"
+   "reach": "After Lavaridge Town",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -153,7 +155,8 @@
      ]
     }
    ],
-   "id": "grunt-mt-chimney"
+   "id": "grunt-mt-chimney",
+   "map": true
   },
   {
    "class": "Beauty",
@@ -190,7 +193,8 @@
    "id": "sheila",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "After Lavaridge Town"
+   "reach": "After Lavaridge Town",
+   "map": true
   },
   {
    "class": "Magma Admin",
@@ -299,7 +303,8 @@
      ]
     }
    ],
-   "id": "tabitha-mt-chimney"
+   "id": "tabitha-mt-chimney",
+   "map": true
   },
   {
    "class": "Hiker",
@@ -337,7 +342,8 @@
    "id": "sawyer",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "After Lavaridge Town"
+   "reach": "After Lavaridge Town",
+   "map": true
   },
   {
    "class": "Magma Leader",
@@ -427,7 +433,8 @@
    "uses": [
     "Super Potion ×2"
    ],
-   "id": "maxie-mt-chimney"
+   "id": "maxie-mt-chimney",
+   "map": true
   },
   {
    "class": "Beauty",
@@ -465,9 +472,11 @@
    "id": "melissa",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "After Lavaridge Town"
+   "reach": "After Lavaridge Town",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

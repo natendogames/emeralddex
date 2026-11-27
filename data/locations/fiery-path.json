@@ -54,7 +54,8 @@
    "later": true,
    "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "outside-fire-stone",
@@ -64,11 +65,13 @@
    "later": true,
    "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   }
  ],
  "gifts": [],
  "trainers": [],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

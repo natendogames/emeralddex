@@ -29,37 +29,43 @@
    "id": "outside-max-ether",
    "name": "Max Ether",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-super-repel",
    "name": "Super Repel",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-hyper-potion",
    "name": "Hyper Potion",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-ether",
    "name": "Ether",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-tm32",
    "name": "TM32",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-nugget",
    "name": "Nugget",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -131,7 +137,8 @@
      ]
     }
    ],
-   "id": "wyatt"
+   "id": "wyatt",
+   "map": true
   },
   {
    "class": "Ninja Boy",
@@ -192,7 +199,8 @@
      ]
     }
    ],
-   "id": "lung"
+   "id": "lung",
+   "map": true
   },
   {
    "class": "Camper",
@@ -254,7 +262,8 @@
      ]
     }
    ],
-   "id": "lawrence"
+   "id": "lawrence",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -284,7 +293,8 @@
      ]
     }
    ],
-   "id": "jaylen"
+   "id": "jaylen",
+   "map": true
   },
   {
    "class": "Parasol Lady",
@@ -319,7 +329,8 @@
      ]
     }
    ],
-   "id": "madeline"
+   "id": "madeline",
+   "map": true
   },
   {
    "class": "Twins",
@@ -384,7 +395,8 @@
     }
    ],
    "double": true,
-   "id": "tori-and-tia"
+   "id": "tori-and-tia",
+   "map": true
   },
   {
    "class": "Ninja Boy",
@@ -473,7 +485,8 @@
      ]
     }
    ],
-   "id": "lao"
+   "id": "lao",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -508,7 +521,8 @@
      ]
     }
    ],
-   "id": "dillon"
+   "id": "dillon",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -568,7 +582,8 @@
      ]
     }
    ],
-   "id": "coby"
+   "id": "coby",
+   "map": true
   },
   {
    "class": "Picnicker",
@@ -628,9 +643,11 @@
      ]
     }
    ],
-   "id": "sophie"
+   "id": "sophie",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

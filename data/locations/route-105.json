@@ -71,19 +71,22 @@
    "id": "outside-iron",
    "name": "Iron",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-big-pearl",
    "name": "Big Pearl",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -121,7 +124,8 @@
      ]
     }
    ],
-   "id": "imani"
+   "id": "imani",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -156,7 +160,8 @@
      ]
     }
    ],
-   "id": "dominik"
+   "id": "dominik",
+   "map": true
   },
   {
    "class": "Ruin Maniac",
@@ -218,7 +223,8 @@
      ]
     }
    ],
-   "id": "foster"
+   "id": "foster",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -252,7 +258,8 @@
      ]
     }
    ],
-   "id": "luis"
+   "id": "luis",
+   "map": true
   },
   {
    "class": "Ruin Maniac",
@@ -312,7 +319,8 @@
      ]
     }
    ],
-   "id": "andres"
+   "id": "andres",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -372,7 +380,8 @@
      ]
     }
    ],
-   "id": "josue"
+   "id": "josue",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -434,9 +443,11 @@
      ]
     }
    ],
-   "id": "beverly"
+   "id": "beverly",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"
