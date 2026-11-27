@@ -157,7 +157,7 @@ Key battles (best lead per Pokémon):
 
 Not answered one-on-one: Torchic 5 (Rival, Route 103); Shroomish 6 (Lass Haley, Route 104); Manectric 24 (Leader Wattson, Mauville City); Slaking 31 (Leader Norman, Petalburg City); Manectric 30 (Cool Trainer Leonel, Route 120); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Tentacruel for Gyarados (−1.4); Manectric for Manectric (−3.0); Graveler for Kadabra (−2.9); Swellow for Pelipper (−1.2); Graveler for Slaking (−1.3)
+Closest alternative for each slot: Tentacruel for Gyarados (−1.3); Manectric for Manectric (−3.0); Graveler for Kadabra (−2.9); Swellow for Pelipper (−0.0); Graveler for Slaking (−1.3)
 
 ## Emerald, Torchic
 
@@ -176,10 +176,12 @@ Answers 864 of 868 trainer Pokémon (100%) one-on-one; key battles 99 of 103.
   - Wally (Mauville City), Lv 20 Combusken: Flamethrower (TM35), Double Kick, Hidden Power (TM10), Peck
   - Shelly (Route 119), Lv 31 Combusken: Overheat (TM50), Double Kick, Hidden Power (TM10), Peck
   - Maxie (Magma Hideout), Lv 39 Blaziken: Overheat (TM50), Double Kick, Hyper Beam (TM15), Peck
+  - Wally (Victory Road), Lv 46 Blaziken: Overheat (TM50), Brick Break (TM31), Hyper Beam (TM15), Peck
   - TM10 Hidden Power: Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin)
   - TM35 Flamethrower: Mauville City (Game Corner prize counter), 4,000 coins (single use)
   - TM50 Overheat: Lavaridge Town (Gym 1F), from Flannery (after winning) (single use)
   - TM15 Hyper Beam: Lilycove City (Department Store 4F (TMs)), ₽7,500
+  - TM31 Brick Break: Sootopolis City (House 1), from Black Belt (single use)
 
 ### Pelipper (Wingull → Pelipper)
 
@@ -294,7 +296,7 @@ Key battles (best lead per Pokémon):
 - Shelly (Route 119): Carvanha 28 → Combusken Double Kick; Mightyena 28 → Combusken Overheat
 - May or Brendan (Route 119): Lombre 29 → Vigoroth Slash; Slugma 29 → Pelipper Surf; Marshtomp 31 → Kadabra Psychic
 - Winona (Fortree City): Swablu 29 → Manectric Thunderbolt; Tropius 29 → Pelipper Ice Beam; Pelipper 30 → Manectric Thunderbolt; Skarmory 31 → Manectric Thunderbolt; Altaria 33 → Pelipper Ice Beam
-- May or Brendan (Lilycove City): Tropius 31 → Combusken Overheat; Ludicolo 32 → Combusken Overheat; Slugma 32 → Pelipper Surf; Marshtomp 34 → Vigoroth Solarbeam
+- May or Brendan (Lilycove City): Tropius 31 → Combusken Overheat; Ludicolo 32 → Manectric Thunder; Slugma 32 → Pelipper Surf; Marshtomp 34 → Vigoroth Solarbeam
 - Tabitha (Magma Hideout): Numel 26 → Pelipper Surf; Mightyena 28 → Combusken Overheat; Zubat 30 → Manectric Thunder; Camerupt 33 → Pelipper Surf
 - Maxie (Magma Hideout): Mightyena 37 → Blaziken Overheat; Crobat 38 → Slaking Hyper Beam; Camerupt 39 → Slaking Hyper Beam
 - Matt (Aqua Hideout): Mightyena 34 → Blaziken Overheat; Golbat 34 → Slaking Hyper Beam
@@ -303,16 +305,16 @@ Key battles (best lead per Pokémon):
 - Shelly (Seafloor Cavern): Sharpedo 37 → Blaziken Double Kick; Mightyena 37 → Slaking Hyper Beam
 - Archie (Seafloor Cavern): Mightyena 41 → Blaziken Overheat; Crobat 41 → Slaking Hyper Beam; Sharpedo 43 → Slaking Hyper Beam
 - Juan (Sootopolis City): Luvdisc 41 → Slaking Hyper Beam; Whiscash 41 → Slaking Hyper Beam; Sealeo 43 → Slaking Hyper Beam; Crawdaunt 43 → Slaking Hyper Beam; Kingdra 46 → Manectric Thunder
-- Wally (Victory Road): Altaria 44 → Slaking Hyper Beam; Delcatty 43 → Blaziken Overheat; Roselia 44 → Blaziken Overheat; Magneton 41 → Slaking Earthquake; Gardevoir 45 → Slaking Hyper Beam
+- Wally (Victory Road): Altaria 44 → Slaking Hyper Beam; Delcatty 43 → Blaziken Brick Break; Roselia 44 → Blaziken Overheat; Magneton 41 → Slaking Earthquake; Gardevoir 45 → Slaking Hyper Beam
 - Sidney (Pokémon League): Mightyena 46 → Blaziken Overheat; Shiftry 48 → Slaking Hyper Beam; Cacturne 46 → Blaziken Overheat; Crawdaunt 48 → Slaking Hyper Beam; Absol 49 → Slaking Hyper Beam
-- Phoebe (Pokémon League): Dusclops 48 → Blaziken Overheat; Banette 49 → Blaziken Overheat; Sableye 50 → Blaziken Overheat; Banette 49 → Blaziken Overheat; Dusclops 51 → Slaking Shadow Ball
+- Phoebe (Pokémon League): Dusclops 48 → Manectric Thunder; Banette 49 → Blaziken Overheat; Sableye 50 → Blaziken Overheat; Banette 49 → Blaziken Overheat; Dusclops 51 → Slaking Shadow Ball
 - Glacia (Pokémon League): Sealeo 50 → Slaking Hyper Beam; Glalie 50 → Blaziken Overheat; Sealeo 52 → Slaking Hyper Beam; Glalie 52 → Blaziken (no clean win) Overheat; Walrein 53 → Manectric Thunder
 - Drake (Pokémon League): Shelgon 52 → Ludicolo Blizzard; Altaria 54 → Ludicolo Blizzard; Kingdra 53 → Manectric Thunder; Flygon 53 → Slaking Hyper Beam; Salamence 55 → Ludicolo Blizzard
 - Wallace (Pokémon League): Wailord 57 → Manectric Thunder; Tentacruel 55 → Slaking Hyper Beam; Ludicolo 56 → Slaking Hyper Beam; Whiscash 56 → Ludicolo Giga Drain; Gyarados 56 → Manectric Thunder; Milotic 58 → Manectric Thunder
 
 Not answered one-on-one: Mudkip 5 (Rival, Route 103); Manectric 24 (Leader Wattson, Mauville City); Slaking 31 (Leader Norman, Petalburg City); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Swellow for Slaking (−1.4); Starmie for Ludicolo (−0.5); Golbat for Kadabra (−2.3); Manectric for Manectric (−3.7); Azumarill for Pelipper (−7.0)
+Closest alternative for each slot: Swellow for Slaking (−2.3); Starmie for Ludicolo (−0.5); Golbat for Kadabra (−2.3); Manectric for Manectric (−3.7); Swellow for Pelipper (−6.8)
 
 ## Emerald, Mudkip
 
@@ -437,7 +439,7 @@ Key battles (best lead per Pokémon):
 - Flannery (Lavaridge Town): Numel 24 → Marshtomp Water Gun; Slugma 24 → Gyarados Return; Camerupt 26 → Gyarados Dragon Rage; Torkoal 29 → Gyarados Dragon Rage
 - Norman (Petalburg City): Spinda 27 → Gyarados Return; Vigoroth 27 → Manectric Thunderbolt; Linoone 29 → Manectric Thunderbolt; Slaking 31 → Manectric (no clean win) Thunderbolt
 - Shelly (Route 119): Carvanha 28 → Shiftry Bullet Seed; Mightyena 28 → Gyarados Surf
-- May or Brendan (Route 119): Slugma 29 → Marshtomp Mud Shot; Lombre 29 → Gyarados Return; Grovyle 31 → Gyarados Return
+- May or Brendan (Route 119): Slugma 29 → Marshtomp Mud Shot; Lombre 29 → Gyarados Return; Grovyle 31 → Swellow Wing Attack
 - Winona (Fortree City): Swablu 29 → Manectric Thunderbolt; Tropius 29 → Swellow Wing Attack; Pelipper 30 → Manectric Thunderbolt; Skarmory 31 → Manectric Thunderbolt; Altaria 33 → Gyarados Dragon Rage
 - May or Brendan (Lilycove City): Tropius 31 → Gyarados Blizzard; Slugma 32 → Marshtomp Mud Shot; Pelipper 32 → Manectric Thunder; Grovyle 34 → Swellow Hyper Beam
 - Tabitha (Magma Hideout): Numel 26 → Gyarados Surf; Mightyena 28 → Manectric Thunder; Zubat 30 → Gyarados Blizzard; Camerupt 33 → Gyarados Surf
@@ -457,4 +459,4 @@ Key battles (best lead per Pokémon):
 
 Not answered one-on-one: Shroomish 4 (Lass Tiana, Route 102); Slaking 31 (Leader Norman, Petalburg City); Glalie 52 (Elite Four Glacia, Pokémon League)
 
-Closest alternative for each slot: Manectric for Manectric (−1.9); Pelipper for Gyarados (−1.3); Breloom for Shiftry (−2.6); Pelipper for Swellow (−0.8); Slaking for Kadabra (−2.3)
+Closest alternative for each slot: Manectric for Manectric (−1.9); Pelipper for Swellow (−2.0); Pelipper for Gyarados (−2.4); Breloom for Shiftry (−2.6); Slaking for Kadabra (−2.3)
