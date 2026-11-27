@@ -110,7 +110,12 @@
     }
    ],
    "id": "kevin",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Triathlete",
@@ -145,7 +150,12 @@
     }
    ],
    "id": "talia",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Swimmer",
@@ -178,7 +188,12 @@
     }
    ],
    "id": "richard",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Swimmer",
@@ -214,7 +229,12 @@
     }
    ],
    "id": "kara",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Swimmer",
@@ -277,7 +297,12 @@
     }
    ],
    "id": "herman",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Swimmer",
@@ -312,7 +337,12 @@
     }
    ],
    "id": "susie",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Sis and Bro",
@@ -376,7 +406,12 @@
    ],
    "double": true,
    "id": "reli-and-ian",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   }
  ],
  "mapCount": 1,

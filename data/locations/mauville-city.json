@@ -8,7 +8,12 @@
    "name": "X Speed",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [
@@ -20,7 +25,13 @@
    "later": true,
    "need": "After Lavaridge Town",
    "after": "lavaridge-town",
-   "stage": 29
+   "stage": 29,
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "item-outside-tm24",
@@ -30,37 +41,73 @@
    "later": true,
    "need": "After Lavaridge Town",
    "after": "lavaridge-town",
-   "stage": 29
+   "stage": 29,
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "item-bike-shop-mach-bike",
    "name": "Mach Bike",
    "from": "Rydel (pick the Mach Bike; swap any time)",
-   "where": "Bike Shop"
+   "where": "Bike Shop",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-bike-shop-acro-bike",
    "name": "Acro Bike",
    "from": "Rydel (pick the Acro Bike; swap any time)",
-   "where": "Bike Shop"
+   "where": "Bike Shop",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-gym-tm34",
    "name": "TM34",
    "from": "Wattson (after winning)",
-   "where": "Gym"
+   "where": "Gym",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-house-1-hm06",
    "name": "HM06",
    "from": "Rock Smash Guy",
-   "where": "House 1"
+   "where": "House 1",
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-house-2-coin-case",
    "name": "Coin Case",
    "from": "Trader (Harbor Mail for the Coin Case)",
-   "where": "House 2"
+   "where": "House 2",
+   "map": true,
+   "mo": [
+    4,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -97,7 +144,12 @@
    ],
    "id": "wally-mauville",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Battle Girl",
@@ -160,7 +212,12 @@
    ],
    "id": "vivian",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Guitarist",
@@ -217,7 +274,12 @@
    ],
    "id": "kirk",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Youngster",
@@ -279,7 +341,12 @@
    ],
    "id": "ben",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Bug Maniac",
@@ -333,7 +400,12 @@
    ],
    "id": "angelo",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Guitarist",
@@ -396,7 +468,12 @@
    ],
    "id": "shawn",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Leader",
@@ -520,10 +597,15 @@
    ],
    "id": "wattson",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    5
+   ],
+   "lbl": "F"
   }
  ],
- "mapCount": 2,
+ "mapCount": 5,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

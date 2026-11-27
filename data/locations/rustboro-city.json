@@ -34,7 +34,12 @@
    "name": "X Defend",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [
@@ -42,13 +47,25 @@
    "id": "item-outside-great-ball",
    "name": "Great Ball",
    "from": "Devon employee (return the Devon Goods)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-cutter-s-house-hm01",
    "name": "HM01",
    "from": "Cutter",
-   "where": "Cutter's House"
+   "where": "Cutter's House",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "mon-devon-corp-2f-lileep-lv-20",
@@ -58,7 +75,13 @@
    "later": true,
    "need": "After you bring a fossil from Mirage Tower",
    "after": "mirage-tower",
-   "stage": 30.5
+   "stage": 30.5,
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "mon-devon-corp-2f-anorith-lv-20",
@@ -68,7 +91,13 @@
    "later": true,
    "need": "After you bring a fossil from Mirage Tower",
    "after": "mirage-tower",
-   "stage": 30.5
+   "stage": 30.5,
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-devon-corp-3f-letter",
@@ -84,31 +113,61 @@
    "later": true,
    "need": "After you deliver Mr. Stone's letter to Steven in Granite Cave",
    "after": "granite-cave",
-   "stage": 12.5
+   "stage": 12.5,
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-flat-2-2f-premier-ball",
    "name": "Premier Ball",
    "from": "Ninja Boy",
-   "where": "Flat 2 2F"
+   "where": "Flat 2 2F",
+   "map": true,
+   "mo": [
+    4,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-gym-tm39",
    "name": "TM39",
    "from": "Roxanne (after winning)",
-   "where": "Gym"
+   "where": "Gym",
+   "map": true,
+   "mo": [
+    5,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "trade-house-1-trade-give-ralts-get-seedot-dots",
    "name": "Trade: give Ralts, get Seedot (\"Dots\")",
    "from": "Trader",
-   "where": "House 1"
+   "where": "House 1",
+   "map": true,
+   "mo": [
+    6,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-pok-mon-school-quick-claw",
    "name": "Quick Claw",
    "from": "Teacher",
-   "where": "Pokémon School"
+   "where": "Pokémon School",
+   "map": true,
+   "mo": [
+    7,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-devon-corp-3f-pok-nav",
@@ -448,7 +507,12 @@
    },
    "id": "rival-rustboro",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Youngster",
@@ -471,7 +535,12 @@
    ],
    "id": "josh",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Youngster",
@@ -523,7 +592,12 @@
    ],
    "id": "tommy",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Hiker",
@@ -575,7 +649,12 @@
    ],
    "id": "marc",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Leader",
@@ -673,10 +752,15 @@
    ],
    "id": "roxanne",
    "area": "Gym",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    3
+   ],
+   "lbl": "D"
   }
  ],
- "mapCount": 2,
+ "mapCount": 8,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

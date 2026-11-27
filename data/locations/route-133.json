@@ -86,21 +86,36 @@
    "name": "Big Pearl",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-star-piece",
    "name": "Star Piece",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-max-revive",
    "name": "Max Revive",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [],
@@ -139,7 +154,12 @@
     }
    ],
    "id": "franklin",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Swimmer",
@@ -175,7 +195,12 @@
     }
    ],
    "id": "debra",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Expert",
@@ -236,7 +261,12 @@
     }
    ],
    "id": "mollie",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Expert",
@@ -299,7 +329,12 @@
     }
    ],
    "id": "conor",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Cool Trainer",
@@ -365,7 +400,12 @@
     "Full Restore"
    ],
    "id": "warren",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Swimmer",
@@ -426,7 +466,12 @@
     }
    ],
    "id": "linda",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Bird Keeper",
@@ -461,7 +506,12 @@
     }
    ],
    "id": "beck",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   }
  ],
  "mapCount": 1,

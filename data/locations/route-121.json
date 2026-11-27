@@ -121,49 +121,84 @@
    "name": "Carbos",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "outside-revive",
    "name": "Revive",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-zinc",
    "name": "Zinc",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-hp-up",
    "name": "HP Up",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-nugget",
    "name": "Nugget",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-outside-full-heal",
    "name": "Full Heal",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-outside-max-revive",
    "name": "Max Revive",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   }
  ],
  "gifts": [],
@@ -226,7 +261,12 @@
     }
    ],
    "id": "tammy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Bug Maniac",
@@ -285,7 +325,12 @@
     }
    ],
    "id": "cale",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Beauty",
@@ -348,7 +393,12 @@
     }
    ],
    "id": "jessica",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Sr. and Jr.",
@@ -410,7 +460,12 @@
    ],
    "double": true,
    "id": "kate-and-joy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Pokémon Breeder",
@@ -574,7 +629,12 @@
     }
    ],
    "id": "pat",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Pokémon Breeder",
@@ -740,7 +800,12 @@
     }
    ],
    "id": "myles",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Pokéfan",
@@ -777,7 +842,12 @@
     }
    ],
    "id": "vanessa",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Gentleman",
@@ -812,7 +882,12 @@
     }
    ],
    "id": "walter",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Cool Trainer",
@@ -875,7 +950,12 @@
     "Hyper Potion"
    ],
    "id": "marcel",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Cool Trainer",
@@ -939,7 +1019,12 @@
     "Hyper Potion"
    ],
    "id": "cristin",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "K"
   }
  ],
  "mapCount": 1,

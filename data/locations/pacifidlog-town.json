@@ -96,23 +96,41 @@
    "id": "item-house-2-tm27",
    "name": "TM27",
    "from": "Woman (if your lead Pokémon is friendly)",
-   "where": "House 2"
+   "where": "House 2",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-house-2-tm21",
    "name": "TM21",
    "from": "Woman (if your lead Pokémon is unfriendly)",
-   "where": "House 2"
+   "where": "House 2",
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "trade-house-3-trade-give-bagon-get-horsea-seasor",
    "name": "Trade: give Bagon, get Horsea (\"Seasor\")",
    "from": "Trader",
-   "where": "House 3"
+   "where": "House 3",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],
- "mapCount": 1,
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

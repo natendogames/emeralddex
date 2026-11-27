@@ -62,7 +62,12 @@
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
    "stage": 8.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "8"
   },
   {
    "id": "outside-x-attack",
@@ -73,28 +78,48 @@
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
    "stage": 8.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "9"
   },
   {
    "id": "outside-ether",
    "name": "Ether",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "outside-parlyz-heal",
    "name": "Parlyz Heal",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-potion",
    "name": "Potion",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-outside-tinymushroom",
@@ -105,7 +130,12 @@
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
    "stage": 8.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-outside-tinymushroom-2",
@@ -116,14 +146,24 @@
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
    "stage": 8.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "10"
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   }
  ],
  "gifts": [
@@ -131,7 +171,13 @@
    "id": "item-outside-great-ball",
    "name": "Great Ball",
    "from": "Devon researcher (after you beat the Aqua Grunt)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "item-outside-miracle-seed",
@@ -141,7 +187,13 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   }
  ],
  "trainers": [
@@ -220,7 +272,12 @@
     }
    ],
    "id": "lyle",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Team Aqua",
@@ -305,7 +362,12 @@
     }
    ],
    "id": "james",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   }
  ],
  "mapCount": 1,

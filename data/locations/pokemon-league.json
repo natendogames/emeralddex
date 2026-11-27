@@ -326,7 +326,12 @@
    ],
    "id": "drake",
    "area": "Drake's Room",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Elite Four",
@@ -474,7 +479,12 @@
    ],
    "id": "glacia",
    "area": "Glacia's Room",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Elite Four",
@@ -622,7 +632,12 @@
    ],
    "id": "phoebe",
    "area": "Phoebe's Room",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Elite Four",
@@ -767,7 +782,12 @@
    ],
    "id": "sidney",
    "area": "Sidney's Room",
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 4,

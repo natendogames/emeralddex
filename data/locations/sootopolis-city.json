@@ -57,13 +57,25 @@
    "id": "item-outside-figy-berry",
    "name": "Figy Berry",
    "from": "Kiri (daily berry)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-outside-iapapa-berry",
    "name": "Iapapa Berry",
    "from": "Kiri (daily berry)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-outside-hm07",
@@ -73,7 +85,13 @@
    "later": true,
    "need": "After Sky Pillar",
    "after": "sky-pillar",
-   "stage": 64
+   "stage": 64,
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "item-gym-1f-tm03",
@@ -83,7 +101,13 @@
    "later": true,
    "need": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
    "after": "sky-pillar",
-   "stage": 64.5
+   "stage": 64.5,
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-house-1-tm31",
@@ -93,7 +117,13 @@
    "later": true,
    "need": "Rayquaza to calm Groudon and Kyogre: the houses stay locked until then",
    "after": "sky-pillar",
-   "stage": 64.5
+   "stage": 64.5,
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-lotad-and-seedot-house-elixir",
@@ -103,7 +133,13 @@
    "later": true,
    "need": "Rayquaza to calm Groudon and Kyogre: the houses stay locked until then",
    "after": "sky-pillar",
-   "stage": 64.5
+   "stage": 64.5,
+   "map": true,
+   "mo": [
+    4,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -257,7 +293,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Beauty",
@@ -298,7 +339,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Lass",
@@ -337,7 +383,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Pokéfan",
@@ -406,7 +457,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Lady",
@@ -476,7 +532,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Pokéfan",
@@ -574,7 +635,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Beauty",
@@ -615,7 +681,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Beauty",
@@ -704,7 +775,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Lass",
@@ -771,7 +847,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Lady",
@@ -815,7 +896,12 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Beauty",
@@ -880,10 +966,15 @@
    "stage": "sky-pillar",
    "later": true,
    "reach": "Rayquaza to calm Groudon and Kyogre: the Gym stays locked until then",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    8
+   ],
+   "lbl": "I"
   }
  ],
- "mapCount": 3,
+ "mapCount": 5,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

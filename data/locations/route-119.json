@@ -147,28 +147,48 @@
    "name": "Super Repel",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-zinc",
    "name": "Zinc",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "outside-elixir",
    "name": "Elixir",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "outside-leaf-stone",
    "name": "Leaf Stone",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "10"
   },
   {
    "id": "outside-rare-candy",
@@ -179,21 +199,36 @@
    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
    "after": "sky-pillar",
    "stage": 64.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    13
+   ],
+   "lbl": "14"
   },
   {
    "id": "outside-hyper-potion",
    "name": "Hyper Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-hyper-potion-2",
    "name": "Hyper Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "outside-nugget",
@@ -204,42 +239,72 @@
    "need": "Waterfall (HM07 from Wallace, used with the Rain Badge from Juan)",
    "after": "sky-pillar",
    "stage": 64.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    12
+   ],
+   "lbl": "13"
   },
   {
    "id": "outside-elixir-2",
    "name": "Elixir",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "8"
   },
   {
    "id": "hidden-outside-calcium",
    "name": "Calcium",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-outside-ultra-ball",
    "name": "Ultra Ball",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "9"
   },
   {
    "id": "hidden-outside-full-heal",
    "name": "Full Heal",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-outside-max-ether",
    "name": "Max Ether",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "11"
   }
  ],
  "gifts": [
@@ -247,13 +312,25 @@
    "id": "item-outside-hm02",
    "name": "HM02",
    "from": "Your rival (after battling)",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    11
+   ],
+   "lbl": "12"
   },
   {
    "id": "mon-weather-institute-2f-castform-lv-25",
    "name": "Castform (Lv 25)",
    "from": "Weather Institute scientist (after you beat Shelly)",
-   "where": "Weather Institute 2F"
+   "where": "Weather Institute 2F",
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [
@@ -352,7 +429,12 @@
    ],
    "id": "chris",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Bug Catcher",
@@ -387,7 +469,12 @@
    ],
    "id": "kent",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Bug Catcher",
@@ -448,7 +535,12 @@
    ],
    "id": "greg",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Bug Maniac",
@@ -517,7 +609,12 @@
    ],
    "id": "taylor",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Bug Maniac",
@@ -587,7 +684,12 @@
    ],
    "id": "donald",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Bug Maniac",
@@ -623,7 +725,12 @@
    ],
    "id": "brent",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Bug Catcher",
@@ -684,7 +791,12 @@
    ],
    "id": "doug",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Pokémon Ranger",
@@ -748,7 +860,12 @@
    ],
    "id": "catherine",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Pokémon Ranger",
@@ -788,7 +905,12 @@
    ],
    "id": "jackson",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Parasol Lady",
@@ -824,7 +946,12 @@
    ],
    "id": "rachel",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Bird Keeper",
@@ -860,7 +987,12 @@
    ],
    "id": "phil",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    10
+   ],
+   "lbl": "K"
   },
   {
    "class": "Bird Keeper",
@@ -922,7 +1054,12 @@
    ],
    "id": "hugh",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    13
+   ],
+   "lbl": "N"
   },
   {
    "class": "Ninja Boy",
@@ -984,7 +1121,12 @@
    ],
    "id": "takashi",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    12
+   ],
+   "lbl": "M"
   },
   {
    "class": "Kindler",
@@ -1048,7 +1190,12 @@
    ],
    "id": "dayton",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    11
+   ],
+   "lbl": "L"
   },
   {
    "class": "Ninja Boy",
@@ -1083,7 +1230,12 @@
    ],
    "id": "yasu",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    15
+   ],
+   "lbl": "P"
   },
   {
    "class": "Guitarist",
@@ -1119,7 +1271,12 @@
    ],
    "id": "fabian",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    14
+   ],
+   "lbl": "O"
   },
   {
    "class": "Ninja Boy",
@@ -1182,7 +1339,12 @@
    ],
    "id": "hideo",
    "area": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    16
+   ],
+   "lbl": "Q"
   },
   {
    "class": "Rival",
@@ -1742,7 +1904,12 @@
    ],
    "id": "grunt-weather-inst",
    "area": "Weather Institute 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Aqua Admin",
@@ -1802,7 +1969,12 @@
    ],
    "id": "shelly-weather-institute",
    "area": "Weather Institute 2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 3,

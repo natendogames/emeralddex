@@ -55,7 +55,12 @@
    "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-fire-stone",
@@ -66,7 +71,12 @@
    "need": "Strength (HM04 from Rusturf Tunnel, used with the Heat Badge)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [],

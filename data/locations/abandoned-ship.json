@@ -153,7 +153,12 @@
    "name": "Storage Key",
    "hidden": false,
    "where": "Captain's Office",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-floor-rooms-luxury-ball",
@@ -164,7 +169,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-floor-rooms-scanner",
@@ -175,7 +185,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-floor-rooms-tm18",
@@ -186,7 +201,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "hidden-floor-rooms-water-stone",
@@ -197,7 +217,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    7
+   ],
+   "lbl": "8"
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-1-key",
@@ -208,7 +233,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-2-key",
@@ -219,7 +249,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-4-key",
@@ -230,7 +265,12 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-6-key",
@@ -241,42 +281,72 @@
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
    "stage": 51.5,
-   "map": true
+   "map": true,
+   "mo": [
+    3,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "room-b1f-tm13",
    "name": "TM13",
    "hidden": false,
    "where": "Room B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    4,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "rooms-2-1f-revive",
    "name": "Revive",
    "hidden": false,
    "where": "Rooms 2 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    6,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "rooms-2-b1f-dive-ball",
    "name": "Dive Ball",
    "hidden": false,
    "where": "Rooms 2 B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    7,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "rooms-1f-harbor-mail",
    "name": "Harbor Mail",
    "hidden": false,
    "where": "Rooms 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "rooms-b1f-escape-rope",
    "name": "Escape Rope",
    "hidden": false,
    "where": "Rooms B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    8,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [],
@@ -316,7 +386,12 @@
    ],
    "id": "charlie",
    "area": "Corridors 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Sailor",
@@ -380,7 +455,12 @@
    ],
    "id": "duncan",
    "area": "Corridors B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Beauty",
@@ -444,7 +524,12 @@
    ],
    "id": "thalia",
    "area": "Rooms 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Youngster",
@@ -505,7 +590,12 @@
    ],
    "id": "demetrius",
    "area": "Rooms 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    5,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Young Couple",
@@ -567,7 +657,12 @@
    "double": true,
    "id": "kira-and-dan",
    "area": "Rooms 2 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    6,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Ruin Maniac",
@@ -603,7 +698,12 @@
    ],
    "id": "garrison",
    "area": "Rooms 2 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    6,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Tuber",
@@ -640,7 +740,12 @@
    ],
    "id": "jani",
    "area": "Rooms 2 1F",
-   "map": true
+   "map": true,
+   "mo": [
+    6,
+    0
+   ],
+   "lbl": "A"
   }
  ],
  "mapCount": 9,

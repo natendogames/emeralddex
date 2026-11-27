@@ -107,7 +107,12 @@
    "name": "Super Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "outside-tm01",
@@ -118,7 +123,12 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "5"
   },
   {
    "id": "outside-iron",
@@ -129,21 +139,36 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "7"
   },
   {
    "id": "outside-great-ball",
    "name": "Great Ball",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "outside-pp-up",
    "name": "PP Up",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "outside-heal-powder",
@@ -154,14 +179,24 @@
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
    "stage": 29.5,
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "6"
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "gifts": [],
@@ -227,7 +262,12 @@
     }
    ],
    "id": "hector",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Psychic",
@@ -288,7 +328,12 @@
     }
    ],
    "id": "marlene",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Black Belt",
@@ -323,7 +368,12 @@
     }
    ],
    "id": "nob",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Battle Girl",
@@ -384,7 +434,12 @@
     }
    ],
    "id": "cyndy",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Expert",
@@ -423,7 +478,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    7
+   ],
+   "lbl": "H"
   },
   {
    "class": "Triathlete",
@@ -491,7 +551,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    8
+   ],
+   "lbl": "I"
   },
   {
    "class": "Black Belt",
@@ -556,7 +621,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    9
+   ],
+   "lbl": "J"
   },
   {
    "class": "Ninja Boy",
@@ -618,7 +688,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   },
   {
    "class": "Psychic",
@@ -680,7 +755,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Battle Girl",
@@ -745,7 +825,12 @@
    "stage": "lavaridge-town",
    "later": true,
    "reach": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   }
  ],
  "mapCount": 1,

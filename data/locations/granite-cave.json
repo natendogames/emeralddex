@@ -161,14 +161,24 @@
    "name": "Escape Rope",
    "hidden": false,
    "where": "1F",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "b1f-pok-ball",
    "name": "Poké Ball",
    "hidden": false,
    "where": "B1F",
-   "map": true
+   "map": true,
+   "mo": [
+    1,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "b2f-repel",
@@ -179,7 +189,12 @@
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
    "stage": 16,
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    1
+   ],
+   "lbl": "2"
   },
   {
    "id": "b2f-rare-candy",
@@ -190,7 +205,12 @@
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
    "stage": 16,
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-b2f-everstone",
@@ -201,14 +221,24 @@
    "need": "the Mach Bike (from Rydel in Mauville City; he swaps it for the Acro Bike any time)",
    "after": "mauville-city",
    "stage": 16,
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-b2f-everstone-2",
    "name": "Everstone",
    "hidden": true,
    "where": "B2F",
-   "map": true
+   "map": true,
+   "mo": [
+    2,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [
@@ -216,17 +246,29 @@
    "id": "item-1f-hm05",
    "name": "HM05",
    "from": "Hiker",
-   "where": "1F"
+   "where": "1F",
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   },
   {
    "id": "item-steven-s-room-tm47",
    "name": "TM47",
    "from": "Steven",
-   "where": "Steven's Room"
+   "where": "Steven's Room",
+   "map": true,
+   "mo": [
+    3,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "trainers": [],
- "mapCount": 3,
+ "mapCount": 4,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

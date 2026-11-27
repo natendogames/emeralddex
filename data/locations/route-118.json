@@ -121,21 +121,36 @@
    "name": "Hyper Potion",
    "hidden": false,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "4"
   },
   {
    "id": "hidden-outside-iron",
    "name": "Iron",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "3"
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
    "where": "Outside",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "1"
   }
  ],
  "gifts": [
@@ -143,7 +158,13 @@
    "id": "item-outside-good-rod",
    "name": "Good Rod",
    "from": "Fisherman",
-   "where": "Outside"
+   "where": "Outside",
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "2"
   }
  ],
  "trainers": [
@@ -231,7 +252,12 @@
     }
    ],
    "id": "deandre",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    0
+   ],
+   "lbl": "A"
   },
   {
    "class": "Aroma Lady",
@@ -318,7 +344,12 @@
     }
    ],
    "id": "rose",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    1
+   ],
+   "lbl": "B"
   },
   {
    "class": "Fisherman",
@@ -349,7 +380,12 @@
     }
    ],
    "id": "wade",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    2
+   ],
+   "lbl": "C"
   },
   {
    "class": "Guitarist",
@@ -411,7 +447,12 @@
     }
    ],
    "id": "dalton",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    3
+   ],
+   "lbl": "D"
   },
   {
    "class": "Fisherman",
@@ -473,7 +514,12 @@
     }
    ],
    "id": "barny",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    4
+   ],
+   "lbl": "E"
   },
   {
    "class": "Bird Keeper",
@@ -534,7 +580,12 @@
     }
    ],
    "id": "chester",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    5
+   ],
+   "lbl": "F"
   },
   {
    "class": "Bird Keeper",
@@ -569,7 +620,12 @@
     }
    ],
    "id": "perry",
-   "map": true
+   "map": true,
+   "mo": [
+    0,
+    6
+   ],
+   "lbl": "G"
   }
  ],
  "mapCount": 1,
