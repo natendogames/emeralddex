@@ -31,7 +31,9 @@
     "loc": "petalburg-city",
     "how": "gift",
     "where": "Wally's House",
-    "from": "Wally's father (after you beat Norman)"
+    "from": "Wally's father (after you beat Norman)",
+    "stage": 29.5,
+    "need": "After you beat Norman (Wally's father thanks you for Wally)"
    }
   ]
  },
@@ -43,7 +45,9 @@
     "loc": "rusturf-tunnel",
     "how": "gift",
     "where": "Outside",
-    "from": "Wanda's boyfriend (once the tunnel is open)"
+    "from": "Wanda's boyfriend (once the tunnel is open)",
+    "stage": 16.5,
+    "need": "Rock Smash, to break the rock in the tunnel so Wanda and her boyfriend meet"
    }
   ]
  },

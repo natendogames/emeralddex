@@ -33,7 +33,11 @@
    "id": "item-outside-hm04",
    "name": "HM04",
    "from": "Wanda's boyfriend (once the tunnel is open)",
-   "where": "Outside"
+   "where": "Outside",
+   "later": true,
+   "need": "Rock Smash, to break the rock in the tunnel so Wanda and her boyfriend meet",
+   "after": "mauville-city",
+   "stage": 16.5
   },
   {
    "id": "item-outside-devon-goods",

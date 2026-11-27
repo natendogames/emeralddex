@@ -8,5 +8,11 @@
  ["sootopolis-city", "gift", "HM07"],
  ["fallarbor-town", "gift", "TM27"],
  ["mauville-city", "gift", "TM24"],
- ["slateport-city", "gift", "DeepSeaTooth"]
+ ["slateport-city", "gift", "DeepSeaTooth"],
+ ["petalburg-city", "gift", "HM03"],
+ ["rusturf-tunnel", "gift", "HM04"],
+ ["rustboro-city", "gift", "Exp. Share"],
+ ["fortree-city", "gift", "Mental Herb"],
+ ["littleroot-town", "gift", "Amulet Coin"],
+ ["littleroot-town", "gift", "S.S. Ticket"]
 ]

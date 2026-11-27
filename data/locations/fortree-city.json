@@ -38,7 +38,11 @@
    "id": "item-house-4-mental-herb",
    "name": "Mental Herb",
    "from": "Girl (after her Wingull delivers the mail)",
-   "where": "House 4"
+   "where": "House 4",
+   "later": true,
+   "need": "After you visit the Wingull in a Mossdeep City house (it carries the mail back)",
+   "after": "mossdeep-city",
+   "stage": 51.5
   }
  ],
  "trainers": [

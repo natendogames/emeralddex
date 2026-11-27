@@ -20,18 +20,18 @@ This leg: 0 of 1 trainer Pokémon won.
 
 Changes:
 
-- Add Wingull: Route 103, grass (Lv 2-4)
-- Add Slakoth: Petalburg Woods, grass (Lv 5-6)
 - Add Taillow: Route 104, grass (Lv 4-5)
+- Add Slakoth: Petalburg Woods, grass (Lv 5-6)
+- Add Wingull: Route 103, grass (Lv 2-4)
 - Teach TM09 Bullet Seed to Treecko (Route 104, from Boy 2)
 - Treecko learns Quick Attack (Lv 11)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Treecko | 15 | Bullet Seed, Quick Attack |
-| Wingull | 15 | Wing Attack, Water Gun |
-| Slakoth | 15 | Scratch |
 | Taillow | 15 | Wing Attack, Quick Attack |
+| Slakoth | 15 | Scratch |
+| Wingull | 15 | Wing Attack, Water Gun |
 
 Lead against each Pokémon: Geodude 12 → Treecko (Bullet Seed); Geodude 12 → Treecko (Bullet Seed); Nosepass 15 → Treecko (Bullet Seed)
 
@@ -42,9 +42,9 @@ This leg: 34 of 34 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Treecko | 15 | Bullet Seed, Quick Attack |
-| Wingull | 15 | Wing Attack, Water Gun |
-| Slakoth | 15 | Scratch |
 | Taillow | 15 | Wing Attack, Quick Attack |
+| Slakoth | 15 | Scratch |
+| Wingull | 15 | Wing Attack, Water Gun |
 
 Lead against each Pokémon: Lotad 13 → Taillow (Wing Attack); Torchic 15 → Wingull (Water Gun)
 
@@ -67,9 +67,9 @@ Changes:
 | Grovyle | 19 | Bullet Seed, Pursuit, Quick Attack, Fury Cutter |
 | Magikarp | 19 | Tackle |
 | Kadabra | 19 | Confusion |
-| Wingull | 19 | Wing Attack, Water Gun |
-| Vigoroth | 19 | Fury Swipes |
 | Taillow | 19 | Wing Attack, Quick Attack |
+| Vigoroth | 19 | Fury Swipes |
+| Wingull | 19 | Wing Attack, Water Gun |
 
 Lead against each Pokémon: Machop 16 → Kadabra (Confusion); Meditite 16 → Kadabra (Confusion); Makuhita 19 → Kadabra (Confusion)
 
@@ -80,27 +80,26 @@ This leg: 25 of 25 trainer Pokémon won.
 Changes:
 
 - Add Electrike: Route 110, grass (Lv 12-13)
-- Box Taillow
-- Teach TM10 Hidden Power to Grovyle (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Box Wingull
+- Teach TM43 Secret Power to Grovyle (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Evolve Magikarp into Gyarados
-- Teach TM10 Hidden Power to Gyarados (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Teach TM43 Secret Power to Gyarados (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Gyarados learns Bite (Lv 20)
-- Teach TM10 Hidden Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Teach TM43 Secret Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Teach TM43 Secret Power to Kadabra (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
-- Teach TM43 Secret Power to Wingull (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
-- Teach TM46 Thief to Wingull (Slateport City (Oceanic Museum 1F), from Aqua Grunt (after you beat him))
-- Teach TM10 Hidden Power to Vigoroth (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Teach TM43 Secret Power to Taillow (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
+- Teach TM43 Secret Power to Vigoroth (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 20 | Hidden Power, Bullet Seed, Pursuit, Fury Cutter |
-| Gyarados | 20 | Hidden Power, Bite |
-| Electrike | 20 | Spark, Hidden Power |
+| Grovyle | 20 | Secret Power, Bullet Seed, Pursuit, Fury Cutter |
+| Gyarados | 20 | Secret Power, Bite |
+| Electrike | 20 | Spark, Secret Power |
 | Kadabra | 20 | Confusion, Secret Power |
-| Wingull | 20 | Water Gun, Wing Attack, Secret Power, Thief |
-| Vigoroth | 20 | Hidden Power |
+| Taillow | 20 | Secret Power, Wing Attack |
+| Vigoroth | 20 | Secret Power |
 
-Lead against each Pokémon: Wingull 18 → Gyarados (Hidden Power); Lombre 18 → Gyarados (Hidden Power); Combusken 20 → Kadabra (Confusion)
+Lead against each Pokémon: Wingull 18 → Gyarados (Secret Power); Lombre 18 → Taillow (Wing Attack); Combusken 20 → Kadabra (Confusion)
 
 This leg: 62 of 62 trainer Pokémon won.
 
@@ -111,17 +110,17 @@ Changes:
 - Teach HM06 Rock Smash to Grovyle (Mauville City (House 1), from Rock Smash Guy)
 - Teach TM24 Thunderbolt to Electrike (Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins)
 - Teach TM29 Psychic to Kadabra (Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F))
-- Teach TM13 Ice Beam to Wingull (Mauville City (Game Corner prize counter), 4,000 coins; or Abandoned Ship (Room B1F))
+- Teach TM13 Ice Beam to Vigoroth (Mauville City (Game Corner prize counter), 4,000 coins; or Abandoned Ship (Room B1F))
 - Teach TM35 Flamethrower to Vigoroth (Mauville City (Game Corner prize counter), 4,000 coins)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 20 | Hidden Power, Bullet Seed, Pursuit, Rock Smash |
-| Gyarados | 20 | Hidden Power, Bite |
-| Electrike | 20 | Thunderbolt, Hidden Power |
+| Grovyle | 20 | Secret Power, Bullet Seed, Pursuit, Rock Smash |
+| Gyarados | 20 | Secret Power, Bite |
+| Electrike | 20 | Thunderbolt, Secret Power |
 | Kadabra | 20 | Psychic, Secret Power |
-| Wingull | 20 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 20 | Hidden Power, Flamethrower |
+| Taillow | 20 | Secret Power, Wing Attack |
+| Vigoroth | 20 | Secret Power, Ice Beam, Flamethrower |
 
 Lead against each Pokémon: Ralts 16 → Kadabra (Psychic)
 
@@ -129,14 +128,18 @@ This leg: 20 of 20 trainer Pokémon won.
 
 ### 7. Wattson (Mauville City), ace Lv 24
 
+Changes:
+
+- Evolve Taillow into Swellow
+
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 24 | Hidden Power, Bullet Seed, Pursuit, Rock Smash |
-| Gyarados | 24 | Hidden Power, Bite |
-| Electrike | 24 | Thunderbolt, Hidden Power |
+| Grovyle | 24 | Secret Power, Bullet Seed, Pursuit, Rock Smash |
+| Gyarados | 24 | Secret Power, Bite |
+| Electrike | 24 | Thunderbolt, Secret Power |
 | Kadabra | 24 | Psychic, Secret Power |
-| Wingull | 24 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 24 | Hidden Power, Flamethrower |
+| Swellow | 24 | Secret Power, Wing Attack |
+| Vigoroth | 24 | Secret Power, Ice Beam, Flamethrower |
 
 Lead against each Pokémon: Voltorb 20 → Kadabra (Psychic); Electrike 20 → Kadabra (Psychic); Magneton 22 → Vigoroth (Flamethrower); Manectric 24 → Kadabra (Psychic), no clean win
 
@@ -151,14 +154,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 24 | Hidden Power, Bullet Seed, Pursuit, Dig |
+| Grovyle | 24 | Secret Power, Bullet Seed, Pursuit, Dig |
 | Gyarados | 24 | Return, Bite |
-| Electrike | 24 | Thunderbolt, Hidden Power |
+| Electrike | 24 | Thunderbolt, Secret Power |
 | Kadabra | 24 | Psychic, Secret Power |
-| Wingull | 24 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 24 | Hidden Power, Flamethrower |
+| Swellow | 24 | Secret Power, Wing Attack |
+| Vigoroth | 24 | Secret Power, Ice Beam, Flamethrower |
 
-Lead against each Pokémon: Numel 18 → Gyarados (Return); Poochyena 20 → Gyarados (Return); Numel 22 → Wingull (Water Gun); Zubat 22 → Gyarados (Return)
+Lead against each Pokémon: Numel 18 → Gyarados (Return); Poochyena 20 → Gyarados (Return); Numel 22 → Kadabra (Psychic); Zubat 22 → Gyarados (Return)
 
 This leg: 107 of 107 trainer Pokémon won.
 
@@ -167,16 +170,15 @@ This leg: 107 of 107 trainer Pokémon won.
 Changes:
 
 - Gyarados learns Dragon Rage (Lv 25)
-- Evolve Wingull into Pelipper
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 25 | Hidden Power, Bullet Seed, Pursuit, Dig |
+| Grovyle | 25 | Secret Power, Bullet Seed, Pursuit, Dig |
 | Gyarados | 25 | Return, Bite, Dragon Rage |
-| Electrike | 25 | Thunderbolt, Hidden Power |
+| Electrike | 25 | Thunderbolt, Secret Power |
 | Kadabra | 25 | Psychic, Secret Power |
-| Pelipper | 25 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 25 | Hidden Power, Flamethrower |
+| Swellow | 25 | Secret Power, Wing Attack |
+| Vigoroth | 25 | Secret Power, Ice Beam, Flamethrower |
 
 Lead against each Pokémon: Mightyena 24 → Gyarados (Dragon Rage); Zubat 24 → Gyarados (Return); Camerupt 25 → Gyarados (Dragon Rage)
 
@@ -191,14 +193,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 29 | Leaf Blade, Hidden Power, Pursuit, Dig |
+| Grovyle | 29 | Leaf Blade, Secret Power, Pursuit, Dig |
 | Gyarados | 29 | Return, Bite, Dragon Rage |
-| Manectric | 29 | Thunderbolt, Hidden Power |
+| Manectric | 29 | Thunderbolt, Secret Power |
 | Kadabra | 29 | Psychic, Secret Power |
-| Pelipper | 29 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 29 | Hidden Power, Flamethrower |
+| Swellow | 29 | Secret Power, Wing Attack |
+| Vigoroth | 29 | Secret Power, Ice Beam, Flamethrower |
 
-Lead against each Pokémon: Numel 24 → Pelipper (Water Gun); Slugma 24 → Gyarados (Return); Camerupt 26 → Gyarados (Dragon Rage); Torkoal 29 → Gyarados (Dragon Rage)
+Lead against each Pokémon: Numel 24 → Kadabra (Psychic); Slugma 24 → Gyarados (Return); Camerupt 26 → Gyarados (Dragon Rage); Torkoal 29 → Gyarados (Dragon Rage)
 
 This leg: 81 of 81 trainer Pokémon won.
 
@@ -210,12 +212,12 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 31 | Leaf Blade, Hidden Power, Pursuit, Dig |
+| Grovyle | 31 | Leaf Blade, Secret Power, Pursuit, Dig |
 | Gyarados | 31 | Return, Bite, Dragon Rage |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Kadabra | 31 | Psychic, Secret Power |
-| Pelipper | 31 | Ice Beam, Water Gun, Wing Attack, Secret Power |
-| Vigoroth | 31 | Slash, Flamethrower |
+| Swellow | 31 | Secret Power, Wing Attack |
+| Vigoroth | 31 | Slash, Ice Beam, Flamethrower |
 
 Lead against each Pokémon: Spinda 27 → Gyarados (Return); Vigoroth 27 → Manectric (Thunderbolt); Linoone 29 → Manectric (Thunderbolt); Slaking 31 → Manectric (Thunderbolt), no clean win
 
@@ -225,19 +227,19 @@ This leg: 3 of 4 trainer Pokémon won.
 
 Changes:
 
-- Teach HM03 Surf to Pelipper (Petalburg City (Wally's House), from Wally's father (after you beat Norman))
-- Teach TM42 Facade to Pelipper (Petalburg City (Gym), from Norman (after winning))
+- Teach TM42 Facade to Grovyle (Petalburg City (Gym), from Norman (after winning))
+- Teach HM03 Surf to Gyarados (Petalburg City (Wally's House), from Wally's father (after you beat Norman))
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 31 | Leaf Blade, Hidden Power, Pursuit, Dig |
-| Gyarados | 31 | Return, Bite, Dragon Rage |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Grovyle | 31 | Leaf Blade, Facade, Pursuit, Dig |
+| Gyarados | 31 | Return, Surf, Bite, Dragon Rage |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Kadabra | 31 | Psychic, Secret Power |
-| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Facade |
-| Vigoroth | 31 | Slash, Flamethrower |
+| Swellow | 31 | Secret Power, Wing Attack |
+| Vigoroth | 31 | Slash, Ice Beam, Flamethrower |
 
-Lead against each Pokémon: Carvanha 28 → Gyarados (Return); Mightyena 28 → Gyarados (Dragon Rage)
+Lead against each Pokémon: Carvanha 28 → Gyarados (Return); Mightyena 28 → Gyarados (Surf)
 
 This leg: 106 of 106 trainer Pokémon won.
 
@@ -245,14 +247,14 @@ This leg: 106 of 106 trainer Pokémon won.
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 31 | Leaf Blade, Hidden Power, Pursuit, Dig |
-| Gyarados | 31 | Return, Bite, Dragon Rage |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Grovyle | 31 | Leaf Blade, Facade, Pursuit, Dig |
+| Gyarados | 31 | Return, Surf, Bite, Dragon Rage |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Kadabra | 31 | Psychic, Secret Power |
-| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Facade |
-| Vigoroth | 31 | Slash, Flamethrower |
+| Swellow | 31 | Secret Power, Wing Attack |
+| Vigoroth | 31 | Slash, Ice Beam, Flamethrower |
 
-Lead against each Pokémon: Pelipper 29 → Manectric (Thunderbolt); Lombre 29 → Gyarados (Return); Combusken 31 → Pelipper (Surf)
+Lead against each Pokémon: Pelipper 29 → Manectric (Thunderbolt); Lombre 29 → Gyarados (Return); Combusken 31 → Kadabra (Psychic)
 
 This leg: 3 of 3 trainer Pokémon won.
 
@@ -260,14 +262,14 @@ This leg: 3 of 3 trainer Pokémon won.
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 33 | Leaf Blade, Hidden Power, Pursuit, Dig |
-| Gyarados | 33 | Return, Bite, Dragon Rage |
-| Manectric | 33 | Thunderbolt, Hidden Power |
+| Grovyle | 33 | Leaf Blade, Facade, Pursuit, Dig |
+| Gyarados | 33 | Return, Surf, Bite, Dragon Rage |
+| Manectric | 33 | Thunderbolt, Secret Power |
 | Kadabra | 33 | Psychic, Secret Power |
-| Pelipper | 33 | Surf, Ice Beam, Wing Attack, Facade |
-| Vigoroth | 33 | Slash, Flamethrower |
+| Swellow | 33 | Secret Power, Wing Attack |
+| Vigoroth | 33 | Slash, Ice Beam, Flamethrower |
 
-Lead against each Pokémon: Swablu 29 → Manectric (Thunderbolt); Tropius 29 → Pelipper (Ice Beam); Pelipper 30 → Manectric (Thunderbolt); Skarmory 31 → Manectric (Thunderbolt); Altaria 33 → Pelipper (Ice Beam)
+Lead against each Pokémon: Swablu 29 → Manectric (Thunderbolt); Tropius 29 → Swellow (Wing Attack); Pelipper 30 → Manectric (Thunderbolt); Skarmory 31 → Manectric (Thunderbolt); Altaria 33 → Vigoroth (Ice Beam)
 
 This leg: 42 of 43 trainer Pokémon won.
 
@@ -279,21 +281,20 @@ Changes:
 - Teach TM38 Fire Blast to Gyarados (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 - Teach TM25 Thunder to Manectric (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 - Teach TM15 Hyper Beam to Manectric (Lilycove City (Department Store 4F (TMs)), ₽7,500)
-- Teach TM14 Blizzard to Pelipper (Lilycove City (Department Store 4F (TMs)), ₽5,500)
-- Teach TM15 Hyper Beam to Pelipper (Lilycove City (Department Store 4F (TMs)), ₽7,500)
+- Teach TM15 Hyper Beam to Swellow (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 - Teach TM14 Blizzard to Vigoroth (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 - Teach TM22 Solarbeam to Vigoroth (Safari Zone (Northwest))
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 34 | Leaf Blade, Hidden Power, Pursuit, Dig |
-| Gyarados | 34 | Return, Blizzard, Fire Blast, Bite |
+| Grovyle | 34 | Leaf Blade, Facade, Pursuit, Dig |
+| Gyarados | 34 | Return, Surf, Blizzard, Fire Blast |
 | Manectric | 34 | Thunder, Hyper Beam |
 | Kadabra | 34 | Psychic, Secret Power |
-| Pelipper | 34 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 34 | Hyper Beam, Wing Attack |
 | Vigoroth | 34 | Slash, Blizzard, Flamethrower, Solarbeam |
 
-Lead against each Pokémon: Tropius 31 → Pelipper (Blizzard); Pelipper 32 → Manectric (Thunder); Ludicolo 32 → Manectric (Thunder); Combusken 34 → Pelipper (Surf)
+Lead against each Pokémon: Tropius 31 → Gyarados (Blizzard); Pelipper 32 → Manectric (Thunder); Ludicolo 32 → Swellow (Wing Attack); Combusken 34 → Kadabra (Psychic)
 
 This leg: 30 of 30 trainer Pokémon won.
 
@@ -305,14 +306,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Grovyle | 34 | Leaf Blade, Hidden Power, Pursuit, Dig |
-| Gyarados | 34 | Return, Blizzard, Fire Blast, Bite |
+| Grovyle | 34 | Leaf Blade, Facade, Pursuit, Dig |
+| Gyarados | 34 | Return, Surf, Blizzard, Fire Blast |
 | Manectric | 34 | Thunder, Hyper Beam |
 | Kadabra | 34 | Psychic, Secret Power |
-| Pelipper | 34 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 34 | Hyper Beam, Wing Attack |
 | Vigoroth | 34 | Slash, Blizzard, Shadow Ball, Flamethrower |
 
-Lead against each Pokémon: Numel 26 → Gyarados (Return); Mightyena 28 → Manectric (Thunder); Zubat 30 → Gyarados (Blizzard); Camerupt 33 → Pelipper (Surf)
+Lead against each Pokémon: Numel 26 → Gyarados (Surf); Mightyena 28 → Manectric (Thunder); Zubat 30 → Gyarados (Blizzard); Camerupt 33 → Gyarados (Surf)
 
 This leg: 63 of 63 trainer Pokémon won.
 
@@ -323,19 +324,20 @@ Changes:
 - Evolve Grovyle into Sceptile
 - Teach TM15 Hyper Beam to Sceptile (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 - Manectric learns Bite (Lv 39)
+- Swellow learns Aerial Ace (Lv 38)
 - Evolve Vigoroth into Slaking
 - Teach TM15 Hyper Beam to Slaking (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Sceptile | 39 | Leaf Blade, Hyper Beam, Pursuit, Dig |
-| Gyarados | 39 | Return, Blizzard, Fire Blast, Bite |
+| Gyarados | 39 | Return, Surf, Blizzard, Fire Blast |
 | Manectric | 39 | Thunder, Bite, Hyper Beam |
 | Kadabra | 39 | Psychic, Secret Power |
-| Pelipper | 39 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 39 | Hyper Beam, Aerial Ace |
 | Slaking | 39 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
-Lead against each Pokémon: Mightyena 37 → Pelipper (Surf); Crobat 38 → Slaking (Hyper Beam); Camerupt 39 → Slaking (Hyper Beam)
+Lead against each Pokémon: Mightyena 37 → Manectric (Thunder); Crobat 38 → Slaking (Hyper Beam); Camerupt 39 → Slaking (Hyper Beam)
 
 This leg: 3 of 3 trainer Pokémon won.
 
@@ -344,10 +346,10 @@ This leg: 3 of 3 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Sceptile | 39 | Leaf Blade, Hyper Beam, Pursuit, Dig |
-| Gyarados | 39 | Return, Blizzard, Fire Blast, Bite |
+| Gyarados | 39 | Return, Surf, Blizzard, Fire Blast |
 | Manectric | 39 | Thunder, Bite, Hyper Beam |
 | Kadabra | 39 | Psychic, Secret Power |
-| Pelipper | 39 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 39 | Hyper Beam, Aerial Ace |
 | Slaking | 39 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Mightyena 34 → Manectric (Thunder); Golbat 34 → Slaking (Hyper Beam)
@@ -366,7 +368,7 @@ Changes:
 | Gyarados | 42 | Return, Hydro Pump, Blizzard, Fire Blast |
 | Manectric | 42 | Thunder, Bite, Hyper Beam |
 | Kadabra | 42 | Psychic, Secret Power |
-| Pelipper | 42 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 42 | Hyper Beam, Aerial Ace |
 | Slaking | 42 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Claydol 41 → Gyarados (Hydro Pump); Xatu 41 → Slaking (Hyper Beam); Lunatone 42 → Gyarados (Hydro Pump); Solrock 42 → Gyarados (Hydro Pump)
@@ -385,7 +387,7 @@ Changes:
 | Gyarados | 44 | Return, Hydro Pump, Blizzard, Fire Blast |
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
-| Pelipper | 44 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 44 | Hyper Beam, Aerial Ace |
 | Slaking | 44 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Mightyena 42 → Gyarados (Hydro Pump); Crobat 43 → Slaking (Hyper Beam); Camerupt 44 → Slaking (Hyper Beam)
@@ -404,7 +406,7 @@ Changes:
 | Gyarados | 44 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
-| Pelipper | 44 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 44 | Hyper Beam, Aerial Ace |
 | Slaking | 44 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Sharpedo 37 → Gyarados (Return); Mightyena 37 → Slaking (Hyper Beam)
@@ -419,7 +421,7 @@ This leg: 43 of 43 trainer Pokémon won.
 | Gyarados | 44 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
-| Pelipper | 44 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 44 | Hyper Beam, Aerial Ace |
 | Slaking | 44 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Mightyena 41 → Gyarados (Hydro Pump); Crobat 41 → Slaking (Hyper Beam); Sharpedo 43 → Slaking (Hyper Beam)
@@ -434,7 +436,7 @@ This leg: 3 of 3 trainer Pokémon won.
 | Gyarados | 46 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 46 | Thunder, Bite, Hyper Beam |
 | Kadabra | 46 | Psychic, Secret Power |
-| Pelipper | 46 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 46 | Hyper Beam, Aerial Ace |
 | Slaking | 46 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Luvdisc 41 → Sceptile (Leaf Blade); Whiscash 41 → Sceptile (Leaf Blade); Sealeo 43 → Slaking (Hyper Beam); Crawdaunt 43 → Sceptile (Leaf Blade); Kingdra 46 → Manectric (Thunder)
@@ -453,18 +455,14 @@ Changes:
 | Gyarados | 46 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 46 | Thunder, Bite, Hyper Beam |
 | Kadabra | 46 | Psychic, Secret Power |
-| Pelipper | 46 | Surf, Blizzard, Wing Attack, Hyper Beam |
+| Swellow | 46 | Hyper Beam, Aerial Ace |
 | Slaking | 46 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
-Lead against each Pokémon: Altaria 44 → Slaking (Blizzard); Delcatty 43 → Slaking (Hyper Beam); Roselia 44 → Slaking (Hyper Beam); Magneton 41 → Gyarados (Earthquake); Gardevoir 45 → Slaking (Hyper Beam)
+Lead against each Pokémon: Altaria 44 → Slaking (Blizzard); Delcatty 43 → Slaking (Hyper Beam); Roselia 44 → Swellow (Hyper Beam); Magneton 41 → Gyarados (Earthquake); Gardevoir 45 → Slaking (Hyper Beam)
 
 This leg: 83 of 83 trainer Pokémon won.
 
 ### 25. Elite Four Sidney (Pokémon League), ace Lv 49
-
-Changes:
-
-- Pelipper learns Spit Up (Lv 47)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
@@ -472,10 +470,10 @@ Changes:
 | Gyarados | 49 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 49 | Thunder, Bite, Hyper Beam |
 | Kadabra | 49 | Psychic, Secret Power |
-| Pelipper | 49 | Surf, Blizzard, Spit Up, Wing Attack |
+| Swellow | 49 | Hyper Beam, Aerial Ace |
 | Slaking | 49 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
-Lead against each Pokémon: Mightyena 46 → Pelipper (Surf); Shiftry 48 → Slaking (Hyper Beam); Cacturne 46 → Slaking (Hyper Beam); Crawdaunt 48 → Slaking (Hyper Beam); Absol 49 → Slaking (Hyper Beam)
+Lead against each Pokémon: Mightyena 46 → Manectric (Thunder); Shiftry 48 → Slaking (Hyper Beam); Cacturne 46 → Slaking (Hyper Beam); Crawdaunt 48 → Slaking (Hyper Beam); Absol 49 → Slaking (Hyper Beam)
 
 This leg: 5 of 5 trainer Pokémon won.
 
@@ -487,10 +485,10 @@ This leg: 5 of 5 trainer Pokémon won.
 | Gyarados | 51 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 51 | Thunder, Bite, Hyper Beam |
 | Kadabra | 51 | Psychic, Secret Power |
-| Pelipper | 51 | Surf, Blizzard, Spit Up, Wing Attack |
+| Swellow | 51 | Hyper Beam, Aerial Ace |
 | Slaking | 51 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
-Lead against each Pokémon: Dusclops 48 → Manectric (Thunder); Banette 49 → Manectric (Thunder); Sableye 50 → Pelipper (Surf); Banette 49 → Manectric (Thunder); Dusclops 51 → Slaking (Shadow Ball)
+Lead against each Pokémon: Dusclops 48 → Manectric (Thunder); Banette 49 → Manectric (Thunder); Sableye 50 → Manectric (Thunder); Banette 49 → Manectric (Thunder); Dusclops 51 → Slaking (Shadow Ball)
 
 This leg: 5 of 5 trainer Pokémon won.
 
@@ -502,7 +500,7 @@ This leg: 5 of 5 trainer Pokémon won.
 | Gyarados | 53 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 53 | Thunder, Bite, Hyper Beam |
 | Kadabra | 53 | Psychic, Secret Power |
-| Pelipper | 53 | Surf, Blizzard, Spit Up, Wing Attack |
+| Swellow | 53 | Hyper Beam, Aerial Ace |
 | Slaking | 53 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Sealeo 50 → Slaking (Hyper Beam); Glalie 50 → Slaking (Hyper Beam); Sealeo 52 → Slaking (Hyper Beam); Glalie 52 → Manectric (Thunder), no clean win; Walrein 53 → Manectric (Thunder)
@@ -517,7 +515,7 @@ This leg: 4 of 5 trainer Pokémon won.
 | Gyarados | 55 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 55 | Thunder, Bite, Hyper Beam |
 | Kadabra | 55 | Psychic, Secret Power |
-| Pelipper | 55 | Surf, Blizzard, Spit Up, Wing Attack |
+| Swellow | 55 | Hyper Beam, Aerial Ace |
 | Slaking | 55 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Shelgon 52 → Slaking (Blizzard); Altaria 54 → Slaking (Blizzard); Kingdra 53 → Manectric (Thunder); Flygon 53 → Slaking (Blizzard); Salamence 55 → Gyarados (Blizzard)
@@ -532,7 +530,7 @@ This leg: 5 of 5 trainer Pokémon won.
 | Gyarados | 58 | Return, Earthquake, Hydro Pump, Blizzard |
 | Manectric | 58 | Thunder, Bite, Hyper Beam |
 | Kadabra | 58 | Psychic, Secret Power |
-| Pelipper | 58 | Surf, Blizzard, Spit Up, Wing Attack |
+| Swellow | 58 | Hyper Beam, Aerial Ace |
 | Slaking | 58 | Hyper Beam, Shadow Ball, Blizzard, Flamethrower |
 
 Lead against each Pokémon: Wailord 57 → Manectric (Thunder); Tentacruel 55 → Slaking (Hyper Beam); Ludicolo 56 → Slaking (Hyper Beam); Whiscash 56 → Sceptile (Leaf Blade); Gyarados 56 → Manectric (Thunder); Milotic 58 → Manectric (Thunder)
@@ -557,9 +555,9 @@ This leg: 0 of 1 trainer Pokémon won.
 
 Changes:
 
+- Add Wingull: Route 103, grass (Lv 2-4)
 - Add Slakoth: Petalburg Woods, grass (Lv 5-6)
 - Add Lotad: Route 102, grass (Lv 3-4)
-- Add Wingull: Route 103, grass (Lv 2-4)
 - Torchic learns Ember (Lv 10)
 - Teach HM01 Cut to Slakoth (Rustboro City (Cutter's House), from Cutter)
 - Teach TM09 Bullet Seed to Lombre (Route 104, from Boy 2)
@@ -567,9 +565,9 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Torchic | 15 | Ember, Scratch |
+| Wingull | 15 | Wing Attack, Water Gun |
 | Slakoth | 15 | Cut |
 | Lombre | 15 | Bullet Seed, Astonish |
-| Wingull | 15 | Wing Attack, Water Gun |
 
 Lead against each Pokémon: Geodude 12 → Lombre (Bullet Seed); Geodude 12 → Lombre (Bullet Seed); Nosepass 15 → Lombre (Bullet Seed)
 
@@ -580,9 +578,9 @@ This leg: 34 of 34 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Torchic | 15 | Ember, Scratch |
+| Wingull | 15 | Wing Attack, Water Gun |
 | Slakoth | 15 | Cut |
 | Lombre | 15 | Bullet Seed, Astonish |
-| Wingull | 15 | Wing Attack, Water Gun |
 
 Lead against each Pokémon: Torkoal 13 → Wingull (Water Gun); Mudkip 15 → Lombre (Bullet Seed)
 
@@ -602,10 +600,10 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Combusken | 19 | Double Kick, Ember, Scratch, Peck |
-| Vigoroth | 19 | Fury Swipes |
-| Lombre | 19 | Bullet Seed, Astonish |
-| Kadabra | 19 | Confusion |
 | Wingull | 19 | Wing Attack, Water Gun |
+| Vigoroth | 19 | Fury Swipes |
+| Kadabra | 19 | Confusion |
+| Lombre | 19 | Bullet Seed, Astonish |
 
 Lead against each Pokémon: Machop 16 → Kadabra (Confusion); Meditite 16 → Combusken (Peck); Makuhita 19 → Kadabra (Confusion)
 
@@ -616,22 +614,22 @@ This leg: 25 of 25 trainer Pokémon won.
 Changes:
 
 - Add Electrike: Route 110, grass (Lv 12-13)
-- Teach TM10 Hidden Power to Combusken (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
-- Teach TM10 Hidden Power to Vigoroth (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
-- Teach TM10 Hidden Power to Lombre (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
-- Teach TM43 Secret Power to Kadabra (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
-- Teach TM10 Hidden Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Teach TM43 Secret Power to Combusken (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Teach TM43 Secret Power to Wingull (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Teach TM46 Thief to Wingull (Slateport City (Oceanic Museum 1F), from Aqua Grunt (after you beat him))
+- Teach TM43 Secret Power to Vigoroth (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
+- Teach TM43 Secret Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
+- Teach TM43 Secret Power to Kadabra (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
+- Teach TM43 Secret Power to Lombre (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 20 | Double Kick, Hidden Power, Ember, Peck |
-| Vigoroth | 20 | Hidden Power |
-| Lombre | 20 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 20 | Confusion, Secret Power |
-| Electrike | 20 | Spark, Hidden Power |
+| Combusken | 20 | Double Kick, Secret Power, Ember, Peck |
 | Wingull | 20 | Water Gun, Wing Attack, Secret Power, Thief |
+| Vigoroth | 20 | Secret Power |
+| Electrike | 20 | Spark, Secret Power |
+| Kadabra | 20 | Confusion, Secret Power |
+| Lombre | 20 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Lombre 18 → Combusken (Double Kick); Slugma 18 → Combusken (Double Kick); Marshtomp 20 → Lombre (Bullet Seed)
 
@@ -642,18 +640,18 @@ This leg: 62 of 62 trainer Pokémon won.
 Changes:
 
 - Teach TM35 Flamethrower to Combusken (Mauville City (Game Corner prize counter), 4,000 coins)
-- Teach TM29 Psychic to Kadabra (Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F))
-- Teach TM24 Thunderbolt to Electrike (Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins)
 - Teach TM13 Ice Beam to Wingull (Mauville City (Game Corner prize counter), 4,000 coins; or Abandoned Ship (Room B1F))
+- Teach TM24 Thunderbolt to Electrike (Mauville City, from Wattson (after you fix New Mauville); or Mauville City (Game Corner prize counter), 4,000 coins)
+- Teach TM29 Psychic to Kadabra (Mauville City (Game Corner prize counter), 3,500 coins; or Victory Road (B1F))
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 20 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 20 | Hidden Power |
-| Lombre | 20 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 20 | Psychic, Secret Power |
-| Electrike | 20 | Thunderbolt, Hidden Power |
+| Combusken | 20 | Flamethrower, Double Kick, Secret Power, Peck |
 | Wingull | 20 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 20 | Secret Power |
+| Electrike | 20 | Thunderbolt, Secret Power |
+| Kadabra | 20 | Psychic, Secret Power |
+| Lombre | 20 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Ralts 16 → Kadabra (Psychic)
 
@@ -663,12 +661,12 @@ This leg: 20 of 20 trainer Pokémon won.
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 24 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 24 | Hidden Power |
-| Lombre | 24 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 24 | Psychic, Secret Power |
-| Electrike | 24 | Thunderbolt, Hidden Power |
+| Combusken | 24 | Flamethrower, Double Kick, Secret Power, Peck |
 | Wingull | 24 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 24 | Secret Power |
+| Electrike | 24 | Thunderbolt, Secret Power |
+| Kadabra | 24 | Psychic, Secret Power |
+| Lombre | 24 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Voltorb 20 → Kadabra (Psychic); Electrike 20 → Combusken (Flamethrower); Magneton 22 → Combusken (Flamethrower); Manectric 24 → Kadabra (Psychic), no clean win
 
@@ -682,14 +680,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 24 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 24 | Hidden Power |
-| Lombre | 24 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 24 | Psychic, Secret Power |
-| Electrike | 24 | Thunderbolt, Return |
+| Combusken | 24 | Flamethrower, Double Kick, Secret Power, Peck |
 | Wingull | 24 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 24 | Secret Power |
+| Electrike | 24 | Thunderbolt, Return |
+| Kadabra | 24 | Psychic, Secret Power |
+| Lombre | 24 | Secret Power, Bullet Seed, Astonish |
 
-Lead against each Pokémon: Numel 18 → Kadabra (Psychic); Poochyena 20 → Combusken (Double Kick); Numel 22 → Wingull (Water Gun); Zubat 22 → Electrike (Thunderbolt)
+Lead against each Pokémon: Numel 18 → Wingull (Water Gun); Poochyena 20 → Combusken (Double Kick); Numel 22 → Wingull (Water Gun); Zubat 22 → Electrike (Thunderbolt)
 
 This leg: 107 of 107 trainer Pokémon won.
 
@@ -701,12 +699,12 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 25 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 25 | Hidden Power |
-| Lombre | 25 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 25 | Psychic, Secret Power |
-| Electrike | 25 | Thunderbolt, Return |
+| Combusken | 25 | Flamethrower, Double Kick, Secret Power, Peck |
 | Pelipper | 25 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 25 | Secret Power |
+| Electrike | 25 | Thunderbolt, Return |
+| Kadabra | 25 | Psychic, Secret Power |
+| Lombre | 25 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Mightyena 24 → Combusken (Flamethrower); Zubat 24 → Pelipper (Ice Beam); Camerupt 25 → Pelipper (Water Gun)
 
@@ -720,14 +718,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 29 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 29 | Hidden Power |
-| Lombre | 29 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 29 | Psychic, Secret Power |
-| Manectric | 29 | Thunderbolt, Return |
+| Combusken | 29 | Flamethrower, Double Kick, Secret Power, Peck |
 | Pelipper | 29 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 29 | Secret Power |
+| Manectric | 29 | Thunderbolt, Return |
+| Kadabra | 29 | Psychic, Secret Power |
+| Lombre | 29 | Secret Power, Bullet Seed, Astonish |
 
-Lead against each Pokémon: Numel 24 → Pelipper (Water Gun); Slugma 24 → Kadabra (Psychic); Camerupt 26 → Pelipper (Water Gun); Torkoal 29 → Pelipper (Water Gun)
+Lead against each Pokémon: Numel 24 → Pelipper (Water Gun); Slugma 24 → Manectric (Thunderbolt); Camerupt 26 → Pelipper (Water Gun); Torkoal 29 → Pelipper (Water Gun)
 
 This leg: 81 of 81 trainer Pokémon won.
 
@@ -739,12 +737,12 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 31 | Flamethrower, Double Kick, Hidden Power, Peck |
-| Vigoroth | 31 | Slash |
-| Lombre | 31 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 31 | Psychic, Secret Power |
-| Manectric | 31 | Thunderbolt, Return |
+| Combusken | 31 | Flamethrower, Double Kick, Secret Power, Peck |
 | Pelipper | 31 | Ice Beam, Water Gun, Wing Attack, Secret Power |
+| Vigoroth | 31 | Slash |
+| Manectric | 31 | Thunderbolt, Return |
+| Kadabra | 31 | Psychic, Secret Power |
+| Lombre | 31 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Spinda 27 → Manectric (Thunderbolt); Vigoroth 27 → Combusken (Double Kick); Linoone 29 → Combusken (Double Kick); Slaking 31 → Manectric (Thunderbolt), no clean win
 
@@ -755,17 +753,17 @@ This leg: 3 of 4 trainer Pokémon won.
 Changes:
 
 - Teach TM50 Overheat to Combusken (Lavaridge Town (Gym 1F), from Flannery (after winning))
+- Teach TM42 Facade to Combusken (Petalburg City (Gym), from Norman (after winning))
 - Teach HM03 Surf to Pelipper (Petalburg City (Wally's House), from Wally's father (after you beat Norman))
-- Teach TM42 Facade to Pelipper (Petalburg City (Gym), from Norman (after winning))
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 31 | Overheat, Double Kick, Hidden Power, Peck |
+| Combusken | 31 | Overheat, Double Kick, Facade, Peck |
+| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Secret Power |
 | Vigoroth | 31 | Slash |
-| Lombre | 31 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 31 | Psychic, Secret Power |
 | Manectric | 31 | Thunderbolt, Return |
-| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Facade |
+| Kadabra | 31 | Psychic, Secret Power |
+| Lombre | 31 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Carvanha 28 → Combusken (Double Kick); Mightyena 28 → Combusken (Overheat)
 
@@ -775,12 +773,12 @@ This leg: 106 of 106 trainer Pokémon won.
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 31 | Overheat, Double Kick, Hidden Power, Peck |
+| Combusken | 31 | Overheat, Double Kick, Facade, Peck |
+| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Secret Power |
 | Vigoroth | 31 | Slash |
-| Lombre | 31 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 31 | Psychic, Secret Power |
 | Manectric | 31 | Thunderbolt, Return |
-| Pelipper | 31 | Surf, Ice Beam, Wing Attack, Facade |
+| Kadabra | 31 | Psychic, Secret Power |
+| Lombre | 31 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Lombre 29 → Vigoroth (Slash); Slugma 29 → Pelipper (Surf); Marshtomp 31 → Kadabra (Psychic)
 
@@ -790,12 +788,12 @@ This leg: 3 of 3 trainer Pokémon won.
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 33 | Overheat, Double Kick, Hidden Power, Peck |
+| Combusken | 33 | Overheat, Double Kick, Facade, Peck |
+| Pelipper | 33 | Surf, Ice Beam, Wing Attack, Secret Power |
 | Vigoroth | 33 | Slash |
-| Lombre | 33 | Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 33 | Psychic, Secret Power |
 | Manectric | 33 | Thunderbolt, Return |
-| Pelipper | 33 | Surf, Ice Beam, Wing Attack, Facade |
+| Kadabra | 33 | Psychic, Secret Power |
+| Lombre | 33 | Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Swablu 29 → Manectric (Thunderbolt); Tropius 29 → Pelipper (Ice Beam); Pelipper 30 → Manectric (Thunderbolt); Skarmory 31 → Manectric (Thunderbolt); Altaria 33 → Pelipper (Ice Beam)
 
@@ -805,19 +803,19 @@ This leg: 43 of 43 trainer Pokémon won.
 
 Changes:
 
-- Teach TM22 Solarbeam to Vigoroth (Safari Zone (Northwest))
-- Teach TM14 Blizzard to Lombre (Lilycove City (Department Store 4F (TMs)), ₽5,500)
-- Teach TM25 Thunder to Manectric (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 - Teach TM15 Hyper Beam to Pelipper (Lilycove City (Department Store 4F (TMs)), ₽7,500)
+- Teach TM22 Solarbeam to Vigoroth (Safari Zone (Northwest))
+- Teach TM25 Thunder to Manectric (Lilycove City (Department Store 4F (TMs)), ₽5,500)
+- Teach TM14 Blizzard to Lombre (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 34 | Overheat, Double Kick, Hidden Power, Peck |
-| Vigoroth | 34 | Slash, Solarbeam |
-| Lombre | 34 | Blizzard, Hidden Power, Bullet Seed, Astonish |
-| Kadabra | 34 | Psychic, Secret Power |
-| Manectric | 34 | Thunder, Return |
+| Combusken | 34 | Overheat, Double Kick, Facade, Peck |
 | Pelipper | 34 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Vigoroth | 34 | Slash, Solarbeam |
+| Manectric | 34 | Thunder, Return |
+| Kadabra | 34 | Psychic, Secret Power |
+| Lombre | 34 | Blizzard, Secret Power, Bullet Seed, Astonish |
 
 Lead against each Pokémon: Tropius 31 → Combusken (Overheat); Ludicolo 32 → Manectric (Thunder); Slugma 32 → Pelipper (Surf); Marshtomp 34 → Vigoroth (Solarbeam)
 
@@ -832,12 +830,12 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Combusken | 34 | Overheat, Double Kick, Hidden Power, Peck |
-| Vigoroth | 34 | Slash, Shadow Ball, Solarbeam |
-| Lombre | 34 | Blizzard, Giga Drain, Hidden Power, Astonish |
-| Kadabra | 34 | Psychic, Secret Power |
-| Manectric | 34 | Thunder, Return |
+| Combusken | 34 | Overheat, Double Kick, Facade, Peck |
 | Pelipper | 34 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Vigoroth | 34 | Slash, Shadow Ball, Solarbeam |
+| Manectric | 34 | Thunder, Return |
+| Kadabra | 34 | Psychic, Secret Power |
+| Lombre | 34 | Blizzard, Giga Drain, Secret Power, Astonish |
 
 Lead against each Pokémon: Numel 26 → Pelipper (Surf); Mightyena 28 → Combusken (Overheat); Zubat 30 → Manectric (Thunder); Camerupt 33 → Pelipper (Surf)
 
@@ -852,17 +850,17 @@ Changes:
 - Evolve Vigoroth into Slaking
 - Teach TM15 Hyper Beam to Slaking (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 - Slaking learns Faint Attack (Lv 19)
-- Lombre learns Thief (Lv 37)
 - Manectric learns Bite (Lv 39)
+- Lombre learns Thief (Lv 37)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 39 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 39 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
-| Lombre | 39 | Blizzard, Giga Drain, Hidden Power, Thief |
-| Kadabra | 39 | Psychic, Secret Power |
-| Manectric | 39 | Thunder, Return, Bite |
 | Pelipper | 39 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 39 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
+| Manectric | 39 | Thunder, Return, Bite |
+| Kadabra | 39 | Psychic, Secret Power |
+| Lombre | 39 | Blizzard, Giga Drain, Secret Power, Thief |
 
 Lead against each Pokémon: Mightyena 37 → Blaziken (Overheat); Crobat 38 → Slaking (Hyper Beam); Camerupt 39 → Slaking (Hyper Beam)
 
@@ -873,11 +871,11 @@ This leg: 3 of 3 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 39 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 39 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
-| Lombre | 39 | Blizzard, Giga Drain, Hidden Power, Thief |
-| Kadabra | 39 | Psychic, Secret Power |
-| Manectric | 39 | Thunder, Return, Bite |
 | Pelipper | 39 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 39 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
+| Manectric | 39 | Thunder, Return, Bite |
+| Kadabra | 39 | Psychic, Secret Power |
+| Lombre | 39 | Blizzard, Giga Drain, Secret Power, Thief |
 
 Lead against each Pokémon: Mightyena 34 → Blaziken (Overheat); Golbat 34 → Slaking (Hyper Beam)
 
@@ -894,13 +892,13 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 42 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 42 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
-| Ludicolo | 42 | Blizzard, Giga Drain, Hyper Beam, Dive |
-| Kadabra | 42 | Psychic, Secret Power |
-| Manectric | 42 | Thunder, Return, Bite |
 | Pelipper | 42 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 42 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
+| Manectric | 42 | Thunder, Return, Bite |
+| Kadabra | 42 | Psychic, Secret Power |
+| Ludicolo | 42 | Blizzard, Giga Drain, Hyper Beam, Dive |
 
-Lead against each Pokémon: Claydol 41 → Ludicolo (Blizzard); Xatu 41 → Slaking (Hyper Beam); Lunatone 42 → Slaking (Shadow Ball); Solrock 42 → Manectric (Thunder)
+Lead against each Pokémon: Claydol 41 → Ludicolo (Blizzard); Xatu 41 → Slaking (Hyper Beam); Lunatone 42 → Slaking (Shadow Ball); Solrock 42 → Pelipper (Surf)
 
 This leg: 37 of 37 trainer Pokémon won.
 
@@ -909,11 +907,11 @@ This leg: 37 of 37 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 44 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 44 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
-| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
-| Kadabra | 44 | Psychic, Secret Power |
-| Manectric | 44 | Thunder, Return, Bite |
 | Pelipper | 44 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 44 | Hyper Beam, Shadow Ball, Faint Attack, Solarbeam |
+| Manectric | 44 | Thunder, Return, Bite |
+| Kadabra | 44 | Psychic, Secret Power |
+| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
 
 Lead against each Pokémon: Mightyena 42 → Blaziken (Overheat); Crobat 43 → Slaking (Hyper Beam); Camerupt 44 → Slaking (Hyper Beam)
 
@@ -928,11 +926,11 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 44 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 44 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
-| Kadabra | 44 | Psychic, Secret Power |
-| Manectric | 44 | Thunder, Return, Bite |
 | Pelipper | 44 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 44 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 44 | Thunder, Return, Bite |
+| Kadabra | 44 | Psychic, Secret Power |
+| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
 
 Lead against each Pokémon: Sharpedo 37 → Blaziken (Double Kick); Mightyena 37 → Slaking (Hyper Beam)
 
@@ -943,11 +941,11 @@ This leg: 43 of 43 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 44 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 44 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
-| Kadabra | 44 | Psychic, Secret Power |
-| Manectric | 44 | Thunder, Return, Bite |
 | Pelipper | 44 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 44 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 44 | Thunder, Return, Bite |
+| Kadabra | 44 | Psychic, Secret Power |
+| Ludicolo | 44 | Blizzard, Giga Drain, Hyper Beam, Dive |
 
 Lead against each Pokémon: Mightyena 41 → Blaziken (Overheat); Crobat 41 → Slaking (Hyper Beam); Sharpedo 43 → Slaking (Hyper Beam)
 
@@ -962,11 +960,11 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 46 | Overheat, Double Kick, Hyper Beam, Peck |
-| Slaking | 46 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 46 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 46 | Psychic, Secret Power |
-| Manectric | 46 | Thunder, Return, Bite |
 | Pelipper | 46 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 46 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 46 | Thunder, Return, Bite |
+| Kadabra | 46 | Psychic, Secret Power |
+| Ludicolo | 46 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Luvdisc 41 → Slaking (Hyper Beam); Whiscash 41 → Slaking (Hyper Beam); Sealeo 43 → Slaking (Hyper Beam); Crawdaunt 43 → Slaking (Hyper Beam); Kingdra 46 → Manectric (Thunder)
 
@@ -981,11 +979,11 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 46 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 46 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 46 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 46 | Psychic, Secret Power |
-| Manectric | 46 | Thunder, Return, Bite |
 | Pelipper | 46 | Surf, Ice Beam, Wing Attack, Hyper Beam |
+| Slaking | 46 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 46 | Thunder, Return, Bite |
+| Kadabra | 46 | Psychic, Secret Power |
+| Ludicolo | 46 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Altaria 44 → Slaking (Hyper Beam); Delcatty 43 → Blaziken (Brick Break); Roselia 44 → Blaziken (Overheat); Magneton 41 → Slaking (Earthquake); Gardevoir 45 → Slaking (Hyper Beam)
 
@@ -1000,11 +998,11 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 49 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 49 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 49 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 49 | Psychic, Secret Power |
-| Manectric | 49 | Thunder, Return, Bite |
 | Pelipper | 49 | Surf, Ice Beam, Spit Up, Wing Attack |
+| Slaking | 49 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 49 | Thunder, Return, Bite |
+| Kadabra | 49 | Psychic, Secret Power |
+| Ludicolo | 49 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Mightyena 46 → Blaziken (Overheat); Shiftry 48 → Slaking (Hyper Beam); Cacturne 46 → Blaziken (Overheat); Crawdaunt 48 → Slaking (Hyper Beam); Absol 49 → Slaking (Hyper Beam)
 
@@ -1015,11 +1013,11 @@ This leg: 5 of 5 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 51 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 51 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 51 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 51 | Psychic, Secret Power |
-| Manectric | 51 | Thunder, Return, Bite |
 | Pelipper | 51 | Surf, Ice Beam, Spit Up, Wing Attack |
+| Slaking | 51 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 51 | Thunder, Return, Bite |
+| Kadabra | 51 | Psychic, Secret Power |
+| Ludicolo | 51 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Dusclops 48 → Manectric (Thunder); Banette 49 → Blaziken (Overheat); Sableye 50 → Blaziken (Overheat); Banette 49 → Blaziken (Overheat); Dusclops 51 → Slaking (Shadow Ball)
 
@@ -1030,11 +1028,11 @@ This leg: 5 of 5 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 53 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 53 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 53 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 53 | Psychic, Secret Power |
-| Manectric | 53 | Thunder, Return, Bite |
 | Pelipper | 53 | Surf, Ice Beam, Spit Up, Wing Attack |
+| Slaking | 53 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 53 | Thunder, Return, Bite |
+| Kadabra | 53 | Psychic, Secret Power |
+| Ludicolo | 53 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Sealeo 50 → Slaking (Hyper Beam); Glalie 50 → Blaziken (Overheat); Sealeo 52 → Slaking (Hyper Beam); Glalie 52 → Blaziken (Overheat), no clean win; Walrein 53 → Manectric (Thunder)
 
@@ -1045,11 +1043,11 @@ This leg: 4 of 5 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 55 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 55 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 55 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 55 | Psychic, Secret Power |
-| Manectric | 55 | Thunder, Return, Bite |
 | Pelipper | 55 | Surf, Ice Beam, Spit Up, Wing Attack |
+| Slaking | 55 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 55 | Thunder, Return, Bite |
+| Kadabra | 55 | Psychic, Secret Power |
+| Ludicolo | 55 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Shelgon 52 → Ludicolo (Blizzard); Altaria 54 → Ludicolo (Blizzard); Kingdra 53 → Manectric (Thunder); Flygon 53 → Slaking (Hyper Beam); Salamence 55 → Ludicolo (Blizzard)
 
@@ -1060,11 +1058,11 @@ This leg: 5 of 5 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Blaziken | 58 | Overheat, Brick Break, Hyper Beam, Peck |
-| Slaking | 58 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
-| Ludicolo | 58 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
-| Kadabra | 58 | Psychic, Secret Power |
-| Manectric | 58 | Thunder, Return, Bite |
 | Pelipper | 58 | Surf, Ice Beam, Spit Up, Wing Attack |
+| Slaking | 58 | Hyper Beam, Earthquake, Shadow Ball, Faint Attack |
+| Manectric | 58 | Thunder, Return, Bite |
+| Kadabra | 58 | Psychic, Secret Power |
+| Ludicolo | 58 | Waterfall, Blizzard, Giga Drain, Hyper Beam |
 
 Lead against each Pokémon: Wailord 57 → Manectric (Thunder); Tentacruel 55 → Slaking (Hyper Beam); Ludicolo 56 → Slaking (Hyper Beam); Whiscash 56 → Ludicolo (Giga Drain); Gyarados 56 → Manectric (Thunder); Milotic 58 → Manectric (Thunder)
 
@@ -1127,14 +1125,13 @@ Changes:
 - Add Abra: Route 116, grass (Lv 7)
 - Evolve Mudkip into Marshtomp
 - Marshtomp learns Mud Shot (Lv 16)
-- Teach HM04 Strength to Nuzleaf (Rusturf Tunnel, from Wanda's boyfriend (once the tunnel is open))
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Marshtomp | 19 | Mud Shot, Water Gun, Tackle |
 | Taillow | 19 | Wing Attack, Quick Attack |
 | Magikarp | 19 | Tackle |
-| Nuzleaf | 19 | Strength, Bullet Seed |
+| Nuzleaf | 19 | Bullet Seed |
 | Kadabra | 19 | Confusion |
 | Zigzagoon | 19 | Headbutt |
 
@@ -1148,24 +1145,25 @@ Changes:
 
 - Add Electrike: Route 110, grass (Lv 12-13)
 - Box Zigzagoon
-- Teach TM10 Hidden Power to Marshtomp (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
-- Teach TM10 Hidden Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Fortree City (House 2), from Old woman (guess the coin))
+- Teach TM43 Secret Power to Marshtomp (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
+- Teach TM43 Secret Power to Electrike (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Teach TM43 Secret Power to Taillow (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Evolve Magikarp into Gyarados
-- Teach HM04 Strength to Gyarados (Rusturf Tunnel, from Wanda's boyfriend (once the tunnel is open))
+- Teach TM43 Secret Power to Gyarados (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Gyarados learns Bite (Lv 20)
+- Teach TM43 Secret Power to Nuzleaf (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 - Teach TM43 Secret Power to Kadabra (Slateport City (Market: TM stall), ₽3,000; or Route 111, from Boy by the Secret Base tree)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 20 | Mud Shot, Hidden Power, Water Gun |
-| Electrike | 20 | Spark, Hidden Power |
+| Marshtomp | 20 | Mud Shot, Secret Power, Water Gun |
+| Electrike | 20 | Spark, Secret Power |
 | Taillow | 20 | Secret Power, Wing Attack |
-| Gyarados | 20 | Strength, Bite |
-| Nuzleaf | 20 | Strength, Bullet Seed |
+| Gyarados | 20 | Secret Power, Bite |
+| Nuzleaf | 20 | Secret Power, Bullet Seed |
 | Kadabra | 20 | Confusion, Secret Power |
 
-Lead against each Pokémon: Wingull 18 → Gyarados (Strength); Slugma 18 → Marshtomp (Mud Shot); Grovyle 20 → Gyarados (Strength)
+Lead against each Pokémon: Wingull 18 → Gyarados (Secret Power); Slugma 18 → Marshtomp (Mud Shot); Grovyle 20 → Gyarados (Secret Power)
 
 This leg: 62 of 62 trainer Pokémon won.
 
@@ -1180,14 +1178,14 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 20 | Mud Shot, Hidden Power, Water Gun, Rock Smash |
-| Electrike | 20 | Thunderbolt, Hidden Power |
+| Marshtomp | 20 | Mud Shot, Secret Power, Water Gun, Rock Smash |
+| Electrike | 20 | Thunderbolt, Secret Power |
 | Taillow | 20 | Secret Power, Wing Attack |
-| Gyarados | 20 | Strength, Bite, Rock Smash |
-| Nuzleaf | 20 | Strength, Bullet Seed |
+| Gyarados | 20 | Secret Power, Bite, Rock Smash |
+| Nuzleaf | 20 | Secret Power, Bullet Seed |
 | Kadabra | 20 | Psychic, Secret Power |
 
-Lead against each Pokémon: Ralts 16 → Nuzleaf (Strength)
+Lead against each Pokémon: Ralts 16 → Kadabra (Psychic)
 
 This leg: 20 of 20 trainer Pokémon won.
 
@@ -1199,11 +1197,11 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 24 | Mud Shot, Hidden Power, Water Gun, Rock Smash |
-| Electrike | 24 | Thunderbolt, Hidden Power |
+| Marshtomp | 24 | Mud Shot, Secret Power, Water Gun, Rock Smash |
+| Electrike | 24 | Thunderbolt, Secret Power |
 | Swellow | 24 | Secret Power, Wing Attack |
-| Gyarados | 24 | Strength, Bite, Rock Smash |
-| Nuzleaf | 24 | Strength, Bullet Seed |
+| Gyarados | 24 | Secret Power, Bite, Rock Smash |
+| Nuzleaf | 24 | Secret Power, Bullet Seed |
 | Kadabra | 24 | Psychic, Secret Power |
 
 Lead against each Pokémon: Voltorb 20 → Marshtomp (Mud Shot); Electrike 20 → Marshtomp (Mud Shot); Magneton 22 → Marshtomp (Mud Shot); Manectric 24 → Marshtomp (Mud Shot)
@@ -1218,11 +1216,11 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 24 | Mud Shot, Hidden Power, Water Gun, Rock Smash |
-| Electrike | 24 | Thunderbolt, Hidden Power |
+| Marshtomp | 24 | Mud Shot, Secret Power, Water Gun, Rock Smash |
+| Electrike | 24 | Thunderbolt, Secret Power |
 | Swellow | 24 | Secret Power, Wing Attack |
 | Gyarados | 24 | Return, Bite, Rock Smash |
-| Nuzleaf | 24 | Strength, Bullet Seed |
+| Nuzleaf | 24 | Secret Power, Bullet Seed |
 | Kadabra | 24 | Psychic, Secret Power |
 
 Lead against each Pokémon: Numel 18 → Gyarados (Return); Poochyena 20 → Gyarados (Return); Numel 22 → Marshtomp (Water Gun); Zubat 22 → Gyarados (Return)
@@ -1237,11 +1235,11 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 25 | Mud Shot, Hidden Power, Water Gun, Rock Smash |
-| Electrike | 25 | Thunderbolt, Hidden Power |
+| Marshtomp | 25 | Mud Shot, Secret Power, Water Gun, Rock Smash |
+| Electrike | 25 | Thunderbolt, Secret Power |
 | Swellow | 25 | Secret Power, Wing Attack |
 | Gyarados | 25 | Return, Bite, Dragon Rage, Rock Smash |
-| Nuzleaf | 25 | Strength, Bullet Seed |
+| Nuzleaf | 25 | Secret Power, Bullet Seed |
 | Kadabra | 25 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 24 → Gyarados (Dragon Rage); Zubat 24 → Gyarados (Return); Camerupt 25 → Gyarados (Dragon Rage)
@@ -1256,11 +1254,11 @@ Changes:
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
-| Marshtomp | 29 | Mud Shot, Hidden Power, Water Gun, Rock Smash |
-| Manectric | 29 | Thunderbolt, Hidden Power |
+| Marshtomp | 29 | Mud Shot, Secret Power, Water Gun, Rock Smash |
+| Manectric | 29 | Thunderbolt, Secret Power |
 | Swellow | 29 | Secret Power, Wing Attack |
 | Gyarados | 29 | Return, Bite, Dragon Rage, Rock Smash |
-| Nuzleaf | 29 | Strength, Bullet Seed |
+| Nuzleaf | 29 | Secret Power, Bullet Seed |
 | Kadabra | 29 | Psychic, Secret Power |
 
 Lead against each Pokémon: Numel 24 → Marshtomp (Water Gun); Slugma 24 → Gyarados (Return); Camerupt 26 → Gyarados (Dragon Rage); Torkoal 29 → Gyarados (Dragon Rage)
@@ -1277,10 +1275,10 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Marshtomp | 31 | Take Down, Mud Shot, Water Gun, Rock Smash |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Swellow | 31 | Secret Power, Wing Attack |
 | Gyarados | 31 | Return, Bite, Dragon Rage, Rock Smash |
-| Nuzleaf | 31 | Strength, Faint Attack, Bullet Seed |
+| Nuzleaf | 31 | Faint Attack, Secret Power, Bullet Seed |
 | Kadabra | 31 | Psychic, Secret Power |
 
 Lead against each Pokémon: Spinda 27 → Gyarados (Return); Vigoroth 27 → Manectric (Thunderbolt); Linoone 29 → Manectric (Thunderbolt); Slaking 31 → Manectric (Thunderbolt), no clean win
@@ -1298,10 +1296,10 @@ Changes:
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Marshtomp | 31 | Take Down, Mud Shot, Water Gun, Rock Smash |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Swellow | 31 | Facade, Wing Attack |
 | Gyarados | 31 | Return, Surf, Bite, Dragon Rage |
-| Shiftry | 31 | Faint Attack, Strength, Bullet Seed |
+| Shiftry | 31 | Faint Attack, Secret Power, Bullet Seed |
 | Kadabra | 31 | Psychic, Secret Power |
 
 Lead against each Pokémon: Carvanha 28 → Shiftry (Bullet Seed); Mightyena 28 → Gyarados (Surf)
@@ -1313,10 +1311,10 @@ This leg: 106 of 106 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Marshtomp | 31 | Take Down, Mud Shot, Water Gun, Rock Smash |
-| Manectric | 31 | Thunderbolt, Hidden Power |
+| Manectric | 31 | Thunderbolt, Secret Power |
 | Swellow | 31 | Facade, Wing Attack |
 | Gyarados | 31 | Return, Surf, Bite, Dragon Rage |
-| Shiftry | 31 | Faint Attack, Strength, Bullet Seed |
+| Shiftry | 31 | Faint Attack, Secret Power, Bullet Seed |
 | Kadabra | 31 | Psychic, Secret Power |
 
 Lead against each Pokémon: Slugma 29 → Marshtomp (Mud Shot); Lombre 29 → Gyarados (Return); Grovyle 31 → Swellow (Wing Attack)
@@ -1328,10 +1326,10 @@ This leg: 3 of 3 trainer Pokémon won.
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
 | Marshtomp | 33 | Take Down, Mud Shot, Water Gun, Rock Smash |
-| Manectric | 33 | Thunderbolt, Hidden Power |
+| Manectric | 33 | Thunderbolt, Secret Power |
 | Swellow | 33 | Facade, Wing Attack |
 | Gyarados | 33 | Return, Surf, Bite, Dragon Rage |
-| Shiftry | 33 | Faint Attack, Strength, Bullet Seed |
+| Shiftry | 33 | Faint Attack, Secret Power, Bullet Seed |
 | Kadabra | 33 | Psychic, Secret Power |
 
 Lead against each Pokémon: Swablu 29 → Manectric (Thunderbolt); Tropius 29 → Swellow (Wing Attack); Pelipper 30 → Manectric (Thunderbolt); Skarmory 31 → Manectric (Thunderbolt); Altaria 33 → Gyarados (Dragon Rage)
@@ -1348,6 +1346,7 @@ Changes:
 - Teach TM15 Hyper Beam to Swellow (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 - Teach TM14 Blizzard to Gyarados (Lilycove City (Department Store 4F (TMs)), ₽5,500)
 - Teach TM38 Fire Blast to Gyarados (Lilycove City (Department Store 4F (TMs)), ₽5,500)
+- Teach TM15 Hyper Beam to Shiftry (Lilycove City (Department Store 4F (TMs)), ₽7,500)
 
 | Pokémon | Lv | Moves |
 | --- | --- | --- |
@@ -1355,7 +1354,7 @@ Changes:
 | Manectric | 34 | Thunder, Hyper Beam |
 | Swellow | 34 | Hyper Beam, Wing Attack |
 | Gyarados | 34 | Return, Surf, Blizzard, Fire Blast |
-| Shiftry | 34 | Faint Attack, Strength, Bullet Seed |
+| Shiftry | 34 | Faint Attack, Hyper Beam, Bullet Seed |
 | Kadabra | 34 | Psychic, Secret Power |
 
 Lead against each Pokémon: Tropius 31 → Gyarados (Blizzard); Slugma 32 → Marshtomp (Mud Shot); Pelipper 32 → Manectric (Thunder); Grovyle 34 → Swellow (Hyper Beam)
@@ -1375,7 +1374,7 @@ Changes:
 | Manectric | 34 | Thunder, Hyper Beam |
 | Swellow | 34 | Hyper Beam, Wing Attack |
 | Gyarados | 34 | Return, Surf, Blizzard, Fire Blast |
-| Shiftry | 34 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 34 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 34 | Psychic, Secret Power |
 
 Lead against each Pokémon: Numel 26 → Gyarados (Surf); Mightyena 28 → Manectric (Thunder); Zubat 30 → Gyarados (Blizzard); Camerupt 33 → Gyarados (Surf)
@@ -1397,7 +1396,7 @@ Changes:
 | Manectric | 39 | Thunder, Bite, Hyper Beam |
 | Swellow | 39 | Hyper Beam, Aerial Ace |
 | Gyarados | 39 | Return, Surf, Blizzard, Fire Blast |
-| Shiftry | 39 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 39 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 39 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 37 → Swampert (Muddy Water); Crobat 38 → Manectric (Thunder); Camerupt 39 → Swampert (Muddy Water)
@@ -1412,7 +1411,7 @@ This leg: 3 of 3 trainer Pokémon won.
 | Manectric | 39 | Thunder, Bite, Hyper Beam |
 | Swellow | 39 | Hyper Beam, Aerial Ace |
 | Gyarados | 39 | Return, Surf, Blizzard, Fire Blast |
-| Shiftry | 39 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 39 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 39 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 34 → Manectric (Thunder); Golbat 34 → Manectric (Thunder)
@@ -1431,7 +1430,7 @@ Changes:
 | Manectric | 42 | Thunder, Bite, Hyper Beam |
 | Swellow | 42 | Hyper Beam, Aerial Ace |
 | Gyarados | 42 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 42 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 42 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 42 | Psychic, Secret Power |
 
 Lead against each Pokémon: Claydol 41 → Gyarados (Hydro Pump); Xatu 41 → Manectric (Thunder); Lunatone 42 → Swampert (Muddy Water); Solrock 42 → Gyarados (Hydro Pump)
@@ -1446,7 +1445,7 @@ This leg: 37 of 37 trainer Pokémon won.
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Swellow | 44 | Hyper Beam, Aerial Ace |
 | Gyarados | 44 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 44 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 44 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 42 → Gyarados (Hydro Pump); Crobat 43 → Manectric (Thunder); Camerupt 44 → Swampert (Muddy Water)
@@ -1465,7 +1464,7 @@ Changes:
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Swellow | 44 | Hyper Beam, Aerial Ace |
 | Gyarados | 44 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 44 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 44 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
 
 Lead against each Pokémon: Sharpedo 37 → Swampert (Earthquake); Mightyena 37 → Manectric (Thunder)
@@ -1480,7 +1479,7 @@ This leg: 43 of 43 trainer Pokémon won.
 | Manectric | 44 | Thunder, Bite, Hyper Beam |
 | Swellow | 44 | Hyper Beam, Aerial Ace |
 | Gyarados | 44 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 44 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 44 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 44 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 41 → Gyarados (Hydro Pump); Crobat 41 → Manectric (Thunder); Sharpedo 43 → Manectric (Thunder)
@@ -1495,7 +1494,7 @@ This leg: 3 of 3 trainer Pokémon won.
 | Manectric | 46 | Thunder, Bite, Hyper Beam |
 | Swellow | 46 | Hyper Beam, Aerial Ace |
 | Gyarados | 46 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 46 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 46 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 46 | Psychic, Secret Power |
 
 Lead against each Pokémon: Luvdisc 41 → Swampert (Earthquake); Whiscash 41 → Shiftry (Giga Drain); Sealeo 43 → Manectric (Thunder); Crawdaunt 43 → Manectric (Thunder); Kingdra 46 → Swampert (Earthquake)
@@ -1510,7 +1509,7 @@ This leg: 79 of 79 trainer Pokémon won.
 | Manectric | 46 | Thunder, Bite, Hyper Beam |
 | Swellow | 46 | Hyper Beam, Aerial Ace |
 | Gyarados | 46 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 46 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 46 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 46 | Psychic, Secret Power |
 
 Lead against each Pokémon: Altaria 44 → Swampert (Blizzard); Delcatty 43 → Swampert (Earthquake); Roselia 44 → Swellow (Hyper Beam); Magneton 41 → Swampert (Earthquake); Gardevoir 45 → Shiftry (Shadow Ball)
@@ -1525,7 +1524,7 @@ This leg: 83 of 83 trainer Pokémon won.
 | Manectric | 49 | Thunder, Bite, Hyper Beam |
 | Swellow | 49 | Hyper Beam, Aerial Ace |
 | Gyarados | 49 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 49 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 49 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 49 | Psychic, Secret Power |
 
 Lead against each Pokémon: Mightyena 46 → Swampert (Muddy Water); Shiftry 48 → Swampert (Blizzard); Cacturne 46 → Gyarados (Blizzard); Crawdaunt 48 → Manectric (Thunder); Absol 49 → Swampert (Earthquake)
@@ -1540,7 +1539,7 @@ This leg: 5 of 5 trainer Pokémon won.
 | Manectric | 51 | Thunder, Bite, Hyper Beam |
 | Swellow | 51 | Hyper Beam, Aerial Ace |
 | Gyarados | 51 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 51 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 51 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 51 | Psychic, Secret Power |
 
 Lead against each Pokémon: Dusclops 48 → Manectric (Thunder); Banette 49 → Shiftry (Faint Attack); Sableye 50 → Swampert (Earthquake); Banette 49 → Swampert (Earthquake); Dusclops 51 → Swampert (Earthquake)
@@ -1555,7 +1554,7 @@ This leg: 5 of 5 trainer Pokémon won.
 | Manectric | 53 | Thunder, Bite, Hyper Beam |
 | Swellow | 53 | Hyper Beam, Aerial Ace |
 | Gyarados | 53 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 53 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 53 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 53 | Psychic, Secret Power |
 
 Lead against each Pokémon: Sealeo 50 → Manectric (Thunder); Glalie 50 → Manectric (Thunder); Sealeo 52 → Manectric (Thunder); Glalie 52 → Manectric (Thunder), no clean win; Walrein 53 → Manectric (Thunder)
@@ -1570,7 +1569,7 @@ This leg: 4 of 5 trainer Pokémon won.
 | Manectric | 55 | Thunder, Bite, Hyper Beam |
 | Swellow | 55 | Hyper Beam, Aerial Ace |
 | Gyarados | 55 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 55 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 55 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 55 | Psychic, Secret Power |
 
 Lead against each Pokémon: Shelgon 52 → Swampert (Blizzard); Altaria 54 → Gyarados (Blizzard); Kingdra 53 → Manectric (Thunder); Flygon 53 → Swampert (Blizzard); Salamence 55 → Swampert (Blizzard)
@@ -1585,7 +1584,7 @@ This leg: 5 of 5 trainer Pokémon won.
 | Manectric | 58 | Thunder, Bite, Hyper Beam |
 | Swellow | 58 | Hyper Beam, Aerial Ace |
 | Gyarados | 58 | Return, Hydro Pump, Blizzard, Fire Blast |
-| Shiftry | 58 | Faint Attack, Giga Drain, Strength, Shadow Ball |
+| Shiftry | 58 | Faint Attack, Giga Drain, Shadow Ball, Hyper Beam |
 | Kadabra | 58 | Psychic, Secret Power |
 
 Lead against each Pokémon: Wailord 57 → Manectric (Thunder); Tentacruel 55 → Swampert (Earthquake); Ludicolo 56 → Swellow (Aerial Ace); Whiscash 56 → Shiftry (Giga Drain); Gyarados 56 → Manectric (Thunder); Milotic 58 → Manectric (Thunder)
