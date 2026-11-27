@@ -200,43 +200,50 @@
    "id": "1f-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "1F"
+   "where": "1F",
+   "map": true
   },
   {
    "id": "2f-2r-max-elixir",
    "name": "Max Elixir",
    "hidden": false,
-   "where": "2F 2R"
+   "where": "2F 2R",
+   "map": true
   },
   {
    "id": "2f-2r-full-restore",
    "name": "Full Restore",
    "hidden": false,
-   "where": "2F 2R"
+   "where": "2F 2R",
+   "map": true
   },
   {
    "id": "3f-1r-nugget",
    "name": "Nugget",
    "hidden": false,
-   "where": "3F 1R"
+   "where": "3F 1R",
+   "map": true
   },
   {
    "id": "3f-2r-pp-max",
    "name": "PP Max",
    "hidden": false,
-   "where": "3F 2R"
+   "where": "3F 2R",
+   "map": true
   },
   {
    "id": "3f-3r-escape-rope",
    "name": "Escape Rope",
    "hidden": false,
-   "where": "3F 3R"
+   "where": "3F 3R",
+   "map": true
   },
   {
    "id": "4f-max-revive",
    "name": "Max Revive",
    "hidden": false,
-   "where": "4F"
+   "where": "4F",
+   "map": true
   }
  ],
  "gifts": [],
@@ -275,7 +282,8 @@
     }
    ],
    "id": "grunt-magma-hideout",
-   "area": "1F"
+   "area": "1F",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -309,7 +317,8 @@
     }
    ],
    "id": "grunt-magma-hideout-14",
-   "area": "2F 1R"
+   "area": "2F 1R",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -345,7 +354,8 @@
     }
    ],
    "id": "grunt-magma-hideout-15",
-   "area": "2F 2R"
+   "area": "2F 2R",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -382,7 +392,8 @@
     }
    ],
    "id": "grunt-magma-hideout-16",
-   "area": "3F 1R"
+   "area": "3F 1R",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -416,7 +427,8 @@
     }
    ],
    "id": "grunt-magma-hideout-10",
-   "area": "3F 2R"
+   "area": "3F 2R",
+   "map": true
   },
   {
    "class": "Magma Leader",
@@ -507,7 +519,8 @@
     "Super Potion ×2"
    ],
    "id": "maxie-magma-hideout",
-   "area": "4F"
+   "area": "4F",
+   "map": true
   },
   {
    "class": "Magma Admin",
@@ -621,7 +634,8 @@
     }
    ],
    "id": "tabitha-magma-hideout",
-   "area": "4F"
+   "area": "4F",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -657,7 +671,8 @@
     }
    ],
    "id": "grunt-magma-hideout-13",
-   "area": "4F"
+   "area": "4F",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -693,7 +708,8 @@
     }
    ],
    "id": "grunt-magma-hideout-12",
-   "area": "4F"
+   "area": "4F",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -730,9 +746,11 @@
     }
    ],
    "id": "grunt-magma-hideout-11",
-   "area": "4F"
+   "area": "4F",
+   "map": true
   }
  ],
+ "mapCount": 7,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

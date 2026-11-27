@@ -78,43 +78,50 @@
    "id": "outside-zinc",
    "name": "Zinc",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-carbos",
    "name": "Carbos",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-rare-candy",
    "name": "Rare Candy",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-underwater-star-piece",
    "name": "Star Piece",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "map": true
   },
   {
    "id": "hidden-underwater-hp-up",
    "name": "HP Up",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "map": true
   },
   {
    "id": "hidden-underwater-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "map": true
   },
   {
    "id": "hidden-underwater-red-shard",
    "name": "Red Shard",
    "hidden": true,
-   "where": "Underwater"
+   "where": "Underwater",
+   "map": true
   }
  ],
  "gifts": [],
@@ -179,7 +186,8 @@
      ]
     }
    ],
-   "id": "henry"
+   "id": "henry",
+   "map": true
   },
   {
    "class": "Fisherman",
@@ -248,7 +256,8 @@
      ]
     }
    ],
-   "id": "roger"
+   "id": "roger",
+   "map": true
   },
   {
    "class": "Fisherman",
@@ -337,7 +346,8 @@
      ]
     }
    ],
-   "id": "jonah"
+   "id": "jonah",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -388,7 +398,8 @@
    "uses": [
     "Hyper Potion"
    ],
-   "id": "athena"
+   "id": "athena",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -450,7 +461,8 @@
      ]
     }
    ],
-   "id": "aidan"
+   "id": "aidan",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -510,7 +522,8 @@
      ]
     }
    ],
-   "id": "camden"
+   "id": "camden",
+   "map": true
   },
   {
    "class": "Black Belt",
@@ -545,7 +558,8 @@
      ]
     }
    ],
-   "id": "koji"
+   "id": "koji",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -605,9 +619,11 @@
      ]
     }
    ],
-   "id": "donny"
+   "id": "donny",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

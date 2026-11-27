@@ -152,7 +152,8 @@
    "id": "captain-s-office-storage-key",
    "name": "Storage Key",
    "hidden": false,
-   "where": "Captain's Office"
+   "where": "Captain's Office",
+   "map": true
   },
   {
    "id": "hidden-floor-rooms-luxury-ball",
@@ -162,7 +163,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-floor-rooms-scanner",
@@ -172,7 +174,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-floor-rooms-tm18",
@@ -182,7 +185,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-floor-rooms-water-stone",
@@ -192,7 +196,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-1-key",
@@ -202,7 +207,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-2-key",
@@ -212,7 +218,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-4-key",
@@ -222,7 +229,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-hidden-floor-rooms-rm-6-key",
@@ -232,37 +240,43 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "room-b1f-tm13",
    "name": "TM13",
    "hidden": false,
-   "where": "Room B1F"
+   "where": "Room B1F",
+   "map": true
   },
   {
    "id": "rooms-2-1f-revive",
    "name": "Revive",
    "hidden": false,
-   "where": "Rooms 2 1F"
+   "where": "Rooms 2 1F",
+   "map": true
   },
   {
    "id": "rooms-2-b1f-dive-ball",
    "name": "Dive Ball",
    "hidden": false,
-   "where": "Rooms 2 B1F"
+   "where": "Rooms 2 B1F",
+   "map": true
   },
   {
    "id": "rooms-1f-harbor-mail",
    "name": "Harbor Mail",
    "hidden": false,
-   "where": "Rooms 1F"
+   "where": "Rooms 1F",
+   "map": true
   },
   {
    "id": "rooms-b1f-escape-rope",
    "name": "Escape Rope",
    "hidden": false,
-   "where": "Rooms B1F"
+   "where": "Rooms B1F",
+   "map": true
   }
  ],
  "gifts": [],
@@ -301,7 +315,8 @@
     }
    ],
    "id": "charlie",
-   "area": "Corridors 1F"
+   "area": "Corridors 1F",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -364,7 +379,8 @@
     }
    ],
    "id": "duncan",
-   "area": "Corridors B1F"
+   "area": "Corridors B1F",
+   "map": true
   },
   {
    "class": "Beauty",
@@ -427,7 +443,8 @@
     }
    ],
    "id": "thalia",
-   "area": "Rooms 1F"
+   "area": "Rooms 1F",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -487,7 +504,8 @@
     }
    ],
    "id": "demetrius",
-   "area": "Rooms 1F"
+   "area": "Rooms 1F",
+   "map": true
   },
   {
    "class": "Young Couple",
@@ -548,7 +566,8 @@
    ],
    "double": true,
    "id": "kira-and-dan",
-   "area": "Rooms 2 1F"
+   "area": "Rooms 2 1F",
+   "map": true
   },
   {
    "class": "Ruin Maniac",
@@ -583,7 +602,8 @@
     }
    ],
    "id": "garrison",
-   "area": "Rooms 2 1F"
+   "area": "Rooms 2 1F",
+   "map": true
   },
   {
    "class": "Tuber",
@@ -619,9 +639,11 @@
     }
    ],
    "id": "jani",
-   "area": "Rooms 2 1F"
+   "area": "Rooms 2 1F",
+   "map": true
   }
  ],
+ "mapCount": 9,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

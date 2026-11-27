@@ -128,67 +128,78 @@
    "id": "2f-ultra-ball",
    "name": "Ultra Ball",
    "hidden": false,
-   "where": "2F"
+   "where": "2F",
+   "map": true
   },
   {
    "id": "3f-super-repel",
    "name": "Super Repel",
    "hidden": false,
-   "where": "3F"
+   "where": "3F",
+   "map": true
   },
   {
    "id": "4f-sea-incense",
    "name": "Sea Incense",
    "hidden": false,
-   "where": "4F"
+   "where": "4F",
+   "map": true
   },
   {
    "id": "5f-lax-incense",
    "name": "Lax Incense",
    "hidden": false,
-   "where": "5F"
+   "where": "5F",
+   "map": true
   },
   {
    "id": "6f-tm30",
    "name": "TM30",
    "hidden": false,
-   "where": "6F"
+   "where": "6F",
+   "map": true
   },
   {
    "id": "exterior-max-potion",
    "name": "Max Potion",
    "hidden": false,
-   "where": "Exterior"
+   "where": "Exterior",
+   "map": true
   },
   {
    "id": "exterior-tm48",
    "name": "TM48",
    "hidden": false,
-   "where": "Exterior"
+   "where": "Exterior",
+   "map": true
   },
   {
    "id": "hidden-exterior-ultra-ball",
    "name": "Ultra Ball",
    "hidden": true,
-   "where": "Exterior"
+   "where": "Exterior",
+   "map": true
   },
   {
    "id": "hidden-exterior-max-ether",
    "name": "Max Ether",
    "hidden": true,
-   "where": "Exterior"
+   "where": "Exterior",
+   "map": true
   },
   {
    "id": "hidden-summit-zinc",
    "name": "Zinc",
    "hidden": true,
-   "where": "Summit"
+   "where": "Summit",
+   "map": true
   },
   {
    "id": "hidden-summit-rare-candy",
    "name": "Rare Candy",
    "hidden": true,
-   "where": "Summit"
+   "where": "Summit",
+   "map": true
   }
  ],
  "gifts": [
@@ -240,7 +251,8 @@
     }
    ],
    "id": "zander",
-   "area": "2F"
+   "area": "2F",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -274,7 +286,8 @@
     }
    ],
    "id": "leah",
-   "area": "2F"
+   "area": "2F",
+   "map": true
   },
   {
    "class": "Young Couple",
@@ -335,7 +348,8 @@
    ],
    "double": true,
    "id": "dez-and-luke",
-   "area": "2F"
+   "area": "2F",
+   "map": true
   },
   {
    "class": "Poké Maniac",
@@ -371,7 +385,8 @@
     }
    ],
    "id": "mark",
-   "area": "2F"
+   "area": "2F",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -455,7 +470,8 @@
     }
    ],
    "id": "william",
-   "area": "3F"
+   "area": "3F",
+   "map": true
   },
   {
    "class": "Pokémon Breeder",
@@ -615,7 +631,8 @@
     }
    ],
    "id": "gabrielle",
-   "area": "3F"
+   "area": "3F",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -701,7 +718,8 @@
     }
    ],
    "id": "kayla",
-   "area": "3F"
+   "area": "3F",
+   "map": true
   },
   {
    "class": "Black Belt",
@@ -806,7 +824,8 @@
     }
    ],
    "id": "cedric",
-   "area": "6F"
+   "area": "6F",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -842,7 +861,8 @@
     }
    ],
    "id": "valerie",
-   "area": "6F"
+   "area": "6F",
+   "map": true
   },
   {
    "class": "Team Aqua",
@@ -878,9 +898,11 @@
     }
    ],
    "id": "grunt-mt-pyre",
-   "area": "Summit"
+   "area": "Summit",
+   "map": true
   }
  ],
+ "mapCount": 7,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

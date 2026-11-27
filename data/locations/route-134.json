@@ -85,13 +85,15 @@
    "id": "outside-carbos",
    "name": "Carbos",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-star-piece",
    "name": "Star Piece",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -129,7 +131,8 @@
      ]
     }
    ],
-   "id": "hudson"
+   "id": "hudson",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -189,7 +192,8 @@
      ]
     }
    ],
-   "id": "laurel"
+   "id": "laurel",
+   "map": true
   },
   {
    "class": "Battle Girl",
@@ -250,7 +254,8 @@
      ]
     }
    ],
-   "id": "reyna"
+   "id": "reyna",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -285,7 +290,8 @@
      ]
     }
    ],
-   "id": "jack"
+   "id": "jack",
+   "map": true
   },
   {
    "class": "Black Belt",
@@ -347,7 +353,8 @@
      ]
     }
    ],
-   "id": "hitoshi"
+   "id": "hitoshi",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -384,7 +391,8 @@
    "uses": [
     "Hyper Potion"
    ],
-   "id": "marley"
+   "id": "marley",
+   "map": true
   },
   {
    "class": "Dragon Tamer",
@@ -419,7 +427,8 @@
      ]
     }
    ],
-   "id": "aaron"
+   "id": "aaron",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -480,7 +489,8 @@
      ]
     }
    ],
-   "id": "alex"
+   "id": "alex",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -542,9 +552,11 @@
      ]
     }
    ],
-   "id": "kelvin"
+   "id": "kelvin",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

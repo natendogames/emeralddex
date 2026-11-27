@@ -16,7 +16,8 @@
    "id": "hidden-outside-ice-heal",
    "name": "Ice Heal",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -84,7 +85,8 @@
     "Hyper Potion"
    ],
    "id": "gerald",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "map": true
   },
   {
    "class": "Kindler",
@@ -120,7 +122,8 @@
     }
    ],
    "id": "cole",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "map": true
   },
   {
    "class": "Kindler",
@@ -156,7 +159,8 @@
     }
    ],
    "id": "axle",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "map": true
   },
   {
    "class": "Battle Girl",
@@ -192,7 +196,8 @@
     }
    ],
    "id": "danielle",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "map": true
   },
   {
    "class": "Kindler",
@@ -485,9 +490,11 @@
     "TM50"
    ],
    "id": "flannery",
-   "area": "Gym 1F"
+   "area": "Gym 1F",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

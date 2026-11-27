@@ -7,7 +7,8 @@
    "id": "hidden-outside-nugget",
    "name": "Nugget",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -23,6 +24,7 @@
   }
  ],
  "trainers": [],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

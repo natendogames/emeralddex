@@ -50,13 +50,15 @@
    "id": "outside-ether",
    "name": "Ether",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-repel",
    "name": "Repel",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-hp-up",
@@ -66,25 +68,29 @@
    "later": true,
    "need": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)",
    "after": "mauville-city",
-   "stage": 16.5
+   "stage": 16.5,
+   "map": true
   },
   {
    "id": "outside-x-special",
    "name": "X Special",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-potion",
    "name": "Potion",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-super-potion",
    "name": "Super Potion",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-blackglasses",
@@ -94,7 +100,8 @@
    "later": true,
    "need": "Rock Smash (HM06 from the Rock Smash Guy in Mauville City, used with the Dynamo Badge)",
    "after": "mauville-city",
-   "stage": 16.5
+   "stage": 16.5,
+   "map": true
   }
  ],
  "gifts": [
@@ -137,7 +144,8 @@
      ]
     }
    ],
-   "id": "joey"
+   "id": "joey",
+   "map": true
   },
   {
    "class": "Bug Catcher",
@@ -189,7 +197,8 @@
      ]
     }
    ],
-   "id": "jose"
+   "id": "jose",
+   "map": true
   },
   {
    "class": "School Kid",
@@ -219,7 +228,8 @@
      ]
     }
    ],
-   "id": "karen"
+   "id": "karen",
+   "map": true
   },
   {
    "class": "Hiker",
@@ -248,7 +258,8 @@
      ]
     }
    ],
-   "id": "clark"
+   "id": "clark",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -300,7 +311,8 @@
      ]
     }
    ],
-   "id": "johnson"
+   "id": "johnson",
+   "map": true
   },
   {
    "class": "Hiker",
@@ -350,7 +362,8 @@
      ]
     }
    ],
-   "id": "devan"
+   "id": "devan",
+   "map": true
   },
   {
    "class": "Lady",
@@ -405,7 +418,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "sarah"
+   "id": "sarah",
+   "map": true
   },
   {
    "class": "School Kid",
@@ -430,7 +444,8 @@
      ]
     }
    ],
-   "id": "jerry"
+   "id": "jerry",
+   "map": true
   },
   {
    "class": "Lass",
@@ -459,7 +474,8 @@
      ]
     }
    ],
-   "id": "janice"
+   "id": "janice",
+   "map": true
   },
   {
    "class": "Rich Boy",
@@ -506,9 +522,11 @@
      ]
     }
    ],
-   "id": "dawson"
+   "id": "dawson",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

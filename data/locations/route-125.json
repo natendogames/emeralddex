@@ -78,7 +78,8 @@
    "id": "outside-big-pearl",
    "name": "Big Pearl",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -117,7 +118,8 @@
      ]
     }
    ],
-   "id": "nolen"
+   "id": "nolen",
+   "map": true
   },
   {
    "class": "Sr. and Jr.",
@@ -179,7 +181,8 @@
     }
    ],
    "double": true,
-   "id": "kim-and-iris"
+   "id": "kim-and-iris",
+   "map": true
   },
   {
    "class": "Sailor",
@@ -240,7 +243,8 @@
      ]
     }
    ],
-   "id": "ernest"
+   "id": "ernest",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -275,7 +279,8 @@
      ]
     }
    ],
-   "id": "sharon"
+   "id": "sharon",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -309,7 +314,8 @@
      ]
     }
    ],
-   "id": "tanya"
+   "id": "tanya",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -369,7 +375,8 @@
      ]
     }
    ],
-   "id": "presley"
+   "id": "presley",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -403,7 +410,8 @@
      ]
     }
    ],
-   "id": "stan"
+   "id": "stan",
+   "map": true
   },
   {
    "class": "Expert",
@@ -464,9 +472,11 @@
      ]
     }
    ],
-   "id": "auron"
+   "id": "auron",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

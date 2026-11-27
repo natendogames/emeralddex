@@ -136,7 +136,8 @@
    "id": "outside-dire-hit",
    "name": "Dire Hit",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-rare-candy",
@@ -146,49 +147,57 @@
    "later": true,
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "outside-elixir",
    "name": "Elixir",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-revive",
    "name": "Revive",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-great-ball",
    "name": "Great Ball",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-full-heal",
    "name": "Full Heal",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-trick-house-end-nugget",
    "name": "Nugget",
    "hidden": true,
-   "where": "Trick House End"
+   "where": "Trick House End",
+   "map": true
   },
   {
    "id": "trick-house-puzzle-1-orange-mail",
    "name": "Orange Mail",
    "hidden": false,
-   "where": "Trick House Puzzle 1"
+   "where": "Trick House Puzzle 1",
+   "map": true
   },
   {
    "id": "trick-house-puzzle-2-wave-mail",
@@ -198,7 +207,8 @@
    "later": true,
    "need": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
    "after": "mauville-city",
-   "stage": 16.5
+   "stage": 16.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-2-harbor-mail",
@@ -208,7 +218,8 @@
    "later": true,
    "need": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
    "after": "mauville-city",
-   "stage": 16.5
+   "stage": 16.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-3-wood-mail",
@@ -218,7 +229,8 @@
    "later": true,
    "need": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-3-shadow-mail",
@@ -228,7 +240,8 @@
    "later": true,
    "need": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-4-mech-mail",
@@ -238,7 +251,8 @@
    "later": true,
    "need": "the Balance Badge (the Trick Master sets this puzzle once you have it)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-6-glitter-mail",
@@ -248,7 +262,8 @@
    "later": true,
    "need": "the Mind Badge (the Trick Master sets this puzzle once you have it)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-7-tropic-mail",
@@ -258,7 +273,8 @@
    "later": true,
    "need": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
    "after": "sky-pillar",
-   "stage": 64.5
+   "stage": 64.5,
+   "map": true
   },
   {
    "id": "trick-house-puzzle-8-bead-mail",
@@ -268,7 +284,8 @@
    "later": true,
    "need": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
    "after": "sky-pillar",
-   "stage": 64.5
+   "stage": 64.5,
+   "map": true
   }
  ],
  "gifts": [
@@ -381,7 +398,8 @@
     }
    ],
    "id": "isabel",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Pokéfan",
@@ -442,7 +460,8 @@
     }
    ],
    "id": "kaleb",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -520,7 +539,8 @@
     }
    ],
    "id": "jasmine",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -589,7 +609,8 @@
     }
    ],
    "id": "jacob",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -625,7 +646,8 @@
     }
    ],
    "id": "benjamin",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -686,7 +708,8 @@
     }
    ],
    "id": "timmy",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -721,7 +744,8 @@
     }
    ],
    "id": "alyssa",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -743,7 +767,8 @@
     }
    ],
    "id": "edward",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Collector",
@@ -803,7 +828,8 @@
     }
    ],
    "id": "edwin",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -864,7 +890,8 @@
     }
    ],
    "id": "anthony",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Guitarist",
@@ -919,7 +946,8 @@
     }
    ],
    "id": "joseph",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Fisherman",
@@ -1014,7 +1042,8 @@
     }
    ],
    "id": "dale",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -1050,7 +1079,8 @@
     }
    ],
    "id": "abigail",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -1072,7 +1102,8 @@
     }
    ],
    "id": "jaclyn",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Rival",
@@ -1612,7 +1643,8 @@
     }
    ],
    "id": "sally",
-   "area": "Trick House Puzzle 1"
+   "area": "Trick House Puzzle 1",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -1671,7 +1703,8 @@
     }
    ],
    "id": "eddie",
-   "area": "Trick House Puzzle 1"
+   "area": "Trick House Puzzle 1",
+   "map": true
   },
   {
    "class": "Lass",
@@ -1757,7 +1790,8 @@
     }
    ],
    "id": "robin",
-   "area": "Trick House Puzzle 1"
+   "area": "Trick House Puzzle 1",
+   "map": true
   },
   {
    "class": "School Kid",
@@ -1794,7 +1828,8 @@
    "area": "Trick House Puzzle 2",
    "stage": "mauville-city",
    "later": true,
-   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "School Kid",
@@ -1850,7 +1885,8 @@
    "area": "Trick House Puzzle 2",
    "stage": "mauville-city",
    "later": true,
-   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "School Kid",
@@ -1931,7 +1967,8 @@
    "area": "Trick House Puzzle 2",
    "stage": "mauville-city",
    "later": true,
-   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Dynamo Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Camper",
@@ -1970,7 +2007,8 @@
    "area": "Trick House Puzzle 3",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Hiker",
@@ -2061,7 +2099,8 @@
    "area": "Trick House Puzzle 3",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Picnicker",
@@ -2124,7 +2163,8 @@
    "area": "Trick House Puzzle 3",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Heat Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Battle Girl",
@@ -2162,7 +2202,8 @@
    "area": "Trick House Puzzle 4",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Battle Girl",
@@ -2201,7 +2242,8 @@
    "area": "Trick House Puzzle 4",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Black Belt",
@@ -2267,7 +2309,8 @@
    "area": "Trick House Puzzle 4",
    "stage": "lavaridge-town",
    "later": true,
-   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Balance Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Pokémon Ranger",
@@ -2308,7 +2351,8 @@
    "area": "Trick House Puzzle 6",
    "stage": "mossdeep-city",
    "later": true,
-   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Pokémon Ranger",
@@ -2374,7 +2418,8 @@
    "area": "Trick House Puzzle 6",
    "stage": "mossdeep-city",
    "later": true,
-   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -2463,7 +2508,8 @@
    "area": "Trick House Puzzle 6",
    "stage": "mossdeep-city",
    "later": true,
-   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Mind Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -2501,7 +2547,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Gentleman",
@@ -2539,7 +2586,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -2602,7 +2650,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -2666,7 +2715,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -2731,7 +2781,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -2794,7 +2845,8 @@
    "area": "Trick House Puzzle 7",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -2861,7 +2913,8 @@
    "area": "Trick House Puzzle 8",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -2953,7 +3006,8 @@
    "area": "Trick House Puzzle 8",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -3019,9 +3073,11 @@
    "area": "Trick House Puzzle 8",
    "stage": "sky-pillar",
    "later": true,
-   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)"
+   "reach": "the Rain Badge (the Trick Master sets this puzzle once you have it)",
+   "map": true
   }
  ],
+ "mapCount": 9,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

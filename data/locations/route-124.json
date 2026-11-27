@@ -116,7 +116,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "outside-blue-shard",
@@ -126,7 +127,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "outside-yellow-shard",
@@ -136,7 +138,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-carbos",
@@ -146,7 +149,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-green-shard",
@@ -156,7 +160,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-pearl",
@@ -166,7 +171,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-big-pearl",
@@ -176,7 +182,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-heart-scale",
@@ -186,7 +193,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-calcium",
@@ -196,7 +204,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   },
   {
    "id": "hidden-underwater-heart-scale-2",
@@ -206,7 +215,8 @@
    "later": true,
    "need": "Dive (HM08 from Steven in Mossdeep City, after the Mind Badge)",
    "after": "mossdeep-city",
-   "stage": 51.5
+   "stage": 51.5,
+   "map": true
   }
  ],
  "gifts": [],
@@ -246,7 +256,8 @@
     }
    ],
    "id": "grace",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -282,7 +293,8 @@
     }
    ],
    "id": "declan",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -345,7 +357,8 @@
     }
    ],
    "id": "spencer",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Sis and Bro",
@@ -408,7 +421,8 @@
    ],
    "double": true,
    "id": "lila-and-roy",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -444,7 +458,8 @@
     }
    ],
    "id": "jenny",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -508,7 +523,8 @@
     }
    ],
    "id": "chad",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -543,7 +559,8 @@
     }
    ],
    "id": "roland",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -578,9 +595,11 @@
     }
    ],
    "id": "isabella",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

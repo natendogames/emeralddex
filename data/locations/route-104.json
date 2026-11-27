@@ -82,13 +82,15 @@
    "later": true,
    "need": "Surf (HM03 from Wally's father after you beat Norman in Petalburg City)",
    "after": "lavaridge-town",
-   "stage": 29.5
+   "stage": 29.5,
+   "map": true
   },
   {
    "id": "outside-pok-ball",
    "name": "Poké Ball",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-x-accuracy",
@@ -98,43 +100,50 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true
   },
   {
    "id": "outside-potion",
    "name": "Potion",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-super-potion",
    "name": "Super Potion",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-potion",
    "name": "Potion",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-antidote",
    "name": "Antidote",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-heart-scale",
    "name": "Heart Scale",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -212,7 +221,8 @@
      ]
     }
    ],
-   "id": "billy"
+   "id": "billy",
+   "map": true
   },
   {
    "class": "Lady",
@@ -245,7 +255,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "cindy"
+   "id": "cindy",
+   "map": true
   },
   {
    "class": "Rich Boy",
@@ -278,7 +289,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "winston"
+   "id": "winston",
+   "map": true
   },
   {
    "class": "Lass",
@@ -321,7 +333,8 @@
      ]
     }
    ],
-   "id": "haley"
+   "id": "haley",
+   "map": true
   },
   {
    "class": "Twins",
@@ -364,7 +377,8 @@
     }
    ],
    "double": true,
-   "id": "gina-and-mia"
+   "id": "gina-and-mia",
+   "map": true
   },
   {
    "class": "Fisherman",
@@ -408,7 +422,8 @@
      ]
     }
    ],
-   "id": "ivan"
+   "id": "ivan",
+   "map": true
   },
   {
    "class": "Fisherman",
@@ -428,9 +443,11 @@
      ]
     }
    ],
-   "id": "darian"
+   "id": "darian",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

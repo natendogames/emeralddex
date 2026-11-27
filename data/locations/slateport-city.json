@@ -186,9 +186,11 @@
     }
    ],
    "id": "grunt-museum",
-   "area": "Oceanic Museum 2F"
+   "area": "Oceanic Museum 2F",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

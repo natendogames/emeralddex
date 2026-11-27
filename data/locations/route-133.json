@@ -85,19 +85,22 @@
    "id": "outside-big-pearl",
    "name": "Big Pearl",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-star-piece",
    "name": "Star Piece",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-max-revive",
    "name": "Max Revive",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -135,7 +138,8 @@
      ]
     }
    ],
-   "id": "franklin"
+   "id": "franklin",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -170,7 +174,8 @@
      ]
     }
    ],
-   "id": "debra"
+   "id": "debra",
+   "map": true
   },
   {
    "class": "Expert",
@@ -230,7 +235,8 @@
      ]
     }
    ],
-   "id": "mollie"
+   "id": "mollie",
+   "map": true
   },
   {
    "class": "Expert",
@@ -292,7 +298,8 @@
      ]
     }
    ],
-   "id": "conor"
+   "id": "conor",
+   "map": true
   },
   {
    "class": "Cool Trainer",
@@ -357,7 +364,8 @@
    "uses": [
     "Full Restore"
    ],
-   "id": "warren"
+   "id": "warren",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -417,7 +425,8 @@
      ]
     }
    ],
-   "id": "linda"
+   "id": "linda",
+   "map": true
   },
   {
    "class": "Bird Keeper",
@@ -451,9 +460,11 @@
      ]
     }
    ],
-   "id": "beck"
+   "id": "beck",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

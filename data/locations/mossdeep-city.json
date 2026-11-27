@@ -97,7 +97,8 @@
    "id": "outside-net-ball",
    "name": "Net Ball",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -176,7 +177,8 @@
     }
    ],
    "id": "clifford",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -211,7 +213,8 @@
     }
    ],
    "id": "macey",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -246,7 +249,8 @@
     }
    ],
    "id": "samantha",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -281,7 +285,8 @@
     }
    ],
    "id": "kathleen",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -316,7 +321,8 @@
     }
    ],
    "id": "nicholas",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -351,7 +357,8 @@
     }
    ],
    "id": "blake",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -386,7 +393,8 @@
     }
    ],
    "id": "virgil",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Gentleman",
@@ -420,7 +428,8 @@
     }
    ],
    "id": "nate",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Hex Maniac",
@@ -455,7 +464,8 @@
     }
    ],
    "id": "sylvia",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -489,7 +499,8 @@
     }
    ],
    "id": "hannah",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -524,7 +535,8 @@
     }
    ],
    "id": "maura",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Psychic",
@@ -558,7 +570,8 @@
     }
    ],
    "id": "preston",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Leader",
@@ -681,7 +694,8 @@
     "TM04"
    ],
    "id": "tate-and-liza",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -716,7 +730,8 @@
     }
    ],
    "id": "grunt-space-center",
-   "area": "Space Center 1F"
+   "area": "Space Center 1F",
+   "map": true
   },
   {
    "class": "Magma Leader",
@@ -895,6 +910,7 @@
    "area": "Space Center 2F"
   }
  ],
+ "mapCount": 3,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

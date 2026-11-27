@@ -61,7 +61,8 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true
   },
   {
    "id": "outside-x-attack",
@@ -71,25 +72,29 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true
   },
   {
    "id": "outside-ether",
    "name": "Ether",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "outside-parlyz-heal",
    "name": "Parlyz Heal",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-potion",
    "name": "Potion",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-tinymushroom",
@@ -99,7 +104,8 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true
   },
   {
    "id": "hidden-outside-tinymushroom-2",
@@ -109,13 +115,15 @@
    "later": true,
    "need": "Cut (HM01 from the Cutter's House in Rustboro City, used with the Stone Badge)",
    "after": "rustboro-city",
-   "stage": 8.5
+   "stage": 8.5,
+   "map": true
   },
   {
    "id": "hidden-outside-pok-ball",
    "name": "Poké Ball",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -211,7 +219,8 @@
      ]
     }
    ],
-   "id": "lyle"
+   "id": "lyle",
+   "map": true
   },
   {
    "class": "Team Aqua",
@@ -295,9 +304,11 @@
      ]
     }
    ],
-   "id": "james"
+   "id": "james",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

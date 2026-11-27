@@ -29,19 +29,22 @@
    "id": "outside-burn-heal",
    "name": "Burn Heal",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-full-heal",
    "name": "Full Heal",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   },
   {
    "id": "hidden-outside-great-ball",
    "name": "Great Ball",
    "hidden": true,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [],
@@ -103,7 +106,8 @@
      ]
     }
    ],
-   "id": "ethan"
+   "id": "ethan",
+   "map": true
   },
   {
    "class": "Picnicker",
@@ -137,7 +141,8 @@
      ]
     }
    ],
-   "id": "autumn"
+   "id": "autumn",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -171,7 +176,8 @@
      ]
     }
    ],
-   "id": "julio"
+   "id": "julio",
+   "map": true
   },
   {
    "class": "Picnicker",
@@ -255,7 +261,8 @@
      ]
     }
    ],
-   "id": "diana"
+   "id": "diana",
+   "map": true
   },
   {
    "class": "Team Magma",
@@ -315,7 +322,8 @@
      ]
     }
    ],
-   "id": "grunt-jagged-pass"
+   "id": "grunt-jagged-pass",
+   "map": true
   },
   {
    "class": "Hiker",
@@ -377,9 +385,11 @@
      ]
     }
    ],
-   "id": "eric"
+   "id": "eric",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

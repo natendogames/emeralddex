@@ -1177,6 +1177,10 @@ region_maps = {'Hoenn': cells}
 # ---------- write ----------
 os.makedirs(os.path.join(OUT, 'locations'), exist_ok=True)
 for f in glob.glob(os.path.join(OUT, 'locations', '*.json')): os.remove(f)
+# Drawn maps with every item's spot (data/itemmaps) for the app's "Show on map" button; marks those items map: true
+import mapdraw
+_tpos = {k: (v[0], [p[:2] for l in v[1] for p in scripts_at.positions(v[0], label=l) if p[3] == 'object_events']) for k, v in trainer_src.items()}
+print('item maps', mapdraw.write(world, item_pos, locs, OUT, {n: (map_loc(n), area_name(n)) for n in maps if not map_skipped(n)}, _tpos))
 for loc in locs.values():
     loc.setdefault('trainers', [])
     loc['verified'] = True

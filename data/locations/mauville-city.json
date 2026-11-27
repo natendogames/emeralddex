@@ -7,7 +7,8 @@
    "id": "outside-x-speed",
    "name": "X Speed",
    "hidden": false,
-   "where": "Outside"
+   "where": "Outside",
+   "map": true
   }
  ],
  "gifts": [
@@ -95,7 +96,8 @@
     }
    ],
    "id": "wally-mauville",
-   "area": "Outside"
+   "area": "Outside",
+   "map": true
   },
   {
    "class": "Battle Girl",
@@ -157,7 +159,8 @@
     }
    ],
    "id": "vivian",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Guitarist",
@@ -213,7 +216,8 @@
     }
    ],
    "id": "kirk",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Youngster",
@@ -274,7 +278,8 @@
     }
    ],
    "id": "ben",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Bug Maniac",
@@ -327,7 +332,8 @@
     }
    ],
    "id": "angelo",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Guitarist",
@@ -389,7 +395,8 @@
     }
    ],
    "id": "shawn",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   },
   {
    "class": "Leader",
@@ -512,9 +519,11 @@
     "TM34"
    ],
    "id": "wattson",
-   "area": "Gym"
+   "area": "Gym",
+   "map": true
   }
  ],
+ "mapCount": 2,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

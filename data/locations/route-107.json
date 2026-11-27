@@ -127,7 +127,8 @@
      ]
     }
    ],
-   "id": "denise"
+   "id": "denise",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -161,7 +162,8 @@
      ]
     }
    ],
-   "id": "tony"
+   "id": "tony",
+   "map": true
   },
   {
    "class": "Sis and Bro",
@@ -223,7 +225,8 @@
     }
    ],
    "double": true,
-   "id": "lisa-and-ray"
+   "id": "lisa-and-ray",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -311,7 +314,8 @@
      ]
     }
    ],
-   "id": "darrin"
+   "id": "darrin",
+   "map": true
   },
   {
    "class": "Triathlete",
@@ -345,7 +349,8 @@
      ]
     }
    ],
-   "id": "camron"
+   "id": "camron",
+   "map": true
   },
   {
    "class": "Swimmer",
@@ -379,9 +384,11 @@
      ]
     }
    ],
-   "id": "beth"
+   "id": "beth",
+   "map": true
   }
  ],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"

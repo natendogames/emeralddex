@@ -64,35 +64,41 @@
    "id": "inside-ultra-ball",
    "name": "Ultra Ball",
    "hidden": false,
-   "where": "Inside"
+   "where": "Inside",
+   "map": true
   },
   {
    "id": "inside-escape-rope",
    "name": "Escape Rope",
    "hidden": false,
-   "where": "Inside"
+   "where": "Inside",
+   "map": true
   },
   {
    "id": "inside-thunderstone",
    "name": "Thunderstone",
    "hidden": false,
-   "where": "Inside"
+   "where": "Inside",
+   "map": true
   },
   {
    "id": "inside-full-heal",
    "name": "Full Heal",
    "hidden": false,
-   "where": "Inside"
+   "where": "Inside",
+   "map": true
   },
   {
    "id": "inside-parlyz-heal",
    "name": "Parlyz Heal",
    "hidden": false,
-   "where": "Inside"
+   "where": "Inside",
+   "map": true
   }
  ],
  "gifts": [],
  "trainers": [],
+ "mapCount": 1,
  "verified": true,
  "sources": [
   "https://github.com/pret/pokeemerald"
