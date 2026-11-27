@@ -53,13 +53,21 @@
    "id": "mon-devon-corp-2f-lileep-lv-20",
    "name": "Lileep (Lv 20)",
    "from": "Devon scientist (revives the Root Fossil)",
-   "where": "Devon Corp 2F"
+   "where": "Devon Corp 2F",
+   "later": true,
+   "need": "After you bring a fossil from Mirage Tower",
+   "after": "mirage-tower",
+   "stage": 30.5
   },
   {
    "id": "mon-devon-corp-2f-anorith-lv-20",
    "name": "Anorith (Lv 20)",
    "from": "Devon scientist (revives the Claw Fossil)",
-   "where": "Devon Corp 2F"
+   "where": "Devon Corp 2F",
+   "later": true,
+   "need": "After you bring a fossil from Mirage Tower",
+   "after": "mirage-tower",
+   "stage": 30.5
   },
   {
    "id": "item-devon-corp-3f-letter",

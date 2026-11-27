@@ -36,19 +36,31 @@
    "id": "mon-professor-birch-s-lab-cyndaquil-lv-5",
    "name": "Cyndaquil (Lv 5)",
    "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
-   "where": "Professor Birch's Lab"
+   "where": "Professor Birch's Lab",
+   "later": true,
+   "need": "After the Hall of Fame",
+   "after": "pokemon-league",
+   "stage": 70.5
   },
   {
    "id": "mon-professor-birch-s-lab-totodile-lv-5",
    "name": "Totodile (Lv 5)",
    "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
-   "where": "Professor Birch's Lab"
+   "where": "Professor Birch's Lab",
+   "later": true,
+   "need": "After the Hall of Fame",
+   "after": "pokemon-league",
+   "stage": 70.5
   },
   {
    "id": "mon-professor-birch-s-lab-chikorita-lv-5",
    "name": "Chikorita (Lv 5)",
    "from": "Professor Birch (complete the Hoenn Pokédex; choose one)",
-   "where": "Professor Birch's Lab"
+   "where": "Professor Birch's Lab",
+   "later": true,
+   "need": "After the Hall of Fame",
+   "after": "pokemon-league",
+   "stage": 70.5
   },
   {
    "id": "item-professor-birch-s-lab-pok-ball-5",

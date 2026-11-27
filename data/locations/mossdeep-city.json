@@ -135,7 +135,11 @@
    "id": "mon-steven-s-house-beldum-lv-5",
    "name": "Beldum (Lv 5)",
    "from": "Steven's house (after you enter the Hall of Fame)",
-   "where": "Steven's House"
+   "where": "Steven's House",
+   "later": true,
+   "need": "After the Hall of Fame",
+   "after": "pokemon-league",
+   "stage": 70.5
   }
  ],
  "trainers": [
